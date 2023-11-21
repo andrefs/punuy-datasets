@@ -1,3 +1,4 @@
 
 import ragm287 from './datasets/ragm287.json';
-export default ragm287;
+import { DatasetProfile } from './src/lib/types';
+export default ragm287 as DatasetProfile;

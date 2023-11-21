@@ -1,3 +1,4 @@
 
 import rg65 from './datasets/rg65.json';
-export default rg65;
+import { DatasetProfile } from './src/lib/types';
+export default rg65 as DatasetProfile;

@@ -1,3 +1,4 @@
 
 import yp130 from './datasets/yp130.json'
-export default yp130;
+import { DatasetProfile } from './src/lib/types'
+export default yp130 as DatasetProfile;

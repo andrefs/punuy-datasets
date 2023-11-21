@@ -1,3 +1,4 @@
 
 import mm907 from './datasets/mm907.json';
-export default mm907;
+import { DatasetProfile } from './src/lib/types';
+export default mm907 as DatasetProfile;

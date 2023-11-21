@@ -1,6 +1,7 @@
 {
 	"id": "yp130",
 	"metadata": {
+		"name": "YP-130",
 		"urls": [],
 		"papers": [
 			{
@@ -13,11 +14,14 @@
 		"downloadUrls": [
 			"http://david.wardpowers.info/Research/AI/papers/200601-GWC-130verbpairs.txt"
 		],
-		"measureType": "similarity"
+		"measureTypes": [
+			"similarity"
+		]
 	},
 	"partitions": [
 		{
 			"id": "verbpairs",
+			"measureType": "similarity",
 			"data": [
 				{
 					"word1": "brag",

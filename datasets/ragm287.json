@@ -1,6 +1,7 @@
 {
 	"id": "",
 	"metadata": {
+		"name": "MTurk-771",
 		"urls": [
 			"http://www.kiraradinsky.com/Datasets.html"
 		],
@@ -15,7 +16,9 @@
 		"downloadUrls": [
 			"http://www.kiraradinsky.com/files/Mtruk.csv"
 		],
-		"measureType": "relatedness"
+		"measureTypes": [
+			"relatedness"
+		]
 	},
 	"partitions": [
 		{
