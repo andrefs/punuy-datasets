@@ -2,6 +2,8 @@
 export interface DatasetProfile {
   /**
    * An identifier for the dataset
+   *
+   * @minLength 3
    */
   id: string,
 
