@@ -4,7 +4,6 @@
   "description": "",
   "main": "index.ts",
   "scripts": {
-    "//build": "typescript-json-schema --required --id 'https://andrefs.com/schemas/2023/SemMeasures' -o schema.json src/lib/types.ts 'DatasetProfile' ./src/scripts/compile-schema",
     "build": "./src/scripts/compile-schema",
     "test": "./src/scripts/validate"
   },
