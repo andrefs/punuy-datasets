@@ -23,6 +23,7 @@
 	"partitions": [
 		{
 			"id": "mturk",
+			"measureType": "relatedness",
 			"data": [
 				{
 					"word1": "episcopal",

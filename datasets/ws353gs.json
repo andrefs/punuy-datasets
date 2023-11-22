@@ -1,6 +1,7 @@
 {
   "id": "ws353gs",
   "metadata": {
+    "name": "WordSim-353 Gold Standard",
     "urls": [
       "http://alfonseca.org/eng/research/wordsim353.html"
     ],
