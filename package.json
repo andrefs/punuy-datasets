@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "./src/scripts/compile-schema",
+    "test": "./src/scripts/validate"
   },
   "repository": {
     "type": "git",
