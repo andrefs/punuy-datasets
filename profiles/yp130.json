@@ -14,12 +14,18 @@
     "downloadUrls": [
       "http://david.wardpowers.info/Research/AI/papers/200601-GWC-130verbpairs.txt"
     ],
-    "measureTypes": ["similarity"]
+    "measureTypes": [
+      "similarity"
+    ]
   },
   "partitions": [
     {
       "id": "verbpairs",
       "measureType": "similarity",
+      "interval": {
+        "min": 0,
+        "max": 4
+      },
       "data": [
         {
           "word1": "brag",
@@ -674,5 +680,5 @@
       ]
     }
   ],
-  "originalInstructions": ""
+  "originalInstructions": "Indicate how strongly these words are related in meaning using integers from 0 to 4. The following are given as examples of kinds of descriptions that might apply to each number, but you must give your own judgement and if you think something falls in between two of these categories you must push it up or down (no halves or decimals).\n0: not at all related\n1: vaguely related\n2: indirectly related\n3: strongly related\n4: inseparably related\n"
 }
