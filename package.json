@@ -2,7 +2,7 @@
   "name": "punuy-datasets",
   "version": "0.2.1",
   "description": "",
-  "main": "index.ts",
+  "main": "src/index.ts",
   "scripts": {
     "build": "./src/scripts/compile-schema",
     "preversion": "npm run lint",

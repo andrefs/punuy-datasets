@@ -8,7 +8,8 @@ import mturk771 from "./datasets/mturk771";
 import rg65 from "./datasets/rg65";
 import srw2034 from "./datasets/srw2034";
 import ws353 from "./datasets/ws353";
-import ws353gs from "./datasets/ws353gs";
+import ws353Rel from "./datasets/ws353Rel";
+import ws353Sim from "./datasets/ws353Sim";
 import yp130 from "./datasets/yp130";
 import ps65 from "./datasets/ps65";
 
@@ -23,7 +24,8 @@ export {
   rg65,
   srw2034,
   ws353,
-  ws353gs,
+  ws353Sim,
+  ws353Rel,
   yp130,
   ps65,
 };
