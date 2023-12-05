@@ -4,5 +4,5 @@ ajv \
   --spec draft7 \
   -c ajv-formats \
   -s schema.json \
-  -d  "datasets/*.json"
+  -d  "profiles/*.json"
 

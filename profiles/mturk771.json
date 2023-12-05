@@ -1,5 +1,5 @@
 {
-  "id": "ragm287",
+  "id": "mturk771",
   "metadata": {
     "name": "MTurk-771",
     "urls": ["http://www.kiraradinsky.com/Datasets.html"],
@@ -18,6 +18,10 @@
     {
       "id": "mturk",
       "measureType": "relatedness",
+      "interval": {
+        "min": 1,
+        "max": 5
+      },
       "data": [
         {
           "word1": "episcopal",

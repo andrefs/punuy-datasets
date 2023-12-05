@@ -4,7 +4,7 @@ import mayoSRS from "./datasets/mayoSRS";
 import minimayoSRS from "./datasets/minimayoSRS";
 import umnsrsSimMod from "./datasets/umnsrsSimMod";
 import umnsrsRelMod from "./datasets/umnsrsRelMod";
-import ragm287 from "./datasets/ragm287";
+import mturk771 from "./datasets/mturk771";
 import rg65 from "./datasets/rg65";
 import srw2034 from "./datasets/srw2034";
 import ws353 from "./datasets/ws353";
@@ -19,7 +19,7 @@ export {
   minimayoSRS,
   umnsrsSimMod,
   umnsrsRelMod,
-  ragm287,
+  mturk771,
   rg65,
   srw2034,
   ws353,
