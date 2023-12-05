@@ -24,6 +24,10 @@
     {
       "id": "physicians",
       "measureType": "relatedness",
+      "interval": {
+        "min": 1,
+        "max": 4
+      },
       "data": [
         {
           "value": 4,
@@ -175,6 +179,10 @@
     {
       "id": "coders",
       "measureType": "relatedness",
+      "interval": {
+        "min": 1,
+        "max": 4
+      },
       "data": [
         {
           "value": 4,

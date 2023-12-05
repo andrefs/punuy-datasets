@@ -24,6 +24,10 @@
     {
       "id": "mean",
       "measureType": "relatedness",
+      "interval": {
+        "min": 1,
+        "max": 10
+      },
       "data": [
         {
           "value": 6.69,

@@ -24,6 +24,10 @@
     {
       "id": "UMNSRS_similarity_mod449_word2vec.csv",
       "measureType": "similarity",
+      "interval": {
+        "min": 0,
+        "max": 1600
+      },
       "data": [
         {
           "value": 1067,
