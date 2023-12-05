@@ -12,7 +12,7 @@
     "version": "npm run format && git add -A src",
     "postversion": "git push && git push --tags && gh release create v$npm_package_version --title v$npm_package_version --generate-notes",
     "lint": "eslint --ignore-path .eslintignore --ext .js,.ts .",
-    "format": "NODE_OPTIONS=--max-old-space-size=4096 prettier --ignore-path .gitignore --write \"**/*.+(js|ts|json)\"",
+    "format": "NODE_OPTIONS=--max-old-space-size=4096 prettier --write \"**/*.+(js|ts|json)\"",
     "prepare": "npm run build",
     "prepublishOnly": "npm test",
     "test": "./src/scripts/validate"
