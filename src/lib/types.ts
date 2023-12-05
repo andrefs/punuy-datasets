@@ -90,12 +90,12 @@ interface Partition {
    */
   measureType: "similarity" | "relatedness";
   /**
-    * The interval of the semantic measure values
-  */
+   * The interval of the semantic measure values
+   */
   interval: {
-    low: number;
-    high: number;
-  },
+    min: number;
+    max: number;
+  };
   /**
    * The data for the partition
    */
@@ -113,13 +113,13 @@ type PartitionData = {
    */
   word2: string;
 } & (
-    | {
+  | {
       /**
        * The averaged numeric value of the semantic measure for the pair
        */
       value: number;
     }
-    | {
+  | {
       /**
        * The individual numeric values of the semantic measure for the pair
        *
@@ -127,4 +127,4 @@ type PartitionData = {
        */
       values: number[];
     }
-  );
+);
