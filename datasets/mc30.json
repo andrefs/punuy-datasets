@@ -11,9 +11,7 @@
     "date": "1991",
     "description": "",
     "downloadUrls": [],
-    "measureTypes": [
-      "similarity"
-    ]
+    "measureTypes": ["similarity"]
   },
   "partitions": [
     {
@@ -43,7 +41,7 @@
         {
           "word1": "coast",
           "word2": "shore",
-          "value": 3.70
+          "value": 3.7
         },
         {
           "word1": "asylum",
@@ -53,7 +51,7 @@
         {
           "word1": "magician",
           "word2": "wizard",
-          "value": 3.50
+          "value": 3.5
         },
         {
           "word1": "midday",
@@ -108,7 +106,7 @@
         {
           "word1": "monk",
           "word2": "oracle",
-          "value": 1.10
+          "value": 1.1
         },
         {
           "word1": "cemetery",

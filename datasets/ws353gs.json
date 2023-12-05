@@ -2,9 +2,7 @@
   "id": "ws353gs",
   "metadata": {
     "name": "WordSim-353 Gold Standard",
-    "urls": [
-      "http://alfonseca.org/eng/research/wordsim353.html"
-    ],
+    "urls": ["http://alfonseca.org/eng/research/wordsim353.html"],
     "papers": [
       {
         "title": "A Study on Similarity and Relatedness Using Distributional and WordNet-based Approaches",
@@ -13,13 +11,8 @@
     ],
     "date": "2009",
     "description": "Same content as WS353, but partitioned into a similarity subset and a relatedness subset",
-    "downloadUrls": [
-      "http://alfonseca.org/pubs/ws353simrel.tar.gz"
-    ],
-    "measureTypes": [
-      "similarity",
-      "relatedness"
-    ]
+    "downloadUrls": ["http://alfonseca.org/pubs/ws353simrel.tar.gz"],
+    "measureTypes": ["similarity", "relatedness"]
   },
   "partitions": [
     {
@@ -34,7 +27,7 @@
         {
           "word1": "tiger",
           "word2": "tiger",
-          "value": 10.00
+          "value": 10.0
         },
         {
           "word1": "plane",
@@ -69,7 +62,7 @@
         {
           "word1": "doctor",
           "word2": "nurse",
-          "value": 7.00
+          "value": 7.0
         },
         {
           "word1": "professor",
@@ -134,7 +127,7 @@
         {
           "word1": "Arafat",
           "word2": "Jackson",
-          "value": 2.50
+          "value": 2.5
         },
         {
           "word1": "physics",
@@ -179,7 +172,7 @@
         {
           "word1": "coast",
           "word2": "shore",
-          "value": 9.10
+          "value": 9.1
         },
         {
           "word1": "asylum",
@@ -209,7 +202,7 @@
         {
           "word1": "bird",
           "word2": "cock",
-          "value": 7.10
+          "value": 7.1
         },
         {
           "word1": "bird",
@@ -234,12 +227,12 @@
         {
           "word1": "tiger",
           "word2": "jaguar",
-          "value": 8.00
+          "value": 8.0
         },
         {
           "word1": "tiger",
           "word2": "feline",
-          "value": 8.00
+          "value": 8.0
         },
         {
           "word1": "tiger",
@@ -254,7 +247,7 @@
         {
           "word1": "tiger",
           "word2": "animal",
-          "value": 7.00
+          "value": 7.0
         },
         {
           "word1": "tiger",
@@ -349,7 +342,7 @@
         {
           "word1": "Japanese",
           "word2": "American",
-          "value": 6.50
+          "value": 6.5
         },
         {
           "word1": "century",
@@ -364,7 +357,7 @@
         {
           "word1": "doctor",
           "word2": "personnel",
-          "value": 5.00
+          "value": 5.0
         },
         {
           "word1": "Harvard",
@@ -384,7 +377,7 @@
         {
           "word1": "travel",
           "word2": "activity",
-          "value": 5.00
+          "value": 5.0
         },
         {
           "word1": "type",
@@ -459,7 +452,7 @@
         {
           "word1": "seafood",
           "word2": "lobster",
-          "value": 8.70
+          "value": 8.7
         },
         {
           "word1": "lobster",
@@ -469,7 +462,7 @@
         {
           "word1": "lobster",
           "word2": "wine",
-          "value": 5.70
+          "value": 5.7
         },
         {
           "word1": "championship",
@@ -479,7 +472,7 @@
         {
           "word1": "man",
           "word2": "woman",
-          "value": 8.30
+          "value": 8.3
         },
         {
           "word1": "man",
@@ -529,12 +522,12 @@
         {
           "word1": "monk",
           "word2": "oracle",
-          "value": 5.00
+          "value": 5.0
         },
         {
           "word1": "cup",
           "word2": "food",
-          "value": 5.00
+          "value": 5.0
         },
         {
           "word1": "journal",
@@ -599,7 +592,7 @@
         {
           "word1": "life",
           "word2": "term",
-          "value": 4.50
+          "value": 4.5
         },
         {
           "word1": "start",
@@ -814,12 +807,12 @@
         {
           "word1": "president",
           "word2": "medal",
-          "value": 3.00
+          "value": 3.0
         },
         {
           "word1": "prejudice",
           "word2": "recognition",
-          "value": 3.00
+          "value": 3.0
         },
         {
           "word1": "viewer",
@@ -884,12 +877,12 @@
         {
           "word1": "precedent",
           "word2": "collection",
-          "value": 2.50
+          "value": 2.5
         },
         {
           "word1": "cup",
           "word2": "article",
-          "value": 2.40
+          "value": 2.4
         },
         {
           "word1": "sign",
@@ -1110,12 +1103,12 @@
         {
           "word1": "money",
           "word2": "bank",
-          "value": 8.50
+          "value": 8.5
         },
         {
           "word1": "computer",
           "word2": "software",
-          "value": 8.50
+          "value": 8.5
         },
         {
           "word1": "law",
@@ -1195,7 +1188,7 @@
         {
           "word1": "closet",
           "word2": "clothes",
-          "value": 8.00
+          "value": 8.0
         },
         {
           "word1": "soap",
@@ -1285,12 +1278,12 @@
         {
           "word1": "telephone",
           "word2": "communication",
-          "value": 7.50
+          "value": 7.5
         },
         {
           "word1": "currency",
           "word2": "market",
-          "value": 7.50
+          "value": 7.5
         },
         {
           "word1": "psychology",
@@ -1385,7 +1378,7 @@
         {
           "word1": "psychology",
           "word2": "anxiety",
-          "value": 7.00
+          "value": 7.0
         },
         {
           "word1": "game",
@@ -1625,17 +1618,17 @@
         {
           "word1": "registration",
           "word2": "arrangement",
-          "value": 6.00
+          "value": 6.0
         },
         {
           "word1": "arrival",
           "word2": "hotel",
-          "value": 6.00
+          "value": 6.0
         },
         {
           "word1": "announcement",
           "word2": "warning",
-          "value": 6.00
+          "value": 6.0
         },
         {
           "word1": "game",
@@ -1680,7 +1673,7 @@
         {
           "word1": "cup",
           "word2": "liquid",
-          "value": 5.90
+          "value": 5.9
         },
         {
           "word1": "deployment",
@@ -1795,12 +1788,12 @@
         {
           "word1": "monk",
           "word2": "oracle",
-          "value": 5.00
+          "value": 5.0
         },
         {
           "word1": "cup",
           "word2": "food",
-          "value": 5.00
+          "value": 5.0
         },
         {
           "word1": "journal",
@@ -1865,7 +1858,7 @@
         {
           "word1": "life",
           "word2": "term",
-          "value": 4.50
+          "value": 4.5
         },
         {
           "word1": "start",
@@ -2080,12 +2073,12 @@
         {
           "word1": "president",
           "word2": "medal",
-          "value": 3.00
+          "value": 3.0
         },
         {
           "word1": "prejudice",
           "word2": "recognition",
-          "value": 3.00
+          "value": 3.0
         },
         {
           "word1": "viewer",
@@ -2150,12 +2143,12 @@
         {
           "word1": "precedent",
           "word2": "collection",
-          "value": 2.50
+          "value": 2.5
         },
         {
           "word1": "cup",
           "word2": "article",
-          "value": 2.40
+          "value": 2.4
         },
         {
           "word1": "sign",
