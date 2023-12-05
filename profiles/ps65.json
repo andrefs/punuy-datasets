@@ -14,9 +14,7 @@
     "downloadUrls": [
       "https://raw.githubusercontent.com/jjlastra/HESML/7a513929213777fe47b17dbfdfd8c96cb8cb3f5c/HESML_Library/WN_Datasets/PirroSeco_full_dataset.csv"
     ],
-    "measureTypes": [
-      "similarity"
-    ]
+    "measureTypes": ["similarity"]
   },
   "partitions": [
     {

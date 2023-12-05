@@ -2,9 +2,7 @@
   "id": "umnsrsSimMod",
   "metadata": {
     "name": "UMNSRS Similarity (modified)",
-    "urls": [
-      "https://conservancy.umn.edu/handle/11299/196265"
-    ],
+    "urls": ["https://conservancy.umn.edu/handle/11299/196265"],
     "papers": [
       {
         "title": "Corpus domain effects on distributional semantic modeling of medical terms",
@@ -16,9 +14,7 @@
     "downloadUrls": [
       "https://conservancy.umn.edu/bitstream/handle/11299/196265/UMNSRS_similarity_mod449_word2vec.csv?sequence=5&isAllowed=y"
     ],
-    "measureTypes": [
-      "similarity"
-    ]
+    "measureTypes": ["similarity"]
   },
   "partitions": [
     {

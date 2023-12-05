@@ -2,9 +2,7 @@
   "id": "umnsrsRelMod",
   "metadata": {
     "name": "UMNSRS Relatedness (modified)",
-    "urls": [
-      "https://conservancy.umn.edu/handle/11299/196265"
-    ],
+    "urls": ["https://conservancy.umn.edu/handle/11299/196265"],
     "papers": [
       {
         "title": "Corpus domain effects on distributional semantic modeling of medical terms",
@@ -16,9 +14,7 @@
     "downloadUrls": [
       "https://conservancy.umn.edu/bitstream/handle/11299/196265/UMNSRS_relatedness_mod458_word2vec.csv?sequence=6&isAllowed=y"
     ],
-    "measureTypes": [
-      "relatedness"
-    ]
+    "measureTypes": ["relatedness"]
   },
   "partitions": [
     {

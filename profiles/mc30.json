@@ -11,9 +11,7 @@
     "date": "1991",
     "description": "A total of 38 students at the State University of New York at Oswego participated as subjects. All of them were native speakers of English. A subset of 30 noun pairs from the original list of 65 studied by Rubenstein and Goodenough (1965) was used; 10 were selected from the high level (between 3 and 4 on a scale from 0 to 4), 10 from the intermediate level (between 1 and 3), and 10 from the low level (0 to 1) of semantic similarity.",
     "downloadUrls": [],
-    "measureTypes": [
-      "similarity"
-    ]
+    "measureTypes": ["similarity"]
   },
   "partitions": [
     {

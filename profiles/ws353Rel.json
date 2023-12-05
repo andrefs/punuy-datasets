@@ -2,9 +2,7 @@
   "id": "ws353Rel",
   "metadata": {
     "name": "WordSim-353 Relatedness Gold Standard",
-    "urls": [
-      "http://alfonseca.org/eng/research/wordsim353.html"
-    ],
+    "urls": ["http://alfonseca.org/eng/research/wordsim353.html"],
     "papers": [
       {
         "title": "A Study on Similarity and Relatedness Using Distributional and WordNet-based Approaches",
@@ -13,12 +11,8 @@
     ],
     "date": "2009",
     "description": "The final goldstandard for measuring relatedness, in the same format as the WordSim353 distribution.",
-    "downloadUrls": [
-      "http://alfonseca.org/pubs/ws353simrel.tar.gz"
-    ],
-    "measureTypes": [
-      "relatedness"
-    ]
+    "downloadUrls": ["http://alfonseca.org/pubs/ws353simrel.tar.gz"],
+    "measureTypes": ["relatedness"]
   },
   "partitions": [
     {

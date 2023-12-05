@@ -14,9 +14,7 @@
     "downloadUrls": [
       "http://david.wardpowers.info/Research/AI/papers/200601-GWC-130verbpairs.txt"
     ],
-    "measureTypes": [
-      "similarity"
-    ]
+    "measureTypes": ["similarity"]
   },
   "partitions": [
     {
