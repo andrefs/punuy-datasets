@@ -8,6 +8,7 @@ import srw2034 from './srw2034';
 import ws353 from './ws353';
 import ws353gs from './ws353gs';
 import yp130 from './yp130';
+import ps65 from './ps65';
 
 export {
   bg1000,
@@ -19,4 +20,5 @@ export {
   ws353,
   ws353gs,
   yp130,
+  ps65,
 };
