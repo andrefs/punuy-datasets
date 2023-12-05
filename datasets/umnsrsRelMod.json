@@ -1,0 +1,2322 @@
+{
+  "id": "umnsrsRelMod",
+  "metadata": {
+    "name": "UMNSRS Relatedness (modified)",
+    "urls": [
+      "https://conservancy.umn.edu/handle/11299/196265"
+    ],
+    "papers": [
+      {
+        "title": "Corpus domain effects on distributional semantic modeling of medical terms",
+        "url": "https://academic.oup.com/bioinformatics/article/32/23/3635/2525643"
+      }
+    ],
+    "date": "2016",
+    "description": "Modification of the UMNSRS-Relatedness dataset to exclude control samples and those pairs that did not match text in clinical, biomedical and general English corpora.",
+    "downloadUrls": [
+      "https://conservancy.umn.edu/bitstream/handle/11299/196265/UMNSRS_relatedness_mod458_word2vec.csv?sequence=6&isAllowed=y"
+    ],
+    "measureTypes": [
+      "relatedness"
+    ]
+  },
+  "partitions": [
+    {
+      "id": "UMNSRS_relatedness_mod458_word2vec.csv",
+      "measureType": "relatedness",
+      "data": [
+        {
+          "value": 1109,
+          "word1": "acetylcysteine",
+          "word2": "tylenol"
+        },
+        {
+          "value": 586.5,
+          "word1": "acetylcysteine",
+          "word2": "adenosine"
+        },
+        {
+          "value": 604.75,
+          "word1": "zovirax",
+          "word2": "paxil"
+        },
+        {
+          "value": 680.5,
+          "word1": "adenitis",
+          "word2": "stridor"
+        },
+        {
+          "value": 1359.5,
+          "word1": "agranulocytosis",
+          "word2": "anemia"
+        },
+        {
+          "value": 1238,
+          "word1": "agranulocytosis",
+          "word2": "leukopenia"
+        },
+        {
+          "value": 1230.25,
+          "word1": "agranulocytosis",
+          "word2": "myelosuppression"
+        },
+        {
+          "value": 1011,
+          "word1": "albumin",
+          "word2": "heparin"
+        },
+        {
+          "value": 1165.5,
+          "word1": "albuterol",
+          "word2": "singulair"
+        },
+        {
+          "value": 1514.5,
+          "word1": "ethanol",
+          "word2": "alcohol"
+        },
+        {
+          "value": 1244,
+          "word1": "alcohol",
+          "word2": "antabuse"
+        },
+        {
+          "value": 1406.5,
+          "word1": "allopurinol",
+          "word2": "colchicine"
+        },
+        {
+          "value": 1034,
+          "word1": "xanax",
+          "word2": "ativan"
+        },
+        {
+          "value": 1274.75,
+          "word1": "amantadine",
+          "word2": "tamiflu"
+        },
+        {
+          "value": 926.5,
+          "word1": "anemia",
+          "word2": "coumadin"
+        },
+        {
+          "value": 1375.5,
+          "word1": "anemia",
+          "word2": "iron"
+        },
+        {
+          "value": 1187,
+          "word1": "anemia",
+          "word2": "reticulocytosis"
+        },
+        {
+          "value": 275.5,
+          "word1": "aneurysm",
+          "word2": "osteoporosis"
+        },
+        {
+          "value": 553.5,
+          "word1": "angina",
+          "word2": "diarrhea"
+        },
+        {
+          "value": 1364,
+          "word1": "angina",
+          "word2": "dyspnea"
+        },
+        {
+          "value": 1139,
+          "word1": "angina",
+          "word2": "heartburn"
+        },
+        {
+          "value": 1256,
+          "word1": "angina",
+          "word2": "toprol"
+        },
+        {
+          "value": 494.75,
+          "word1": "angina",
+          "word2": "activase"
+        },
+        {
+          "value": 1294.75,
+          "word1": "angina",
+          "word2": "plavix"
+        },
+        {
+          "value": 1208.5,
+          "word1": "anosmia",
+          "word2": "aphonia"
+        },
+        {
+          "value": 391,
+          "word1": "anosmia",
+          "word2": "constipation"
+        },
+        {
+          "value": 431.25,
+          "word1": "anosmia",
+          "word2": "catch"
+        },
+        {
+          "value": 1332,
+          "word1": "anovulation",
+          "word2": "amenorrhoea"
+        },
+        {
+          "value": 619.75,
+          "word1": "anovulation",
+          "word2": "sinemet"
+        },
+        {
+          "value": 535.25,
+          "word1": "anovulation",
+          "word2": "emaciation"
+        },
+        {
+          "value": 460.75,
+          "word1": "anovulation",
+          "word2": "torticollis"
+        },
+        {
+          "value": 1006,
+          "word1": "anovulation",
+          "word2": "mittelschmerz"
+        },
+        {
+          "value": 444.75,
+          "word1": "anoxia",
+          "word2": "ataxia"
+        },
+        {
+          "value": 1285,
+          "word1": "anoxia",
+          "word2": "seizures"
+        },
+        {
+          "value": 879.75,
+          "word1": "appendicitis",
+          "word2": "cefazolin"
+        },
+        {
+          "value": 1263,
+          "word1": "appendicitis",
+          "word2": "peritonitis"
+        },
+        {
+          "value": 1277,
+          "word1": "arthralgia",
+          "word2": "tylenol"
+        },
+        {
+          "value": 917.5,
+          "word1": "arthralgia",
+          "word2": "clubbing"
+        },
+        {
+          "value": 670,
+          "word1": "arthralgia",
+          "word2": "chyluria"
+        },
+        {
+          "value": 1127.25,
+          "word1": "arthritis",
+          "word2": "amyloidoses"
+        },
+        {
+          "value": 1254,
+          "word1": "arthritis",
+          "word2": "metatarsalgia"
+        },
+        {
+          "value": 1340,
+          "word1": "arthritis",
+          "word2": "rheumatism"
+        },
+        {
+          "value": 815.5,
+          "word1": "asthenia",
+          "word2": "cachexia"
+        },
+        {
+          "value": 1273,
+          "word1": "asthenia",
+          "word2": "weakness"
+        },
+        {
+          "value": 262.75,
+          "word1": "asthma",
+          "word2": "urolithiasis"
+        },
+        {
+          "value": 1387.25,
+          "word1": "ataxia",
+          "word2": "ethanol"
+        },
+        {
+          "value": 543.25,
+          "word1": "ataxia",
+          "word2": "constipation"
+        },
+        {
+          "value": 488.5,
+          "word1": "ataxia",
+          "word2": "ketamine"
+        },
+        {
+          "value": 895.5,
+          "word1": "atenolol",
+          "word2": "lasix"
+        },
+        {
+          "value": 1182.25,
+          "word1": "atenolol",
+          "word2": "toprol"
+        },
+        {
+          "value": 1357.75,
+          "word1": "atherosclerosis",
+          "word2": "angina"
+        },
+        {
+          "value": 618.5,
+          "word1": "atherosclerosis",
+          "word2": "heartburn"
+        },
+        {
+          "value": 416,
+          "word1": "atherosclerosis",
+          "word2": "influenzae"
+        },
+        {
+          "value": 455,
+          "word1": "atherosclerosis",
+          "word2": "toothache"
+        },
+        {
+          "value": 296.25,
+          "word1": "bleomycin",
+          "word2": "antabuse"
+        },
+        {
+          "value": 588,
+          "word1": "blepharospasm",
+          "word2": "mittelschmerz"
+        },
+        {
+          "value": 261,
+          "word1": "blepharospasm",
+          "word2": "bedwetting"
+        },
+        {
+          "value": 582,
+          "word1": "bronchitis",
+          "word2": "loperamide"
+        },
+        {
+          "value": 1066.5,
+          "word1": "bronchitis",
+          "word2": "pneumonia"
+        },
+        {
+          "value": 702.5,
+          "word1": "bronchitis",
+          "word2": "singulair"
+        },
+        {
+          "value": 297.5,
+          "word1": "brucellosis",
+          "word2": "narcan"
+        },
+        {
+          "value": 1214,
+          "word1": "brucellosis",
+          "word2": "zoonosis"
+        },
+        {
+          "value": 774.75,
+          "word1": "candidiasis",
+          "word2": "medrol"
+        },
+        {
+          "value": 1161.25,
+          "word1": "candidiasis",
+          "word2": "mycosis"
+        },
+        {
+          "value": 1463,
+          "word1": "carsickness",
+          "word2": "nausea"
+        },
+        {
+          "value": 1107.75,
+          "word1": "catatonia",
+          "word2": "lethargy"
+        },
+        {
+          "value": 753.5,
+          "word1": "catatonia",
+          "word2": "narcan"
+        },
+        {
+          "value": 1122.25,
+          "word1": "cefaclor",
+          "word2": "cefoxitin"
+        },
+        {
+          "value": 345,
+          "word1": "cholelithiasis",
+          "word2": "bronchitis"
+        },
+        {
+          "value": 884.5,
+          "word1": "catapres",
+          "word2": "toprol"
+        },
+        {
+          "value": 917,
+          "word1": "clonus",
+          "word2": "spasm"
+        },
+        {
+          "value": 752,
+          "word1": "clonus",
+          "word2": "wellbutrin"
+        },
+        {
+          "value": 311,
+          "word1": "cluttering",
+          "word2": "nitroglycerine"
+        },
+        {
+          "value": 669,
+          "word1": "cluttering",
+          "word2": "mannerism"
+        },
+        {
+          "value": 1273,
+          "word1": "coccidioidomycosis",
+          "word2": "histoplasmosis"
+        },
+        {
+          "value": 1119.75,
+          "word1": "codeine",
+          "word2": "robitussin"
+        },
+        {
+          "value": 1209.75,
+          "word1": "codeine",
+          "word2": "narcan"
+        },
+        {
+          "value": 772.25,
+          "word1": "colchicine",
+          "word2": "prednisolone"
+        },
+        {
+          "value": 1307.75,
+          "word1": "colchicine",
+          "word2": "probenecid"
+        },
+        {
+          "value": 362.75,
+          "word1": "colitis",
+          "word2": "epilepsy"
+        },
+        {
+          "value": 1099.5,
+          "word1": "comatose",
+          "word2": "anoxia"
+        },
+        {
+          "value": 1313.5,
+          "word1": "comatose",
+          "word2": "hyperglycemia"
+        },
+        {
+          "value": 330.25,
+          "word1": "comatose",
+          "word2": "cataracts"
+        },
+        {
+          "value": 1023.5,
+          "word1": "constipation",
+          "word2": "diarrhea"
+        },
+        {
+          "value": 662.5,
+          "word1": "constipation",
+          "word2": "calan"
+        },
+        {
+          "value": 1306.25,
+          "word1": "convulsion",
+          "word2": "ethanol"
+        },
+        {
+          "value": 1386.75,
+          "word1": "convulsion",
+          "word2": "epilepsy"
+        },
+        {
+          "value": 831,
+          "word1": "convulsion",
+          "word2": "wellbutrin"
+        },
+        {
+          "value": 409.75,
+          "word1": "cortisone",
+          "word2": "adenosine"
+        },
+        {
+          "value": 601.75,
+          "word1": "sandimmune",
+          "word2": "prednisolone"
+        },
+        {
+          "value": 438.75,
+          "word1": "deafness",
+          "word2": "blepharospasm"
+        },
+        {
+          "value": 1072.5,
+          "word1": "deafness",
+          "word2": "otitis"
+        },
+        {
+          "value": 1299.25,
+          "word1": "dehydration",
+          "word2": "dysentery"
+        },
+        {
+          "value": 1427.75,
+          "word1": "dehydration",
+          "word2": "gastroenteritis"
+        },
+        {
+          "value": 1163.75,
+          "word1": "dehydration",
+          "word2": "starvation"
+        },
+        {
+          "value": 1028.75,
+          "word1": "dehydration",
+          "word2": "syncope"
+        },
+        {
+          "value": 1286.25,
+          "word1": "dermatitis",
+          "word2": "aloe"
+        },
+        {
+          "value": 1258.25,
+          "word1": "dermatitis",
+          "word2": "allergy"
+        },
+        {
+          "value": 1255.25,
+          "word1": "dermatomyositis",
+          "word2": "myopathy"
+        },
+        {
+          "value": 615.75,
+          "word1": "diabetes",
+          "word2": "codeine"
+        },
+        {
+          "value": 1279.25,
+          "word1": "diabetes",
+          "word2": "hyperglycemia"
+        },
+        {
+          "value": 1485,
+          "word1": "diabetes",
+          "word2": "insulin"
+        },
+        {
+          "value": 1439.75,
+          "word1": "diabetes",
+          "word2": "polyuria"
+        },
+        {
+          "value": 1099.5,
+          "word1": "diabetes",
+          "word2": "prednisolone"
+        },
+        {
+          "value": 787.5,
+          "word1": "diabetes",
+          "word2": "psoriasis"
+        },
+        {
+          "value": 1459.5,
+          "word1": "diabetes",
+          "word2": "polydipsia"
+        },
+        {
+          "value": 1394.75,
+          "word1": "diabetes",
+          "word2": "ketonuria"
+        },
+        {
+          "value": 947.25,
+          "word1": "diarrhea",
+          "word2": "colchicine"
+        },
+        {
+          "value": 1231.25,
+          "word1": "dizziness",
+          "word2": "fatigue"
+        },
+        {
+          "value": 1398.25,
+          "word1": "dizziness",
+          "word2": "vertigo"
+        },
+        {
+          "value": 522,
+          "word1": "dobutamine",
+          "word2": "oxycontin"
+        },
+        {
+          "value": 943.5,
+          "word1": "drooling",
+          "word2": "sinemet"
+        },
+        {
+          "value": 465,
+          "word1": "drooling",
+          "word2": "chills"
+        },
+        {
+          "value": 1157,
+          "word1": "dysentery",
+          "word2": "dizziness"
+        },
+        {
+          "value": 257,
+          "word1": "dysentery",
+          "word2": "esmolol"
+        },
+        {
+          "value": 1414.75,
+          "word1": "dyspnea",
+          "word2": "cyanosis"
+        },
+        {
+          "value": 919.5,
+          "word1": "dyspnea",
+          "word2": "medrol"
+        },
+        {
+          "value": 1064.5,
+          "word1": "dyspnea",
+          "word2": "narcan"
+        },
+        {
+          "value": 1146.75,
+          "word1": "dyspnea",
+          "word2": "spiriva"
+        },
+        {
+          "value": 664,
+          "word1": "dyspnea",
+          "word2": "penicillin"
+        },
+        {
+          "value": 1061,
+          "word1": "dysuria",
+          "word2": "cipro"
+        },
+        {
+          "value": 593.5,
+          "word1": "dysuria",
+          "word2": "hemoptysis"
+        },
+        {
+          "value": 415,
+          "word1": "dysuria",
+          "word2": "plavix"
+        },
+        {
+          "value": 253.25,
+          "word1": "earache",
+          "word2": "crowning"
+        },
+        {
+          "value": 708.75,
+          "word1": "emaciation",
+          "word2": "carboplatin"
+        },
+        {
+          "value": 1420.5,
+          "word1": "enalapril",
+          "word2": "lisinopril"
+        },
+        {
+          "value": 1247,
+          "word1": "encephalitis",
+          "word2": "meningism"
+        },
+        {
+          "value": 1325.75,
+          "word1": "encephalitis",
+          "word2": "meningitis"
+        },
+        {
+          "value": 856.75,
+          "word1": "epilepsy",
+          "word2": "alcohol"
+        },
+        {
+          "value": 515.25,
+          "word1": "epilepsy",
+          "word2": "anosmia"
+        },
+        {
+          "value": 747.75,
+          "word1": "epilepsy",
+          "word2": "hepatomegaly"
+        },
+        {
+          "value": 477.5,
+          "word1": "epilepsy",
+          "word2": "ischemia"
+        },
+        {
+          "value": 469.25,
+          "word1": "epilepsy",
+          "word2": "ativan"
+        },
+        {
+          "value": 1135.25,
+          "word1": "epilepsy",
+          "word2": "phenobarbital"
+        },
+        {
+          "value": 818.5,
+          "word1": "epilepsy",
+          "word2": "actonel"
+        },
+        {
+          "value": 666.75,
+          "word1": "erythromycin",
+          "word2": "allopurinol"
+        },
+        {
+          "value": 688,
+          "word1": "erythromycin",
+          "word2": "lidocaine"
+        },
+        {
+          "value": 527.25,
+          "word1": "exophthalmos",
+          "word2": "hepatosplenomegaly"
+        },
+        {
+          "value": 1470.5,
+          "word1": "exophthalmos",
+          "word2": "hyperthyroidism"
+        },
+        {
+          "value": 1261.75,
+          "word1": "exophthalmos",
+          "word2": "synthroid"
+        },
+        {
+          "value": 1351,
+          "word1": "pepcid",
+          "word2": "zantac"
+        },
+        {
+          "value": 873,
+          "word1": "flatulence",
+          "word2": "halitosis"
+        },
+        {
+          "value": 959.5,
+          "word1": "flumazenil",
+          "word2": "valium"
+        },
+        {
+          "value": 673.75,
+          "word1": "flushing",
+          "word2": "iron"
+        },
+        {
+          "value": 641.75,
+          "word1": "formication",
+          "word2": "paresthesia"
+        },
+        {
+          "value": 1093.5,
+          "word1": "lasix",
+          "word2": "mannitol"
+        },
+        {
+          "value": 1409.75,
+          "word1": "gastroenteritis",
+          "word2": "dysentery"
+        },
+        {
+          "value": 668.25,
+          "word1": "gastroenteritis",
+          "word2": "insulin"
+        },
+        {
+          "value": 785,
+          "word1": "gastroenteritis",
+          "word2": "seizures"
+        },
+        {
+          "value": 776,
+          "word1": "gastroenteritis",
+          "word2": "cromolyn"
+        },
+        {
+          "value": 226.75,
+          "word1": "giardiasis",
+          "word2": "mannerism"
+        },
+        {
+          "value": 718.25,
+          "word1": "giardiasis",
+          "word2": "avitaminosis"
+        },
+        {
+          "value": 528.5,
+          "word1": "glaucoma",
+          "word2": "fibrillation"
+        },
+        {
+          "value": 1069.25,
+          "word1": "glyburide",
+          "word2": "avandia"
+        },
+        {
+          "value": 972.75,
+          "word1": "nitroglycerine",
+          "word2": "toprol"
+        },
+        {
+          "value": 1126,
+          "word1": "nitroglycerine",
+          "word2": "morphine"
+        },
+        {
+          "value": 578.5,
+          "word1": "goiter",
+          "word2": "scleroderma"
+        },
+        {
+          "value": 1424,
+          "word1": "goiter",
+          "word2": "hypothyroidism"
+        },
+        {
+          "value": 427.25,
+          "word1": "goiter",
+          "word2": "motrin"
+        },
+        {
+          "value": 404.75,
+          "word1": "gonorrhea",
+          "word2": "xenical"
+        },
+        {
+          "value": 492.75,
+          "word1": "haldol",
+          "word2": "bacitracin"
+        },
+        {
+          "value": 1423.75,
+          "word1": "headache",
+          "word2": "tylenol"
+        },
+        {
+          "value": 1002.25,
+          "word1": "headache",
+          "word2": "flushing"
+        },
+        {
+          "value": 560,
+          "word1": "heartburn",
+          "word2": "eructation"
+        },
+        {
+          "value": 1395.75,
+          "word1": "heartburn",
+          "word2": "pepcid"
+        },
+        {
+          "value": 1308.25,
+          "word1": "heartburn",
+          "word2": "motrin"
+        },
+        {
+          "value": 651.25,
+          "word1": "hemiplegia",
+          "word2": "plavix"
+        },
+        {
+          "value": 899.25,
+          "word1": "hemochromatosis",
+          "word2": "arthralgia"
+        },
+        {
+          "value": 857.25,
+          "word1": "hemochromatosis",
+          "word2": "arthritis"
+        },
+        {
+          "value": 635.5,
+          "word1": "hemochromatosis",
+          "word2": "polyuria"
+        },
+        {
+          "value": 1269.75,
+          "word1": "hemoptysis",
+          "word2": "hematemesis"
+        },
+        {
+          "value": 798,
+          "word1": "hemoptysis",
+          "word2": "protamine"
+        },
+        {
+          "value": 987.75,
+          "word1": "hemoptysis",
+          "word2": "coumadin"
+        },
+        {
+          "value": 282.25,
+          "word1": "haemorrhoids",
+          "word2": "infertility"
+        },
+        {
+          "value": 1344.75,
+          "word1": "heparin",
+          "word2": "protamine"
+        },
+        {
+          "value": 1378.75,
+          "word1": "hepatitis",
+          "word2": "tylenol"
+        },
+        {
+          "value": 1294.5,
+          "word1": "hepatitis",
+          "word2": "hematemesis"
+        },
+        {
+          "value": 1350,
+          "word1": "hepatitis",
+          "word2": "hepatomegaly"
+        },
+        {
+          "value": 1370.5,
+          "word1": "hepatomegaly",
+          "word2": "hepatosplenomegaly"
+        },
+        {
+          "value": 462.5,
+          "word1": "hernia",
+          "word2": "sinemet"
+        },
+        {
+          "value": 239,
+          "word1": "hernias",
+          "word2": "earache"
+        },
+        {
+          "value": 379.75,
+          "word1": "hernia",
+          "word2": "goiter"
+        },
+        {
+          "value": 570.25,
+          "word1": "hernias",
+          "word2": "dementia"
+        },
+        {
+          "value": 525.75,
+          "word1": "herpes",
+          "word2": "cholestasis"
+        },
+        {
+          "value": 789.5,
+          "word1": "histoplasmosis",
+          "word2": "prednisolone"
+        },
+        {
+          "value": 1429.5,
+          "word1": "hunger",
+          "word2": "starvation"
+        },
+        {
+          "value": 1152,
+          "word1": "hyperinsulinism",
+          "word2": "diabetes"
+        },
+        {
+          "value": 444,
+          "word1": "hyperinsulinism",
+          "word2": "snoring"
+        },
+        {
+          "value": 1121,
+          "word1": "hyperthyroidism",
+          "word2": "seizures"
+        },
+        {
+          "value": 957.25,
+          "word1": "hypoproteinemia",
+          "word2": "hunger"
+        },
+        {
+          "value": 1033.75,
+          "word1": "hypothyroidism",
+          "word2": "comatose"
+        },
+        {
+          "value": 1473,
+          "word1": "hypothyroidism",
+          "word2": "synthroid"
+        },
+        {
+          "value": 1309.5,
+          "word1": "hypothyroidism",
+          "word2": "tiredness"
+        },
+        {
+          "value": 1224.75,
+          "word1": "hypothyroidism",
+          "word2": "weakness"
+        },
+        {
+          "value": 779.75,
+          "word1": "incontinence",
+          "word2": "lasix"
+        },
+        {
+          "value": 1399.5,
+          "word1": "infertility",
+          "word2": "anovulation"
+        },
+        {
+          "value": 411.5,
+          "word1": "infertility",
+          "word2": "blepharospasm"
+        },
+        {
+          "value": 1134.75,
+          "word1": "infertility",
+          "word2": "carboplatin"
+        },
+        {
+          "value": 1354,
+          "word1": "influenza",
+          "word2": "pneumoniae"
+        },
+        {
+          "value": 990.25,
+          "word1": "insulin",
+          "word2": "avandia"
+        },
+        {
+          "value": 1064.25,
+          "word1": "isosorbide",
+          "word2": "toprol"
+        },
+        {
+          "value": 1111.25,
+          "word1": "leucovorin",
+          "word2": "methotrexate"
+        },
+        {
+          "value": 1036.5,
+          "word1": "leukopenia",
+          "word2": "bleomycin"
+        },
+        {
+          "value": 722,
+          "word1": "leukopenia",
+          "word2": "pneumonia"
+        },
+        {
+          "value": 640.25,
+          "word1": "leukopenia",
+          "word2": "penicillin"
+        },
+        {
+          "value": 1575,
+          "word1": "sinemet",
+          "word2": "sinemet"
+        },
+        {
+          "value": 241.5,
+          "word1": "mannitol",
+          "word2": "tylenol"
+        },
+        {
+          "value": 989.5,
+          "word1": "meningism",
+          "word2": "zovirax"
+        },
+        {
+          "value": 1483.25,
+          "word1": "meningitis",
+          "word2": "headache"
+        },
+        {
+          "value": 1225.5,
+          "word1": "meningitis",
+          "word2": "meningism"
+        },
+        {
+          "value": 774.75,
+          "word1": "metatarsalgia",
+          "word2": "catapres"
+        },
+        {
+          "value": 742,
+          "word1": "metatarsalgia",
+          "word2": "colchicine"
+        },
+        {
+          "value": 787.25,
+          "word1": "metatarsalgia",
+          "word2": "toothache"
+        },
+        {
+          "value": 837.25,
+          "word1": "methadone",
+          "word2": "ultram"
+        },
+        {
+          "value": 1180.25,
+          "word1": "medrol",
+          "word2": "prednisolone"
+        },
+        {
+          "value": 756,
+          "word1": "myopathy",
+          "word2": "trembling"
+        },
+        {
+          "value": 1272.5,
+          "word1": "mycosis",
+          "word2": "histoplasmosis"
+        },
+        {
+          "value": 812.25,
+          "word1": "mycoses",
+          "word2": "meningitis"
+        },
+        {
+          "value": 550,
+          "word1": "mycosis",
+          "word2": "medrol"
+        },
+        {
+          "value": 958.5,
+          "word1": "mycosis",
+          "word2": "pain"
+        },
+        {
+          "value": 595.25,
+          "word1": "mycosis",
+          "word2": "lipitor"
+        },
+        {
+          "value": 1049.75,
+          "word1": "myositis",
+          "word2": "myopathy"
+        },
+        {
+          "value": 737,
+          "word1": "narcan",
+          "word2": "duragesic"
+        },
+        {
+          "value": 1189.25,
+          "word1": "narcan",
+          "word2": "morphine"
+        },
+        {
+          "value": 1456.75,
+          "word1": "nausea",
+          "word2": "vomiting"
+        },
+        {
+          "value": 1479.25,
+          "word1": "nausea",
+          "word2": "zofran"
+        },
+        {
+          "value": 679.5,
+          "word1": "nocturia",
+          "word2": "ethanol"
+        },
+        {
+          "value": 1349.75,
+          "word1": "nocturia",
+          "word2": "diabetes"
+        },
+        {
+          "value": 616.25,
+          "word1": "nystagmus",
+          "word2": "incontinence"
+        },
+        {
+          "value": 1417.25,
+          "word1": "obesity",
+          "word2": "diabetes"
+        },
+        {
+          "value": 1439.75,
+          "word1": "obesity",
+          "word2": "snoring"
+        },
+        {
+          "value": 978.75,
+          "word1": "obesity",
+          "word2": "xenical"
+        },
+        {
+          "value": 652,
+          "word1": "prilosec",
+          "word2": "glucophage"
+        },
+        {
+          "value": 630.5,
+          "word1": "osteoporosis",
+          "word2": "thrombus"
+        },
+        {
+          "value": 771,
+          "word1": "osteoporosis",
+          "word2": "actonel"
+        },
+        {
+          "value": 326.25,
+          "word1": "osteoporosis",
+          "word2": "cardiomyopathy"
+        },
+        {
+          "value": 848,
+          "word1": "otitis",
+          "word2": "meningism"
+        },
+        {
+          "value": 1462.75,
+          "word1": "pain",
+          "word2": "morphine"
+        },
+        {
+          "value": 987.5,
+          "word1": "pallor",
+          "word2": "albumin"
+        },
+        {
+          "value": 871.25,
+          "word1": "pallor",
+          "word2": "aspirin"
+        },
+        {
+          "value": 1382.75,
+          "word1": "pallor",
+          "word2": "iron"
+        },
+        {
+          "value": 1248,
+          "word1": "pallor",
+          "word2": "blanching"
+        },
+        {
+          "value": 1389.75,
+          "word1": "pallor",
+          "word2": "weakness"
+        },
+        {
+          "value": 1063.75,
+          "word1": "pancreatitis",
+          "word2": "diabetes"
+        },
+        {
+          "value": 333,
+          "word1": "pancreatitis",
+          "word2": "flatulence"
+        },
+        {
+          "value": 1054.75,
+          "word1": "pancreatitis",
+          "word2": "insulin"
+        },
+        {
+          "value": 345.5,
+          "word1": "pancreatitis",
+          "word2": "cataract"
+        },
+        {
+          "value": 1253.25,
+          "word1": "paresis",
+          "word2": "paraparesis"
+        },
+        {
+          "value": 276.5,
+          "word1": "peritonitis",
+          "word2": "ataxia"
+        },
+        {
+          "value": 804,
+          "word1": "peritonitis",
+          "word2": "grimaces"
+        },
+        {
+          "value": 441.25,
+          "word1": "photosensitization",
+          "word2": "aphonia"
+        },
+        {
+          "value": 753,
+          "word1": "plague",
+          "word2": "adenitis"
+        },
+        {
+          "value": 1078.75,
+          "word1": "pneumonia",
+          "word2": "cyanosis"
+        },
+        {
+          "value": 1341.5,
+          "word1": "pneumoniae",
+          "word2": "dyspnea"
+        },
+        {
+          "value": 773,
+          "word1": "pneumonia",
+          "word2": "meningitis"
+        },
+        {
+          "value": 1266.25,
+          "word1": "pneumoniae",
+          "word2": "septicemia"
+        },
+        {
+          "value": 1265.75,
+          "word1": "pneumoniae",
+          "word2": "weakness"
+        },
+        {
+          "value": 1085.5,
+          "word1": "polyuria",
+          "word2": "insulin"
+        },
+        {
+          "value": 964.75,
+          "word1": "polyuria",
+          "word2": "chyluria"
+        },
+        {
+          "value": 1433.25,
+          "word1": "polyuria",
+          "word2": "ketonuria"
+        },
+        {
+          "value": 1439.5,
+          "word1": "proteinuria",
+          "word2": "diabetes"
+        },
+        {
+          "value": 319.25,
+          "word1": "proteinuria",
+          "word2": "rogaine"
+        },
+        {
+          "value": 1168.75,
+          "word1": "psoriasis",
+          "word2": "arthritis"
+        },
+        {
+          "value": 321.75,
+          "word1": "psoriasis",
+          "word2": "atherosclerosis"
+        },
+        {
+          "value": 470,
+          "word1": "psoriasis",
+          "word2": "meningism"
+        },
+        {
+          "value": 406.25,
+          "word1": "rabies",
+          "word2": "acne"
+        },
+        {
+          "value": 839,
+          "word1": "rales",
+          "word2": "cyanosis"
+        },
+        {
+          "value": 1379.5,
+          "word1": "rales",
+          "word2": "lasix"
+        },
+        {
+          "value": 409.5,
+          "word1": "rales",
+          "word2": "hyperacusis"
+        },
+        {
+          "value": 846.75,
+          "word1": "hyperacusis",
+          "word2": "aphonia"
+        },
+        {
+          "value": 845.5,
+          "word1": "hyperacusis",
+          "word2": "bleomycin"
+        },
+        {
+          "value": 825.5,
+          "word1": "rheumatism",
+          "word2": "colchicine"
+        },
+        {
+          "value": 720.5,
+          "word1": "rheumatism",
+          "word2": "prednisolone"
+        },
+        {
+          "value": 379,
+          "word1": "rheumatism",
+          "word2": "sleeplessness"
+        },
+        {
+          "value": 833.5,
+          "word1": "rheumatism",
+          "word2": "sluggishness"
+        },
+        {
+          "value": 1350.25,
+          "word1": "rhonchi",
+          "word2": "rales"
+        },
+        {
+          "value": 1303.75,
+          "word1": "schistosomiasis",
+          "word2": "parasitemia"
+        },
+        {
+          "value": 1054.25,
+          "word1": "sciatica",
+          "word2": "motrin"
+        },
+        {
+          "value": 446.5,
+          "word1": "sciatica",
+          "word2": "fosamax"
+        },
+        {
+          "value": 473.5,
+          "word1": "sciatica",
+          "word2": "actonel"
+        },
+        {
+          "value": 897,
+          "word1": "seasickness",
+          "word2": "ethanol"
+        },
+        {
+          "value": 1233,
+          "word1": "seasickness",
+          "word2": "carsickness"
+        },
+        {
+          "value": 299.5,
+          "word1": "seasickness",
+          "word2": "clubbing"
+        },
+        {
+          "value": 816.75,
+          "word1": "seizures",
+          "word2": "wellbutrin"
+        },
+        {
+          "value": 658.5,
+          "word1": "seizures",
+          "word2": "calamine"
+        },
+        {
+          "value": 392.5,
+          "word1": "seizures",
+          "word2": "aloe"
+        },
+        {
+          "value": 699.75,
+          "word1": "snoring",
+          "word2": "loperamide"
+        },
+        {
+          "value": 610,
+          "word1": "snoring",
+          "word2": "stridor"
+        },
+        {
+          "value": 221,
+          "word1": "snoring",
+          "word2": "welts"
+        },
+        {
+          "value": 325.75,
+          "word1": "spasm",
+          "word2": "lasix"
+        },
+        {
+          "value": 1068.25,
+          "word1": "spasm",
+          "word2": "sciatica"
+        },
+        {
+          "value": 1427.75,
+          "word1": "starvation",
+          "word2": "anorexia"
+        },
+        {
+          "value": 788.25,
+          "word1": "starvation",
+          "word2": "cisplatin"
+        },
+        {
+          "value": 439.5,
+          "word1": "starvation",
+          "word2": "mittelschmerz"
+        },
+        {
+          "value": 676.25,
+          "word1": "stridor",
+          "word2": "snoring"
+        },
+        {
+          "value": 342.25,
+          "word1": "syncope",
+          "word2": "xanax"
+        },
+        {
+          "value": 1291.5,
+          "word1": "syncope",
+          "word2": "weakness"
+        },
+        {
+          "value": 1432.5,
+          "word1": "syphilis",
+          "word2": "gonorrhea"
+        },
+        {
+          "value": 1310,
+          "word1": "syphilis",
+          "word2": "penicillin"
+        },
+        {
+          "value": 1364,
+          "word1": "syphilis",
+          "word2": "dementias"
+        },
+        {
+          "value": 1218,
+          "word1": "thalassemia",
+          "word2": "hemoglobinopathy"
+        },
+        {
+          "value": 678.5,
+          "word1": "thalassemia",
+          "word2": "tremor"
+        },
+        {
+          "value": 1199.25,
+          "word1": "thalassemia",
+          "word2": "iron"
+        },
+        {
+          "value": 509.25,
+          "word1": "thrombocytopenia",
+          "word2": "heartburn"
+        },
+        {
+          "value": 443.5,
+          "word1": "thrombocytopenia",
+          "word2": "sciatica"
+        },
+        {
+          "value": 519.25,
+          "word1": "thromboembolism",
+          "word2": "dermatitis"
+        },
+        {
+          "value": 1325.5,
+          "word1": "thromboembolism",
+          "word2": "dyspnea"
+        },
+        {
+          "value": 778.25,
+          "word1": "thromboembolism",
+          "word2": "hemoptysis"
+        },
+        {
+          "value": 1380.25,
+          "word1": "thromboembolism",
+          "word2": "heparin"
+        },
+        {
+          "value": 1226.75,
+          "word1": "thromboembolism",
+          "word2": "syncope"
+        },
+        {
+          "value": 1353,
+          "word1": "thromboembolism",
+          "word2": "coumadin"
+        },
+        {
+          "value": 1148.5,
+          "word1": "thromboembolism",
+          "word2": "fibrillation"
+        },
+        {
+          "value": 365.25,
+          "word1": "synthroid",
+          "word2": "lidocaine"
+        },
+        {
+          "value": 268,
+          "word1": "toothache",
+          "word2": "ataxia"
+        },
+        {
+          "value": 657.25,
+          "word1": "torticollis",
+          "word2": "erythromycin"
+        },
+        {
+          "value": 1377.5,
+          "word1": "torticollis",
+          "word2": "spasm"
+        },
+        {
+          "value": 1150.25,
+          "word1": "tremor",
+          "word2": "sinemet"
+        },
+        {
+          "value": 1224.5,
+          "word1": "tremor",
+          "word2": "sinemet"
+        },
+        {
+          "value": 1338.5,
+          "word1": "tuberculosis",
+          "word2": "hemoptysis"
+        },
+        {
+          "value": 869.5,
+          "word1": "tuberculosis",
+          "word2": "pallor"
+        },
+        {
+          "value": 865.75,
+          "word1": "tuberculosis",
+          "word2": "clubbing"
+        },
+        {
+          "value": 516.25,
+          "word1": "erythema",
+          "word2": "dilantin"
+        },
+        {
+          "value": 528,
+          "word1": "erythema",
+          "word2": "tremor"
+        },
+        {
+          "value": 300,
+          "word1": "uremia",
+          "word2": "aspirin"
+        },
+        {
+          "value": 517,
+          "word1": "uremia",
+          "word2": "emaciation"
+        },
+        {
+          "value": 482,
+          "word1": "uremia",
+          "word2": "motrin"
+        },
+        {
+          "value": 974.5,
+          "word1": "uremia",
+          "word2": "nausea"
+        },
+        {
+          "value": 856.25,
+          "word1": "uremia",
+          "word2": "pyorrhea"
+        },
+        {
+          "value": 806,
+          "word1": "uremia",
+          "word2": "hypersomnolence"
+        },
+        {
+          "value": 438.75,
+          "word1": "vasculitis",
+          "word2": "convulsion"
+        },
+        {
+          "value": 656.25,
+          "word1": "vasculitis",
+          "word2": "hemiplegia"
+        },
+        {
+          "value": 829.5,
+          "word1": "calan",
+          "word2": "echinacea"
+        },
+        {
+          "value": 663.75,
+          "word1": "virilization",
+          "word2": "drooling"
+        },
+        {
+          "value": 1352,
+          "word1": "coumadin",
+          "word2": "aspirin"
+        },
+        {
+          "value": 277.25,
+          "word1": "coumadin",
+          "word2": "aloe"
+        },
+        {
+          "value": 1309,
+          "word1": "wheezing",
+          "word2": "stridor"
+        },
+        {
+          "value": 827.75,
+          "word1": "pertussis",
+          "word2": "leprosy"
+        },
+        {
+          "value": 1270.25,
+          "word1": "zoonosis",
+          "word2": "babesiosis"
+        },
+        {
+          "value": 1135,
+          "word1": "zoonosis",
+          "word2": "plague"
+        },
+        {
+          "value": 1550.5,
+          "word1": "iron",
+          "word2": "iron"
+        },
+        {
+          "value": 753.75,
+          "word1": "lisinopril",
+          "word2": "altace"
+        },
+        {
+          "value": 1322,
+          "word1": "plavix",
+          "word2": "coumadin"
+        },
+        {
+          "value": 1329.75,
+          "word1": "plavix",
+          "word2": "lipitor"
+        },
+        {
+          "value": 1350.5,
+          "word1": "zoloft",
+          "word2": "prozac"
+        },
+        {
+          "value": 864.5,
+          "word1": "xenical",
+          "word2": "glucophage"
+        },
+        {
+          "value": 1303,
+          "word1": "carboplatin",
+          "word2": "cisplatin"
+        },
+        {
+          "value": 650.75,
+          "word1": "chills",
+          "word2": "snoring"
+        },
+        {
+          "value": 1399.75,
+          "word1": "polydipsia",
+          "word2": "polyuria"
+        },
+        {
+          "value": 1115,
+          "word1": "agitation",
+          "word2": "morphine"
+        },
+        {
+          "value": 943.75,
+          "word1": "agitation",
+          "word2": "synthroid"
+        },
+        {
+          "value": 1168.5,
+          "word1": "photopsia",
+          "word2": "headache"
+        },
+        {
+          "value": 1319.25,
+          "word1": "photophobia",
+          "word2": "meningism"
+        },
+        {
+          "value": 997.75,
+          "word1": "cromolyn",
+          "word2": "prednisolone"
+        },
+        {
+          "value": 597.5,
+          "word1": "dextran",
+          "word2": "amphetamine"
+        },
+        {
+          "value": 1043,
+          "word1": "cataracts",
+          "word2": "diabetes"
+        },
+        {
+          "value": 361,
+          "word1": "cataracts",
+          "word2": "epilepsy"
+        },
+        {
+          "value": 463.75,
+          "word1": "cataracts",
+          "word2": "insulin"
+        },
+        {
+          "value": 573.75,
+          "word1": "cataracts",
+          "word2": "glucophage"
+        },
+        {
+          "value": 249,
+          "word1": "cataracts",
+          "word2": "narcan"
+        },
+        {
+          "value": 473.5,
+          "word1": "cataracts",
+          "word2": "pancreatitis"
+        },
+        {
+          "value": 499.25,
+          "word1": "cataracts",
+          "word2": "wheezing"
+        },
+        {
+          "value": 695.75,
+          "word1": "esmolol",
+          "word2": "amiodarone"
+        },
+        {
+          "value": 511.5,
+          "word1": "clubbing",
+          "word2": "constipation"
+        },
+        {
+          "value": 1070,
+          "word1": "clubbing",
+          "word2": "dyspnea"
+        },
+        {
+          "value": 1027,
+          "word1": "clubbing",
+          "word2": "spiriva"
+        },
+        {
+          "value": 246.25,
+          "word1": "clubbing",
+          "word2": "garlic"
+        },
+        {
+          "value": 1058.5,
+          "word1": "opisthotonus",
+          "word2": "seizures"
+        },
+        {
+          "value": 448.5,
+          "word1": "mittelschmerz",
+          "word2": "aphonia"
+        },
+        {
+          "value": 292.25,
+          "word1": "mittelschmerz",
+          "word2": "toothache"
+        },
+        {
+          "value": 448.25,
+          "word1": "mittelschmerz",
+          "word2": "actonel"
+        },
+        {
+          "value": 1243.5,
+          "word1": "ketonuria",
+          "word2": "insulin"
+        },
+        {
+          "value": 1363.25,
+          "word1": "ketonuria",
+          "word2": "starvation"
+        },
+        {
+          "value": 704.75,
+          "word1": "ketonuria",
+          "word2": "chyluria"
+        },
+        {
+          "value": 1061,
+          "word1": "glomerulosclerosis",
+          "word2": "proteinuria"
+        },
+        {
+          "value": 487,
+          "word1": "reticulocytosis",
+          "word2": "hematemesis"
+        },
+        {
+          "value": 329.5,
+          "word1": "reticulocytosis",
+          "word2": "coumadin"
+        },
+        {
+          "value": 358.25,
+          "word1": "penicillin",
+          "word2": "motrin"
+        },
+        {
+          "value": 474.25,
+          "word1": "hyperextension",
+          "word2": "bacitracin"
+        },
+        {
+          "value": 489.5,
+          "word1": "hyperextension",
+          "word2": "hunger"
+        },
+        {
+          "value": 527.25,
+          "word1": "fishmouth",
+          "word2": "polyuria"
+        },
+        {
+          "value": 1248,
+          "word1": "fibrillation",
+          "word2": "angina"
+        },
+        {
+          "value": 1191.5,
+          "word1": "fibrillation",
+          "word2": "atenolol"
+        },
+        {
+          "value": 293,
+          "word1": "fibrillation",
+          "word2": "halitosis"
+        },
+        {
+          "value": 929.75,
+          "word1": "fibrillation",
+          "word2": "synthroid"
+        },
+        {
+          "value": 1285.75,
+          "word1": "fibrillation",
+          "word2": "thrombus"
+        },
+        {
+          "value": 1171.75,
+          "word1": "thirsty",
+          "word2": "lasix"
+        },
+        {
+          "value": 1249,
+          "word1": "thirsty",
+          "word2": "hunger"
+        },
+        {
+          "value": 1368.75,
+          "word1": "hyperemesis",
+          "word2": "nausea"
+        },
+        {
+          "value": 1475.5,
+          "word1": "hyperemesis",
+          "word2": "vomiting"
+        },
+        {
+          "value": 1456.5,
+          "word1": "hyperemesis",
+          "word2": "zofran"
+        },
+        {
+          "value": 1044.25,
+          "word1": "grimaces",
+          "word2": "hemiballismus"
+        },
+        {
+          "value": 1301.25,
+          "word1": "dyslipidemia",
+          "word2": "angina"
+        },
+        {
+          "value": 1303.25,
+          "word1": "dyslipidemia",
+          "word2": "atherosclerosis"
+        },
+        {
+          "value": 1261.5,
+          "word1": "dyslipidemia",
+          "word2": "cholestyramine"
+        },
+        {
+          "value": 1354.25,
+          "word1": "dyslipidemia",
+          "word2": "hyperlipidemia"
+        },
+        {
+          "value": 615.75,
+          "word1": "dyslipidemia",
+          "word2": "activase"
+        },
+        {
+          "value": 371.5,
+          "word1": "dyslipidemia",
+          "word2": "iron"
+        },
+        {
+          "value": 1425.5,
+          "word1": "dyslipidemia",
+          "word2": "lipitor"
+        },
+        {
+          "value": 1059,
+          "word1": "hyperoxia",
+          "word2": "anoxia"
+        },
+        {
+          "value": 564,
+          "word1": "hyperoxia",
+          "word2": "xenical"
+        },
+        {
+          "value": 1277,
+          "word1": "parasitemia",
+          "word2": "malaria"
+        },
+        {
+          "value": 864.75,
+          "word1": "parasitemia",
+          "word2": "medrol"
+        },
+        {
+          "value": 1017.5,
+          "word1": "actonel",
+          "word2": "insulin"
+        },
+        {
+          "value": 850.25,
+          "word1": "actonel",
+          "word2": "fosamax"
+        },
+        {
+          "value": 1110.75,
+          "word1": "levaquin",
+          "word2": "avelox"
+        },
+        {
+          "value": 1329.75,
+          "word1": "lipitor",
+          "word2": "lovastatin"
+        },
+        {
+          "value": 1436,
+          "word1": "lipitor",
+          "word2": "zocor"
+        },
+        {
+          "value": 593.25,
+          "word1": "calamine",
+          "word2": "bleomycin"
+        },
+        {
+          "value": 770.75,
+          "word1": "avitaminosis",
+          "word2": "starvation"
+        },
+        {
+          "value": 717.75,
+          "word1": "thrombophilias",
+          "word2": "hemoptysis"
+        },
+        {
+          "value": 1139,
+          "word1": "thrombophilias",
+          "word2": "thromboembolism"
+        },
+        {
+          "value": 765.75,
+          "word1": "thrombophilias",
+          "word2": "coumadin"
+        },
+        {
+          "value": 1471.75,
+          "word1": "neuropathy",
+          "word2": "diabetes"
+        },
+        {
+          "value": 1126.75,
+          "word1": "neuropathy",
+          "word2": "insulin"
+        },
+        {
+          "value": 1225.75,
+          "word1": "neuropathy",
+          "word2": "syphilis"
+        },
+        {
+          "value": 565.75,
+          "word1": "urolithiasis",
+          "word2": "amyloidosis"
+        },
+        {
+          "value": 582.25,
+          "word1": "dementias",
+          "word2": "psoriasis"
+        },
+        {
+          "value": 215.5,
+          "word1": "dementia",
+          "word2": "aloe"
+        },
+        {
+          "value": 603.75,
+          "word1": "pyorrhea",
+          "word2": "zovirax"
+        },
+        {
+          "value": 1064,
+          "word1": "pyorrhea",
+          "word2": "dysuria"
+        },
+        {
+          "value": 884.75,
+          "word1": "pyorrhea",
+          "word2": "nephritis"
+        },
+        {
+          "value": 305.75,
+          "word1": "pyorrhea",
+          "word2": "snoring"
+        },
+        {
+          "value": 603.75,
+          "word1": "tiredness",
+          "word2": "calan"
+        },
+        {
+          "value": 1363.5,
+          "word1": "tiredness",
+          "word2": "hypersomnolence"
+        },
+        {
+          "value": 931.25,
+          "word1": "hemophilia",
+          "word2": "hemoptysis"
+        },
+        {
+          "value": 343.5,
+          "word1": "acne",
+          "word2": "ataxia"
+        },
+        {
+          "value": 1002.75,
+          "word1": "bandemia",
+          "word2": "meningism"
+        },
+        {
+          "value": 685.25,
+          "word1": "bandemia",
+          "word2": "nausea"
+        },
+        {
+          "value": 1252.25,
+          "word1": "hypersomnolence",
+          "word2": "snoring"
+        },
+        {
+          "value": 1280,
+          "word1": "myelosuppression",
+          "word2": "chloramphenicol"
+        },
+        {
+          "value": 544.5,
+          "word1": "hemicrania",
+          "word2": "tylenol"
+        },
+        {
+          "value": 664.5,
+          "word1": "hemicrania",
+          "word2": "nitroglycerine"
+        },
+        {
+          "value": 1210.5,
+          "word1": "hemicrania",
+          "word2": "headache"
+        },
+        {
+          "value": 417.25,
+          "word1": "cardiomyopathy",
+          "word2": "tylenol"
+        },
+        {
+          "value": 1287.25,
+          "word1": "cardiomyopathy",
+          "word2": "angina"
+        },
+        {
+          "value": 358.25,
+          "word1": "cardiomyopathy",
+          "word2": "rogaine"
+        },
+        {
+          "value": 1048.25,
+          "word1": "cardiomyopathy",
+          "word2": "rales"
+        },
+        {
+          "value": 794.75,
+          "word1": "cardiomyopathies",
+          "word2": "syncope"
+        },
+        {
+          "value": 475,
+          "word1": "sleeplessness",
+          "word2": "dextran"
+        },
+        {
+          "value": 1389,
+          "word1": "sluggishness",
+          "word2": "fatigue"
+        },
+        {
+          "value": 1173.5,
+          "word1": "blanching",
+          "word2": "pallor"
+        },
+        {
+          "value": 399.75,
+          "word1": "aloe",
+          "word2": "vicodin"
+        },
+        {
+          "value": 654.5,
+          "word1": "overeating",
+          "word2": "sandimmune"
+        },
+        {
+          "value": 488.5,
+          "word1": "overeating",
+          "word2": "seizures"
+        },
+        {
+          "value": 1070.25,
+          "word1": "overeating",
+          "word2": "malnutrition"
+        },
+        {
+          "value": 1187,
+          "word1": "cirrhosis",
+          "word2": "anemia"
+        },
+        {
+          "value": 1040,
+          "word1": "cirrhosis",
+          "word2": "hematemesis"
+        },
+        {
+          "value": 664,
+          "word1": "cirrhosis",
+          "word2": "hernia"
+        },
+        {
+          "value": 1092.75,
+          "word1": "cirrhosis",
+          "word2": "zocor"
+        },
+        {
+          "value": 1142.75,
+          "word1": "cirrhosis",
+          "word2": "lipitor"
+        },
+        {
+          "value": 1341.25,
+          "word1": "weakness",
+          "word2": "emaciation"
+        },
+        {
+          "value": 726.25,
+          "word1": "weakness",
+          "word2": "zocor"
+        },
+        {
+          "value": 829.5,
+          "word1": "allergy",
+          "word2": "bacitracin"
+        },
+        {
+          "value": 279.5,
+          "word1": "allergy",
+          "word2": "heartburn"
+        },
+        {
+          "value": 1084.25,
+          "word1": "allergy",
+          "word2": "heparin"
+        },
+        {
+          "value": 416.25,
+          "word1": "allergy",
+          "word2": "meningism"
+        },
+        {
+          "value": 252.25,
+          "word1": "allergy",
+          "word2": "torticollis"
+        },
+        {
+          "value": 1298.25,
+          "word1": "regurgitation",
+          "word2": "heartburn"
+        }
+      ]
+    }
+  ],
+  "originalInstructions": ""
+}

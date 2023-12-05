@@ -1,0 +1,537 @@
+{
+  "id": "mayoSRS",
+  "metadata": {
+    "name": "MayoSRS",
+    "urls": [
+      "https://conservancy.umn.edu/handle/11299/196265"
+    ],
+    "papers": [
+      {
+        "title": "Measures of semantic similarity and relatedness in the biomedical domain",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1532046406000645?via%3Dihub"
+      }
+    ],
+    "date": "2007",
+    "description": "A set of 101 medical concept pairs manually rater by medical coders for semantic relatedness.",
+    "downloadUrls": [
+      "https://conservancy.umn.edu/bitstream/handle/11299/196265/MayoSRS.csv?sequence=1&isAllowed=y"
+    ],
+    "measureTypes": [
+      "relatedness"
+    ]
+  },
+  "partitions": [
+    {
+      "id": "mean",
+      "measureType": "relatedness",
+      "data": [
+        {
+          "value": 6.69,
+          "word1": "difficulty walking",
+          "word2": "antalgic gait"
+        },
+        {
+          "value": 2.38,
+          "word1": "rheumatoid nodule",
+          "word2": "lung nodule"
+        },
+        {
+          "value": 1,
+          "word1": "hand splint",
+          "word2": "splinter hemorrhage"
+        },
+        {
+          "value": 1,
+          "word1": "diabetes",
+          "word2": "polyp"
+        },
+        {
+          "value": 1,
+          "word1": "portal hypertension",
+          "word2": "nevus"
+        },
+        {
+          "value": 1.69,
+          "word1": "congestive heart failure",
+          "word2": "portal hypertension"
+        },
+        {
+          "value": 3.92,
+          "word1": "peripheral edema",
+          "word2": "pulmonary edema"
+        },
+        {
+          "value": 4.69,
+          "word1": "kidney stone",
+          "word2": "ureteral obstruction"
+        },
+        {
+          "value": 5.31,
+          "word1": "back pain",
+          "word2": "spinal stenosis"
+        },
+        {
+          "value": 4,
+          "word1": "osteophyte",
+          "word2": "heberdens node"
+        },
+        {
+          "value": 7.08,
+          "word1": "rheumatoid arthritis",
+          "word2": "rheumatoid nodule"
+        },
+        {
+          "value": 1,
+          "word1": "contraceptive",
+          "word2": "contraindicated"
+        },
+        {
+          "value": 2.15,
+          "word1": "immunization",
+          "word2": "immunodeficient"
+        },
+        {
+          "value": 4.46,
+          "word1": "myopathy",
+          "word2": "dermatomyositis"
+        },
+        {
+          "value": 2.23,
+          "word1": "HMG Co A reductase inhibitor",
+          "word2": "hyperlipidemia"
+        },
+        {
+          "value": 4.08,
+          "word1": "weakness",
+          "word2": "neuropathy"
+        },
+        {
+          "value": 4.08,
+          "word1": "dyspnea",
+          "word2": "tachypnea"
+        },
+        {
+          "value": 2.77,
+          "word1": "pulmonary embolus",
+          "word2": "hemoptysis"
+        },
+        {
+          "value": 2.85,
+          "word1": "osteoarthritis",
+          "word2": "bone sclerosis"
+        },
+        {
+          "value": 3.77,
+          "word1": "drawer sign",
+          "word2": "knee pain"
+        },
+        {
+          "value": 2.08,
+          "word1": "laxity",
+          "word2": "Marfan Syndrome"
+        },
+        {
+          "value": 3.54,
+          "word1": "trigger point",
+          "word2": "fibromyalgia"
+        },
+        {
+          "value": 5.69,
+          "word1": "morning stiffness",
+          "word2": "rheumatoid arthriits"
+        },
+        {
+          "value": 5,
+          "word1": "stroke",
+          "word2": "hemipareisis"
+        },
+        {
+          "value": 4.23,
+          "word1": "brainstem",
+          "word2": "cranial nerve"
+        },
+        {
+          "value": 4.38,
+          "word1": "swallowing",
+          "word2": "peristalsis"
+        },
+        {
+          "value": 3.77,
+          "word1": "dysphagia",
+          "word2": "hypomotility"
+        },
+        {
+          "value": 5.23,
+          "word1": "T wave",
+          "word2": "myocaridal infarction"
+        },
+        {
+          "value": 4.08,
+          "word1": "cavitation",
+          "word2": "tuberculosis"
+        },
+        {
+          "value": 8.23,
+          "word1": "metastasis",
+          "word2": "carcinomatosis"
+        },
+        {
+          "value": 4.69,
+          "word1": "temporal arteritis",
+          "word2": "headache"
+        },
+        {
+          "value": 5.23,
+          "word1": "Antinuclear antibody (ANA)",
+          "word2": "autoimmune"
+        },
+        {
+          "value": 4.85,
+          "word1": "Raynauds phenomenon",
+          "word2": "digital ischemia"
+        },
+        {
+          "value": 5,
+          "word1": "scleroderma",
+          "word2": "systemic sclerosis"
+        },
+        {
+          "value": 4.85,
+          "word1": "pneumonia",
+          "word2": "infiltrate"
+        },
+        {
+          "value": 6.85,
+          "word1": "ileitis",
+          "word2": "Crohns Disease"
+        },
+        {
+          "value": 5.31,
+          "word1": "paraneoplastic",
+          "word2": "malignancy"
+        },
+        {
+          "value": 6.15,
+          "word1": "Rheumatoid arthritis",
+          "word2": "joint erosion"
+        },
+        {
+          "value": 1.92,
+          "word1": "necrosis",
+          "word2": "liquefaction"
+        },
+        {
+          "value": 5.54,
+          "word1": "diarrhea",
+          "word2": "colitis"
+        },
+        {
+          "value": 5.23,
+          "word1": "dyspepsia",
+          "word2": "peptic ulcer disease"
+        },
+        {
+          "value": 6.08,
+          "word1": "confusion",
+          "word2": "delusion"
+        },
+        {
+          "value": 6,
+          "word1": "hallucination",
+          "word2": "psychotic"
+        },
+        {
+          "value": 6.85,
+          "word1": "stomatitis",
+          "word2": "mouth ulcer"
+        },
+        {
+          "value": 3.23,
+          "word1": "pulmonary embolus",
+          "word2": "pneumonia"
+        },
+        {
+          "value": 3.77,
+          "word1": "rheumatoid arthritis",
+          "word2": "arthroscopy"
+        },
+        {
+          "value": 3.31,
+          "word1": "injection",
+          "word2": "synovial effusion"
+        },
+        {
+          "value": 2.23,
+          "word1": "uveitis",
+          "word2": "HLA B27"
+        },
+        {
+          "value": 3,
+          "word1": "vasculitis",
+          "word2": "thrombus"
+        },
+        {
+          "value": 1.69,
+          "word1": "sepsis",
+          "word2": "hypotension"
+        },
+        {
+          "value": 5.31,
+          "word1": "urticaria",
+          "word2": "buterfly rash"
+        },
+        {
+          "value": 4.31,
+          "word1": "gastrosomy",
+          "word2": "malnutrition"
+        },
+        {
+          "value": 2.38,
+          "word1": "edema",
+          "word2": "glomerular filtration rate"
+        },
+        {
+          "value": 5.46,
+          "word1": "Colonoscopy",
+          "word2": "polyp"
+        },
+        {
+          "value": 2.85,
+          "word1": "cortisone",
+          "word2": "osteoporosis"
+        },
+        {
+          "value": 5.62,
+          "word1": "aortic stenosis",
+          "word2": "calcification"
+        },
+        {
+          "value": 3.15,
+          "word1": "malaria",
+          "word2": "amebiasis"
+        },
+        {
+          "value": 2.85,
+          "word1": "neuropathy",
+          "word2": "paralysis"
+        },
+        {
+          "value": 3.31,
+          "word1": "seizure",
+          "word2": "headache"
+        },
+        {
+          "value": 1,
+          "word1": "lymphoid hyperplasia",
+          "word2": "xerostomia"
+        },
+        {
+          "value": 1.46,
+          "word1": "sarcoidosis",
+          "word2": "Vitamin D"
+        },
+        {
+          "value": 3.92,
+          "word1": "leg ulcer",
+          "word2": "varicsoe vein"
+        },
+        {
+          "value": 4.38,
+          "word1": "walking",
+          "word2": "stair climbing"
+        },
+        {
+          "value": 3.15,
+          "word1": "panniculitis",
+          "word2": "lipoma"
+        },
+        {
+          "value": 3.31,
+          "word1": "arrythmia",
+          "word2": "mitral valve"
+        },
+        {
+          "value": 5.46,
+          "word1": "hemolysis",
+          "word2": "hemoglobin"
+        },
+        {
+          "value": 1.92,
+          "word1": "dysguesia",
+          "word2": "swallowing"
+        },
+        {
+          "value": 2.31,
+          "word1": "dysparunia",
+          "word2": "ovulation"
+        },
+        {
+          "value": 3,
+          "word1": "penicillin",
+          "word2": "allergy"
+        },
+        {
+          "value": 5.08,
+          "word1": "leukemia",
+          "word2": "stem cell"
+        },
+        {
+          "value": 1.69,
+          "word1": "prostate cancer",
+          "word2": "acid phosphatase"
+        },
+        {
+          "value": 2.62,
+          "word1": "meniscus",
+          "word2": "osteoarthritis"
+        },
+        {
+          "value": 1,
+          "word1": "sodium",
+          "word2": "mri"
+        },
+        {
+          "value": 1.77,
+          "word1": "prothombin",
+          "word2": "syringe"
+        },
+        {
+          "value": 1.08,
+          "word1": "multiple myeloma",
+          "word2": "depression"
+        },
+        {
+          "value": 1,
+          "word1": "diabetes",
+          "word2": "rheumatoid nodule"
+        },
+        {
+          "value": 1.23,
+          "word1": "ketoacidosis",
+          "word2": "lupus"
+        },
+        {
+          "value": 1,
+          "word1": "tracheal stenosis",
+          "word2": "colon cancer"
+        },
+        {
+          "value": 2.85,
+          "word1": "sinusitis",
+          "word2": "sinusoid"
+        },
+        {
+          "value": 1,
+          "word1": "cryptogenic cirrhosis",
+          "word2": "gastrin"
+        },
+        {
+          "value": 1,
+          "word1": "heart failure",
+          "word2": "psychosis"
+        },
+        {
+          "value": 1,
+          "word1": "rectal polyp",
+          "word2": "laryngeal cancer"
+        },
+        {
+          "value": 1.08,
+          "word1": "antiphospholipid antibody",
+          "word2": "acne"
+        },
+        {
+          "value": 1.31,
+          "word1": "perseveration",
+          "word2": "venous stasis ulcer"
+        },
+        {
+          "value": 1,
+          "word1": "bipolar depression",
+          "word2": "junctional rhythm"
+        },
+        {
+          "value": 1,
+          "word1": "mitral stenosis",
+          "word2": "peptic ulcer disease"
+        },
+        {
+          "value": 1,
+          "word1": "acute respiratory distress syndrome",
+          "word2": "celluitis"
+        },
+        {
+          "value": 1,
+          "word1": "spinal cord compression",
+          "word2": "wound compress"
+        },
+        {
+          "value": 1,
+          "word1": "cervical spinal stenosis",
+          "word2": "alcoholic cirrhosis"
+        },
+        {
+          "value": 1,
+          "word1": "autoimmune hepatitis",
+          "word2": "premature labor"
+        },
+        {
+          "value": 1.46,
+          "word1": "cerebral aneurysm",
+          "word2": "pulmonary embolus"
+        },
+        {
+          "value": 1,
+          "word1": "small cell carcinoma of lung",
+          "word2": "type 2 diabetes"
+        },
+        {
+          "value": 1.54,
+          "word1": "hemetemesis",
+          "word2": "xerostomia"
+        },
+        {
+          "value": 2,
+          "word1": "corneal ulcer",
+          "word2": "decubitus ulcer"
+        },
+        {
+          "value": 1,
+          "word1": "dyspnea",
+          "word2": "myalgia"
+        },
+        {
+          "value": 1.08,
+          "word1": "chronic obstructive pulmonary disease",
+          "word2": "haletosis"
+        },
+        {
+          "value": 1,
+          "word1": "osteoarthritis",
+          "word2": "nephrolithiasis"
+        },
+        {
+          "value": 1.08,
+          "word1": "medial collateral ligament tear",
+          "word2": "torsade de pointes"
+        },
+        {
+          "value": 1,
+          "word1": "pulmonary fibrosis",
+          "word2": "appendicitis"
+        },
+        {
+          "value": 1,
+          "word1": "carpal tunnel syndrome",
+          "word2": "alveolitis"
+        },
+        {
+          "value": 1.54,
+          "word1": "erythema nodusum",
+          "word2": "osteoporosis"
+        }
+      ]
+    }
+  ],
+  "originalInstructions": ""
+}
