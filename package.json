@@ -1,20 +1,17 @@
 {
   "name": "punuy-datasets",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "",
   "main": "index.ts",
   "scripts": {
     "build": "./src/scripts/compile-schema",
-    "preversion": "npm test",
+    "preversion": "npm run lint",
     "postversion": "git push && git push --tags && gh release create v$npm_package_version --title v$npm_package_version --generate-notes",
     "prepublishOnly": "npm test",
-    "preversion": "npm run lint",
     "version": "npm run format && git add -A src",
-    "postversion": "git push && git push --tags && gh release create v$npm_package_version --title v$npm_package_version --generate-notes",
     "lint": "eslint --ignore-path .eslintignore --ext .js,.ts .",
     "format": "NODE_OPTIONS=--max-old-space-size=4096 prettier --write \"**/*.+(js|ts|json)\"",
     "prepare": "npm run build",
-    "prepublishOnly": "npm test",
     "test": "./src/scripts/validate"
   },
   "repository": {
