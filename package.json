@@ -8,6 +8,13 @@
     "preversion": "npm test",
     "postversion": "git push && git push --tags && gh release create v$npm_package_version --title v$npm_package_version --generate-notes",
     "prepublishOnly": "npm test",
+    "preversion": "npm run lint",
+    "version": "npm run format && git add -A src",
+    "postversion": "git push && git push --tags && gh release create v$npm_package_version --title v$npm_package_version --generate-notes",
+    "lint": "eslint --ignore-path .eslintignore --ext .js,.ts .",
+    "format": "NODE_OPTIONS=--max-old-space-size=4096 prettier --ignore-path .gitignore --write \"**/*.+(js|ts|json)\"",
+    "prepare": "npm run build",
+    "prepublishOnly": "npm test",
     "test": "./src/scripts/validate"
   },
   "repository": {
@@ -35,5 +42,12 @@
     "ajv-cli": "5.0.0",
     "ajv-formats": "2.1.1",
     "typescript-json-schema": "0.62.0"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "6.13.2",
+    "@typescript-eslint/parser": "6.13.2",
+    "eslint": "8.55.0",
+    "eslint-config-prettier": "9.1.0",
+    "prettier": "3.1.0"
   }
 }

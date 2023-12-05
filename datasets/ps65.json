@@ -5,7 +5,7 @@
     "urls": [],
     "papers": [
       {
-        "title": "Implementation and Evaluation of a New Semantic Similarity Metric Combining Features and Intrinsic Information Content",
+        "title": "Implementation and Evaluation of a New Semantic Similarity Metric Combining Features and Intrinsic Information Content"
       }
     ],
     "date": "2008",
@@ -84,8 +84,7 @@
         {"word1": "fruit", "word2": "furnace", "value": 0.438},
         {"word1": "noon", "word2": "string", "value": 0.443},
         {"word1": "rooster", "word2": "voyage", "value": 0.421},
-        {"word1": "cord", "word2": "smile", "value": 0.476},
-
+        {"word1": "cord", "word2": "smile", "value": 0.476}
         ]
     }
   ]
