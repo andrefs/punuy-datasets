@@ -5,7 +5,8 @@
   "main": "src/index.ts",
   "exports": {
     ".": "./src/index.ts",
-    "./datasets/*": "./src/datasets/*.ts"
+    "./datasets/*": "./src/datasets/*.ts",
+    "./lib/*": "./src/lib/*.ts"
   },
   "scripts": {
     "build": "./src/scripts/compile-schema",
