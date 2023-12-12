@@ -1,0 +1,345 @@
+{
+  "id": "mesh1",
+  "metadata": {
+    "name": "mesh1",
+    "urls": [
+      "https://www.sciencedirect.com/science/article/pii/S1532046406000645"
+    ],
+    "papers": [
+      {
+        "title": "Measures of semantic similarity and relatedness in the biomedical domain",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1532046406000645"
+      }
+    ],
+    "date": "2007",
+    "description": "",
+    "downloadUrls": [
+      "https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/Biomedical%20Datasets/English/Semantic%20Similarity/MeSH1_30_Coders_EN.csv",
+      "https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/Biomedical%20Datasets/English/Semantic%20Similarity/MeSH1_30_Physicians_EN.csv"
+    ],
+    "measureTypes": ["similarity"]
+  },
+  "partitions": [
+    {
+      "id": "physicians",
+      "measureType": "similarity",
+      "interval": {
+        "min": 1,
+        "max": 4
+      },
+      "data": [
+        {
+          "word1": "Renal failure",
+          "word2": "Kidney failure",
+          "value": 4
+        },
+        {
+          "word1": "Abortion",
+          "word2": "Miscarriage",
+          "value": 3
+        },
+        {
+          "word1": "Delusion",
+          "word2": "Schizophrenia",
+          "value": 3
+        },
+        {
+          "word1": "Metastasis",
+          "word2": "Adenocarcinoma",
+          "value": 2.7
+        },
+        {
+          "word1": "Calcification",
+          "word2": "Stenosis",
+          "value": 2.7
+        },
+        {
+          "word1": "Mitral stenosis",
+          "word2": "Atrial fibrillation",
+          "value": 2.3
+        },
+        {
+          "word1": "Rheumatoid arthritis",
+          "word2": "Lupus",
+          "value": 2
+        },
+        {
+          "word1": "Carpal tunnel syndrome",
+          "word2": "Osteoarthritis",
+          "value": 2
+        },
+        {
+          "word1": "Diabetes mellitus",
+          "word2": "Hypertension",
+          "value": 2
+        },
+        {
+          "word1": "Acne",
+          "word2": "Syringe",
+          "value": 2
+        },
+        {
+          "word1": "Antibiotic",
+          "word2": "Allergy",
+          "value": 1.7
+        },
+        {
+          "word1": "Multiple sclerosis",
+          "word2": "Psychosis",
+          "value": 1
+        },
+        {
+          "word1": "Appendicitis",
+          "word2": "Osteoporosis",
+          "value": 1
+        },
+        {
+          "word1": "Depression",
+          "word2": "Cellulitis",
+          "value": 1
+        },
+        {
+          "word1": "Hyperlipidemia",
+          "word2": "Metastasis",
+          "value": 1
+        },
+        {
+          "word1": "Heart",
+          "word2": "Myocardium",
+          "value": 3.3
+        },
+        {
+          "word1": "Stroke",
+          "word2": "Infarct",
+          "value": 3
+        },
+        {
+          "word1": "Diarrhea",
+          "word2": " Stomach cramps",
+          "value": 2.3
+        },
+        {
+          "word1": "Xerostomia",
+          "word2": "Alcoholic cirrhosis",
+          "value": 1
+        },
+        {
+          "word1": "Lymphoid hyperplasia",
+          "word2": "Laryngeal cancer",
+          "value": 1.3
+        },
+        {
+          "word1": "Varicose vein",
+          "word2": "Entire knee meniscus",
+          "value": 1
+        },
+        {
+          "word1": "Chronic obstructive pulmonary disease",
+          "word2": "Lung infiltrates",
+          "value": 2.3
+        },
+        {
+          "word1": "Cortisone",
+          "word2": "Total knee replacement",
+          "value": 1.7
+        },
+        {
+          "word1": "Congestive heart failure",
+          "word2": "Pulmonary edema",
+          "value": 3
+        },
+        {
+          "word1": "Rectal polyp",
+          "word2": "Aorta",
+          "value": 1
+        },
+        {
+          "word1": "Peptic ulcer disease",
+          "word2": "Myopia",
+          "value": 1
+        },
+        {
+          "word1": "Pulmonary embolus",
+          "word2": "Myocardial infarction",
+          "value": 1.7
+        },
+        {
+          "word1": "Pulmonary fibrosis",
+          "word2": "Lung cancer",
+          "value": 1.7
+        },
+        {
+          "word1": "Cholangiocarcinoma",
+          "word2": "Colonoscopy",
+          "value": 1.3
+        },
+        {
+          "word1": "Brain tumor",
+          "word2": "Intracranial hemorrhage",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "id": "coders",
+      "measureType": "similarity",
+      "interval": {
+        "min": 1,
+        "max": 4
+      },
+      "data": [
+        {
+          "word1": "Renal failure",
+          "word2": "Kidney failure",
+          "value": 4
+        },
+        {
+          "word1": "Abortion",
+          "word2": "Miscarriage",
+          "value": 3.3
+        },
+        {
+          "word1": "Delusion",
+          "word2": "Schizophrenia",
+          "value": 2.2
+        },
+        {
+          "word1": "Metastasis",
+          "word2": "Adenocarcinoma",
+          "value": 1.8
+        },
+        {
+          "word1": "Calcification",
+          "word2": "Stenosis",
+          "value": 2
+        },
+        {
+          "word1": "Mitral stenosis",
+          "word2": "Atrial fibrillation",
+          "value": 1.3
+        },
+        {
+          "word1": "Rheumatoid arthritis",
+          "word2": "Lupus",
+          "value": 1.1
+        },
+        {
+          "word1": "Carpal tunnel syndrome",
+          "word2": "Osteoarthritis",
+          "value": 1.1
+        },
+        {
+          "word1": "Diabetes mellitus",
+          "word2": "Hypertension",
+          "value": 1
+        },
+        {
+          "word1": "Acne",
+          "word2": "Syringe",
+          "value": 1
+        },
+        {
+          "word1": "Antibiotic",
+          "word2": "Allergy",
+          "value": 1.2
+        },
+        {
+          "word1": "Multiple sclerosis",
+          "word2": "Psychosis",
+          "value": 1
+        },
+        {
+          "word1": "Appendicitis",
+          "word2": "Osteoporosis",
+          "value": 1
+        },
+        {
+          "word1": "Depression",
+          "word2": "Cellulitis",
+          "value": 1
+        },
+        {
+          "word1": "Hyperlipidemia",
+          "word2": "Metastasis",
+          "value": 1
+        },
+        {
+          "word1": "Heart",
+          "word2": "Myocardium",
+          "value": 3
+        },
+        {
+          "word1": "Stroke",
+          "word2": "Infarct",
+          "value": 2.8
+        },
+        {
+          "word1": "Diarrhea",
+          "word2": " Stomach cramps",
+          "value": 1.3
+        },
+        {
+          "word1": "Xerostomia",
+          "word2": "Alcoholic cirrhosis",
+          "value": 1
+        },
+        {
+          "word1": "Lymphoid hyperplasia",
+          "word2": "Laryngeal cancer",
+          "value": 1
+        },
+        {
+          "word1": "Varicose vein",
+          "word2": "Entire knee meniscus",
+          "value": 1
+        },
+        {
+          "word1": "Chronic obstructive pulmonary disease",
+          "word2": "Lung infiltrates",
+          "value": 1.9
+        },
+        {
+          "word1": "Cortisone",
+          "word2": "Total knee replacement",
+          "value": 1
+        },
+        {
+          "word1": "Congestive heart failure",
+          "word2": "Pulmonary edema",
+          "value": 1.4
+        },
+        {
+          "word1": "Rectal polyp",
+          "word2": "Aorta",
+          "value": 1
+        },
+        {
+          "word1": "Peptic ulcer disease",
+          "word2": "Myopia",
+          "value": 1
+        },
+        {
+          "word1": "Pulmonary embolus",
+          "word2": "Myocardial infarction",
+          "value": 1.2
+        },
+        {
+          "word1": "Pulmonary fibrosis",
+          "word2": "Lung cancer",
+          "value": 1.4
+        },
+        {
+          "word1": "Cholangiocarcinoma",
+          "word2": "Colonoscopy",
+          "value": 1
+        },
+        {
+          "word1": "Brain tumor",
+          "word2": "Intracranial hemorrhage",
+          "value": 1.3
+        }
+      ]
+    }
+  ],
+  "originalInstructions": ""
+}
