@@ -16,8 +16,6 @@ import yp130 from "./datasets/yp130";
 import ps65 from "./datasets/ps65";
 import mesh2 from "./datasets/mesh2";
 
-import mesh1 from "./datasets/mesh2";
-
 export {
   bg1000,
   mc30,
@@ -36,6 +34,4 @@ export {
   yp130,
   ps65,
   mesh2,
-  //
-  mesh1,
 };
