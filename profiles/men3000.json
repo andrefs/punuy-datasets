@@ -19,7 +19,7 @@
       "https://staff.fnwi.uva.nl/e.bruni/resources/MEN.zip"
     ],
     "measureTypes": ["relatedness"],
-    "tags": ["pair-comparison"]
+    "tags": ["pair-comparison", "mturk"]
   },
   "partitions": [
     {
@@ -28,6 +28,16 @@
       "interval": {
         "max": 50,
         "min": 0
+      },
+      "metrics": {
+        "annotators": {
+          "total": null,
+          "minEachPair": null
+        },
+        "interAgreement": {
+          "pearson": 0.84,
+          "spearman": 0.68
+        }
       },
       "data": [
         {
