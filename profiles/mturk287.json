@@ -23,6 +23,16 @@
         "min": 1,
         "max": 5
       },
+      "metrics": {
+        "annotators": {
+          "total": 30,
+          "minEachPair": 10
+        },
+        "interAgreement": {
+          "pearson": null,
+          "spearman": null
+        }
+      },
       "data": [
         {
           "word1": "episcopal",
