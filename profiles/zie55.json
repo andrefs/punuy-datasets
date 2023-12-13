@@ -25,6 +25,16 @@
         "min": 0,
         "max": 5
       },
+      "metrics": {
+        "annotators": {
+          "total": 23,
+          "eachPair": 23
+        },
+        "interAgreement": {
+          "pearson": 0.7027,
+          "spearman": null
+        }
+      },
       "data": [
         {
           "word1": "Eminem",
@@ -184,6 +194,16 @@
       "interval": {
         "min": 0,
         "max": 4
+      },
+      "metrics": {
+        "annotators": {
+          "total": 51,
+          "eachPair": 51
+        },
+        "interAgreement": {
+          "pearson": 0.7091,
+          "spearman": null
+        }
       },
       "data": [
         {
