@@ -14,7 +14,9 @@
     "downloadUrls": [
       "https://web.archive.org/web/20070824183036id_/http://www.informatik.uni-freiburg.de/~ksimon/papers/CIKM-06-Proximity.pdf"
     ],
-    "measureTypes": ["relatedness"]
+    "measureTypes": [
+      "relatedness"
+    ]
   },
   "partitions": [
     {
@@ -22,7 +24,7 @@
       "measureType": "relatedness",
       "interval": {
         "min": 0,
-        "max": 4
+        "max": 5
       },
       "data": [
         {
