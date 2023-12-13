@@ -20,6 +20,7 @@ import zie55 from "./datasets/zie55";
 import gm30 from "./datasets/gm30";
 import mturk771 from "./datasets/mturk771";
 import scws2003 from "./datasets/scws2003";
+import reword26 from "./datasets/reword26";
 
 export {
   bg1000,
@@ -44,4 +45,5 @@ export {
   gm30,
   mturk771,
   scws2003,
+  reword26,
 };

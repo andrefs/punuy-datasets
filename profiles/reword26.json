@@ -1,0 +1,166 @@
+{
+  "id": "reword26",
+  "metadata": {
+    "name": "REWOrD",
+    "urls": [
+      "https://relwod.wordpress.com/datasets/"
+    ],
+    "papers": [
+      {
+        "title": "REWOrD: Semantic Relatedness in the Web of Data",
+        "url": "https://cdn.aaai.org/ojs/8107/8107-13-11634-1-2-20201228.pdf"
+      }
+    ],
+    "date": "2012",
+    "description": "A new dataset of 26 pairs of entities for which relatedness judgements have been provided by 20 judges has been collected. The motivation for this new dataset is that existing datasets such as Rubinstein and Goodenough (R&G, Miller and Charles (M&C) and Word-353,  contain couples of entities such as Car-Automobile or Stock-Market and miss couples of more specific entities such as Android-Linux.\n\nHere are reported the 26 couples along with the scores provided by 20 Computer Science Master students normalized between 0 and 1.",
+    "downloadUrls": [
+      "https://relwod.wordpress.com/datasets/"
+    ],
+    "measureTypes": [
+      "relatedness"
+    ]
+  },
+  "partitions": [
+    {
+      "id": "g26",
+      "measureType": "relatedness",
+      "interval": {
+        "max": 1.0,
+        "min": 0.0
+      },
+      "data": [
+        {
+          "word1": "Android",
+          "word2": "Linux",
+          "value": 0.615
+        },
+        {
+          "word1": "Bob Dylan",
+          "word2": "Beat Generation",
+          "value": 0.307
+        },
+        {
+          "word1": "Amsterdam",
+          "word2": "Venice",
+          "value": 0.894
+        },
+        {
+          "word1": "California",
+          "word2": "Computer Science",
+          "value": 0.503
+        },
+        {
+          "word1": "China",
+          "word2": "Japan",
+          "value": 0.709
+        },
+        {
+          "word1": "Computer Science",
+          "word2": "Music",
+          "value": 0.193
+        },
+        {
+          "word1": "Turing",
+          "word2": "Computer Science",
+          "value": 1.0
+        },
+        {
+          "word1": "Gandhi",
+          "word2": "Peace",
+          "value": 0.559
+        },
+        {
+          "word1": "Google",
+          "word2": "IBM",
+          "value": 0.782
+        },
+        {
+          "word1": "HTC",
+          "word2": "Nokia",
+          "value": 0.972
+        },
+        {
+          "word1": "Italy",
+          "word2": "Pasta",
+          "value": 0.726
+        },
+        {
+          "word1": "Maradona",
+          "word2": "Pele",
+          "value": 0.849
+        },
+        {
+          "word1": "Maradona",
+          "word2": "Music",
+          "value": 0.0
+        },
+        {
+          "word1": "Windows",
+          "word2": "Redmond",
+          "value": 0.447
+        },
+        {
+          "word1": "New York",
+          "word2": "Paris",
+          "value": 0.503
+        },
+        {
+          "word1": "Pink Floyd",
+          "word2": "Eclipse",
+          "value": 0.279
+        },
+        {
+          "word1": "Radiohead",
+          "word2": "The Beatles",
+          "value": 0.553
+        },
+        {
+          "word1": "Rock",
+          "word2": "Blues",
+          "value": 0.391
+        },
+        {
+          "word1": "Bill Clinton",
+          "word2": "Obama",
+          "value": 0.447
+        },
+        {
+          "word1": "Semantic Web",
+          "word2": "World Wide Web",
+          "value": 0.642
+        },
+        {
+          "word1": "Stanley Kubrick",
+          "word2": "David Lynch",
+          "value": 0.698
+        },
+        {
+          "word1": "The Big Bang Theory",
+          "word2": "California",
+          "value": 0.363
+        },
+        {
+          "word1": "Turing",
+          "word2": "Biology",
+          "value": 0.243
+        },
+        {
+          "word1": "Turkey",
+          "word2": "Europe",
+          "value": 0.363
+        },
+        {
+          "word1": "United States",
+          "word2": "Europe",
+          "value": 0.335
+        },
+        {
+          "word1": "Vienna",
+          "word2": "Danube",
+          "value": 0.257
+        }
+      ]
+    }
+  ],
+  "originalInstructions": ""
+}
