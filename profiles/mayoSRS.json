@@ -24,6 +24,16 @@
         "min": 1,
         "max": 10
       },
+      "metrics": {
+        "annotators": {
+          "total": 13,
+          "minEachPair": 13
+        },
+        "interAgreement": {
+          "pearson": 0.51,
+          "spearman": null
+        }
+      },
       "data": [
         {
           "value": 6.69,
