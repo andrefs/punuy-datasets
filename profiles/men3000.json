@@ -35,8 +35,8 @@
           "minEachPair": null
         },
         "interAgreement": {
-          "pearson": 0.84,
-          "spearman": 0.68
+          "pearson": null,
+          "spearman": null
         }
       },
       "data": [
@@ -10049,6 +10049,16 @@
         "max": 50,
         "min": 0
       },
+      "metrics": {
+        "annotators": {
+          "total": null,
+          "minEachPair": null
+        },
+        "interAgreement": {
+          "pearson": null,
+          "spearman": null
+        }
+      },
       "data": [
         {
           "word1": "display",
@@ -15058,6 +15068,16 @@
       "interval": {
         "max": 50,
         "min": 0
+      },
+      "metrics": {
+        "annotators": {
+          "total": null,
+          "minEachPair": null
+        },
+        "interAgreement": {
+          "pearson": 0.84,
+          "spearman": 0.68
+        }
       },
       "data": [
         {
