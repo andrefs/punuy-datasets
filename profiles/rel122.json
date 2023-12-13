@@ -1,0 +1,643 @@
+{
+  "id": "rel122",
+  "metadata": {
+    "name": "Rel-122",
+    "urls": ["https://www.cs.ucf.edu/~seansz/rel-122/"],
+    "papers": [
+      {
+        "title": " A New Set of Norms for Semantic Relatedness Measures",
+        "url": "https://www.cs.ucf.edu/~seansz/publications/acl2013-szumlanski.pdf"
+      }
+    ],
+    "date": "2013",
+    "description": "",
+    "downloadUrls": [
+      "https://www.cs.ucf.edu/~seansz/rel-122/rel122-norms.txt",
+      "https://www.cs.ucf.edu/~seansz/rel-122/rel122-norms.pdf"
+    ],
+    "measureTypes": ["relatedness"]
+  },
+  "partitions": [
+    {
+      "id": "main",
+      "measureType": "relatedness",
+      "interval": {
+        "max": 4,
+        "min": 0
+      },
+      "data": [
+        {
+          "value": 3.94118,
+          "word1": "underwear",
+          "word2": "lingerie"
+        },
+        {
+          "value": 3.85294,
+          "word1": "digital camera",
+          "word2": "photographer"
+        },
+        {
+          "value": 3.84706,
+          "word1": "tuition",
+          "word2": "fee"
+        },
+        {
+          "value": 3.81781,
+          "word1": "leaves",
+          "word2": "rake"
+        },
+        {
+          "value": 3.79412,
+          "word1": "symptom",
+          "word2": "fever"
+        },
+        {
+          "value": 3.78235,
+          "word1": "fertility",
+          "word2": "ovary"
+        },
+        {
+          "value": 3.77727,
+          "word1": "beef",
+          "word2": "slaughterhouse"
+        },
+        {
+          "value": 3.75455,
+          "word1": "broadcast",
+          "word2": "commentator"
+        },
+        {
+          "value": 3.715,
+          "word1": "apparel",
+          "word2": "jewellery"
+        },
+        {
+          "value": 3.69,
+          "word1": "arrest",
+          "word2": "detention"
+        },
+        {
+          "value": 3.60714,
+          "word1": "hardware",
+          "word2": "pc"
+        },
+        {
+          "value": 3.6,
+          "word1": "street",
+          "word2": "neighborhood"
+        },
+        {
+          "value": 3.57143,
+          "word1": "pixel",
+          "word2": "digital camera"
+        },
+        {
+          "value": 3.53571,
+          "word1": "vehicle",
+          "word2": "trailer"
+        },
+        {
+          "value": 3.47,
+          "word1": "mathematics",
+          "word2": "method"
+        },
+        {
+          "value": 3.46471,
+          "word1": "draft",
+          "word2": "manuscript"
+        },
+        {
+          "value": 3.45,
+          "word1": "flavor",
+          "word2": "pepper"
+        },
+        {
+          "value": 3.39091,
+          "word1": "defense",
+          "word2": "soldier"
+        },
+        {
+          "value": 3.38636,
+          "word1": "seller",
+          "word2": "profit"
+        },
+        {
+          "value": 3.35548,
+          "word1": "lion",
+          "word2": "cage"
+        },
+        {
+          "value": 3.345,
+          "word1": "treasure",
+          "word2": "hunter"
+        },
+        {
+          "value": 3.33182,
+          "word1": "translation",
+          "word2": "meaning"
+        },
+        {
+          "value": 3.235,
+          "word1": "bread",
+          "word2": "egg"
+        },
+        {
+          "value": 3.20714,
+          "word1": "garage",
+          "word2": "opener"
+        },
+        {
+          "value": 3.17143,
+          "word1": "prohibition",
+          "word2": "rum"
+        },
+        {
+          "value": 3.17143,
+          "word1": "fax",
+          "word2": "e-mail"
+        },
+        {
+          "value": 3.14545,
+          "word1": "captive",
+          "word2": "custody"
+        },
+        {
+          "value": 3.13,
+          "word1": "solar system",
+          "word2": "sphere"
+        },
+        {
+          "value": 3.12727,
+          "word1": "vegetation",
+          "word2": "pastureland"
+        },
+        {
+          "value": 3.12143,
+          "word1": "leather",
+          "word2": "pouch"
+        },
+        {
+          "value": 3.1,
+          "word1": "terrace",
+          "word2": "pavilion"
+        },
+        {
+          "value": 3.085,
+          "word1": "recycling",
+          "word2": "landfill"
+        },
+        {
+          "value": 3.065,
+          "word1": "garden",
+          "word2": "art"
+        },
+        {
+          "value": 3.00714,
+          "word1": "recording studio",
+          "word2": "loudspeaker"
+        },
+        {
+          "value": 2.99773,
+          "word1": "strike",
+          "word2": "enemy"
+        },
+        {
+          "value": 2.995,
+          "word1": "ethanol",
+          "word2": "benzene"
+        },
+        {
+          "value": 2.99,
+          "word1": "pepper",
+          "word2": "corn"
+        },
+        {
+          "value": 2.92727,
+          "word1": "murder",
+          "word2": "gang"
+        },
+        {
+          "value": 2.91765,
+          "word1": "multiple",
+          "word2": "coefficient"
+        },
+        {
+          "value": 2.9,
+          "word1": "infantry",
+          "word2": "reconnaissance"
+        },
+        {
+          "value": 2.9,
+          "word1": "density",
+          "word2": "electron"
+        },
+        {
+          "value": 2.85882,
+          "word1": "representation",
+          "word2": "gender"
+        },
+        {
+          "value": 2.78571,
+          "word1": "palm",
+          "word2": "anatomy"
+        },
+        {
+          "value": 2.78182,
+          "word1": "poem",
+          "word2": "singer"
+        },
+        {
+          "value": 2.74,
+          "word1": "maintenance",
+          "word2": "aviation"
+        },
+        {
+          "value": 2.72941,
+          "word1": "mushroom",
+          "word2": "herb"
+        },
+        {
+          "value": 2.71429,
+          "word1": "yeast",
+          "word2": "lager"
+        },
+        {
+          "value": 2.71176,
+          "word1": "headache",
+          "word2": "caffeine"
+        },
+        {
+          "value": 2.709,
+          "word1": "truss",
+          "word2": "cantilever bridge"
+        },
+        {
+          "value": 2.67,
+          "word1": "workplace",
+          "word2": "discrimination"
+        },
+        {
+          "value": 2.66429,
+          "word1": "hunter",
+          "word2": "squirrel"
+        },
+        {
+          "value": 2.65682,
+          "word1": "disorder",
+          "word2": "abuse"
+        },
+        {
+          "value": 2.65,
+          "word1": "contract",
+          "word2": "legislation"
+        },
+        {
+          "value": 2.51765,
+          "word1": "motivation",
+          "word2": "morality"
+        },
+        {
+          "value": 2.5125,
+          "word1": "sewer",
+          "word2": "overflow"
+        },
+        {
+          "value": 2.48,
+          "word1": "blindness",
+          "word2": "placebo"
+        },
+        {
+          "value": 2.46364,
+          "word1": "agility",
+          "word2": "fox hunting"
+        },
+        {
+          "value": 2.394,
+          "word1": "proportion",
+          "word2": "stability"
+        },
+        {
+          "value": 2.33571,
+          "word1": "drug",
+          "word2": "public school"
+        },
+        {
+          "value": 2.27857,
+          "word1": "resentment",
+          "word2": "instigator"
+        },
+        {
+          "value": 2.25714,
+          "word1": "pow",
+          "word2": "combatant"
+        },
+        {
+          "value": 2.25294,
+          "word1": "banana",
+          "word2": "salad"
+        },
+        {
+          "value": 2.24,
+          "word1": "emphasis",
+          "word2": "newspaper"
+        },
+        {
+          "value": 2.225,
+          "word1": "forestry",
+          "word2": "urban area"
+        },
+        {
+          "value": 2.22353,
+          "word1": "hypocrisy",
+          "word2": "condemnation"
+        },
+        {
+          "value": 2.04545,
+          "word1": "facility",
+          "word2": "activity"
+        },
+        {
+          "value": 2.04286,
+          "word1": "rendezvous",
+          "word2": "convoy"
+        },
+        {
+          "value": 2.01176,
+          "word1": "propagation",
+          "word2": "radio wave"
+        },
+        {
+          "value": 2.0,
+          "word1": "puppetry",
+          "word2": "slapstick"
+        },
+        {
+          "value": 1.99412,
+          "word1": "public domain",
+          "word2": "brand"
+        },
+        {
+          "value": 1.97143,
+          "word1": "cartridge",
+          "word2": "lid"
+        },
+        {
+          "value": 1.91765,
+          "word1": "enclosure",
+          "word2": "mental health"
+        },
+        {
+          "value": 1.91176,
+          "word1": "credit",
+          "word2": "foundation"
+        },
+        {
+          "value": 1.90909,
+          "word1": "guardian",
+          "word2": "livestock"
+        },
+        {
+          "value": 1.885,
+          "word1": "coronation",
+          "word2": "majority rule"
+        },
+        {
+          "value": 1.87727,
+          "word1": "enzyme",
+          "word2": "depression"
+        },
+        {
+          "value": 1.85909,
+          "word1": "precursor",
+          "word2": "prevention"
+        },
+        {
+          "value": 1.83529,
+          "word1": "arbitration",
+          "word2": "committee"
+        },
+        {
+          "value": 1.75455,
+          "word1": "lemon",
+          "word2": "coriander"
+        },
+        {
+          "value": 1.6585,
+          "word1": "stock",
+          "word2": "bull"
+        },
+        {
+          "value": 1.65714,
+          "word1": "vicar",
+          "word2": "archdiocese"
+        },
+        {
+          "value": 1.57,
+          "word1": "scrap",
+          "word2": "chemical element"
+        },
+        {
+          "value": 1.48235,
+          "word1": "paranoia",
+          "word2": "newsroom"
+        },
+        {
+          "value": 1.47353,
+          "word1": "phase",
+          "word2": "consistency"
+        },
+        {
+          "value": 1.44286,
+          "word1": "hope",
+          "word2": "psychology"
+        },
+        {
+          "value": 1.39286,
+          "word1": "juvenile",
+          "word2": "rope"
+        },
+        {
+          "value": 1.37059,
+          "word1": "half-hour",
+          "word2": "weeknight"
+        },
+        {
+          "value": 1.35909,
+          "word1": "evolution",
+          "word2": "publicity"
+        },
+        {
+          "value": 1.30588,
+          "word1": "contestant",
+          "word2": "donor"
+        },
+        {
+          "value": 1.21364,
+          "word1": "sheet",
+          "word2": "window"
+        },
+        {
+          "value": 1.21364,
+          "word1": "robbery",
+          "word2": "mobile phone"
+        },
+        {
+          "value": 1.2,
+          "word1": "metre",
+          "word2": "semifinal"
+        },
+        {
+          "value": 1.18182,
+          "word1": "relief",
+          "word2": "total"
+        },
+        {
+          "value": 1.1775,
+          "word1": "public service",
+          "word2": "array"
+        },
+        {
+          "value": 1.10588,
+          "word1": "fresco",
+          "word2": "modern times"
+        },
+        {
+          "value": 1.09091,
+          "word1": "summit",
+          "word2": "canal"
+        },
+        {
+          "value": 1.085,
+          "word1": "outlet",
+          "word2": "silk"
+        },
+        {
+          "value": 1.075,
+          "word1": "greed",
+          "word2": "vest"
+        },
+        {
+          "value": 1.045,
+          "word1": "eyeball",
+          "word2": "flatworm"
+        },
+        {
+          "value": 0.98636,
+          "word1": "spreadsheet",
+          "word2": "silk"
+        },
+        {
+          "value": 0.93636,
+          "word1": "distinction",
+          "word2": "sword"
+        },
+        {
+          "value": 0.82727,
+          "word1": "inclusion",
+          "word2": "career"
+        },
+        {
+          "value": 0.805,
+          "word1": "feud",
+          "word2": "programmer"
+        },
+        {
+          "value": 0.79286,
+          "word1": "switch",
+          "word2": "glass"
+        },
+        {
+          "value": 0.77857,
+          "word1": "penalty",
+          "word2": "programming"
+        },
+        {
+          "value": 0.77143,
+          "word1": "duty",
+          "word2": "verb"
+        },
+        {
+          "value": 0.76765,
+          "word1": "catering",
+          "word2": "loan"
+        },
+        {
+          "value": 0.755,
+          "word1": "musical group",
+          "word2": "confession"
+        },
+        {
+          "value": 0.74286,
+          "word1": "complication",
+          "word2": "harp"
+        },
+        {
+          "value": 0.73636,
+          "word1": "female",
+          "word2": "insect"
+        },
+        {
+          "value": 0.71429,
+          "word1": "seminar",
+          "word2": "fern"
+        },
+        {
+          "value": 0.70588,
+          "word1": "home run",
+          "word2": "surfer"
+        },
+        {
+          "value": 0.7,
+          "word1": "mishap",
+          "word2": "cube root"
+        },
+        {
+          "value": 0.61429,
+          "word1": "thriller",
+          "word2": "sunlight"
+        },
+        {
+          "value": 0.58636,
+          "word1": "crusade",
+          "word2": "catwalk"
+        },
+        {
+          "value": 0.58571,
+          "word1": "jumper",
+          "word2": "furnishing"
+        },
+        {
+          "value": 0.57,
+          "word1": "eclipse",
+          "word2": "cord"
+        },
+        {
+          "value": 0.54545,
+          "word1": "fork",
+          "word2": "combination"
+        },
+        {
+          "value": 0.45909,
+          "word1": "madness",
+          "word2": "nest"
+        },
+        {
+          "value": 0.41176,
+          "word1": "gas",
+          "word2": "algebra"
+        },
+        {
+          "value": 0.36529,
+          "word1": "hotel",
+          "word2": "bibliography"
+        },
+        {
+          "value": 0.12941,
+          "word1": "gladiator",
+          "word2": "plastic bag"
+        }
+      ]
+    }
+  ],
+  "originalInstructions": ""
+}

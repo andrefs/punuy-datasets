@@ -22,7 +22,7 @@
       "id": "wp",
       "measureType": "similarity",
       "interval": {
-        "max": 0,
+        "max": 1,
         "min": 0
       },
       "data": [
