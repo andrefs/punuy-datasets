@@ -1,0 +1,30 @@
+{
+  "id": "",
+  "metadata": {
+    "name": "",
+    "urls": [],
+    "papers": [
+      {
+        "title": "",
+        "url": ""
+      }
+    ],
+    "date": "",
+    "description": "",
+    "downloadUrls": [],
+    "measureTypes": [""]
+  },
+  "partitions": [
+    {
+      "id": "",
+      "measureType": "",
+      "interval": {
+        "max": 0,
+        "min": 0
+      },
+      "data": [
+      ]
+    }
+  ],
+  "originalInstructions": ""
+}

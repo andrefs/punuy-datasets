@@ -23,6 +23,7 @@ import scws2003 from "./datasets/scws2003";
 import reword26 from "./datasets/reword26";
 
 import atlasify240 from "./datasets/atlasify240";
+import men3000 from "./datasets/men3000";
 
 export {
   bg1000,
@@ -50,4 +51,5 @@ export {
   reword26,
   //
   atlasify240,
+  men3000,
 };

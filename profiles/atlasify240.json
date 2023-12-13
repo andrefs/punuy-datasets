@@ -2,9 +2,7 @@
   "id": "atlasify240",
   "metadata": {
     "name": "Atlasify240",
-    "urls": [
-      "https://users.cs.northwestern.edu/~ddowney/data_code.html"
-    ],
+    "urls": ["https://users.cs.northwestern.edu/~ddowney/data_code.html"],
     "papers": [
       {
         "title": "Explanatory Semantic Relatedness and Explicit Spatialization for Exploratory Search",
@@ -16,9 +14,7 @@
     "downloadUrls": [
       "https://users.cs.northwestern.edu/~ddowney/data/atlasify240.csv"
     ],
-    "measureTypes": [
-      "relatedness"
-    ]
+    "measureTypes": ["relatedness"]
   },
   "partitions": [
     {
