@@ -12,9 +12,7 @@
     "date": "2008",
     "description": "",
     "downloadUrls": [],
-    "measureTypes": [
-      "relatedness"
-    ]
+    "measureTypes": ["relatedness"]
   },
   "partitions": [
     {

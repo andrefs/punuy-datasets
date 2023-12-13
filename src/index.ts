@@ -5,7 +5,7 @@ import minimayoSRS from "./datasets/minimayoSRS";
 import umnsrsSimMod from "./datasets/umnsrsSimMod";
 
 import umnsrsRelMod from "./datasets/umnsrsRelMod";
-import mturk771 from "./datasets/mturk771";
+import mturk287 from "./datasets/mturk287";
 import rg65 from "./datasets/rg65";
 import srw2034 from "./datasets/srw2034";
 import ws353 from "./datasets/ws353";
@@ -18,6 +18,7 @@ import mesh2 from "./datasets/mesh2";
 
 import zie55 from "./datasets/zie55";
 import gm30 from "./datasets/gm30";
+import mturk771 from "./datasets/mturk771";
 
 export {
   bg1000,
@@ -27,7 +28,7 @@ export {
   umnsrsSimMod,
   //
   umnsrsRelMod,
-  mturk771,
+  mturk287,
   rg65,
   srw2034,
   ws353,
@@ -40,4 +41,5 @@ export {
   //
   zie55,
   gm30,
+  mturk771,
 };
