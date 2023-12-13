@@ -24,6 +24,16 @@
         "min": 0,
         "max": 4
       },
+      "metrics": {
+        "annotators": {
+          "total": 6,
+          "eachPair": 6
+        },
+        "interAgreement": {
+          "pearson": 0.866,
+          "spearman": null
+        }
+      },
       "data": [
         {
           "word1": "brag",
