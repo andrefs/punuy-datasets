@@ -19,13 +19,13 @@
       "https://staff.fnwi.uva.nl/e.bruni/resources/MEN.zip"
     ],
     "measureTypes": [
-      "similarity"
+      "relatedness"
     ]
   },
   "partitions": [
     {
       "id": "dev",
-      "measureType": "similarity",
+      "measureType": "relatedness",
       "interval": {
         "max": 50,
         "min": 0
