@@ -1,0 +1,1529 @@
+{
+  "id": "wp300",
+  "metadata": {
+    "name": "WP300",
+    "urls": [
+      "http://adapt.seiee.sjtu.edu.cn/similarity/"
+    ],
+    "papers": [
+      {
+        "title": "Computing Term Similarity by Large Probabilistic isA Knowledge",
+        "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/CIKM841-Li.pdf"
+      }
+    ],
+    "date": "2013",
+    "description": "Because there are no benchmark data for the semantic similarity between MWEs, we labeled 300 pairs (known as WP) with both words and MWEs. Our labeled data consist of three categories: 100 concept-entity pairs, 100 concept-concept pairs and 100 entity-entity pairs. These 300 pairs contain 84 word pairs and 216 MWE pairs, in which 71 MWE pairs can be identiffied by WordNet while 145 MWE pairs can not be identiffid by WordNet. Five native speakers of English labeled these pairs according to the label classes, and the labels are then translated into numerical similarity scores.",
+    "downloadUrls": [
+      "http://adapt.seiee.sjtu.edu.cn/similarity/SimCompleteResults.pdf"
+    ],
+    "measureTypes": [
+      "similarity"
+    ],
+    "tags": [
+      "entities"
+    ]
+  },
+  "partitions": [
+    {
+      "id": "wp",
+      "measureType": "similarity",
+      "interval": {
+        "max": 0,
+        "min": 0
+      },
+      "data": [
+        {
+          "word1": "competitor",
+          "word2": "rival",
+          "value": 0.95
+        },
+        {
+          "word1": "rock",
+          "word2": "stone",
+          "value": 0.95
+        },
+        {
+          "word1": "domestic animal",
+          "word2": "grazing animal",
+          "value": 0.75
+        },
+        {
+          "word1": "lunch",
+          "word2": "dinner",
+          "value": 0.95
+        },
+        {
+          "word1": "japanese",
+          "word2": "chinese",
+          "value": 0.75
+        },
+        {
+          "word1": "grazing animal",
+          "word2": "domesticated animal",
+          "value": 0.8
+        },
+        {
+          "word1": "caged animal",
+          "word2": "game animal",
+          "value": 0.85
+        },
+        {
+          "word1": "sri lanka",
+          "word2": "costa rica",
+          "value": 0.9
+        },
+        {
+          "word1": "polo",
+          "word2": "weight lifting",
+          "value": 0.6
+        },
+        {
+          "word1": "microsoft",
+          "word2": "apple",
+          "value": 0.9
+        },
+        {
+          "word1": "rock",
+          "word2": "jazz",
+          "value": 0.9
+        },
+        {
+          "word1": "wild animal",
+          "word2": "native animal",
+          "value": 0.65
+        },
+        {
+          "word1": "romania",
+          "word2": "sri lanka",
+          "value": 0.9
+        },
+        {
+          "word1": "food processing",
+          "word2": "hospitality",
+          "value": 0.15
+        },
+        {
+          "word1": "turkey",
+          "word2": "sierra leone",
+          "value": 0.8
+        },
+        {
+          "word1": "hospital",
+          "word2": "school",
+          "value": 0.65
+        },
+        {
+          "word1": "time",
+          "word2": "national geographic",
+          "value": 0.5
+        },
+        {
+          "word1": "orange",
+          "word2": "red",
+          "value": 0.9
+        },
+        {
+          "word1": "birth date",
+          "word2": "credit card number",
+          "value": 0.35
+        },
+        {
+          "word1": "procter & gamble",
+          "word2": "apple",
+          "value": 0.55
+        },
+        {
+          "word1": "supper",
+          "word2": "dinner",
+          "value": 0.95
+        },
+        {
+          "word1": "range",
+          "word2": "appliance",
+          "value": 0.7
+        },
+        {
+          "word1": "fox",
+          "word2": "nbc",
+          "value": 0.75
+        },
+        {
+          "word1": "twitter",
+          "word2": "facebook",
+          "value": 0.75
+        },
+        {
+          "word1": "bank",
+          "word2": "citibank",
+          "value": 0.9
+        },
+        {
+          "word1": "manufacturing",
+          "word2": "trading",
+          "value": 0.7
+        },
+        {
+          "word1": "spring",
+          "word2": "summer",
+          "value": 0.9
+        },
+        {
+          "word1": "mouse",
+          "word2": "prairie dog",
+          "value": 0.85
+        },
+        {
+          "word1": "general mills",
+          "word2": "avon",
+          "value": 0.45
+        },
+        {
+          "word1": "sun",
+          "word2": "coca-cola",
+          "value": 0.7
+        },
+        {
+          "word1": "nokia",
+          "word2": "cisco systems",
+          "value": 0.8
+        },
+        {
+          "word1": "spirit",
+          "word2": "cocktail",
+          "value": 0.85
+        },
+        {
+          "word1": "country",
+          "word2": "united kingdom",
+          "value": 0.85
+        },
+        {
+          "word1": "monsanto",
+          "word2": "sun microsystems",
+          "value": 0.6
+        },
+        {
+          "word1": "white",
+          "word2": "cream",
+          "value": 0.75
+        },
+        {
+          "word1": "chicken",
+          "word2": "beef",
+          "value": 0.85
+        },
+        {
+          "word1": "roden",
+          "word2": " rat",
+          "value": 0.9
+        },
+        {
+          "word1": "business",
+          "word2": "bakery",
+          "value": 0.7
+        },
+        {
+          "word1": "business",
+          "word2": "restaurant",
+          "value": 0.55
+        },
+        {
+          "word1": "fruit",
+          "word2": "apple",
+          "value": 0.8
+        },
+        {
+          "word1": "company",
+          "word2": "coca cola",
+          "value": 0.8
+        },
+        {
+          "word1": "video",
+          "word2": "music",
+          "value": 0.8
+        },
+        {
+          "word1": "country",
+          "word2": "czech republic",
+          "value": 0.85
+        },
+        {
+          "word1": "java",
+          "word2": "perl",
+          "value": 0.9
+        },
+        {
+          "word1": "company",
+          "word2": "bank of america",
+          "value": 0.8
+        },
+        {
+          "word1": "country",
+          "word2": "united states",
+          "value": 0.85
+        },
+        {
+          "word1": "company",
+          "word2": "wells fargo",
+          "value": 0.8
+        },
+        {
+          "word1": "mild steel",
+          "word2": "paper towel",
+          "value": 0.25
+        },
+        {
+          "word1": "sun",
+          "word2": "wind power",
+          "value": 0.9
+        },
+        {
+          "word1": "insurance company",
+          "word2": "big company",
+          "value": 0.8
+        },
+        {
+          "word1": "company",
+          "word2": "american express",
+          "value": 0.8
+        },
+        {
+          "word1": "eu country",
+          "word2": "western country",
+          "value": 0.9
+        },
+        {
+          "word1": "worm",
+          "word2": "ear mite",
+          "value": 0.85
+        },
+        {
+          "word1": "fresh",
+          "word2": "egg",
+          "value": 0.5
+        },
+        {
+          "word1": "store",
+          "word2": "grocery",
+          "value": 0.9
+        },
+        {
+          "word1": "company",
+          "word2": "morgan stanley",
+          "value": 0.8
+        },
+        {
+          "word1": "company",
+          "word2": "goldman sachs",
+          "value": 0.8
+        },
+        {
+          "word1": "country",
+          "word2": "costa rica",
+          "value": 0.85
+        },
+        {
+          "word1": "company",
+          "word2": "cisco systems",
+          "value": 0.7
+        },
+        {
+          "word1": "company",
+          "word2": "barclays",
+          "value": 0.8
+        },
+        {
+          "word1": "spectator sport",
+          "word2": "professional sport",
+          "value": 0.75
+        },
+        {
+          "word1": "fox",
+          "word2": "polar bear",
+          "value": 0.7
+        },
+        {
+          "word1": "company",
+          "word2": "oil company",
+          "value": 0.8
+        },
+        {
+          "word1": "gold",
+          "word2": "chocolate brown",
+          "value": 0.65
+        },
+        {
+          "word1": "emerging economy",
+          "word2": "market",
+          "value": 0.7
+        },
+        {
+          "word1": "company",
+          "word2": "general mills",
+          "value": 0.5
+        },
+        {
+          "word1": "giant",
+          "word2": "large company",
+          "value": 0.6
+        },
+        {
+          "word1": "company",
+          "word2": "hewlett packard",
+          "value": 0.75
+        },
+        {
+          "word1": "turkey",
+          "word2": "corned beef",
+          "value": 0.8
+        },
+        {
+          "word1": "organized sport",
+          "word2": "sport",
+          "value": 0.85
+        },
+        {
+          "word1": "company",
+          "word2": "deutsche bank",
+          "value": 0.55
+        },
+        {
+          "word1": "company",
+          "word2": "technology company",
+          "value": 0.8
+        },
+        {
+          "word1": "apple ipad",
+          "value": 0.2
+        }", "word2": "{
+          "word1": "company",
+          "word2": "icici bank",
+          "value": 0.8
+        },
+        {
+          "word1": "sport",
+          "word2": "table tennis",
+          "value": 0.8
+        },
+        {
+          "word1": "sport",
+          "word2": "ice hockey",
+          "value": 0.8
+        },
+        {
+          "word1": "stone",
+          "word2": "paper towel",
+          "value": 0.1
+        },
+        {
+          "word1": "dog",
+          "word2": "sea turtle",
+          "value": 0.65
+        },
+        {
+          "word1": "bank",
+          "word2": "bank of america",
+          "value": 0.9
+        },
+        {
+          "word1": "coal mining",
+          "word2": "medical device",
+          "value": 0.1
+        },
+        {
+          "word1": "notebook",
+          "word2": "laptop computer",
+          "value": 0.95
+        },
+        {
+          "word1": "company",
+          "word2": "standard chartered",
+          "value": 0.8
+        },
+        {
+          "word1": "racquetball",
+          "word2": "ice skating",
+          "value": 0.85
+        },
+        {
+          "word1": "liquid",
+          "word2": "black tea",
+          "value": 0.8
+        },
+        {
+          "word1": "cold-blooded animal",
+          "word2": "exotic animal",
+          "value": 0.7
+        },
+        {
+          "word1": "orange",
+          "word2": "water melon",
+          "value": 0.9
+        },
+        {
+          "word1": "country",
+          "word2": "asian country",
+          "value": 0.85
+        },
+        {
+          "word1": "firm",
+          "word2": "large company",
+          "value": 0.75
+        },
+        {
+          "word1": "sport",
+          "word2": "sport event",
+          "value": 0.9
+        },
+        {
+          "word1": "pie",
+          "word2": "cookie",
+          "value": 0.9
+        },
+        {
+          "word1": "food",
+          "word2": "baked good",
+          "value": 0.75
+        },
+        {
+          "word1": "technology company",
+          "word2": "microsoft",
+          "value": 0.85
+        },
+        {
+          "word1": "domesticated animal",
+          "word2": "pet",
+          "value": 0.9
+        },
+        {
+          "word1": "high impact sport",
+          "word2": "competitive sport",
+          "value": 0.85
+        },
+        {
+          "word1": "blue berry",
+          "word2": "apple",
+          "value": 0.9
+        },
+        {
+          "word1": "shell",
+          "word2": "exxon mobil corp.",
+          "value": 0.85
+        },
+        {
+          "word1": "animal",
+          "word2": "exotic animal",
+          "value": 0.85
+        },
+        {
+          "word1": "domestic pet",
+          "word2": "domesticated animal",
+          "value": 0.9
+        },
+        {
+          "word1": "country",
+          "word2": "hong kong",
+          "value": 0.35
+        },
+        {
+          "word1": "animal",
+          "word2": "blue jay",
+          "value": 0.75
+        },
+        {
+          "word1": "native animal",
+          "word2": "exotic animal",
+          "value": 0.65
+        },
+        {
+          "word1": "summer fruit",
+          "word2": "climacteric fruit",
+          "value": 0.7
+        },
+        {
+          "word1": "date",
+          "word2": "anniversary",
+          "value": 0.75
+        },
+        {
+          "word1": "vegetable",
+          "word2": "turnip",
+          "value": 0.8
+        },
+        {
+          "word1": "company",
+          "word2": "international company",
+          "value": 0.85
+        },
+        {
+          "word1": "small country",
+          "word2": "neighboring country",
+          "value": 0.7
+        },
+        {
+          "word1": "feral animal",
+          "word2": "grazing animal",
+          "value": 0.65
+        },
+        {
+          "word1": "feast",
+          "word2": "easter",
+          "value": 0.45
+        },
+        {
+          "word1": "citrus juice",
+          "word2": "fruit juice",
+          "value": 0.9
+        },
+        {
+          "word1": "sweet",
+          "word2": "cookie",
+          "value": 0.8
+        },
+        {
+          "word1": "room",
+          "word2": "kitchen",
+          "value": 0.8
+        },
+        {
+          "word1": "meal",
+          "word2": "lunch",
+          "value": 0.85
+        },
+        {
+          "word1": "school",
+          "word2": "new school",
+          "value": 0.85
+        },
+        {
+          "word1": "flower",
+          "word2": "mum",
+          "value": 0.75
+        },
+        {
+          "word1": "gold",
+          "word2": "stainless steel",
+          "value": 0.8
+        },
+        {
+          "word1": "social event",
+          "word2": "dinner",
+          "value": 0.75
+        },
+        {
+          "word1": "racquet sport",
+          "word2": "outdoor sport",
+          "value": 0.85
+        },
+        {
+          "word1": "stone fruit",
+          "word2": "frozen fruit",
+          "value": 0.75
+        },
+        {
+          "word1": "vegetable",
+          "word2": "bean",
+          "value": 0.8
+        },
+        {
+          "word1": "popular sport",
+          "word2": "athletic event",
+          "value": 0.8
+        },
+        {
+          "word1": "game animal",
+          "word2": "exotic animal",
+          "value": 0.65
+        },
+        {
+          "word1": "global company",
+          "word2": "multinational company",
+          "value": 0.95
+        },
+        {
+          "word1": "cost",
+          "word2": "food",
+          "value": 0.6
+        },
+        {
+          "word1": "vegetable",
+          "word2": "eggplant",
+          "value": 0.75
+        },
+        {
+          "word1": "sport",
+          "word2": "martial art",
+          "value": 0.75
+        },
+        {
+          "word1": "vegetable",
+          "word2": "pepper",
+          "value": 0.8
+        },
+        {
+          "word1": "spring",
+          "word2": "river",
+          "value": 0.7
+        },
+        {
+          "word1": "vegetable",
+          "word2": "beet",
+          "value": 0.6
+        },
+        {
+          "word1": "animal",
+          "word2": "german shepherd",
+          "value": 0.75
+        },
+        {
+          "word1": "animal",
+          "word2": "poodle",
+          "value": 0.8
+        },
+        {
+          "word1": "date",
+          "word2": "asian pear",
+          "value": 0.5
+        },
+        {
+          "word1": "recreational sport",
+          "word2": "intramural sport 0.85 0.6999 conceptPair {"word1": "tree fruit",
+          "word2": "berry",
+          "value": 0.7
+        },
+        {
+          "word1": "team sport",
+          "word2": "olympic sport",
+          "value": 0.85
+        },
+        {
+          "word1": "small fruit",
+          "word2": "red fruit",
+          "value": 0.7
+        },
+        {
+          "word1": "range",
+          "word2": "food processor",
+          "value": 0.75
+        },
+        {
+          "word1": "insect",
+          "word2": "caterpillar",
+          "value": 0.8
+        },
+        {
+          "word1": "guinea pig",
+          "word2": "elephant",
+          "value": 0.7
+        },
+        {
+          "word1": "athletic event",
+          "word2": "intramural sport",
+          "value": 0.8
+        },
+        {
+          "word1": "sport",
+          "word2": "kick boxing",
+          "value": 0.75
+        },
+        {
+          "word1": "public place",
+          "word2": "street",
+          "value": 0.7
+        },
+        {
+          "word1": "experimental scientist",
+          "word2": "chemist",
+          "value": 0.8
+        },
+        {
+          "word1": "forest animal",
+          "word2": "caged animal",
+          "value": 0.65
+        },
+        {
+          "word1": "marine animal",
+          "word2": "cold-blooded animal",
+          "value": 0.65
+        },
+        {
+          "word1": "india",
+          "word2": "developing country",
+          "value": 0.8
+        },
+        {
+          "word1": "product",
+          "word2": "instant coffee",
+          "value": 0.8
+        },
+        {
+          "word1": "insect",
+          "word2": "cockroach",
+          "value": 0.8
+        },
+        {
+          "word1": "ruminant animal",
+          "word2": "farm animal",
+          "value": 0.8
+        },
+        {
+          "word1": "exotic animal",
+          "word2": "feral animal",
+          "value": 0.7
+        },
+        {
+          "word1": "combat sport",
+          "word2": "sport",
+          "value": 0.85
+        },
+        {
+          "word1": "produce",
+          "word2": "acidic fruit",
+          "value": 0.1
+        },
+        {
+          "word1": "acid",
+          "word2": "vinegar",
+          "value": 0.85
+        },
+        {
+          "word1": "ice",
+          "word2": "storm",
+          "value": 0.7
+        },
+        {
+          "word1": "endangered animal",
+          "word2": "predatory animal",
+          "value": 0.7
+        },
+        {
+          "word1": "bus",
+          "word2": "flight",
+          "value": 0.75
+        },
+        {
+          "word1": "grazing animal",
+          "word2": "large animal",
+          "value": 0.7
+        },
+        {
+          "word1": "nocturnal animal",
+          "word2": "exotic animal",
+          "value": 0.55
+        },
+        {
+          "word1": "sport event",
+          "word2": "recreational sport",
+          "value": 0.75
+        },
+        {
+          "word1": "passion fruit",
+          "word2": "blackberry",
+          "value": 0.85
+        },
+        {
+          "word1": "date",
+          "word2": "valentine's day",
+          "value": 0.85
+        },
+        {
+          "word1": "neighboring country",
+          "word2": "nation",
+          "value": 0.65
+        },
+        {
+          "word1": "tropical fruit",
+          "word2": "citrus fruit",
+          "value": 0.75
+        },
+        {
+          "word1": "developing country",
+          "word2": "country",
+          "value": 0.85
+        },
+        {
+          "word1": "big player",
+          "word2": "key player",
+          "value": 0.95
+        },
+        {
+          "word1": "international company",
+          "word2": "competitor",
+          "value": 0.35
+        },
+        {
+          "word1": "dry fruit",
+          "word2": "red fruit",
+          "value": 0.65
+        },
+        {
+          "word1": "insect",
+          "word2": "ladybug",
+          "value": 0.8
+        },
+        {
+          "word1": "mouse",
+          "word2": "mp3 player",
+          "value": 0.6
+        },
+        {
+          "word1": "athletics",
+          "word2": "olympic sport",
+          "value": 0.8
+        },
+        {
+          "word1": "active sport",
+          "word2": "athletic event",
+          "value": 0.85
+        },
+        {
+          "word1": "role",
+          "word2": "mentor",
+          "value": 0.8
+        },
+        {
+          "word1": "contact sport",
+          "word2": "winter sport",
+          "value": 0.75
+        },
+        {
+          "word1": "social animal",
+          "word2": "caged animal",
+          "value": 0.6
+        },
+        {
+          "word1": "employer",
+          "word2": "large corporation",
+          "value": 0.6
+        },
+        {
+          "word1": "outdoor sport",
+          "word2": "athletics",
+          "value": 0.85
+        },
+        {
+          "word1": "animal",
+          "word2": "flying squirrel",
+          "value": 0.8
+        },
+        {
+          "word1": "adventure sport",
+          "word2": "popular sport",
+          "value": 0.85
+        },
+        {
+          "word1": "citrus juice",
+          "word2": "dry fruit",
+          "value": 0.5
+        },
+        {
+          "word1": "spectator sport",
+          "word2": "water sport",
+          "value": 0.75
+        },
+        {
+          "word1": "juicy fruit",
+          "word2": "frozen fruit",
+          "value": 0.75
+        },
+        {
+          "word1": "animal",
+          "word2": "monarch butterfly",
+          "value": 0.8
+        },
+        {
+          "word1": "asian country",
+          "word2": "western country",
+          "value": 0.75
+        },
+        {
+          "word1": "endurance sport",
+          "word2": "racquet sport",
+          "value": 0.7
+        },
+        {
+          "word1": "leader",
+          "word2": "gandhi",
+          "value": 0.8
+        },
+        {
+          "word1": "rival",
+          "word2": "multinational company",
+          "value": 0.3
+        },
+        {
+          "word1": "farm animal",
+          "word2": "aquatic animal",
+          "value": 0.7
+        },
+        {
+          "word1": "animal",
+          "word2": "polar bear",
+          "value": 0.8
+        },
+        {
+          "word1": "aquatic animal",
+          "word2": "forest animal",
+          "value": 0.7
+        },
+        {
+          "word1": "staff",
+          "word2": "kitchen staff",
+          "value": 0.8
+        },
+        {
+          "word1": "banking company",
+          "word2": "company",
+          "value": 0.75
+        },
+        {
+          "word1": "household name",
+          "word2": "big player 0.6 0.4975 conceptPair {"word1": "event",
+          "word2": "lunch",
+          "value": 0.7
+        },
+        {
+          "word1": "convenient store",
+          "word2": "bakery",
+          "value": 0.7
+        },
+        {
+          "word1": "fruit",
+          "word2": "artichoke",
+          "value": 0.65
+        },
+        {
+          "word1": "support",
+          "word2": "meal",
+          "value": 0.55
+        },
+        {
+          "word1": "library",
+          "word2": "restaurant",
+          "value": 0.65
+        },
+        {
+          "word1": "sport",
+          "word2": "mountain biking",
+          "value": 0.8
+        },
+        {
+          "word1": "large corporation",
+          "word2": "private company",
+          "value": 0.7
+        },
+        {
+          "word1": "olympic sport",
+          "word2": "sport event",
+          "value": 0.85
+        },
+        {
+          "word1": "large company",
+          "word2": "manufacturer",
+          "value": 0.7
+        },
+        {
+          "word1": "butter",
+          "word2": "cream",
+          "value": 0.95
+        },
+        {
+          "word1": "film",
+          "word2": "louise",
+          "value": 0.5
+        },
+        {
+          "word1": "wild animal",
+          "word2": "cat",
+          "value": 0.7
+        },
+        {
+          "word1": "player",
+          "word2": "oil company",
+          "value": 0.05
+        },
+        {
+          "word1": "martial art",
+          "word2": "karate",
+          "value": 0.85
+        },
+        {
+          "word1": "lime",
+          "word2": "pumpkin",
+          "value": 0.45
+        },
+        {
+          "word1": "fruit",
+          "word2": "brussels sprout",
+          "value": 0.55
+        },
+        {
+          "word1": "chicken",
+          "word2": "hen",
+          "value": 0.95
+        },
+        {
+          "word1": "fruit",
+          "word2": "green pepper",
+          "value": 0.35
+        },
+        {
+          "word1": "notebook",
+          "word2": "pencil",
+          "value": 0.7
+        },
+        {
+          "word1": "fruit",
+          "word2": "green bean",
+          "value": 0.5
+        },
+        {
+          "word1": "climacteric fruit",
+          "word2": "vegetable juice",
+          "value": 0.6
+        },
+        {
+          "word1": "donor",
+          "word2": "emerging market",
+          "value": 0.1
+        },
+        {
+          "word1": "pool",
+          "word2": "restaurant",
+          "value": 0.3
+        },
+        {
+          "word1": "management",
+          "word2": "supper",
+          "value": 0.4
+        },
+        {
+          "word1": "neighbor",
+          "word2": "latin american country",
+          "value": 0.2
+        },
+        {
+          "word1": "jurisdiction",
+          "word2": "emerging economy",
+          "value": 0.3
+        },
+        {
+          "word1": "vegetable juice",
+          "word2": "juicy fruit",
+          "value": 0.55
+        },
+        {
+          "word1": "dried fruit",
+          "word2": "wild fruit",
+          "value": 0.65
+        },
+        {
+          "word1": "bank account",
+          "word2": "product description",
+          "value": 0.05
+        },
+        {
+          "word1": "casserole",
+          "word2": "egg",
+          "value": 0.3
+        },
+        {
+          "word1": "shell",
+          "word2": "bone",
+          "value": 0.5
+        },
+        {
+          "word1": "seasonal fruit",
+          "word2": "vegetable juice",
+          "value": 0.5
+        },
+        {
+          "word1": "water sport",
+          "word2": "sport event",
+          "value": 0.85
+        },
+        {
+          "word1": "working",
+          "word2": "meal",
+          "value": 0.25
+        },
+        {
+          "word1": "household pet",
+          "word2": "cold-blooded animal",
+          "value": 0.6
+        },
+        {
+          "word1": "travel",
+          "word2": "meal",
+          "value": 0.25
+        },
+        {
+          "word1": "staff",
+          "word2": "supper",
+          "value": 0.15
+        },
+        {
+          "word1": "sun microsystems",
+          "word2": "penguin",
+          "value": 0
+        },
+        {
+          "word1": "reason",
+          "word2": "hypertension",
+          "value": 0.1
+        },
+        {
+          "word1": "alcoholic beverage",
+          "word2": "sports equipment",
+          "value": 0
+        },
+        {
+          "word1": "fruit",
+          "word2": "bell pepper",
+          "value": 0.3
+        },
+        {
+          "word1": "honda",
+          "word2": "general mills",
+          "value": 0.45
+        },
+        {
+          "word1": "zip code",
+          "word2": "ip address",
+          "value": 0.65
+        },
+        {
+          "word1": "company",
+          "word2": "great britain",
+          "value": 0.05
+        },
+        {
+          "word1": "company",
+          "word2": "new zealand",
+          "value": 0.05
+        },
+        {
+          "word1": "company",
+          "word2": "united states",
+          "value": 0.05
+        },
+        {
+          "word1": "social security number",
+          "word2": "credit card",
+          "value": 0.65
+        },
+        {
+          "word1": "worm",
+          "word2": "windows media player",
+          "value": 0.25
+        },
+        {
+          "word1": "fruit",
+          "word2": "brazil nut",
+          "value": 0.5
+        },
+        {
+          "word1": "music",
+          "word2": "lunch",
+          "value": 0.1
+        },
+        {
+          "word1": "fresh fruit",
+          "word2": "green bean",
+          "value": 0.55
+        },
+        {
+          "word1": "banana",
+          "word2": "beef",
+          "value": 0.35
+        },
+        {
+          "word1": "power",
+          "word2": "arab country",
+          "value": 0.15
+        },
+        {
+          "word1": "european country",
+          "word2": "emerging economy",
+          "value": 0.5
+        },
+        {
+          "word1": "play",
+          "word2": "lunch",
+          "value": 0.4
+        },
+        {
+          "word1": "acai berry",
+          "word2": "adidas",
+          "value": 0
+        },
+        {
+          "word1": "fruit",
+          "word2": "sweet potato",
+          "value": 0.4
+        },
+        {
+          "word1": "animal",
+          "word2": "martial art",
+          "value": 0.25
+        },
+        {
+          "word1": "manufacturer",
+          "word2": "predatory animal",
+          "value": 0
+        },
+        {
+          "word1": "racquet",
+          "word2": "sport fruit",
+          "value": 0
+        },
+        {
+          "word1": "vinegar",
+          "word2": "couscous",
+          "value": 0.4
+        },
+        {
+          "word1": "competitive sport",
+          "word2": "social animal",
+          "value": 0.05
+        },
+        {
+          "word1": "sport",
+          "word2": "czech republic",
+          "value": 0.1
+        },
+        {
+          "word1": "spread",
+          "word2": "pie",
+          "value": 0.25
+        },
+        {
+          "word1": "company",
+          "word2": "mountain biking",
+          "value": 0.05
+        },
+        {
+          "word1": "company",
+          "word2": "table tennis",
+          "value": 0.05
+        },
+        {
+          "word1": "business card",
+          "word2": "washing machine",
+          "value": 0.05
+        },
+        {
+          "word1": "mobile phone",
+          "word2": "soft drink",
+          "value": 0.05
+        },
+        {
+          "word1": "watch",
+          "word2": "cream",
+          "value": 0.15
+        },
+        {
+          "word1": "bank of america",
+          "word2": "uk",
+          "value": 0.2
+        },
+        {
+          "word1": "brainstorming",
+          "word2": "google alerts",
+          "value": 0.15
+        },
+        {
+          "word1": "animal",
+          "word2": "gasket",
+          "value": 0.3
+        },
+        {
+          "word1": "industry",
+          "word2": "meal",
+          "value": 0.25
+        },
+        {
+          "word1": "company",
+          "word2": "cross country",
+          "value": 0.1
+        },
+        {
+          "word1": "company",
+          "word2": "field hockey",
+          "value": 0
+        },
+        {
+          "word1": "company",
+          "word2": "hong kong",
+          "value": 0
+        },
+        {
+          "word1": "company",
+          "word2": "ice hockey",
+          "value": 0
+        },
+        {
+          "word1": "group",
+          "word2": "dinner",
+          "value": 0.3
+        },
+        {
+          "word1": "industry",
+          "word2": "cinema",
+          "value": 0.1
+        },
+        {
+          "word1": "organism",
+          "word2": "tiger",
+          "value": 0.6
+        },
+        {
+          "word1": "projec",
+          "word2": " music",
+          "value": 0.3
+        },
+        {
+          "word1": "sport",
+          "word2": "sri lanka",
+          "value": 0.1
+        },
+        {
+          "word1": "sport",
+          "word2": "united kingdom",
+          "value": 0.05
+        },
+        {
+          "word1": "sport",
+          "word2": "united states",
+          "value": 0.05
+        },
+        {
+          "word1": "adventure sport",
+          "word2": "large country",
+          "value": 0.35
+        },
+        {
+          "word1": "domestic animal",
+          "word2": "fruit juice",
+          "value": 0.05
+        },
+        {
+          "word1": "dry fruit",
+          "word2": "latin american country",
+          "value": 0
+        },
+        {
+          "word1": "economy",
+          "word2": "developing country",
+          "value": 0.6
+        },
+        {
+          "word1": "extreme sport",
+          "word2": "asian country",
+          "value": 0
+        },
+        {
+          "word1": "fruit juice",
+          "word2": "active sport",
+          "value": 0
+        },
+        {
+          "word1": "fruit juice",
+          "word2": "wild animal",
+          "value": 0
+        },
+        {
+          "word1": "game animal",
+          "word2": "spectator sport",
+          "value": 0.1
+        },
+        {
+          "word1": "global company",
+          "word2": "ball",
+          "value": 0
+        },
+        {
+          "word1": "government",
+          "word2": "latin american country",
+          "value": 0.45
+        },
+        {
+          "word1": "local fruit",
+          "word2": "marine animal",
+          "value": 0.15
+        },
+        {
+          "word1": "pie",
+          "word2": "exotic fruit",
+          "value": 0.4
+        },
+        {
+          "word1": "sport",
+          "word2": "citrus juice",
+          "value": 0
+        },
+        {
+          "word1": "summer fruit",
+          "word2": "feral animal",
+          "value": 0.3
+        },
+        {
+          "word1": "carbon fiber",
+          "word2": "newspaper article",
+          "value": 0.1
+        },
+        {
+          "word1": "gymnastics",
+          "word2": "general electric",
+          "value": 0.05
+        },
+        {
+          "word1": "hike",
+          "word2": "production",
+          "value": 0.35
+        },
+        {
+          "word1": "hp",
+          "word2": "wild boar",
+          "value": 0
+        },
+        {
+          "word1": "media",
+          "word2": "trading",
+          "value": 0.25
+        },
+        {
+          "word1": "party",
+          "word2": "dinner",
+          "value": 0.65
+        },
+        {
+          "word1": "peanut butter",
+          "word2": "motor vehicle",
+          "value": 0.05
+        },
+        {
+          "word1": "plum",
+          "word2": "home depot",
+          "value": 0.05
+        },
+        {
+          "word1": "population",
+          "word2": "expiration date",
+          "value": 0.25
+        },
+        {
+          "word1": "sri lanka",
+          "word2": "cattle",
+          "value": 0.05
+        },
+        {
+          "word1": "visual basic",
+          "word2": "pareto chart",
+          "value": 0.35
+        }
+      ]
+    }
+  ],
+  "originalInstructions": ""
+}
