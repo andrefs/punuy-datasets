@@ -25,6 +25,8 @@ import reword26 from "./datasets/reword26";
 import atlasify240 from "./datasets/atlasify240";
 import men3000 from "./datasets/men3000";
 import wp300 from "./datasets/wp300";
+import rel122 from "./datasets/rel122";
+import ma28 from "./datasets/ma28";
 
 export {
   bg1000,
@@ -54,4 +56,6 @@ export {
   atlasify240,
   men3000,
   wp300,
+  rel122,
+  ma28,
 };
