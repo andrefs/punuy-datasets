@@ -28,7 +28,7 @@
       "metrics": {
         "annotators": {
           "total": 23,
-          "eachPair": 23
+          "minEachPair": 23
         },
         "interAgreement": {
           "pearson": 0.7027,
@@ -198,7 +198,7 @@
       "metrics": {
         "annotators": {
           "total": 51,
-          "eachPair": 51
+          "minEachPair": 51
         },
         "interAgreement": {
           "pearson": 0.7091,

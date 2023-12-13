@@ -125,9 +125,9 @@ type PartitionMetrics = {
     total: number | null;
 
     /**
-     * The number of annotators that annotated each pair
+     * The minimum number of annotators for each pair
      */
-    eachPair: number | null;
+    minEachPair: number | null;
   };
 
   /**

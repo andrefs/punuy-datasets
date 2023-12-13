@@ -28,7 +28,7 @@
       "metrics": {
         "annotators": {
           "total": null,
-          "eachPair": 5
+          "minEachPair": 5
         },
         "interAgreement": {
           "spearman": 0.76,
