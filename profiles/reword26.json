@@ -23,6 +23,16 @@
         "max": 1.0,
         "min": 0.0
       },
+      "metrics": {
+        "annotators": {
+          "total": 20,
+          "minEachPair": 20
+        },
+        "interAgreement": {
+          "pearson": 0.75,
+          "spearman": null
+        }
+      },
       "data": [
         {
           "word1": "Android",
