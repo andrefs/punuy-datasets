@@ -63,6 +63,11 @@ interface Metadata {
    * Which type of measures are used to compare the words
    */
   measureTypes: ("similarity" | "relatedness")[];
+
+  /**
+   * Tags for the dataset content
+   */
+  tags?: string[];
 }
 
 export interface Paper {
