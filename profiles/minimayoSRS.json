@@ -24,6 +24,16 @@
         "min": 1,
         "max": 4
       },
+      "metrics": {
+        "annotators": {
+          "total": 3,
+          "minEachPair": 3
+        },
+        "interAgreement": {
+          "pearson": 0.68,
+          "spearman": null
+        }
+      },
       "data": [
         {
           "value": 4,
@@ -178,6 +188,16 @@
       "interval": {
         "min": 1,
         "max": 4
+      },
+      "metrics": {
+        "annotators": {
+          "total": 9,
+          "minEachPair": 9
+        },
+        "interAgreement": {
+          "pearson": 0.78,
+          "spearman": null
+        }
       },
       "data": [
         {
