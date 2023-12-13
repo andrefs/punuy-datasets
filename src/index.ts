@@ -17,6 +17,7 @@ import ps65 from "./datasets/ps65";
 import mesh2 from "./datasets/mesh2";
 
 import zie55 from "./datasets/zie55";
+import gm30 from "./datasets/gm30";
 
 export {
   bg1000,
@@ -38,4 +39,5 @@ export {
   mesh2,
   //
   zie55,
+  gm30,
 };

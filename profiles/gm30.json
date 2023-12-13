@@ -1,0 +1,182 @@
+{
+  "id": "gm30",
+  "metadata": {
+    "name": "Gracia and Mena (2008)",
+    "urls": [],
+    "papers": [
+      {
+        "title": "Web-Based Measure of Semantic Relatedness",
+        "url": "https://oa.upm.es/6549/1/Web-based_Measure.pdf"
+      }
+    ],
+    "date": "2008",
+    "description": "",
+    "downloadUrls": [],
+    "measureTypes": [
+      "relatedness"
+    ]
+  },
+  "partitions": [
+    {
+      "id": "main",
+      "measureType": "relatedness",
+      "interval": {
+        "max": 4.0,
+        "min": 0.0
+      },
+      "data": [
+        {
+          "word1": "car",
+          "word2": "driver",
+          "value": 3.14
+        },
+        {
+          "word1": "person",
+          "word2": "soul",
+          "value": 2.84
+        },
+        {
+          "word1": "transfusion",
+          "word2": "guitar",
+          "value": 0.05
+        },
+        {
+          "word1": "theorem",
+          "word2": "wife",
+          "value": 0.34
+        },
+        {
+          "word1": "professional",
+          "word2": "actor",
+          "value": 2.12
+        },
+        {
+          "word1": "mathematics",
+          "word2": "theorem",
+          "value": 3.3
+        },
+        {
+          "word1": "person",
+          "word2": "person",
+          "value": 4.0
+        },
+        {
+          "word1": "atom",
+          "word2": "bomb",
+          "value": 2.63
+        },
+        {
+          "word1": "city",
+          "word2": "river",
+          "value": 1.85
+        },
+        {
+          "word1": "pencil",
+          "word2": "paper",
+          "value": 2.9
+        },
+        {
+          "word1": "theft",
+          "word2": "house",
+          "value": 1.99
+        },
+        {
+          "word1": "power",
+          "word2": "healing",
+          "value": 1.25
+        },
+        {
+          "word1": "cloud",
+          "word2": "computer",
+          "value": 0.32
+        },
+        {
+          "word1": "hour",
+          "word2": "minute",
+          "value": 3.38
+        },
+        {
+          "word1": "river",
+          "word2": "lake",
+          "value": 3.19
+        },
+        {
+          "word1": "blood",
+          "word2": "transfusion",
+          "value": 3.28
+        },
+        {
+          "word1": "blood",
+          "word2": "keyboard",
+          "value": 0.12
+        },
+        {
+          "word1": "xenon",
+          "word2": "soul",
+          "value": 0.07
+        },
+        {
+          "word1": "dog",
+          "word2": "friend",
+          "value": 2.51
+        },
+        {
+          "word1": "nanometer",
+          "word2": "feeling",
+          "value": 0.11
+        },
+        {
+          "word1": "ten",
+          "word2": "twelve",
+          "value": 3.01
+        },
+        {
+          "word1": "penguin",
+          "word2": "Antarctica",
+          "value": 2.96
+        },
+        {
+          "word1": "citizen",
+          "word2": "city",
+          "value": 3.24
+        },
+        {
+          "word1": "yes",
+          "word2": "no",
+          "value": 3.0
+        },
+        {
+          "word1": "sea",
+          "word2": "salt",
+          "value": 2.87
+        },
+        {
+          "word1": "computer",
+          "word2": "calculator",
+          "value": 2.81
+        },
+        {
+          "word1": "keyboard",
+          "word2": "computer",
+          "value": 3.25
+        },
+        {
+          "word1": "car",
+          "word2": "wheel",
+          "value": 3.02
+        },
+        {
+          "word1": "letter",
+          "word2": "message",
+          "value": 3.16
+        },
+        {
+          "word1": "pen",
+          "word2": "lamp",
+          "value": 0.65
+        }
+      ]
+    }
+  ],
+  "originalInstructions": ""
+}
