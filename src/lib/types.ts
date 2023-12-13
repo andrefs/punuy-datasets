@@ -118,8 +118,25 @@ type PartitionData = {
        * The averaged numeric value of the semantic measure for the pair
        */
       value: number;
+
+      /**
+       * The standard deviation of the numeric values of the semantic measure for the pair
+       */
+      stddev?: number;
+
+      /**
+       * The individual numeric values of the semantic measure for the pair
+       *
+       * @items {"type": "number"}
+       */
+      values?: number[];
     }
   | {
+      /**
+       * The averaged numeric value of the semantic measure for the pair
+       */
+      value?: number;
+
       /**
        * The individual numeric values of the semantic measure for the pair
        *
