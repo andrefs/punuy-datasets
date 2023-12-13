@@ -5,7 +5,8 @@
     "urls": [],
     "papers": [
       {
-        "title": "Contextual correlates of semantic similarity"
+        "title": "Contextual correlates of semantic similarity",
+        "url": "https://sci-hub.se/https://doi.org/10.1080/01690969108406936"
       }
     ],
     "date": "1991",
@@ -20,6 +21,16 @@
       "interval": {
         "max": 4.0,
         "min": 0.0
+      },
+      "metrics": {
+        "annotators": {
+          "total": 38,
+          "minEachPair": 38
+        },
+        "interAgreement": {
+          "pearson": 0.8848,
+          "spearman": null
+        }
       },
       "data": [
         {
@@ -174,5 +185,6 @@
         }
       ]
     }
-  ]
+  ],
+  "originalInstructions": ""
 }
