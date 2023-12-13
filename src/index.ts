@@ -29,6 +29,7 @@ import rel122 from "./datasets/rel122";
 import ma28 from "./datasets/ma28";
 
 import sl7576 from "./datasets/sl7576";
+import umnsrs from "./datasets/umnsrs";
 
 export {
   bg1000,
@@ -62,4 +63,5 @@ export {
   ma28,
   //
   sl7576,
+  umnsrs,
 };
