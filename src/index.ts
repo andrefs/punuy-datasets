@@ -1,10 +1,10 @@
 import bg1000 from "./datasets/bg1000";
-import mc30 from "./datasets/mc30";
 import mayoSRS from "./datasets/mayoSRS";
 import minimayoSRS from "./datasets/minimayoSRS";
-import umnsrsSimMod from "./datasets/umnsrsSimMod";
+import umnsrs from "./datasets/umnsrs";
+import umnsrsMod from "./datasets/umnsrsMod";
 
-import umnsrsRelMod from "./datasets/umnsrsRelMod";
+import mc30 from "./datasets/mc30";
 import mturk287 from "./datasets/mturk287";
 import rg65 from "./datasets/rg65";
 import srw2034 from "./datasets/srw2034";
@@ -29,16 +29,15 @@ import rel122 from "./datasets/rel122";
 import ma28 from "./datasets/ma28";
 
 import sl7576 from "./datasets/sl7576";
-import umnsrs from "./datasets/umnsrs";
 
 export {
   bg1000,
-  mc30,
   mayoSRS,
   minimayoSRS,
-  umnsrsSimMod,
+  umnsrs,
+  umnsrsMod,
   //
-  umnsrsRelMod,
+  mc30,
   mturk287,
   rg65,
   srw2034,
@@ -63,5 +62,4 @@ export {
   ma28,
   //
   sl7576,
-  umnsrs,
 };
