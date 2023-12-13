@@ -1,4 +1,4 @@
-import bg1000 from "./datasets/bg1000";
+import bg100k from "./datasets/bg100k";
 import mayoSRS from "./datasets/mayoSRS";
 import minimayoSRS from "./datasets/minimayoSRS";
 import umnsrs from "./datasets/umnsrs";
@@ -31,7 +31,7 @@ import ma28 from "./datasets/ma28";
 import sl7576 from "./datasets/sl7576";
 
 export {
-  bg1000,
+  bg100k,
   mayoSRS,
   minimayoSRS,
   umnsrs,
