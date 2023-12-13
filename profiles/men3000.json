@@ -18,9 +18,7 @@
       "https://staff.fnwi.uva.nl/e.bruni/resources/MEN.tar.gz",
       "https://staff.fnwi.uva.nl/e.bruni/resources/MEN.zip"
     ],
-    "measureTypes": [
-      "relatedness"
-    ]
+    "measureTypes": ["relatedness"]
   },
   "partitions": [
     {
