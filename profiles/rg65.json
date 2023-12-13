@@ -22,6 +22,20 @@
         "min": 0.0,
         "max": 4.0
       },
+      "metrics": {
+        "annotators": {
+          "total": 51,
+          "minEachPair": 51
+        },
+        "interAgreement": {
+          "pearson": 0.99,
+          "spearman": null
+        },
+        "intraAgreement": {
+          "pearson": 0.85,
+          "spearman": null
+        }
+      },
       "data": [
         {
           "word1": "cord",
