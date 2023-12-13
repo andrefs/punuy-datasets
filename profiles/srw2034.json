@@ -22,6 +22,16 @@
         "min": 0,
         "max": 10
       },
+      "metrics": {
+        "annotators": {
+          "total": 10,
+          "eachPair": 7
+        },
+        "interAgreement": {
+          "pearson": 0.0,
+          "spearman": 0.0
+        }
+      },
       "data": [
         {
           "word1": "squishing",
