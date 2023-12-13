@@ -15,7 +15,8 @@
       "http://www2.mta.ac.il/~gideon/datasets/MTURK-771-RAW.csv",
       "http://www2.mta.ac.il/~gideon/datasets/MTURK-771.csv"
     ],
-    "measureTypes": ["relatedness"]
+    "measureTypes": ["relatedness"],
+    "tags": ["mturk"]
   },
   "partitions": [
     {
