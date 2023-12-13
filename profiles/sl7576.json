@@ -25,6 +25,16 @@
         "max": 5,
         "min": 1
       },
+      "metrics": {
+        "annotators": {
+          "total": null,
+          "eachPair": 5
+        },
+        "interAgreement": {
+          "spearman": 0.76,
+          "pearson": null
+        }
+      },
       "data": [
         {
           "word1": "accordion",

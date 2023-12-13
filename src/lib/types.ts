@@ -94,6 +94,7 @@ interface Partition {
    * Which type of measure is used to compare the words
    */
   measureType: "similarity" | "relatedness";
+
   /**
    * The interval of the semantic measure values
    */
@@ -101,11 +102,64 @@ interface Partition {
     min: number;
     max: number;
   };
+
   /**
    * The data for the partition
    */
   data: PartitionData[];
+
+  /**
+   * Evaluation metrics for the partition
+   */
+  metrics: PartitionMetrics;
 }
+
+type PartitionMetrics = {
+  /**
+   * The number of annotators
+   */
+  annotators: {
+    /**
+     * The total number of annotators
+     */
+    total: number | null;
+
+    /**
+     * The number of annotators that annotated each pair
+     */
+    eachPair: number | null;
+  };
+
+  /**
+   * Inter annotator agreement metrics
+   */
+  interAgreement: {
+    /**
+     * Spearman correlation coefficient between annotators
+     */
+    spearman: number | null;
+
+    /**
+     * Pearson correlation coefficient between annotators
+     */
+    pearson: number | null;
+  };
+
+  /**
+   * Intra annotator agreement metrics
+   */
+  intraAgreement?: {
+    /**
+     * Spearman correlation coefficient between annotators
+     */
+    spearman: number | null;
+
+    /**
+     * Pearson correlation coefficient between annotators
+     */
+    pearson: number | null;
+  };
+};
 
 type PartitionData = {
   /**
