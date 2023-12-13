@@ -22,6 +22,16 @@
         "min": 0,
         "max": 10
       },
+      "metrics": {
+        "annotators": {
+          "total": 29,
+          "eachPair": 13
+        },
+        "interAgreement": {
+          "pearson": null,
+          "spearman": null
+        }
+      },
       "data": [
         {
           "word1": "tiger",
