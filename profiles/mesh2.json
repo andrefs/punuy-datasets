@@ -27,6 +27,16 @@
         "min": 0,
         "max": 1
       },
+      "metrics": {
+        "annotators": {
+          "total": 8,
+          "minEachPair": 8
+        },
+        "interAgreement": {
+          "pearson": null,
+          "spearman": null
+        }
+      },
       "data": [
         {
           "word1": "Anemia",
