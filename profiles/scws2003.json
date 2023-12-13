@@ -22,6 +22,16 @@
         "max": 10.0,
         "min": 0.0
       },
+      "metrics": {
+        "annotators": {
+          "total": 10,
+          "minEachPair": 10
+        },
+        "interAgreement": {
+          "pearson": null,
+          "spearman": null
+        }
+      },
       "data": [
         {
           "word1": "Brazil",
