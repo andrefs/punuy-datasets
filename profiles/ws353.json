@@ -2192,7 +2192,7 @@
         },
         "interAgreement": {
           "pearson": null,
-          "spearman": null
+          "spearman": 0.611
         }
       },
       "data": [
