@@ -30,6 +30,7 @@ import ma28 from "./datasets/ma28";
 
 import sl7576 from "./datasets/sl7576";
 import simlex999 from "./datasets/simlex999";
+import baker143 from "./datasets/baker143";
 
 export {
   bg100k,
@@ -64,4 +65,5 @@ export {
   //
   sl7576,
   simlex999,
+  baker143,
 };

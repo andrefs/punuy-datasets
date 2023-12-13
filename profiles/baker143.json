@@ -1,0 +1,762 @@
+{
+  "id": "baker143",
+  "metadata": {
+    "name": "Baker 143",
+    "urls": [],
+    "papers": [
+      {
+        "title": "An Unsupervised Model for Instance Level Subcategorization Acquisition",
+        "url": "https://aclanthology.org/D14-1034.pdf"
+      }
+    ],
+    "date": "2014",
+    "description": "",
+    "downloadUrls": [
+      "https://github.com/MohamedAliHadjTaieb/Semantic-measure-assessment-review-study/blob/master/DataSets/English/Semantic%20Similarity/Baker_Verb_EN.csv"
+    ],
+    "measureTypes": ["similarity"]
+  },
+  "partitions": [
+    {
+      "id": "main",
+      "measureType": "similarity",
+      "interval": {
+        "max": 1,
+        "min": 0
+      },
+      "metrics": {
+        "annotators": {
+          "total": 10,
+          "minEachPair": 10
+        },
+        "interAgreement": {
+          "pearson": null,
+          "spearman": null
+        }
+      },
+      "data": [
+        {
+          "word1": "happen",
+          "word2": "say",
+          "value": 0.19
+        },
+        {
+          "word1": "makes",
+          "word2": "produced",
+          "value": 0.72
+        },
+        {
+          "word1": "established",
+          "word2": "make",
+          "value": 0.48
+        },
+        {
+          "word1": "calling",
+          "word2": "say",
+          "value": 0.53
+        },
+        {
+          "word1": "developed",
+          "word2": "considers",
+          "value": 0.24
+        },
+        {
+          "word1": "organising",
+          "word2": "developed",
+          "value": 0.35
+        },
+        {
+          "word1": "causes",
+          "word2": "allows",
+          "value": 0.48
+        },
+        {
+          "word1": "requiring",
+          "word2": "organising",
+          "value": 0.27
+        },
+        {
+          "word1": "made",
+          "word2": "set",
+          "value": 0.39
+        },
+        {
+          "word1": "gave",
+          "word2": "shows",
+          "value": 0.43
+        },
+        {
+          "word1": "giving",
+          "word2": "produces",
+          "value": 0.36
+        },
+        {
+          "word1": "rise",
+          "word2": "made",
+          "value": 0.23
+        },
+        {
+          "word1": "seemed",
+          "word2": "find",
+          "value": 0.35
+        },
+        {
+          "word1": "form",
+          "word2": "employ",
+          "value": 0.19
+        },
+        {
+          "word1": "refuses",
+          "word2": "protect",
+          "value": 0.23
+        },
+        {
+          "word1": "produced",
+          "word2": "reports",
+          "value": 0.31
+        },
+        {
+          "word1": "gives",
+          "word2": "employed",
+          "value": 0.16
+        },
+        {
+          "word1": "sets",
+          "word2": "starting",
+          "value": 0.19
+        },
+        {
+          "word1": "organising",
+          "word2": "shown",
+          "value": 0.21
+        },
+        {
+          "word1": "works",
+          "word2": "causes",
+          "value": 0.3
+        },
+        {
+          "word1": "using",
+          "word2": "calls",
+          "value": 0.19
+        },
+        {
+          "word1": "causes",
+          "word2": "used",
+          "value": 0.13
+        },
+        {
+          "word1": "affecting",
+          "word2": "works",
+          "value": 0.31
+        },
+        {
+          "word1": "cause",
+          "word2": "starts",
+          "value": 0.53
+        },
+        {
+          "word1": "strike",
+          "word2": "form",
+          "value": 0.14
+        },
+        {
+          "word1": "considering",
+          "word2": "leading",
+          "value": 0.2
+        },
+        {
+          "word1": "refuses",
+          "word2": "refused",
+          "value": 0.79
+        },
+        {
+          "word1": "affected",
+          "word2": "reported",
+          "value": 0.29
+        },
+        {
+          "word1": "show",
+          "word2": "use",
+          "value": 0.18
+        },
+        {
+          "word1": "work",
+          "word2": "allow",
+          "value": 0.31
+        },
+        {
+          "word1": "starts",
+          "word2": "requires",
+          "value": 0.19
+        },
+        {
+          "word1": "gives",
+          "word2": "produced",
+          "value": 0.4
+        },
+        {
+          "word1": "exist",
+          "word2": "produced",
+          "value": 0.19
+        },
+        {
+          "word1": "starts",
+          "word2": "set",
+          "value": 0.31
+        },
+        {
+          "word1": "employed",
+          "word2": "helping",
+          "value": 0.185
+        },
+        {
+          "word1": "affected",
+          "word2": "created",
+          "value": 0.22
+        },
+        {
+          "word1": "produces",
+          "word2": "starts",
+          "value": 0.37
+        },
+        {
+          "word1": "happens",
+          "word2": "produce",
+          "value": 0.23
+        },
+        {
+          "word1": "using",
+          "word2": "employed",
+          "value": 0.33
+        },
+        {
+          "word1": "establishing",
+          "word2": "increasing",
+          "value": 0.3
+        },
+        {
+          "word1": "seemed",
+          "word2": "seems",
+          "value": 0.73
+        },
+        {
+          "word1": "increasing",
+          "word2": "start",
+          "value": 0.18
+        },
+        {
+          "word1": "said",
+          "word2": "considering",
+          "value": 0.16
+        },
+        {
+          "word1": "allow",
+          "word2": "make",
+          "value": 0.27
+        },
+        {
+          "word1": "led",
+          "word2": "established",
+          "value": 0.35
+        },
+        {
+          "word1": "calling",
+          "word2": "reported",
+          "value": 0.26
+        },
+        {
+          "word1": "found",
+          "word2": "taken",
+          "value": 0.25
+        },
+        {
+          "word1": "says",
+          "word2": "set",
+          "value": 0.31
+        },
+        {
+          "word1": "happens",
+          "word2": "continue",
+          "value": 0.22
+        },
+        {
+          "word1": "reducing",
+          "word2": "works",
+          "value": 0.14
+        },
+        {
+          "word1": "shows",
+          "word2": "produced",
+          "value": 0.3
+        },
+        {
+          "word1": "report",
+          "word2": "creating",
+          "value": 0.14
+        },
+        {
+          "word1": "considers",
+          "word2": "says",
+          "value": 0.33
+        },
+        {
+          "word1": "created",
+          "word2": "work",
+          "value": 0.19
+        },
+        {
+          "word1": "affecting",
+          "word2": "protect",
+          "value": 0.24
+        },
+        {
+          "word1": "providing",
+          "word2": "showing",
+          "value": 0.58
+        },
+        {
+          "word1": "happening",
+          "word2": "affected",
+          "value": 0.22
+        },
+        {
+          "word1": "says",
+          "word2": "shows",
+          "value": 0.4
+        },
+        {
+          "word1": "given",
+          "word2": "working",
+          "value": 0.18
+        },
+        {
+          "word1": "affect",
+          "word2": "happen",
+          "value": 0.27
+        },
+        {
+          "word1": "requires",
+          "word2": "exists",
+          "value": 0.32
+        },
+        {
+          "word1": "affecting",
+          "word2": "helping",
+          "value": 0.28
+        },
+        {
+          "word1": "making",
+          "word2": "establishing",
+          "value": 0.59
+        },
+        {
+          "word1": "applies",
+          "word2": "cause",
+          "value": 0.23
+        },
+        {
+          "word1": "found",
+          "word2": "take",
+          "value": 0.26
+        },
+        {
+          "word1": "organising",
+          "word2": "produced",
+          "value": 0.24
+        },
+        {
+          "word1": "providing",
+          "word2": "reported",
+          "value": 0.38
+        },
+        {
+          "word1": "calls",
+          "word2": "help",
+          "value": 0.25
+        },
+        {
+          "word1": "refusing",
+          "word2": "apply",
+          "value": 0.13
+        },
+        {
+          "word1": "setting",
+          "word2": "finds",
+          "value": 0.16
+        },
+        {
+          "word1": "organise",
+          "word2": "used",
+          "value": 0.16
+        },
+        {
+          "word1": "considers",
+          "word2": "allows",
+          "value": 0.3
+        },
+        {
+          "word1": "allowed",
+          "word2": "sets",
+          "value": 0.26
+        },
+        {
+          "word1": "led",
+          "word2": "organised",
+          "value": 0.26
+        },
+        {
+          "word1": "helped",
+          "word2": "starts",
+          "value": 0.18
+        },
+        {
+          "word1": "recognise",
+          "word2": "considered",
+          "value": 0.34
+        },
+        {
+          "word1": "makes",
+          "word2": "increases",
+          "value": 0.25
+        },
+        {
+          "word1": "given",
+          "word2": "showing",
+          "value": 0.29
+        },
+        {
+          "word1": "creating",
+          "word2": "exist",
+          "value": 0.33
+        },
+        {
+          "word1": "happened",
+          "word2": "showed",
+          "value": 0.37
+        },
+        {
+          "word1": "starts",
+          "word2": "refused",
+          "value": 0.07
+        },
+        {
+          "word1": "establish",
+          "word2": "creating",
+          "value": 0.39
+        },
+        {
+          "word1": "employ",
+          "word2": "affect",
+          "value": 0.26
+        },
+        {
+          "word1": "working",
+          "word2": "developing",
+          "value": 0.46
+        },
+        {
+          "word1": "take",
+          "word2": "providing",
+          "value": 0.11
+        },
+        {
+          "word1": "required",
+          "word2": "considers",
+          "value": 0.2
+        },
+        {
+          "word1": "affecting",
+          "word2": "use",
+          "value": 0.18
+        },
+        {
+          "word1": "recognise",
+          "word2": "provide",
+          "value": 0.17
+        },
+        {
+          "word1": "produced",
+          "word2": "provides",
+          "value": 0.3
+        },
+        {
+          "word1": "showed",
+          "word2": "apply",
+          "value": 0.26
+        },
+        {
+          "word1": "setting",
+          "word2": "showing",
+          "value": 0.35
+        },
+        {
+          "word1": "happening",
+          "word2": "shown",
+          "value": 0.21
+        },
+        {
+          "word1": "given",
+          "word2": "use",
+          "value": 0.17
+        },
+        {
+          "word1": "said",
+          "word2": "allow",
+          "value": 0.14
+        },
+        {
+          "word1": "employ",
+          "word2": "applied",
+          "value": 0.22
+        },
+        {
+          "word1": "works",
+          "word2": "dismiss",
+          "value": 0.13
+        },
+        {
+          "word1": "showing",
+          "word2": "showed",
+          "value": 0.7
+        },
+        {
+          "word1": "employ",
+          "word2": "makes",
+          "value": 0.3
+        },
+        {
+          "word1": "take",
+          "word2": "includes",
+          "value": 0.19
+        },
+        {
+          "word1": "refused",
+          "word2": "provide",
+          "value": 0.15
+        },
+        {
+          "word1": "affected",
+          "word2": "apply",
+          "value": 0.22
+        },
+        {
+          "word1": "concerned",
+          "word2": "provides",
+          "value": 0.15
+        },
+        {
+          "word1": "included",
+          "word2": "allows",
+          "value": 0.27
+        },
+        {
+          "word1": "produce",
+          "word2": "lead",
+          "value": 0.23
+        },
+        {
+          "word1": "produce",
+          "word2": "dismiss",
+          "value": 0.07
+        },
+        {
+          "word1": "find",
+          "word2": "given",
+          "value": 0.26
+        },
+        {
+          "word1": "protected",
+          "word2": "exist",
+          "value": 0.13
+        },
+        {
+          "word1": "dismiss",
+          "word2": "finding",
+          "value": 0.09
+        },
+        {
+          "word1": "found",
+          "word2": "happen",
+          "value": 0.21
+        },
+        {
+          "word1": "give",
+          "word2": "working",
+          "value": 0.13
+        },
+        {
+          "word1": "reducing",
+          "word2": "increased",
+          "value": 0.08
+        },
+        {
+          "word1": "take",
+          "word2": "considered",
+          "value": 0.18
+        },
+        {
+          "word1": "employed",
+          "word2": "applied",
+          "value": 0.2
+        },
+        {
+          "word1": "pay",
+          "word2": "includes",
+          "value": 0.15
+        },
+        {
+          "word1": "including",
+          "word2": "refuses",
+          "value": 0.1
+        },
+        {
+          "word1": "strike",
+          "word2": "says",
+          "value": 0.19
+        },
+        {
+          "word1": "report",
+          "word2": "starting",
+          "value": 0.14
+        },
+        {
+          "word1": "included",
+          "word2": "increased",
+          "value": 0.15
+        },
+        {
+          "word1": "continued",
+          "word2": "says",
+          "value": 0.12
+        },
+        {
+          "word1": "affect",
+          "word2": "organising",
+          "value": 0.11
+        },
+        {
+          "word1": "establishing",
+          "word2": "gives",
+          "value": 0.13
+        },
+        {
+          "word1": "provide",
+          "word2": "including",
+          "value": 0.19
+        },
+        {
+          "word1": "said",
+          "word2": "included",
+          "value": 0.21
+        },
+        {
+          "word1": "develop",
+          "word2": "makes",
+          "value": 0.56
+        },
+        {
+          "word1": "refusing",
+          "word2": "allows",
+          "value": 0.14
+        },
+        {
+          "word1": "paid",
+          "word2": "seems",
+          "value": 0.13
+        },
+        {
+          "word1": "establishing",
+          "word2": "including",
+          "value": 0.28
+        },
+        {
+          "word1": "seem",
+          "word2": "said",
+          "value": 0.24
+        },
+        {
+          "word1": "seem",
+          "word2": "called",
+          "value": 0.18
+        },
+        {
+          "word1": "happens",
+          "word2": "require",
+          "value": 0.21
+        },
+        {
+          "word1": "use",
+          "word2": "working",
+          "value": 0.19
+        },
+        {
+          "word1": "take",
+          "word2": "leading",
+          "value": 0.13
+        },
+        {
+          "word1": "working",
+          "word2": "worked",
+          "value": 0.78
+        },
+        {
+          "word1": "refusing",
+          "word2": "exist",
+          "value": 0.09
+        },
+        {
+          "word1": "establish",
+          "word2": "requires",
+          "value": 0.18
+        },
+        {
+          "word1": "allows",
+          "word2": "employ",
+          "value": 0.17
+        },
+        {
+          "word1": "increased",
+          "word2": "reported",
+          "value": 0.2
+        },
+        {
+          "word1": "seemed",
+          "word2": "protects",
+          "value": 0.1
+        },
+        {
+          "word1": "seems",
+          "word2": "allowed",
+          "value": 0.13
+        },
+        {
+          "word1": "lead",
+          "word2": "require",
+          "value": 0.2
+        },
+        {
+          "word1": "affect",
+          "word2": "showed",
+          "value": 0.21
+        },
+        {
+          "word1": "pay",
+          "word2": "led",
+          "value": 0.18
+        },
+        {
+          "word1": "made",
+          "word2": "affect",
+          "value": 0.23
+        },
+        {
+          "word1": "employ",
+          "word2": "using",
+          "value": 0.33
+        }
+      ]
+    }
+  ],
+  "originalInstructions": ""
+}

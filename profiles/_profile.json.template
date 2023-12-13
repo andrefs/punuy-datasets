@@ -23,7 +23,7 @@
         "min": 0
       },
       "metrics": {
-        "annotator": {
+        "annotators": {
           "total": ,
           "minEachPair":
         },
