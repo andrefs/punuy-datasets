@@ -2,9 +2,7 @@
   "id": "wp300",
   "metadata": {
     "name": "WP300",
-    "urls": [
-      "http://adapt.seiee.sjtu.edu.cn/similarity/"
-    ],
+    "urls": ["http://adapt.seiee.sjtu.edu.cn/similarity/"],
     "papers": [
       {
         "title": "Computing Term Similarity by Large Probabilistic isA Knowledge",
@@ -16,12 +14,8 @@
     "downloadUrls": [
       "http://adapt.seiee.sjtu.edu.cn/similarity/SimCompleteResults.pdf"
     ],
-    "measureTypes": [
-      "similarity"
-    ],
-    "tags": [
-      "entities"
-    ]
+    "measureTypes": ["similarity"],
+    "tags": ["entities"]
   },
   "partitions": [
     {
@@ -393,9 +387,11 @@
           "value": 0.8
         },
         {
-          "word1": "apple ipad",
+          "word1": "apple",
+          "word2": "ipad",
           "value": 0.2
-        }", "word2": "{
+        },
+        {
           "word1": "company",
           "word2": "icici bank",
           "value": 0.8
@@ -687,7 +683,11 @@
         },
         {
           "word1": "recreational sport",
-          "word2": "intramural sport 0.85 0.6999 conceptPair {"word1": "tree fruit",
+          "word2": "intramural sport",
+          "value": 0.85
+        },
+        {
+          "word1": "tree fruit",
           "word2": "berry",
           "value": 0.7
         },
@@ -978,7 +978,11 @@
         },
         {
           "word1": "household name",
-          "word2": "big player 0.6 0.4975 conceptPair {"word1": "event",
+          "word2": "big player",
+          "value": 0.6
+        },
+        {
+          "word1": "event",
           "word2": "lunch",
           "value": 0.7
         },
