@@ -1,0 +1,1236 @@
+{
+  "id": "atlasify240",
+  "metadata": {
+    "name": "Atlasify240",
+    "urls": [
+      "https://users.cs.northwestern.edu/~ddowney/data_code.html"
+    ],
+    "papers": [
+      {
+        "title": "Explanatory Semantic Relatedness and Explicit Spatialization for Exploratory Search",
+        "url": "https://www.brenthecht.com/papers/bhecht_sigir2012_ExpSpatialization_SRplusE.pdf"
+      }
+    ],
+    "date": "2012",
+    "description": "",
+    "downloadUrls": [
+      "https://users.cs.northwestern.edu/~ddowney/data/atlasify240.csv"
+    ],
+    "measureTypes": [
+      "relatedness"
+    ]
+  },
+  "partitions": [
+    {
+      "id": "main",
+      "measureType": "relatedness",
+      "interval": {
+        "max": 4.0,
+        "min": 0.0
+      },
+      "data": [
+        {
+          "word1": "Isaac Newton",
+          "word2": "War",
+          "value": 0.6
+        },
+        {
+          "word1": "Radio",
+          "word2": "Technology",
+          "value": 3.7
+        },
+        {
+          "word1": "Australia",
+          "word2": "Hinduism",
+          "value": 0.9
+        },
+        {
+          "word1": "Television",
+          "word2": "Truth",
+          "value": 2.5
+        },
+        {
+          "word1": "Courage",
+          "word2": "Dove",
+          "value": 1.4
+        },
+        {
+          "word1": "YouTube",
+          "word2": "Art",
+          "value": 2.5
+        },
+        {
+          "word1": "Antarctica",
+          "word2": "Communism",
+          "value": 0.2
+        },
+        {
+          "word1": "Radio",
+          "word2": "News",
+          "value": 3.7
+        },
+        {
+          "word1": "Loyalty",
+          "word2": "Lion",
+          "value": 1.9
+        },
+        {
+          "word1": "England",
+          "word2": "Chocolate",
+          "value": 1.9
+        },
+        {
+          "word1": "Yellow",
+          "word2": "Bill Clinton",
+          "value": 0.3
+        },
+        {
+          "word1": "Happiness",
+          "word2": "Sahara Desert",
+          "value": 0.2
+        },
+        {
+          "word1": "Genghis Khan",
+          "word2": "Google",
+          "value": 0.6
+        },
+        {
+          "word1": "South America",
+          "word2": "Hinduism",
+          "value": 1.0
+        },
+        {
+          "word1": "Cat",
+          "word2": "Mouse",
+          "value": 4.0
+        },
+        {
+          "word1": "Flickr",
+          "word2": "Community",
+          "value": 3.2
+        },
+        {
+          "word1": "Envy",
+          "word2": "Yellow",
+          "value": 1.1
+        },
+        {
+          "word1": "Beer",
+          "word2": "Led Zeppelin",
+          "value": 1.4
+        },
+        {
+          "word1": "Europe",
+          "word2": "Hinduism",
+          "value": 1.6
+        },
+        {
+          "word1": "Morning",
+          "word2": "Sunrise",
+          "value": 4.0
+        },
+        {
+          "word1": "Autumn",
+          "word2": "Winter",
+          "value": 4.0
+        },
+        {
+          "word1": "Lion",
+          "word2": "Mouse",
+          "value": 3.1
+        },
+        {
+          "word1": "Australia",
+          "word2": "Bread",
+          "value": 1.4
+        },
+        {
+          "word1": "Summer",
+          "word2": "Julius Caesar",
+          "value": 1.0
+        },
+        {
+          "word1": "Somatosensory system",
+          "word2": "Australia",
+          "value": 0.3
+        },
+        {
+          "word1": "Alan Turing",
+          "word2": "Biology",
+          "value": 2.0
+        },
+        {
+          "word1": "Fear",
+          "word2": "Yellow",
+          "value": 2.4
+        },
+        {
+          "word1": "England",
+          "word2": "Wine",
+          "value": 2.1
+        },
+        {
+          "word1": "Switzerland",
+          "word2": "deviantArt",
+          "value": 0.6
+        },
+        {
+          "word1": "Radio",
+          "word2": "Deception",
+          "value": 1.6
+        },
+        {
+          "word1": "Leonhard Euler",
+          "word2": "Computer Science",
+          "value": 2.5
+        },
+        {
+          "word1": "Italy",
+          "word2": "Beer",
+          "value": 2.0
+        },
+        {
+          "word1": "France",
+          "word2": "Bread",
+          "value": 3.8
+        },
+        {
+          "word1": "Ireland",
+          "word2": "Hinduism",
+          "value": 0.5
+        },
+        {
+          "word1": "Antarctica",
+          "word2": "Buddhism",
+          "value": 0.3
+        },
+        {
+          "word1": "4Chan",
+          "word2": "Art",
+          "value": 1.3
+        },
+        {
+          "word1": "Architect",
+          "word2": "4Chan",
+          "value": 0.2
+        },
+        {
+          "word1": "Cat",
+          "word2": "Loyalty",
+          "value": 1.3
+        },
+        {
+          "word1": "deviantArt",
+          "word2": "Charles Darwin",
+          "value": 0.1
+        },
+        {
+          "word1": "Queen (band)",
+          "word2": "Country music",
+          "value": 1.5
+        },
+        {
+          "word1": "Isaac Newton",
+          "word2": "Physics",
+          "value": 4.0
+        },
+        {
+          "word1": "Soap",
+          "word2": "deviantArt",
+          "value": 0.3
+        },
+        {
+          "word1": "Newspaper",
+          "word2": "Fear",
+          "value": 2.0
+        },
+        {
+          "word1": "Morning",
+          "word2": "Humpback Whale",
+          "value": 0.5
+        },
+        {
+          "word1": "Microsoft",
+          "word2": "Apple Inc.",
+          "value": 3.9
+        },
+        {
+          "word1": "Religion",
+          "word2": "Democracy",
+          "value": 2.5
+        },
+        {
+          "word1": "Astronaut",
+          "word2": "Flamingo",
+          "value": 0.2
+        },
+        {
+          "word1": "Dove",
+          "word2": "Skype",
+          "value": 0.1
+        },
+        {
+          "word1": "Beer",
+          "word2": "Computer Science",
+          "value": 1.0
+        },
+        {
+          "word1": "Marie Curie",
+          "word2": "Mathematics",
+          "value": 2.1
+        },
+        {
+          "word1": "Love",
+          "word2": "Dog",
+          "value": 2.8
+        },
+        {
+          "word1": "Bald Eagle",
+          "word2": "Autumn",
+          "value": 1.1
+        },
+        {
+          "word1": "Loyalty",
+          "word2": "Eagle",
+          "value": 2.0
+        },
+        {
+          "word1": "Buddhism",
+          "word2": "Winter",
+          "value": 0.9
+        },
+        {
+          "word1": "Switzerland",
+          "word2": "News",
+          "value": 1.4
+        },
+        {
+          "word1": "France",
+          "word2": "Cheese",
+          "value": 3.6
+        },
+        {
+          "word1": "South America",
+          "word2": "Islam",
+          "value": 1.1
+        },
+        {
+          "word1": "Australia",
+          "word2": "Love",
+          "value": 1.3
+        },
+        {
+          "word1": "Genghis Khan",
+          "word2": "Red",
+          "value": 1.4
+        },
+        {
+          "word1": "North America",
+          "word2": "Buddhism",
+          "value": 1.4
+        },
+        {
+          "word1": "Switzerland",
+          "word2": "Lobster",
+          "value": 0.6
+        },
+        {
+          "word1": "Giant Panda",
+          "word2": "Banker",
+          "value": 0.2
+        },
+        {
+          "word1": "Barack Obama",
+          "word2": "Blue",
+          "value": 2.7
+        },
+        {
+          "word1": "Galileo Galilei",
+          "word2": "Biology",
+          "value": 1.7
+        },
+        {
+          "word1": "Anger",
+          "word2": "Yellow",
+          "value": 0.7
+        },
+        {
+          "word1": "George W. Bush",
+          "word2": "War",
+          "value": 4.0
+        },
+        {
+          "word1": "Queen (band)",
+          "word2": "Pop music",
+          "value": 3.5
+        },
+        {
+          "word1": "Skype",
+          "word2": "Art",
+          "value": 0.7
+        },
+        {
+          "word1": "Facebook",
+          "word2": "Cheese",
+          "value": 0.0
+        },
+        {
+          "word1": "World of Warcraft",
+          "word2": "Community",
+          "value": 3.6
+        },
+        {
+          "word1": "Isaac Newton",
+          "word2": "Computer Science",
+          "value": 1.9
+        },
+        {
+          "word1": "England",
+          "word2": "Beer",
+          "value": 3.0
+        },
+        {
+          "word1": "Antarctica",
+          "word2": "Christianity",
+          "value": 0.6
+        },
+        {
+          "word1": "Hinduism",
+          "word2": "Spring (season)",
+          "value": 1.0
+        },
+        {
+          "word1": "Fear",
+          "word2": "Blue",
+          "value": 0.7
+        },
+        {
+          "word1": "Alligator",
+          "word2": "Crocodile",
+          "value": 4.0
+        },
+        {
+          "word1": "Galileo Galilei",
+          "word2": "Banker",
+          "value": 0.5
+        },
+        {
+          "word1": "Love",
+          "word2": "Blue",
+          "value": 1.6
+        },
+        {
+          "word1": "Australia",
+          "word2": "Chocolate",
+          "value": 1.1
+        },
+        {
+          "word1": "Carnivore",
+          "word2": "Mammal",
+          "value": 3.3
+        },
+        {
+          "word1": "Summer",
+          "word2": "Autumn",
+          "value": 4.0
+        },
+        {
+          "word1": "France",
+          "word2": "Wine",
+          "value": 3.9
+        },
+        {
+          "word1": "Rock music",
+          "word2": "Isaac Newton",
+          "value": 0.0
+        },
+        {
+          "word1": "deviantArt",
+          "word2": "Privacy",
+          "value": 1.5
+        },
+        {
+          "word1": "Marie Curie",
+          "word2": "Physics",
+          "value": 3.2
+        },
+        {
+          "word1": "Loyalty",
+          "word2": "Dove",
+          "value": 1.3
+        },
+        {
+          "word1": "Anger",
+          "word2": "Blue",
+          "value": 0.9
+        },
+        {
+          "word1": "Cheese",
+          "word2": "France",
+          "value": 3.7
+        },
+        {
+          "word1": "ABBA",
+          "word2": "Country music",
+          "value": 1.4
+        },
+        {
+          "word1": "Albert Einstein",
+          "word2": "Chemistry",
+          "value": 3.1
+        },
+        {
+          "word1": "AOL Instant Messenger",
+          "word2": "Community",
+          "value": 3.2
+        },
+        {
+          "word1": "Happiness",
+          "word2": "Red",
+          "value": 1.5
+        },
+        {
+          "word1": "Cat",
+          "word2": "Dog",
+          "value": 4.0
+        },
+        {
+          "word1": "Bridge",
+          "word2": "River",
+          "value": 3.9
+        },
+        {
+          "word1": "Peace",
+          "word2": "Dog",
+          "value": 0.9
+        },
+        {
+          "word1": "Skype",
+          "word2": "Privacy",
+          "value": 2.7
+        },
+        {
+          "word1": "Alaska",
+          "word2": "Rainforest",
+          "value": 0.9
+        },
+        {
+          "word1": "Loyalty",
+          "word2": "Dog",
+          "value": 4.0
+        },
+        {
+          "word1": "Russia",
+          "word2": "Buddhism",
+          "value": 1.0
+        },
+        {
+          "word1": "Winter",
+          "word2": "Summer",
+          "value": 3.9
+        },
+        {
+          "word1": "Isaac Newton",
+          "word2": "Mathematics",
+          "value": 3.8
+        },
+        {
+          "word1": "Ronald Reagan",
+          "word2": "Islam",
+          "value": 1.5
+        },
+        {
+          "word1": "Canada",
+          "word2": "Morning",
+          "value": 0.4
+        },
+        {
+          "word1": "Alan Turing",
+          "word2": "Atilla the Hun",
+          "value": 0.2
+        },
+        {
+          "word1": "World of Warcraft",
+          "word2": "Privacy",
+          "value": 1.9
+        },
+        {
+          "word1": "Charles Darwin",
+          "word2": "Physics",
+          "value": 1.8
+        },
+        {
+          "word1": "Sponge",
+          "word2": "Michael Jackson",
+          "value": 0.2
+        },
+        {
+          "word1": "Italy",
+          "word2": "Bread",
+          "value": 3.1
+        },
+        {
+          "word1": "Love",
+          "word2": "Dove",
+          "value": 2.9
+        },
+        {
+          "word1": "Love",
+          "word2": "Lion",
+          "value": 0.8
+        },
+        {
+          "word1": "YouTube",
+          "word2": "Community",
+          "value": 3.2
+        },
+        {
+          "word1": "Twitter",
+          "word2": "Art",
+          "value": 1.0
+        },
+        {
+          "word1": "Flamingo",
+          "word2": "Astronaut",
+          "value": 0.3
+        },
+        {
+          "word1": "Wheat",
+          "word2": "Grain",
+          "value": 4.0
+        },
+        {
+          "word1": "Love",
+          "word2": "Hawk",
+          "value": 0.8
+        },
+        {
+          "word1": "deviantArt",
+          "word2": "Community",
+          "value": 3.3
+        },
+        {
+          "word1": "Israel",
+          "word2": "War",
+          "value": 3.9
+        },
+        {
+          "word1": "Barack Obama",
+          "word2": "Red",
+          "value": 1.1
+        },
+        {
+          "word1": "War",
+          "word2": "Hawk",
+          "value": 3.3
+        },
+        {
+          "word1": "Bear",
+          "word2": "Panda",
+          "value": 4.0
+        },
+        {
+          "word1": "Hawk",
+          "word2": "Computer Science",
+          "value": 0.2
+        },
+        {
+          "word1": "Marie Curie",
+          "word2": "Biology",
+          "value": 1.7
+        },
+        {
+          "word1": "Fear",
+          "word2": "Bald Eagle",
+          "value": 0.9
+        },
+        {
+          "word1": "Twitter",
+          "word2": "Summer",
+          "value": 0.4
+        },
+        {
+          "word1": "Moss",
+          "word2": "Communism",
+          "value": 0.0
+        },
+        {
+          "word1": "Lion",
+          "word2": "Hands",
+          "value": 0.4
+        },
+        {
+          "word1": "Newspaper",
+          "word2": "Technology",
+          "value": 2.9
+        },
+        {
+          "word1": "Radio",
+          "word2": "Bald Eagle",
+          "value": 0.2
+        },
+        {
+          "word1": "Google",
+          "word2": "Facebook",
+          "value": 3.8
+        },
+        {
+          "word1": "4Chan",
+          "word2": "ABBA",
+          "value": 0.3
+        },
+        {
+          "word1": "Morality",
+          "word2": "Abortion",
+          "value": 3.4
+        },
+        {
+          "word1": "Architect",
+          "word2": "Architecture",
+          "value": 4.0
+        },
+        {
+          "word1": "Apple Inc.",
+          "word2": "Google",
+          "value": 3.7
+        },
+        {
+          "word1": "Chemistry",
+          "word2": "Mathematics",
+          "value": 3.4
+        },
+        {
+          "word1": "Television",
+          "word2": "Deception",
+          "value": 2.4
+        },
+        {
+          "word1": "United States",
+          "word2": "Spoon",
+          "value": 0.3
+        },
+        {
+          "word1": "Evil",
+          "word2": "Science",
+          "value": 1.9
+        },
+        {
+          "word1": "Winter",
+          "word2": "Spring (season)",
+          "value": 4.0
+        },
+        {
+          "word1": "Happiness",
+          "word2": "Blue",
+          "value": 2.1
+        },
+        {
+          "word1": "Barack Obama",
+          "word2": "Christianity",
+          "value": 2.6
+        },
+        {
+          "word1": "Privacy",
+          "word2": "Chocolate",
+          "value": 0.4
+        },
+        {
+          "word1": "Philosophy",
+          "word2": "Science",
+          "value": 3.7
+        },
+        {
+          "word1": "Antarctica",
+          "word2": "Islam",
+          "value": 0.2
+        },
+        {
+          "word1": "Flickr",
+          "word2": "Art",
+          "value": 3.7
+        },
+        {
+          "word1": "Dog",
+          "word2": "Architect",
+          "value": 0.2
+        },
+        {
+          "word1": "Winter",
+          "word2": "Autumn",
+          "value": 4.0
+        },
+        {
+          "word1": "Literature",
+          "word2": "Facebook",
+          "value": 1.5
+        },
+        {
+          "word1": "War",
+          "word2": "Harp Seal",
+          "value": 0.4
+        },
+        {
+          "word1": "Mexico",
+          "word2": "Privacy",
+          "value": 1.1
+        },
+        {
+          "word1": "Newspaper",
+          "word2": "Truth",
+          "value": 3.1
+        },
+        {
+          "word1": "Charles Darwin",
+          "word2": "Biology",
+          "value": 4.0
+        },
+        {
+          "word1": "Leonhard Euler",
+          "word2": "Biology",
+          "value": 2.0
+        },
+        {
+          "word1": "Alan Turing",
+          "word2": "Computer Science",
+          "value": 3.4
+        },
+        {
+          "word1": "Physics",
+          "word2": "Mathematics",
+          "value": 4.0
+        },
+        {
+          "word1": "Carnivore",
+          "word2": "Carnivore",
+          "value": 4.0
+        },
+        {
+          "word1": "Ireland",
+          "word2": "Wine",
+          "value": 1.9
+        },
+        {
+          "word1": "The Beatles",
+          "word2": "Architect",
+          "value": 0.2
+        },
+        {
+          "word1": "Middle East",
+          "word2": "Peace",
+          "value": 3.8
+        },
+        {
+          "word1": "Computer Science",
+          "word2": "Beer",
+          "value": 1.2
+        },
+        {
+          "word1": "Elvis Presley",
+          "word2": "Country music",
+          "value": 2.7
+        },
+        {
+          "word1": "California Condor",
+          "word2": "Peru",
+          "value": 1.1
+        },
+        {
+          "word1": "Bald Eagle",
+          "word2": "Physics",
+          "value": 0.1
+        },
+        {
+          "word1": "Envy",
+          "word2": "Green",
+          "value": 4.0
+        },
+        {
+          "word1": "The Beatles",
+          "word2": "Pop music",
+          "value": 3.9
+        },
+        {
+          "word1": "Charles Darwin",
+          "word2": "Chemistry",
+          "value": 2.0
+        },
+        {
+          "word1": "Napoleon",
+          "word2": "Judaism",
+          "value": 1.2
+        },
+        {
+          "word1": "Asia",
+          "word2": "Islam",
+          "value": 3.5
+        },
+        {
+          "word1": "Religion",
+          "word2": "United States Constitution",
+          "value": 3.0
+        },
+        {
+          "word1": "MySpace",
+          "word2": "Community",
+          "value": 3.9
+        },
+        {
+          "word1": "Happiness",
+          "word2": "Green",
+          "value": 1.1
+        },
+        {
+          "word1": "Brazil",
+          "word2": "Beer",
+          "value": 1.7
+        },
+        {
+          "word1": "Google",
+          "word2": "Internet",
+          "value": 4.0
+        },
+        {
+          "word1": "Michael Jackson",
+          "word2": "Pop music",
+          "value": 4.0
+        },
+        {
+          "word1": "Leonhard Euler",
+          "word2": "Television",
+          "value": 0.7
+        },
+        {
+          "word1": "England",
+          "word2": "Cheese",
+          "value": 2.5
+        },
+        {
+          "word1": "Microsoft",
+          "word2": "Facebook",
+          "value": 2.9
+        },
+        {
+          "word1": "Albert Einstein",
+          "word2": "Computer Science",
+          "value": 2.3
+        },
+        {
+          "word1": "Corn",
+          "word2": "Brick",
+          "value": 0.3
+        },
+        {
+          "word1": "Grain",
+          "word2": "Wheat",
+          "value": 4.0
+        },
+        {
+          "word1": "Africa",
+          "word2": "Islam",
+          "value": 3.1
+        },
+        {
+          "word1": "United States",
+          "word2": "Chocolate",
+          "value": 1.7
+        },
+        {
+          "word1": "Islam",
+          "word2": "Terrorism",
+          "value": 3.5
+        },
+        {
+          "word1": "Buddhism",
+          "word2": "4Chan",
+          "value": 0.5
+        },
+        {
+          "word1": "Green",
+          "word2": "Knife",
+          "value": 0.2
+        },
+        {
+          "word1": "Art",
+          "word2": "Fear",
+          "value": 1.3
+        },
+        {
+          "word1": "Australia",
+          "word2": "Cheese",
+          "value": 1.7
+        },
+        {
+          "word1": "Architect",
+          "word2": "Democratic Republic of the Congo",
+          "value": 0.3
+        },
+        {
+          "word1": "World of Warcraft",
+          "word2": "Art",
+          "value": 1.6
+        },
+        {
+          "word1": "Gregor Mendel",
+          "word2": "Chemistry",
+          "value": 2.6
+        },
+        {
+          "word1": "Peace",
+          "word2": "Dove",
+          "value": 3.9
+        },
+        {
+          "word1": "Spring (season)",
+          "word2": "Summer",
+          "value": 4.0
+        },
+        {
+          "word1": "ABBA",
+          "word2": "Rock music",
+          "value": 2.8
+        },
+        {
+          "word1": "Galileo Galilei",
+          "word2": "Physics",
+          "value": 4.0
+        },
+        {
+          "word1": "Britney Spears",
+          "word2": "Indonesia",
+          "value": 0.4
+        },
+        {
+          "word1": "Galileo Galilei",
+          "word2": "Computer Science",
+          "value": 1.5
+        },
+        {
+          "word1": "Led Zeppelin",
+          "word2": "Pop music",
+          "value": 2.8
+        },
+        {
+          "word1": "Happiness",
+          "word2": "Yellow",
+          "value": 2.2
+        },
+        {
+          "word1": "Evil",
+          "word2": "Ethics",
+          "value": 3.9
+        },
+        {
+          "word1": "Facebook",
+          "word2": "Google",
+          "value": 3.6
+        },
+        {
+          "word1": "Albert Einstein",
+          "word2": "Taste",
+          "value": 0.2
+        },
+        {
+          "word1": "War",
+          "word2": "Dove",
+          "value": 2.8
+        },
+        {
+          "word1": "Lion",
+          "word2": "Sweden",
+          "value": 1.4
+        },
+        {
+          "word1": "War",
+          "word2": "Eagle",
+          "value": 2.7
+        },
+        {
+          "word1": "Yasser Arafat",
+          "word2": "Peace",
+          "value": 3.3
+        },
+        {
+          "word1": "South America",
+          "word2": "Red",
+          "value": 0.9
+        },
+        {
+          "word1": "Ireland",
+          "word2": "Beer",
+          "value": 3.9
+        },
+        {
+          "word1": "Christopher Columbus",
+          "word2": "Australia",
+          "value": 0.7
+        },
+        {
+          "word1": "Leonhard Euler",
+          "word2": "Mathematics",
+          "value": 4.0
+        },
+        {
+          "word1": "deviantArt",
+          "word2": "Art",
+          "value": 3.8
+        },
+        {
+          "word1": "France",
+          "word2": "Beer",
+          "value": 1.7
+        },
+        {
+          "word1": "Loyalty",
+          "word2": "Hawk",
+          "value": 1.2
+        },
+        {
+          "word1": "Wine",
+          "word2": "Flickr",
+          "value": 0.3
+        },
+        {
+          "word1": "Dance",
+          "word2": "Beer",
+          "value": 2.2
+        },
+        {
+          "word1": "ABBA",
+          "word2": "Politician",
+          "value": 0.5
+        },
+        {
+          "word1": "United States",
+          "word2": "Wine",
+          "value": 2.2
+        },
+        {
+          "word1": "Autumn",
+          "word2": "Spring (season)",
+          "value": 3.9
+        },
+        {
+          "word1": "Marie Curie",
+          "word2": "Computer Science",
+          "value": 0.9
+        },
+        {
+          "word1": "Yasser Arafat",
+          "word2": "Jesse Jackson",
+          "value": 0.7
+        },
+        {
+          "word1": "Bald Eagle",
+          "word2": "Brazil",
+          "value": 1.1
+        },
+        {
+          "word1": "Bald Eagle",
+          "word2": "Art",
+          "value": 1.1
+        },
+        {
+          "word1": "Yellow",
+          "word2": "Love",
+          "value": 1.0
+        },
+        {
+          "word1": "Twitter",
+          "word2": "Community",
+          "value": 3.7
+        },
+        {
+          "word1": "Barack Obama",
+          "word2": "Recession",
+          "value": 3.6
+        },
+        {
+          "word1": "Skype",
+          "word2": "Community",
+          "value": 3.3
+        },
+        {
+          "word1": "South America",
+          "word2": "Buddhism",
+          "value": 0.8
+        },
+        {
+          "word1": "Sadness",
+          "word2": "Blue",
+          "value": 4.0
+        },
+        {
+          "word1": "Courage",
+          "word2": "Eagle",
+          "value": 3.1
+        },
+        {
+          "word1": "Internet",
+          "word2": "Truth",
+          "value": 2.5
+        },
+        {
+          "word1": "Christianity",
+          "word2": "Democracy",
+          "value": 2.1
+        },
+        {
+          "word1": "Charles Darwin",
+          "word2": "Mathematics",
+          "value": 1.7
+        },
+        {
+          "word1": "California Condor",
+          "word2": "Islam",
+          "value": 0.1
+        },
+        {
+          "word1": "Leonhard Euler",
+          "word2": "Physics",
+          "value": 2.8
+        },
+        {
+          "word1": "Gregor Mendel",
+          "word2": "Winter",
+          "value": 0.5
+        },
+        {
+          "word1": "Europe",
+          "word2": "Christianity",
+          "value": 3.7
+        },
+        {
+          "word1": "North America",
+          "word2": "Islam",
+          "value": 2.6
+        },
+        {
+          "word1": "Galileo Galilei",
+          "word2": "Kitchen",
+          "value": 0.0
+        },
+        {
+          "word1": "War",
+          "word2": "Lion",
+          "value": 2.9
+        },
+        {
+          "word1": "California Condor",
+          "word2": "Alexander the Great",
+          "value": 0.2
+        },
+        {
+          "word1": "Germany",
+          "word2": "Cheese",
+          "value": 2.1
+        },
+        {
+          "word1": "Apple Inc.",
+          "word2": "Microsoft",
+          "value": 3.8
+        }
+      ]
+    }
+  ],
+  "originalInstructions": ""
+}

@@ -22,6 +22,8 @@ import mturk771 from "./datasets/mturk771";
 import scws2003 from "./datasets/scws2003";
 import reword26 from "./datasets/reword26";
 
+import atlasify240 from "./datasets/atlasify240";
+
 export {
   bg1000,
   mc30,
@@ -46,4 +48,6 @@ export {
   mturk771,
   scws2003,
   reword26,
+  //
+  atlasify240,
 };
