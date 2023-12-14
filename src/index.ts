@@ -32,6 +32,7 @@ import sl7576 from "./datasets/sl7576";
 import simlex999 from "./datasets/simlex999";
 import baker143 from "./datasets/baker143";
 import geresid50 from "./datasets/geresid50";
+import simverb3500 from "./datasets/simverb3500";
 
 export {
   bg100k,
@@ -68,4 +69,5 @@ export {
   simlex999,
   baker143,
   geresid50,
+  simverb3500,
 };
