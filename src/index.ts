@@ -34,6 +34,8 @@ import baker143 from "./datasets/baker143";
 import geresid50 from "./datasets/geresid50";
 import simverb3500 from "./datasets/simverb3500";
 
+import gtrd from "./datasets/gtrd";
+
 export {
   bg100k,
   mayoSRS,
@@ -70,4 +72,6 @@ export {
   baker143,
   geresid50,
   simverb3500,
+  //
+  gtrd,
 };
