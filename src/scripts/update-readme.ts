@@ -82,8 +82,20 @@ async function generateDatasetsSection() {
 }
 
 function getTableRow(dsInfo: DsInfo) {
-  const res = `| ${dsInfo.id} | ${dsInfo.name} | ${dsInfo.year} | ${dsInfo.measureTypes} | [link](${dsInfo.reference}) | [link](${dsInfo.website}) | \n`;
+  const fields = getTableFields(dsInfo);
+  const res = `| ${fields.id} | ${fields.name} | ${fields.year} | ${fields.measureTypes} | ${fields.reference} | ${fields.website} | \n`;
   return res;
+}
+
+function getTableFields(dsInfo: DsInfo) {
+  return {
+    id: dsInfo.id,
+    name: dsInfo.name,
+    year: dsInfo.year,
+    measureTypes: dsInfo.measureTypes,
+    reference: dsInfo.reference ? `[link](${dsInfo.reference})` : "",
+    website: dsInfo.website ? `[link](${dsInfo.website})` : "",
+  };
 }
 
 function genTableHeader() {
