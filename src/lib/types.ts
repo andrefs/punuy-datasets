@@ -66,6 +66,9 @@ interface Metadata {
 
   /**
    * Tags for the dataset content
+   * Examples:
+   * - mturk - the dataset was created using crowdsourcing (e.g. Amazon Mechanical Turk or CrowdFlower)
+   * - entities - the dataset contains entities (e.g. people, places, organizations)
    */
   tags?: string[];
 }

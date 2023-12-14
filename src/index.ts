@@ -35,6 +35,7 @@ import geresid50 from "./datasets/geresid50";
 import simverb3500 from "./datasets/simverb3500";
 
 import gtrd from "./datasets/gtrd";
+import word19k from "./datasets/word19k";
 
 export {
   bg100k,
@@ -74,4 +75,5 @@ export {
   simverb3500,
   //
   gtrd,
+  word19k,
 };
