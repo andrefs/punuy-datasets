@@ -10,7 +10,7 @@
   },
   "scripts": {
     "build": "./src/scripts/compile-schema",
-    "preversion": "npm run lint",
+    "preversion": "ts-node src/scripts/update-readme.ts && npm run lint",
     "postversion": "git push && git push --tags && gh release create v$npm_package_version --title v$npm_package_version --generate-notes",
     "prepublishOnly": "npm test",
     "version": "npm run format && git add -A src",
@@ -43,6 +43,7 @@
     "ajv": "8.12.0",
     "ajv-cli": "5.0.0",
     "ajv-formats": "2.1.1",
+    "ts-node": "10.9.2",
     "typescript-json-schema": "0.62.0"
   },
   "devDependencies": {
