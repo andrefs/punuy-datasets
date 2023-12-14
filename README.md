@@ -6,15 +6,35 @@
 
 <!-- datasets-section-start -->
 
-1. **bg1000** Princeton Evocation Data 0.4
-1. **mc30** Miller and Charles (1991)
-1. **mm907** UMNSRS (modified)
-1. **ragm287** MTurk-771
-1. **rg65** Rubenstein and Goodenough (1965)
-1. **srw2034** Stanford Rare Word (RW) Similarity Dataset
-1. **ws353gs** WordSim-353 Gold Standard
-1. **ws353** WordSimilarity-353
-1. **yp130** YP-130
-1. **ps65** Pirro&Seco 2008
+- **atlasify240** Atlasify240
+- **baker143** Baker 143
+- **geresid50** GeReSiD
+- **gm30** Gracia and Mena (2008)
+- **gtrd** GTRD
+- **ma28** Martinez & Aldana
+- **mayoSRS** MayoSRS
+- **mc30** Miller and Charles (1991)
+- **men3000** MEN
+- **mesh2** mesh2
+- **minimayoSRS** MiniMayoSRS
+- **mt287** MT287
+- **mturk771** MTurk771
+- **ps65** Pirro and Seco (2008)
+- **rel122** Rel-122
+- **reword26** REWOrD
+- **rg65** Rubenstein and Goodenough (1965)
+- **scws2003** SCWS
+- **simlex999** SimLex-999
+- **simverb3500** SimVerb-3500
+- **sl7576** sl7576
+- **srw2034** Stanford Rare Word (RW) Similarity Dataset
+- **umnsrs** UMNSRS
+- **umnsrsMod** UMNSRS (modified)
+- **wp300** WP300
+- **ws353** WordSimilarity-353
+- **ws353Rel** WordSim-353 Relatedness Gold Standard
+- **ws353Sim** WordSim-353 Similarity Gold Standard
+- **yp130** YP-130
+- **zie55** Ziegler et al. (2006)
 
 <!-- datasets-section-end -->

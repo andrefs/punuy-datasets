@@ -1,0 +1,64 @@
+import { promises as fs } from "fs";
+import { DatasetProfile } from "../lib/types";
+
+const ignoreDS = ["bg100k"];
+const datasetsSectionStart = "<!-- datasets-section-start -->";
+const datasetsSectionEnd = "<!-- datasets-section-end -->";
+
+interface dsInfo {
+  id: string;
+  name: string;
+}
+
+async function* getFiles(folder: string) {
+  try {
+    const files = await fs.readdir(folder);
+    for (const file of files) {
+      if (!file.endsWith(".json") || ignoreDS.some(ds => file.includes(ds))) {
+        continue;
+      }
+      yield file;
+    }
+  } catch (err) {
+    process.exit(1);
+  }
+}
+
+async function getFileInfo(file: string) {
+  const data = await fs.readFile(file, "utf-8");
+  const all = JSON.parse(data) as DatasetProfile;
+  return { id: all.id, name: all.metadata.name } as dsInfo;
+}
+
+async function loadReadme() {
+  const readme = await fs.readFile("README.md", "utf-8");
+  return readme;
+}
+
+async function generateDatasetsSection() {
+  const folder = "./profiles";
+  const files = getFiles(folder);
+
+  let res = `${datasetsSectionStart}\n\n`;
+
+  for await (const file of files) {
+    const info = await getFileInfo(`${folder}/${file}`);
+    res += `- **${info.id}** ${info.name}\n`;
+  }
+  res += `\n${datasetsSectionEnd}\n`;
+  return res;
+}
+
+async function main() {
+  const readme = await loadReadme();
+  const start = readme.indexOf(datasetsSectionStart);
+  const end = readme.indexOf(datasetsSectionEnd) + datasetsSectionEnd.length;
+  const datasetsSection = await generateDatasetsSection();
+  const newReadme =
+    readme.substring(0, start) +
+    datasetsSection +
+    readme.substring(end, readme.length);
+  await fs.writeFile("README.md", newReadme);
+}
+
+main().then(() => console.log("Done!"));
