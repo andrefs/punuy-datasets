@@ -31,6 +31,7 @@
 - **srw2034** Stanford Rare Word (RW) Similarity Dataset
 - **umnsrs** UMNSRS
 - **umnsrsMod** UMNSRS (modified)
+- **word19k** Wikipedia Oriented Relatedness Dataset
 - **wp300** WP300
 - **ws353** WordSimilarity-353
 - **ws353Rel** WordSim-353 Relatedness Gold Standard
@@ -39,4 +40,5 @@
 - **zie55** Ziegler et al. (2006)
 
 <!-- datasets-section-end -->
+
 
