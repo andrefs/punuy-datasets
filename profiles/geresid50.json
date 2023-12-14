@@ -33,7 +33,7 @@
         },
         "interAgreement": {
           "pearson": null,
-          "spearman": null
+          "spearman": 0.92
         }
       },
       "data": [
@@ -303,7 +303,7 @@
         },
         "interAgreement": {
           "pearson": null,
-          "spearman": null
+          "spearman": 0.93
         }
       },
       "data": [
