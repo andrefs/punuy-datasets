@@ -4,6 +4,8 @@
 
 ## Datasets
 
+<!-- datasets-section-start -->
+
 1. **bg1000** Princeton Evocation Data 0.4
 1. **mc30** Miller and Charles (1991)
 1. **mm907** UMNSRS (modified)
@@ -14,3 +16,5 @@
 1. **ws353** WordSimilarity-353
 1. **yp130** YP-130
 1. **ps65** Pirro&Seco 2008
+
+<!-- datasets-section-end -->
