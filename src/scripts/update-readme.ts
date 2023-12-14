@@ -47,6 +47,7 @@ async function getFileInfo(file: string) {
   const data = await fs.readFile(file, "utf-8");
   const all = JSON.parse(data) as DatasetProfile;
   const measTypes = all.metadata.measureTypes
+    .sort()
     .map(m => m.substring(0, 3))
     .join("/");
 
