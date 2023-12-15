@@ -102,7 +102,15 @@ interface Partition {
    * The interval of the semantic measure values
    */
   interval: {
+    /**
+     * The minimum value of the interval
+     */
     min: number;
+
+    /**
+     * The maximum value of the interval
+     * @minimum 1
+     */
     max: number;
   };
 
@@ -191,7 +199,7 @@ type PartitionData = {
        *
        * @items {"type": "number"}
        */
-      values?: number[];
+      values?: (number | null)[];
     }
   | {
       /**

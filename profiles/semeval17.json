@@ -19,7 +19,7 @@
   "partitions": [
     {
       "id": "main",
-      "measureType": "",
+      "measureType": "similarity",
       "interval": {
         "max": 4,
         "min": 0
