@@ -38,328 +38,328 @@
       },
       "data": [
         {
-          "word1": "cord",
-          "word2": "smile",
+          "term1": "cord",
+          "term2": "smile",
           "value": 0.02
         },
         {
-          "word1": "rooster",
-          "word2": "voyage",
+          "term1": "rooster",
+          "term2": "voyage",
           "value": 0.04
         },
         {
-          "word1": "noon",
-          "word2": "string",
+          "term1": "noon",
+          "term2": "string",
           "value": 0.04
         },
         {
-          "word1": "fruit",
-          "word2": "furnace",
+          "term1": "fruit",
+          "term2": "furnace",
           "value": 0.05
         },
         {
-          "word1": "autograph",
-          "word2": "shore",
+          "term1": "autograph",
+          "term2": "shore",
           "value": 0.06
         },
         {
-          "word1": "automobile",
-          "word2": "wizard",
+          "term1": "automobile",
+          "term2": "wizard",
           "value": 0.11
         },
         {
-          "word1": "mound",
-          "word2": "stove",
+          "term1": "mound",
+          "term2": "stove",
           "value": 0.14
         },
         {
-          "word1": "grin",
-          "word2": "implement",
+          "term1": "grin",
+          "term2": "implement",
           "value": 0.18
         },
         {
-          "word1": "asylum",
-          "word2": "fruit",
+          "term1": "asylum",
+          "term2": "fruit",
           "value": 0.19
         },
         {
-          "word1": "asylum",
-          "word2": "monk",
+          "term1": "asylum",
+          "term2": "monk",
           "value": 0.39
         },
         {
-          "word1": "graveyard",
-          "word2": "madhouse",
+          "term1": "graveyard",
+          "term2": "madhouse",
           "value": 0.42
         },
         {
-          "word1": "glass",
-          "word2": "magician",
+          "term1": "glass",
+          "term2": "magician",
           "value": 0.44
         },
         {
-          "word1": "boy",
-          "word2": "rooster",
+          "term1": "boy",
+          "term2": "rooster",
           "value": 0.44
         },
         {
-          "word1": "cushion",
-          "word2": "jewel",
+          "term1": "cushion",
+          "term2": "jewel",
           "value": 0.45
         },
         {
-          "word1": "monk",
-          "word2": "slave",
+          "term1": "monk",
+          "term2": "slave",
           "value": 0.57
         },
         {
-          "word1": "asylum",
-          "word2": "cemetery",
+          "term1": "asylum",
+          "term2": "cemetery",
           "value": 0.79
         },
         {
-          "word1": "coast",
-          "word2": "forest",
+          "term1": "coast",
+          "term2": "forest",
           "value": 0.85
         },
         {
-          "word1": "grin",
-          "word2": "lad",
+          "term1": "grin",
+          "term2": "lad",
           "value": 0.88
         },
         {
-          "word1": "shore",
-          "word2": "woodland",
+          "term1": "shore",
+          "term2": "woodland",
           "value": 0.9
         },
         {
-          "word1": "monk",
-          "word2": "oracle",
+          "term1": "monk",
+          "term2": "oracle",
           "value": 0.91
         },
         {
-          "word1": "boy",
-          "word2": "sage",
+          "term1": "boy",
+          "term2": "sage",
           "value": 0.96
         },
         {
-          "word1": "automobile",
-          "word2": "cushion",
+          "term1": "automobile",
+          "term2": "cushion",
           "value": 0.97
         },
         {
-          "word1": "mound",
-          "word2": "shore",
+          "term1": "mound",
+          "term2": "shore",
           "value": 0.97
         },
         {
-          "word1": "lad",
-          "word2": "wizard",
+          "term1": "lad",
+          "term2": "wizard",
           "value": 0.99
         },
         {
-          "word1": "forest",
-          "word2": "graveyard",
+          "term1": "forest",
+          "term2": "graveyard",
           "value": 1.0
         },
         {
-          "word1": "food",
-          "word2": "rooster",
+          "term1": "food",
+          "term2": "rooster",
           "value": 1.09
         },
         {
-          "word1": "cemetery",
-          "word2": "woodland",
+          "term1": "cemetery",
+          "term2": "woodland",
           "value": 1.18
         },
         {
-          "word1": "shore",
-          "word2": "voyage",
+          "term1": "shore",
+          "term2": "voyage",
           "value": 1.22
         },
         {
-          "word1": "bird",
-          "word2": "woodland",
+          "term1": "bird",
+          "term2": "woodland",
           "value": 1.24
         },
         {
-          "word1": "coast",
-          "word2": "hill",
+          "term1": "coast",
+          "term2": "hill",
           "value": 1.26
         },
         {
-          "word1": "furnace",
-          "word2": "implement",
+          "term1": "furnace",
+          "term2": "implement",
           "value": 1.37
         },
         {
-          "word1": "crane",
-          "word2": "rooster",
+          "term1": "crane",
+          "term2": "rooster",
           "value": 1.41
         },
         {
-          "word1": "hill",
-          "word2": "woodland",
+          "term1": "hill",
+          "term2": "woodland",
           "value": 1.48
         },
         {
-          "word1": "car",
-          "word2": "journey",
+          "term1": "car",
+          "term2": "journey",
           "value": 1.55
         },
         {
-          "word1": "cemetery",
-          "word2": "mound",
+          "term1": "cemetery",
+          "term2": "mound",
           "value": 1.69
         },
         {
-          "word1": "glass",
-          "word2": "jewel",
+          "term1": "glass",
+          "term2": "jewel",
           "value": 1.78
         },
         {
-          "word1": "magician",
-          "word2": "oracle",
+          "term1": "magician",
+          "term2": "oracle",
           "value": 1.82
         },
         {
-          "word1": "crane",
-          "word2": "implement",
+          "term1": "crane",
+          "term2": "implement",
           "value": 2.37
         },
         {
-          "word1": "brother",
-          "word2": "lad",
+          "term1": "brother",
+          "term2": "lad",
           "value": 2.41
         },
         {
-          "word1": "sage",
-          "word2": "wizard",
+          "term1": "sage",
+          "term2": "wizard",
           "value": 2.46
         },
         {
-          "word1": "oracle",
-          "word2": "sage",
+          "term1": "oracle",
+          "term2": "sage",
           "value": 2.61
         },
         {
-          "word1": "bird",
-          "word2": "crane",
+          "term1": "bird",
+          "term2": "crane",
           "value": 2.63
         },
         {
-          "word1": "bird",
-          "word2": "cock",
+          "term1": "bird",
+          "term2": "cock",
           "value": 2.63
         },
         {
-          "word1": "food",
-          "word2": "fruit",
+          "term1": "food",
+          "term2": "fruit",
           "value": 2.69
         },
         {
-          "word1": "brother",
-          "word2": "monk",
+          "term1": "brother",
+          "term2": "monk",
           "value": 2.74
         },
         {
-          "word1": "asylum",
-          "word2": "madhouse",
+          "term1": "asylum",
+          "term2": "madhouse",
           "value": 3.04
         },
         {
-          "word1": "furnace",
-          "word2": "stove",
+          "term1": "furnace",
+          "term2": "stove",
           "value": 3.11
         },
         {
-          "word1": "magician",
-          "word2": "wizard",
+          "term1": "magician",
+          "term2": "wizard",
           "value": 3.21
         },
         {
-          "word1": "hill",
-          "word2": "mound",
+          "term1": "hill",
+          "term2": "mound",
           "value": 3.29
         },
         {
-          "word1": "cord",
-          "word2": "string",
+          "term1": "cord",
+          "term2": "string",
           "value": 3.41
         },
         {
-          "word1": "glass",
-          "word2": "tumbler",
+          "term1": "glass",
+          "term2": "tumbler",
           "value": 3.45
         },
         {
-          "word1": "grin",
-          "word2": "smile",
+          "term1": "grin",
+          "term2": "smile",
           "value": 3.46
         },
         {
-          "word1": "serf",
-          "word2": "slave",
+          "term1": "serf",
+          "term2": "slave",
           "value": 3.46
         },
         {
-          "word1": "journey",
-          "word2": "voyage",
+          "term1": "journey",
+          "term2": "voyage",
           "value": 3.58
         },
         {
-          "word1": "autograph",
-          "word2": "signature",
+          "term1": "autograph",
+          "term2": "signature",
           "value": 3.59
         },
         {
-          "word1": "coast",
-          "word2": "shore",
+          "term1": "coast",
+          "term2": "shore",
           "value": 3.6
         },
         {
-          "word1": "forest",
-          "word2": "woodland",
+          "term1": "forest",
+          "term2": "woodland",
           "value": 3.65
         },
         {
-          "word1": "implement",
-          "word2": "tool",
+          "term1": "implement",
+          "term2": "tool",
           "value": 3.66
         },
         {
-          "word1": "cock",
-          "word2": "rooster",
+          "term1": "cock",
+          "term2": "rooster",
           "value": 3.68
         },
         {
-          "word1": "boy",
-          "word2": "lad",
+          "term1": "boy",
+          "term2": "lad",
           "value": 3.82
         },
         {
-          "word1": "cushion",
-          "word2": "pillow",
+          "term1": "cushion",
+          "term2": "pillow",
           "value": 3.84
         },
         {
-          "word1": "cemetery",
-          "word2": "graveyard",
+          "term1": "cemetery",
+          "term2": "graveyard",
           "value": 3.88
         },
         {
-          "word1": "automobile",
-          "word2": "car",
+          "term1": "automobile",
+          "term2": "car",
           "value": 3.92
         },
         {
-          "word1": "midday",
-          "word2": "noon",
+          "term1": "midday",
+          "term2": "noon",
           "value": 3.94
         },
         {
-          "word1": "gem",
-          "word2": "jewel",
+          "term1": "gem",
+          "term2": "jewel",
           "value": 3.94
         }
       ]

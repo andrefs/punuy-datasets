@@ -35,133 +35,133 @@
       },
       "data": [
         {
-          "word1": "Android",
-          "word2": "Linux",
+          "term1": "Android",
+          "term2": "Linux",
           "value": 0.615
         },
         {
-          "word1": "Bob Dylan",
-          "word2": "Beat Generation",
+          "term1": "Bob Dylan",
+          "term2": "Beat Generation",
           "value": 0.307
         },
         {
-          "word1": "Amsterdam",
-          "word2": "Venice",
+          "term1": "Amsterdam",
+          "term2": "Venice",
           "value": 0.894
         },
         {
-          "word1": "California",
-          "word2": "Computer Science",
+          "term1": "California",
+          "term2": "Computer Science",
           "value": 0.503
         },
         {
-          "word1": "China",
-          "word2": "Japan",
+          "term1": "China",
+          "term2": "Japan",
           "value": 0.709
         },
         {
-          "word1": "Computer Science",
-          "word2": "Music",
+          "term1": "Computer Science",
+          "term2": "Music",
           "value": 0.193
         },
         {
-          "word1": "Turing",
-          "word2": "Computer Science",
+          "term1": "Turing",
+          "term2": "Computer Science",
           "value": 1.0
         },
         {
-          "word1": "Gandhi",
-          "word2": "Peace",
+          "term1": "Gandhi",
+          "term2": "Peace",
           "value": 0.559
         },
         {
-          "word1": "Google",
-          "word2": "IBM",
+          "term1": "Google",
+          "term2": "IBM",
           "value": 0.782
         },
         {
-          "word1": "HTC",
-          "word2": "Nokia",
+          "term1": "HTC",
+          "term2": "Nokia",
           "value": 0.972
         },
         {
-          "word1": "Italy",
-          "word2": "Pasta",
+          "term1": "Italy",
+          "term2": "Pasta",
           "value": 0.726
         },
         {
-          "word1": "Maradona",
-          "word2": "Pele",
+          "term1": "Maradona",
+          "term2": "Pele",
           "value": 0.849
         },
         {
-          "word1": "Maradona",
-          "word2": "Music",
+          "term1": "Maradona",
+          "term2": "Music",
           "value": 0.0
         },
         {
-          "word1": "Windows",
-          "word2": "Redmond",
+          "term1": "Windows",
+          "term2": "Redmond",
           "value": 0.447
         },
         {
-          "word1": "New York",
-          "word2": "Paris",
+          "term1": "New York",
+          "term2": "Paris",
           "value": 0.503
         },
         {
-          "word1": "Pink Floyd",
-          "word2": "Eclipse",
+          "term1": "Pink Floyd",
+          "term2": "Eclipse",
           "value": 0.279
         },
         {
-          "word1": "Radiohead",
-          "word2": "The Beatles",
+          "term1": "Radiohead",
+          "term2": "The Beatles",
           "value": 0.553
         },
         {
-          "word1": "Rock",
-          "word2": "Blues",
+          "term1": "Rock",
+          "term2": "Blues",
           "value": 0.391
         },
         {
-          "word1": "Bill Clinton",
-          "word2": "Obama",
+          "term1": "Bill Clinton",
+          "term2": "Obama",
           "value": 0.447
         },
         {
-          "word1": "Semantic Web",
-          "word2": "World Wide Web",
+          "term1": "Semantic Web",
+          "term2": "World Wide Web",
           "value": 0.642
         },
         {
-          "word1": "Stanley Kubrick",
-          "word2": "David Lynch",
+          "term1": "Stanley Kubrick",
+          "term2": "David Lynch",
           "value": 0.698
         },
         {
-          "word1": "The Big Bang Theory",
-          "word2": "California",
+          "term1": "The Big Bang Theory",
+          "term2": "California",
           "value": 0.363
         },
         {
-          "word1": "Turing",
-          "word2": "Biology",
+          "term1": "Turing",
+          "term2": "Biology",
           "value": 0.243
         },
         {
-          "word1": "Turkey",
-          "word2": "Europe",
+          "term1": "Turkey",
+          "term2": "Europe",
           "value": 0.363
         },
         {
-          "word1": "United States",
-          "word2": "Europe",
+          "term1": "United States",
+          "term2": "Europe",
           "value": 0.335
         },
         {
-          "word1": "Vienna",
-          "word2": "Danube",
+          "term1": "Vienna",
+          "term2": "Danube",
           "value": 0.257
         }
       ]

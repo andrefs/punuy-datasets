@@ -36,8 +36,8 @@
       },
       "data": [
         {
-          "word1": "waterway transportation",
-          "word2": "waterway transportation",
+          "term1": "waterway transportation",
+          "term2": "waterway transportation",
           "value": 1.0,
           "values": [
             4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4,
@@ -45,8 +45,8 @@
           ]
         },
         {
-          "word1": "oasis city",
-          "word2": "oasis city",
+          "term1": "oasis city",
+          "term2": "oasis city",
           "value": 1.0,
           "values": [
             4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4,
@@ -54,8 +54,8 @@
           ]
         },
         {
-          "word1": "port city",
-          "word2": "harbor city",
+          "term1": "port city",
+          "term2": "harbor city",
           "value": 0.9085,
           "values": [
             4, 4, 4, 3, 4, 3, 4, 4, 4, 3, 4, 3, 4, 3, 3, 3, 4, 3, 3, 4, 4, 4, 4,
@@ -63,8 +63,8 @@
           ]
         },
         {
-          "word1": "tropical rainforest climate",
-          "word2": "equatorial climate",
+          "term1": "tropical rainforest climate",
+          "term2": "equatorial climate",
           "value": 0.872,
           "values": [
             4, 4, 2, 3, 4, 3, 4, 3, 4, 3, 4, 4, 4, 4, 4, 3, 4, 3, 3, 4, 2, 4, 4,
@@ -72,8 +72,8 @@
           ]
         },
         {
-          "word1": "city",
-          "word2": "cities and towns",
+          "term1": "city",
+          "term2": "cities and towns",
           "value": 0.8598,
           "values": [
             4, 4, 4, 4, 4, 3, 3, 3, 4, 3, 4, 3, 4, 4, 3, 4, 3, 3, 3, 3, 3, 4, 3,
@@ -81,8 +81,8 @@
           ]
         },
         {
-          "word1": "transportation",
-          "word2": "communication and transportation",
+          "term1": "transportation",
+          "term2": "communication and transportation",
           "value": 0.8293,
           "values": [
             3, 4, 3, 4, 3, 4, 2, 4, 4, 2, 4, 3, 3, 4, 4, 4, 4, 3, 2, 3, 3, 2, 3,
@@ -90,8 +90,8 @@
           ]
         },
         {
-          "word1": "near shore environment",
-          "word2": "coastal environment",
+          "term1": "near shore environment",
+          "term2": "coastal environment",
           "value": 0.7805,
           "values": [
             3, 3, 3, 3, 4, 3, 3, 3, 4, 2, 4, 3, 4, 4, 3, 2, 4, 4, 2, 4, 3, 3, 2,
@@ -99,8 +99,8 @@
           ]
         },
         {
-          "word1": "near shore environment ",
-          "word2": "sublittoral environment ",
+          "term1": "near shore environment ",
+          "term2": "sublittoral environment ",
           "value": 0.7805,
           "values": [
             4, 3, 3, 2, 4, 3, 4, 3, 3, 2, 4, 3, 2, 4, 1, 3, 4, 4, 3, 4, 2, 4, 4,
@@ -108,8 +108,8 @@
           ]
         },
         {
-          "word1": "plateau permafrost",
-          "word2": "frozen soil",
+          "term1": "plateau permafrost",
+          "term2": "frozen soil",
           "value": 0.7805,
           "values": [
             3, 3, 3, 3, 3, 3, 3, 3, 4, 2, 3, 3, 3, 4, 3, 3, 3, 2, 2, 3, 3, 3, 3,
@@ -117,8 +117,8 @@
           ]
         },
         {
-          "word1": "cold wave",
-          "word2": "cold air mass",
+          "term1": "cold wave",
+          "term2": "cold air mass",
           "value": 0.7744,
           "values": [
             3, 3, 3, 2, 3, 2, 3, 4, 4, 2, 4, 4, 2, 3, 4, 3, 4, 3, 2, 3, 3, 2, 4,
@@ -126,8 +126,8 @@
           ]
         },
         {
-          "word1": "iron and steel industry",
-          "word2": "metallurgical industry",
+          "term1": "iron and steel industry",
+          "term2": "metallurgical industry",
           "value": 0.7256,
           "values": [
             3, 3, 2, 3, 2, 3, 3, 3, 4, 2, 3, 3, 2, 3, 3, 3, 3, 2, 2, 3, 3, 2, 3,
@@ -135,8 +135,8 @@
           ]
         },
         {
-          "word1": "geographical environment",
-          "word2": "environment",
+          "term1": "geographical environment",
+          "term2": "environment",
           "value": 0.7134,
           "values": [
             3, 3, 3, 3, 2, 3, 3, 2, 4, 2, 3, 3, 3, 3, 3, 3, 3, 3, 2, 3, 2, 3, 3,
@@ -144,8 +144,8 @@
           ]
         },
         {
-          "word1": "highway transportation",
-          "word2": "transportation",
+          "term1": "highway transportation",
+          "term2": "transportation",
           "value": 0.7073,
           "values": [
             3, 2, 3, 3, 3, 2, 3, 3, 3, 2, 3, 3, 3, 3, 3, 3, 3, 2, 2, 3, 3, 3, 3,
@@ -153,8 +153,8 @@
           ]
         },
         {
-          "word1": "semi-arid climate",
-          "word2": "steppe climate",
+          "term1": "semi-arid climate",
+          "term2": "steppe climate",
           "value": 0.7073,
           "values": [
             3, 4, 2, 2, 3, 3, 4, 3, 2, 2, 3, 2, 3, 3, 3, 2, 4, 3, 2, 4, 2, 1, 1,
@@ -162,8 +162,8 @@
           ]
         },
         {
-          "word1": "climate",
-          "word2": "weather",
+          "term1": "climate",
+          "term2": "weather",
           "value": 0.689,
           "values": [
             4, 1, 2, 3, 3, 3, 3, 3, 3, 3, 3, 2, 1, 3, 2, 3, 4, 2, 3, 3, 3, 3, 3,
@@ -171,8 +171,8 @@
           ]
         },
         {
-          "word1": "dairy Industry",
-          "word2": "food industry",
+          "term1": "dairy Industry",
+          "term2": "food industry",
           "value": 0.6829,
           "values": [
             2, 3, 2, 3, 1, 1, 2, 3, 4, 3, 3, 3, 2, 3, 3, 3, 3, 3, 3, 3, 3, 2, 3,
@@ -180,8 +180,8 @@
           ]
         },
         {
-          "word1": "cultural landscape ",
-          "word2": "landscape ",
+          "term1": "cultural landscape ",
+          "term2": "landscape ",
           "value": 0.6707,
           "values": [
             3, 3, 3, 3, 3, 2, 3, 1, 2, 2, 3, 3, 2, 3, 2, 3, 3, 2, 2, 3, 3, 3, 3,
@@ -189,8 +189,8 @@
           ]
         },
         {
-          "word1": "processing industry",
-          "word2": "light industry",
+          "term1": "processing industry",
+          "term2": "light industry",
           "value": 0.6646,
           "values": [
             3, 3, 2, 3, 3, 3, 3, 2, 3, 3, 3, 2, 2, 3, 3, 3, 3, 2, 2, 3, 1, 3, 3,
@@ -198,8 +198,8 @@
           ]
         },
         {
-          "word1": "cold wave",
-          "word2": "disastrous weather",
+          "term1": "cold wave",
+          "term2": "disastrous weather",
           "value": 0.6524,
           "values": [
             2, 3, 2, 2, 3, 2, 3, 3, 3, 2, 2, 2, 2, 3, 2, 3, 2, 3, 1, 1, 3, 3, 3,
@@ -207,8 +207,8 @@
           ]
         },
         {
-          "word1": "coal industry ",
-          "word2": "heavy industry",
+          "term1": "coal industry ",
+          "term2": "heavy industry",
           "value": 0.628,
           "values": [
             3, 2, 2, 3, 3, 2, 3, 2, 3, 2, 3, 3, 0, 3, 2, 3, 3, 2, 2, 2, 2, 2, 1,
@@ -216,8 +216,8 @@
           ]
         },
         {
-          "word1": "agricultural product processing industry",
-          "word2": "industry",
+          "term1": "agricultural product processing industry",
+          "term2": "industry",
           "value": 0.6098,
           "values": [
             3, 3, 3, 3, 2, 3, 3, 2, 3, 2, 3, 2, 1, 3, 2, 2, 1, 1, 2, 3, 3, 2, 3,
@@ -225,8 +225,8 @@
           ]
         },
         {
-          "word1": "gray desert soil",
-          "word2": "brown desert soil",
+          "term1": "gray desert soil",
+          "term2": "brown desert soil",
           "value": 0.6037,
           "values": [
             2, 3, 2, 3, 3, 3, 3, 2, 2, 2, 4, 2, 1, 2, 3, 3, 3, 3, 1, 3, 2, 2, 1,
@@ -234,8 +234,8 @@
           ]
         },
         {
-          "word1": "marine environment",
-          "word2": "geographical environment",
+          "term1": "marine environment",
+          "term2": "geographical environment",
           "value": 0.5976,
           "values": [
             3, 3, 3, 3, 2, 3, 3, 1, 3, 2, 3, 3, 1, 2, 2, 3, 3, 1, 2, 2, 2, 2, 3,
@@ -243,8 +243,8 @@
           ]
         },
         {
-          "word1": "ecological environment",
-          "word2": "water environment",
+          "term1": "ecological environment",
+          "term2": "water environment",
           "value": 0.5915,
           "values": [
             2, 3, 2, 3, 3, 2, 3, 3, 1, 2, 3, 3, 0, 3, 2, 3, 3, 2, 2, 3, 2, 3, 3,
@@ -252,8 +252,8 @@
           ]
         },
         {
-          "word1": "tropical soil",
-          "word2": "subtropical soil",
+          "term1": "tropical soil",
+          "term2": "subtropical soil",
           "value": 0.5732,
           "values": [
             2, 2, 2, 3, 3, 3, 2, 0, 4, 3, 3, 2, 1, 3, 3, 3, 3, 2, 1, 4, 2, 3, 2,
@@ -261,8 +261,8 @@
           ]
         },
         {
-          "word1": "alpine desert soil",
-          "word2": "subalpine soil",
+          "term1": "alpine desert soil",
+          "term2": "subalpine soil",
           "value": 0.5732,
           "values": [
             2, 2, 2, 3, 3, 2, 3, 1, 3, 2, 4, 3, 0, 3, 3, 3, 3, 2, 2, 2, 1, 2, 2,
@@ -270,8 +270,8 @@
           ]
         },
         {
-          "word1": "low productive soil",
-          "word2": "soil fertility",
+          "term1": "low productive soil",
+          "term2": "soil fertility",
           "value": 0.5671,
           "values": [
             2, 3, 2, 2, 2, 2, 3, 2, 3, 2, 3, 3, 1, 2, 2, 3, 2, 2, 2, 3, 2, 2, 3,
@@ -279,8 +279,8 @@
           ]
         },
         {
-          "word1": "automobile industry",
-          "word2": "basic industry",
+          "term1": "automobile industry",
+          "term2": "basic industry",
           "value": 0.5122,
           "values": [
             2, 2, 2, 2, 2, 1, 2, 1, 2, 2, 3, 3, 1, 1, 1, 3, 2, 1, 2, 3, 2, 3, 2,
@@ -288,8 +288,8 @@
           ]
         },
         {
-          "word1": "social environment",
-          "word2": "external environment",
+          "term1": "social environment",
+          "term2": "external environment",
           "value": 0.4756,
           "values": [
             2, 3, 2, 2, 3, 1, 1, 2, 1, 2, 3, 3, 0, 2, 2, 2, 2, 1, 2, 0, 2, 2, 3,
@@ -297,8 +297,8 @@
           ]
         },
         {
-          "word1": "alpine meadow soil",
-          "word2": "chestnut soil",
+          "term1": "alpine meadow soil",
+          "term2": "chestnut soil",
           "value": 0.4634,
           "values": [
             1, 2, 2, 1, 2, 1, 2, 2, 3, 1, 3, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1,
@@ -306,8 +306,8 @@
           ]
         },
         {
-          "word1": "power industry",
-          "word2": "mechanical industry",
+          "term1": "power industry",
+          "term2": "mechanical industry",
           "value": 0.4512,
           "values": [
             3, 2, 2, 3, 3, 2, 3, 2, 1, 2, 3, 2, 0, 2, 1, 3, 1, 1, 2, 1, 2, 2, 2,
@@ -315,8 +315,8 @@
           ]
         },
         {
-          "word1": "plateau climate",
-          "word2": "ecological environment",
+          "term1": "plateau climate",
+          "term2": "ecological environment",
           "value": 0.4268,
           "values": [
             1, 1, 2, 2, 2, 1, 3, 1, 0, 2, 2, 2, 1, 1, 2, 2, 3, 1, 2, 3, 2, 1, 2,
@@ -324,8 +324,8 @@
           ]
         },
         {
-          "word1": "hydroclimate",
-          "word2": "agricultural environment",
+          "term1": "hydroclimate",
+          "term2": "agricultural environment",
           "value": 0.4146,
           "values": [
             2, 0, 1, 2, 2, 1, 3, 0, 1, 2, 3, 1, 0, 3, 1, 2, 2, 1, 1, 1, 2, 1, 1,
@@ -333,8 +333,8 @@
           ]
         },
         {
-          "word1": "technique intensive city ",
-          "word2": "small city ",
+          "term1": "technique intensive city ",
+          "term2": "small city ",
           "value": 0.4146,
           "values": [
             1, 2, 1, 2, 3, 3, 2, 1, 2, 1, 3, 2, 0, 1, 1, 2, 1, 1, 1, 2, 2, 1, 2,
@@ -342,8 +342,8 @@
           ]
         },
         {
-          "word1": "feed industry",
-          "word2": "sugar industry",
+          "term1": "feed industry",
+          "term2": "sugar industry",
           "value": 0.3902,
           "values": [
             1, 3, 2, 2, 2, 1, 2, 1, 1, 2, 3, 2, 0, 2, 2, 2, 3, 0, 2, 1, 1, 1, 1,
@@ -351,8 +351,8 @@
           ]
         },
         {
-          "word1": "fair weather",
-          "word2": "overcast sky",
+          "term1": "fair weather",
+          "term2": "overcast sky",
           "value": 0.3902,
           "values": [
             2, 3, 0, 2, 2, 2, 0, 2, 0, 0, 3, 2, 0, 2, 3, 1, 0, 0, 2, 2, 3, 2, 1,
@@ -360,8 +360,8 @@
           ]
         },
         {
-          "word1": "marine transportation ",
-          "word2": "air transportation ",
+          "term1": "marine transportation ",
+          "term2": "air transportation ",
           "value": 0.378,
           "values": [
             3, 2, 2, 2, 3, 2, 1, 0, 1, 0, 3, 2, 0, 2, 2, 2, 0, 0, 2, 2, 2, 2, 1,
@@ -369,8 +369,8 @@
           ]
         },
         {
-          "word1": "arid climate",
-          "word2": "paleoclimate",
+          "term1": "arid climate",
+          "term2": "paleoclimate",
           "value": 0.378,
           "values": [
             2, 2, 3, 1, 2, 2, 1, 0, 1, 1, 2, 2, 0, 2, 1, 3, 1, 0, 1, 3, 2, 1, 2,
@@ -378,8 +378,8 @@
           ]
         },
         {
-          "word1": "environment",
-          "word2": "disastrous weather",
+          "term1": "environment",
+          "term2": "disastrous weather",
           "value": 0.3659,
           "values": [
             2, 1, 1, 1, 1, 1, 2, 2, 1, 2, 2, 2, 1, 1, 1, 3, 0, 1, 2, 1, 2, 1, 2,
@@ -387,8 +387,8 @@
           ]
         },
         {
-          "word1": "Mediterranean climate",
-          "word2": "semi-arid environment",
+          "term1": "Mediterranean climate",
+          "term2": "semi-arid environment",
           "value": 0.3415,
           "values": [
             1, 0, 1, 3, 2, 3, 0, 0, 0, 0, 3, 2, 2, 2, 3, 1, 1, 0, 1, 1, 0, 1, 2,
@@ -396,8 +396,8 @@
           ]
         },
         {
-          "word1": "marine climate",
-          "word2": "cold air mass",
+          "term1": "marine climate",
+          "term2": "cold air mass",
           "value": 0.3171,
           "values": [
             2, 1, 1, 1, 2, 1, 1, 1, 2, 1, 2, 2, 0, 0, 2, 2, 2, 0, 1, 2, 1, 2, 2,
@@ -405,8 +405,8 @@
           ]
         },
         {
-          "word1": "desert soil ",
-          "word2": "permafrost ",
+          "term1": "desert soil ",
+          "term2": "permafrost ",
           "value": 0.3171,
           "values": [
             1, 1, 1, 2, 2, 2, 2, 0, 0, 1, 2, 2, 0, 0, 0, 2, 3, 0, 1, 1, 2, 2, 2,
@@ -414,8 +414,8 @@
           ]
         },
         {
-          "word1": "gas industry",
-          "word2": "manufacturing industry",
+          "term1": "gas industry",
+          "term2": "manufacturing industry",
           "value": 0.2988,
           "values": [
             1, 2, 2, 2, 1, 1, 0, 0, 1, 1, 3, 2, 0, 2, 1, 2, 1, 1, 1, 0, 1, 1, 1,
@@ -423,8 +423,8 @@
           ]
         },
         {
-          "word1": "agroclimate",
-          "word2": "natural landscape",
+          "term1": "agroclimate",
+          "term2": "natural landscape",
           "value": 0.2805,
           "values": [
             2, 1, 1, 2, 2, 1, 1, 0, 1, 0, 2, 2, 1, 0, 1, 2, 0, 0, 1, 3, 0, 0, 2,
@@ -432,8 +432,8 @@
           ]
         },
         {
-          "word1": "global environment ",
-          "word2": "human landscape ",
+          "term1": "global environment ",
+          "term2": "human landscape ",
           "value": 0.2805,
           "values": [
             2, 0, 1, 2, 2, 0, 2, 1, 1, 1, 2, 1, 0, 0, 1, 2, 1, 0, 1, 0, 1, 0, 2,
@@ -441,8 +441,8 @@
           ]
         },
         {
-          "word1": "tropical climate",
-          "word2": "coastal environment",
+          "term1": "tropical climate",
+          "term2": "coastal environment",
           "value": 0.2744,
           "values": [
             2, 0, 1, 1, 1, 2, 2, 0, 0, 0, 3, 2, 0, 0, 1, 2, 2, 1, 1, 1, 1, 0, 1,
@@ -450,8 +450,8 @@
           ]
         },
         {
-          "word1": "petroleum industry",
-          "word2": "aluminum industry",
+          "term1": "petroleum industry",
+          "term2": "aluminum industry",
           "value": 0.25,
           "values": [
             1, 2, 2, 1, 1, 1, 1, 0, 0, 1, 2, 2, 0, 2, 0, 2, 0, 0, 1, 0, 0, 2, 1,
@@ -459,8 +459,8 @@
           ]
         },
         {
-          "word1": "textile industry",
-          "word2": "shipbuilding industry",
+          "term1": "textile industry",
+          "term2": "shipbuilding industry",
           "value": 0.25,
           "values": [
             0, 2, 2, 1, 1, 1, 0, 1, 0, 0, 2, 2, 0, 2, 0, 2, 0, 0, 2, 2, 1, 2, 1,
@@ -468,8 +468,8 @@
           ]
         },
         {
-          "word1": "computer industry ",
-          "word2": "building material industry ",
+          "term1": "computer industry ",
+          "term2": "building material industry ",
           "value": 0.2317,
           "values": [
             0, 2, 2, 1, 2, 1, 0, 0, 0, 0, 2, 2, 0, 1, 0, 2, 1, 0, 1, 2, 0, 0, 0,
@@ -477,8 +477,8 @@
           ]
         },
         {
-          "word1": "monsoon climate",
-          "word2": "meadow cinnamon soil",
+          "term1": "monsoon climate",
+          "term2": "meadow cinnamon soil",
           "value": 0.2134,
           "values": [
             1, 0, 1, 0, 2, 1, 1, 0, 0, 1, 2, 2, 1, 0, 1, 1, 1, 0, 1, 0, 0, 0, 0,
@@ -486,8 +486,8 @@
           ]
         },
         {
-          "word1": "climate",
-          "word2": "city",
+          "term1": "climate",
+          "term2": "city",
           "value": 0.2134,
           "values": [
             1, 1, 1, 2, 0, 1, 1, 0, 0, 1, 0, 1, 0, 0, 1, 2, 0, 0, 1, 1, 0, 1, 1,
@@ -495,8 +495,8 @@
           ]
         },
         {
-          "word1": "city ",
-          "word2": "textile industry ",
+          "term1": "city ",
+          "term2": "textile industry ",
           "value": 0.2012,
           "values": [
             2, 0, 1, 2, 1, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 3, 1, 0, 1, 0, 0, 1, 1,
@@ -504,8 +504,8 @@
           ]
         },
         {
-          "word1": "regional climate",
-          "word2": "megalopolis",
+          "term1": "regional climate",
+          "term2": "megalopolis",
           "value": 0.1829,
           "values": [
             1, 0, 1, 2, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 1, 2, 0, 0, 0, 2, 0, 1, 0,
@@ -513,8 +513,8 @@
           ]
         },
         {
-          "word1": "water environment",
-          "word2": "steppe landscape",
+          "term1": "water environment",
+          "term2": "steppe landscape",
           "value": 0.1829,
           "values": [
             2, 0, 0, 1, 0, 0, 1, 0, 0, 1, 2, 2, 0, 0, 0, 2, 0, 0, 1, 1, 0, 1, 1,
@@ -522,8 +522,8 @@
           ]
         },
         {
-          "word1": "temperate climate ",
-          "word2": "superaqual landscape",
+          "term1": "temperate climate ",
+          "term2": "superaqual landscape",
           "value": 0.1707,
           "values": [
             2, 0, 1, 1, 0, 0, 1, 0, 0, 0, 1, 2, 0, 0, 0, 2, 1, 0, 1, 0, 0, 0, 0,
@@ -531,8 +531,8 @@
           ]
         },
         {
-          "word1": "quaternary climate",
-          "word2": "steppe landscape",
+          "term1": "quaternary climate",
+          "term2": "steppe landscape",
           "value": 0.1646,
           "values": [
             1, 0, 0, 1, 0, 0, 2, 0, 0, 1, 2, 1, 0, 0, 1, 1, 0, 0, 1, 0, 0, 2, 1,
@@ -540,8 +540,8 @@
           ]
         },
         {
-          "word1": "humid climate",
-          "word2": "dust storm",
+          "term1": "humid climate",
+          "term2": "dust storm",
           "value": 0.1585,
           "values": [
             1, 0, 0, 1, 0, 1, 2, 0, 0, 0, 2, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 2,
@@ -549,8 +549,8 @@
           ]
         },
         {
-          "word1": "glacial climate",
-          "word2": "cinnamon soil",
+          "term1": "glacial climate",
+          "term2": "cinnamon soil",
           "value": 0.1402,
           "values": [
             1, 0, 2, 1, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0,
@@ -558,8 +558,8 @@
           ]
         },
         {
-          "word1": "marine environment ",
-          "word2": "soil ",
+          "term1": "marine environment ",
+          "term2": "soil ",
           "value": 0.1098,
           "values": [
             1, 0, 0, 1, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1,
@@ -567,8 +567,8 @@
           ]
         },
         {
-          "word1": "semi-arid environment",
-          "word2": "subaqual landscape",
+          "term1": "semi-arid environment",
+          "term2": "subaqual landscape",
           "value": 0.1037,
           "values": [
             1, 0, 0, 0, 2, 1, 0, 0, 1, 0, 1, 2, 0, 0, 0, 1, 0, 0, 1, 1, 0, 1, 2,
@@ -576,8 +576,8 @@
           ]
         },
         {
-          "word1": "ecoclimate",
-          "word2": "science city",
+          "term1": "ecoclimate",
+          "term2": "science city",
           "value": 0.0549,
           "values": [
             0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0,
@@ -585,8 +585,8 @@
           ]
         },
         {
-          "word1": "Holocene climate",
-          "word2": "coastal transportation",
+          "term1": "Holocene climate",
+          "term2": "coastal transportation",
           "value": 0.0366,
           "values": [
             0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1,
@@ -594,8 +594,8 @@
           ]
         },
         {
-          "word1": "marine climate ",
-          "word2": "pipeline transportation ",
+          "term1": "marine climate ",
+          "term2": "pipeline transportation ",
           "value": 0.0366,
           "values": [
             0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -603,8 +603,8 @@
           ]
         },
         {
-          "word1": "desert climate",
-          "word2": "inland water transportation",
+          "term1": "desert climate",
+          "term2": "inland water transportation",
           "value": 0.0305,
           "values": [
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -612,8 +612,8 @@
           ]
         },
         {
-          "word1": "polar climate",
-          "word2": "mining industry",
+          "term1": "polar climate",
+          "term2": "mining industry",
           "value": 0.0244,
           "values": [
             0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0,
@@ -621,8 +621,8 @@
           ]
         },
         {
-          "word1": "desert climate",
-          "word2": "labor intensive industry",
+          "term1": "desert climate",
+          "term2": "labor intensive industry",
           "value": 0.0061,
           "values": [
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,

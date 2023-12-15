@@ -176,12 +176,12 @@ type PartitionData = {
   /**
    * The first word in the pair
    */
-  word1: string;
+  term1: string;
 
   /**
    * The second word in the pair
    */
-  word2: string;
+  term2: string;
 } & (
   | {
       /**

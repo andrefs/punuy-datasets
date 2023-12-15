@@ -34,143 +34,143 @@
       },
       "data": [
         {
-          "word1": "peak oil",
-          "word2": "apocalypse",
+          "term1": "peak oil",
+          "term2": "apocalypse",
           "value": 0.056
         },
         {
-          "word1": "bobo",
-          "word2": "bohemian",
+          "term1": "bobo",
+          "term2": "bohemian",
           "value": 0.185
         },
         {
-          "word1": "windmills",
-          "word2": "offshore",
+          "term1": "windmills",
+          "term2": "offshore",
           "value": 0.278
         },
         {
-          "word1": "copyleft",
-          "word2": "copyright",
+          "term1": "copyleft",
+          "term2": "copyright",
           "value": 0.283
         },
         {
-          "word1": "whalewatching",
-          "word2": "birdwatching",
+          "term1": "whalewatching",
+          "term2": "birdwatching",
           "value": 0.31
         },
         {
-          "word1": "tweet",
-          "word2": "snippet",
+          "term1": "tweet",
+          "term2": "snippet",
           "value": 0.314
         },
         {
-          "word1": "subprime",
-          "word2": "risky business",
+          "term1": "subprime",
+          "term2": "risky business",
           "value": 0.336
         },
         {
-          "word1": "imo",
-          "word2": "in my opinion",
+          "term1": "imo",
+          "term2": "in my opinion",
           "value": 0.376
         },
         {
-          "word1": "buzzword",
-          "word2": "neologism",
+          "term1": "buzzword",
+          "term2": "neologism",
           "value": 0.383
         },
         {
-          "word1": "quantitave easing",
-          "word2": "money flood",
+          "term1": "quantitave easing",
+          "term2": "money flood",
           "value": 0.41
         },
         {
-          "word1": "glamping",
-          "word2": "luxury camping",
+          "term1": "glamping",
+          "term2": "luxury camping",
           "value": 0.463
         },
         {
-          "word1": "slumdog",
-          "word2": "underprivileged",
+          "term1": "slumdog",
+          "term2": "underprivileged",
           "value": 0.482
         },
         {
-          "word1": "i18n",
-          "word2": "internationalization",
+          "term1": "i18n",
+          "term2": "internationalization",
           "value": 0.518
         },
         {
-          "word1": "vuvuzela",
-          "word2": "soccer horn",
+          "term1": "vuvuzela",
+          "term2": "soccer horn",
           "value": 0.523
         },
         {
-          "word1": "pda",
-          "word2": "computer",
+          "term1": "pda",
+          "term2": "computer",
           "value": 0.526
         },
         {
-          "word1": "sustainable",
-          "word2": "renewable",
+          "term1": "sustainable",
+          "term2": "renewable",
           "value": 0.536
         },
         {
-          "word1": "sudoku",
-          "word2": "number place",
+          "term1": "sudoku",
+          "term2": "number place",
           "value": 0.538
         },
         {
-          "word1": "terabyte",
-          "word2": "gigabyte",
+          "term1": "terabyte",
+          "term2": "gigabyte",
           "value": 0.573
         },
         {
-          "word1": "ceo",
-          "word2": "chief executive officer",
+          "term1": "ceo",
+          "term2": "chief executive officer",
           "value": 0.603
         },
         {
-          "word1": "tanorexia",
-          "word2": "tanning addiction",
+          "term1": "tanorexia",
+          "term2": "tanning addiction",
           "value": 0.608
         },
         {
-          "word1": "the big apple",
-          "word2": "New York",
+          "term1": "the big apple",
+          "term2": "New York",
           "value": 0.641
         },
         {
-          "word1": "asap",
-          "word2": "as soon as possible",
+          "term1": "asap",
+          "term2": "as soon as possible",
           "value": 0.661
         },
         {
-          "word1": "qwerty",
-          "word2": "keyboard",
+          "term1": "qwerty",
+          "term2": "keyboard",
           "value": 0.676
         },
         {
-          "word1": "thx",
-          "word2": "thanks",
+          "term1": "thx",
+          "term2": "thanks",
           "value": 0.784
         },
         {
-          "word1": "vlog",
-          "word2": "video blog",
+          "term1": "vlog",
+          "term2": "video blog",
           "value": 0.788
         },
         {
-          "word1": "wifi",
-          "word2": "wireless network",
+          "term1": "wifi",
+          "term2": "wireless network",
           "value": 0.9
         },
         {
-          "word1": "hi-tech",
-          "word2": "high technology",
+          "term1": "hi-tech",
+          "term2": "high technology",
           "value": 0.903
         },
         {
-          "word1": "app",
-          "word2": "application",
+          "term1": "app",
+          "term2": "application",
           "value": 0.915
         }
       ]

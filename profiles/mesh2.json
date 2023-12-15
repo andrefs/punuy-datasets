@@ -39,183 +39,183 @@
       },
       "data": [
         {
-          "word1": "Anemia",
-          "word2": "Appendicitis",
+          "term1": "Anemia",
+          "term2": "Appendicitis",
           "value": 0.03125
         },
         {
-          "word1": "Dementia",
-          "word2": "Atopic Dermatitis",
+          "term1": "Dementia",
+          "term2": "Atopic Dermatitis",
           "value": 0.0625
         },
         {
-          "word1": "Bacterial Pneumonia",
-          "word2": "Malaria",
+          "term1": "Bacterial Pneumonia",
+          "term2": "Malaria",
           "value": 0.15625
         },
         {
-          "word1": "Osteoporosis",
-          "word2": "Patent Ductus Arteriosus",
+          "term1": "Osteoporosis",
+          "term2": "Patent Ductus Arteriosus",
           "value": 0.15625
         },
         {
-          "word1": "Amino Acid Sequence",
-          "word2": "AntiBacterial Agents",
+          "term1": "Amino Acid Sequence",
+          "term2": "AntiBacterial Agents",
           "value": 0.15625
         },
         {
-          "word1": "Acquired Immunodeficiency Syndrome",
-          "word2": "Congenital Heart Defects",
+          "term1": "Acquired Immunodeficiency Syndrome",
+          "term2": "Congenital Heart Defects",
           "value": 0.0625
         },
         {
-          "word1": "Otitis Media",
-          "word2": "Infantile Colic",
+          "term1": "Otitis Media",
+          "term2": "Infantile Colic",
           "value": 0.15625
         },
         {
-          "word1": "Meningitis",
-          "word2": "Tricuspid Atresia",
+          "term1": "Meningitis",
+          "term2": "Tricuspid Atresia",
           "value": 0.03125
         },
         {
-          "word1": "Sinusitis",
-          "word2": "Mental Retardation",
+          "term1": "Sinusitis",
+          "term2": "Mental Retardation",
           "value": 0.03125
         },
         {
-          "word1": "Hypertension",
-          "word2": "Kidney Failure",
+          "term1": "Hypertension",
+          "term2": "Kidney Failure",
           "value": 0.5
         },
         {
-          "word1": "Hyperlipidemia",
-          "word2": "Hyperkalemia",
+          "term1": "Hyperlipidemia",
+          "term2": "Hyperkalemia",
           "value": 0.15625
         },
         {
-          "word1": "Hypothyroidism",
-          "word2": "Hyperthyroidism",
+          "term1": "Hypothyroidism",
+          "term2": "Hyperthyroidism",
           "value": 0.40625
         },
         {
-          "word1": "Sarcoidosis",
-          "word2": "Tuberculosis",
+          "term1": "Sarcoidosis",
+          "term2": "Tuberculosis",
           "value": 0.40625
         },
         {
-          "word1": "Vaccines",
-          "word2": "Immunity",
+          "term1": "Vaccines",
+          "term2": "Immunity",
           "value": 0.59375
         },
         {
-          "word1": "Asthma",
-          "word2": "Pneumonia",
+          "term1": "Asthma",
+          "term2": "Pneumonia",
           "value": 0.375
         },
         {
-          "word1": "Diabetic Nephropathy",
-          "word2": "Diabetes Mellitus",
+          "term1": "Diabetic Nephropathy",
+          "term2": "Diabetes Mellitus",
           "value": 0.5
         },
         {
-          "word1": "Lactose Intolerance",
-          "word2": "Irritable Bowel Syndrome",
+          "term1": "Lactose Intolerance",
+          "term2": "Irritable Bowel Syndrome",
           "value": 0.46875
         },
         {
-          "word1": "Urinary Tract Infection",
-          "word2": "Pyelonephritis",
+          "term1": "Urinary Tract Infection",
+          "term2": "Pyelonephritis",
           "value": 0.65625
         },
         {
-          "word1": "Neonatal Jaundice",
-          "word2": "Sepsis",
+          "term1": "Neonatal Jaundice",
+          "term2": "Sepsis",
           "value": 0.1875
         },
         {
-          "word1": "Sickle Cell Anemia",
-          "word2": "Iron Deficiency Anemia",
+          "term1": "Sickle Cell Anemia",
+          "term2": "Iron Deficiency Anemia",
           "value": 0.4375
         },
         {
-          "word1": "Psychology",
-          "word2": "Cognitive Science",
+          "term1": "Psychology",
+          "term2": "Cognitive Science",
           "value": 0.59375
         },
         {
-          "word1": "Adenovirus",
-          "word2": "Rotavirus",
+          "term1": "Adenovirus",
+          "term2": "Rotavirus",
           "value": 0.4375
         },
         {
-          "word1": "Migraine",
-          "word2": "Headache",
+          "term1": "Migraine",
+          "term2": "Headache",
           "value": 0.71875
         },
         {
-          "word1": "Myocardial Ischemia",
-          "word2": "Myocardial Infarction",
+          "term1": "Myocardial Ischemia",
+          "term2": "Myocardial Infarction",
           "value": 0.75
         },
         {
-          "word1": "Hepatitis B",
-          "word2": "Hepatitis C",
+          "term1": "Hepatitis B",
+          "term2": "Hepatitis C",
           "value": 0.5625
         },
         {
-          "word1": "Carcinoma",
-          "word2": "Neoplasm",
+          "term1": "Carcinoma",
+          "term2": "Neoplasm",
           "value": 0.75
         },
         {
-          "word1": "Pulmonary Valve Stenosis",
-          "word2": "Aortic Valve Stenosis",
+          "term1": "Pulmonary Valve Stenosis",
+          "term2": "Aortic Valve Stenosis",
           "value": 0.53125
         },
         {
-          "word1": "Failure to Thrive",
-          "word2": "Malnutrition",
+          "term1": "Failure to Thrive",
+          "term2": "Malnutrition",
           "value": 0.625
         },
         {
-          "word1": "Breast Feeding",
-          "word2": "Lactation",
+          "term1": "Breast Feeding",
+          "term2": "Lactation",
           "value": 0.84375
         },
         {
-          "word1": "Antibiotics",
-          "word2": "Antibacterial Agents",
+          "term1": "Antibiotics",
+          "term2": "Antibacterial Agents",
           "value": 0.9375
         },
         {
-          "word1": "Seizures",
-          "word2": "Convulsions",
+          "term1": "Seizures",
+          "term2": "Convulsions",
           "value": 0.84375
         },
         {
-          "word1": "Pain",
-          "word2": "Ache",
+          "term1": "Pain",
+          "term2": "Ache",
           "value": 0.875
         },
         {
-          "word1": "Malnutrition",
-          "word2": "Nutritional Deficiency",
+          "term1": "Malnutrition",
+          "term2": "Nutritional Deficiency",
           "value": 0.875
         },
         {
-          "word1": "Measles",
-          "word2": "Rubeola",
+          "term1": "Measles",
+          "term2": "Rubeola",
           "value": 0.90625
         },
         {
-          "word1": "Chicken Pox",
-          "word2": "Varicella",
+          "term1": "Chicken Pox",
+          "term2": "Varicella",
           "value": 0.96875
         },
         {
-          "word1": "Down Syndrome",
-          "word2": "Trisomy 21",
+          "term1": "Down Syndrome",
+          "term2": "Trisomy 21",
           "value": 0.875
         }
       ]

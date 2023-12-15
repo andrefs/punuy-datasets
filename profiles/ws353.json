@@ -39,920 +39,920 @@
       },
       "data": [
         {
-          "word1": "love",
-          "word2": "sex",
+          "term1": "love",
+          "term2": "sex",
           "value": 6.77,
           "values": [9, 6, 8, 8, 7, 8, 8, 4, 7, 2, 6, 7, 8]
         },
         {
-          "word1": "tiger",
-          "word2": "cat",
+          "term1": "tiger",
+          "term2": "cat",
           "value": 7.35,
           "values": [9, 7, 8, 7, 8, 9, 8.5, 5, 6, 9, 7, 5, 7]
         },
         {
-          "word1": "tiger",
-          "word2": "tiger",
+          "term1": "tiger",
+          "term2": "tiger",
           "value": 10.0,
           "values": [10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]
         },
         {
-          "word1": "book",
-          "word2": "paper",
+          "term1": "book",
+          "term2": "paper",
           "value": 7.46,
           "values": [8, 8, 7, 7, 8, 9, 7, 6, 7, 8, 9, 4, 9]
         },
         {
-          "word1": "computer",
-          "word2": "keyboard",
+          "term1": "computer",
+          "term2": "keyboard",
           "value": 7.62,
           "values": [8, 7, 9, 9, 8, 8, 7, 7, 6, 8, 10, 3, 9]
         },
         {
-          "word1": "computer",
-          "word2": "internet",
+          "term1": "computer",
+          "term2": "internet",
           "value": 7.58,
           "values": [8, 6, 9, 8, 8, 8, 7.5, 7, 7, 7, 9, 5, 9]
         },
         {
-          "word1": "plane",
-          "word2": "car",
+          "term1": "plane",
+          "term2": "car",
           "value": 5.77,
           "values": [6, 6, 7, 5, 3, 6, 7, 6, 6, 6, 7, 3, 7]
         },
         {
-          "word1": "train",
-          "word2": "car",
+          "term1": "train",
+          "term2": "car",
           "value": 6.31,
           "values": [7, 7.5, 7.5, 5, 3, 6, 7, 6, 6, 6, 9, 4, 8]
         },
         {
-          "word1": "telephone",
-          "word2": "communication",
+          "term1": "telephone",
+          "term2": "communication",
           "value": 7.5,
           "values": [7, 6.5, 8, 8, 6, 8, 8, 7, 5, 9, 9, 8, 8]
         },
         {
-          "word1": "television",
-          "word2": "radio",
+          "term1": "television",
+          "term2": "radio",
           "value": 6.77,
           "values": [7, 7.5, 9, 7, 3, 6, 7, 8, 5.5, 6, 8, 6, 8]
         },
         {
-          "word1": "media",
-          "word2": "radio",
+          "term1": "media",
+          "term2": "radio",
           "value": 7.42,
           "values": [7, 7, 8.5, 9, 6, 7, 7, 7, 5, 7, 10, 8, 8]
         },
         {
-          "word1": "drug",
-          "word2": "abuse",
+          "term1": "drug",
+          "term2": "abuse",
           "value": 6.85,
           "values": [7, 5.5, 8, 10, 7, 9, 7, 7, 4, 5, 8.5, 4, 7]
         },
         {
-          "word1": "bread",
-          "word2": "butter",
+          "term1": "bread",
+          "term2": "butter",
           "value": 6.19,
           "values": [6, 5.5, 8, 9, 6, 8, 7, 5, 6, 4, 4, 3, 9]
         },
         {
-          "word1": "cucumber",
-          "word2": "potato",
+          "term1": "cucumber",
+          "term2": "potato",
           "value": 5.92,
           "values": [7, 7.5, 7, 6, 4, 6, 6.5, 4, 6, 4, 5, 6, 8]
         },
         {
-          "word1": "doctor",
-          "word2": "nurse",
+          "term1": "doctor",
+          "term2": "nurse",
           "value": 7.0,
           "values": [7, 8, 9, 7, 5, 7, 7, 7, 6, 6, 7, 7, 8]
         },
         {
-          "word1": "professor",
-          "word2": "doctor",
+          "term1": "professor",
+          "term2": "doctor",
           "value": 6.62,
           "values": [6, 7.5, 8, 7, 4, 6, 8.5, 6, 7, 3, 6, 9, 8]
         },
         {
-          "word1": "student",
-          "word2": "professor",
+          "term1": "student",
+          "term2": "professor",
           "value": 6.81,
           "values": [6, 8, 9, 6, 4, 8, 7.5, 8, 6, 3, 8, 7, 8]
         },
         {
-          "word1": "smart",
-          "word2": "student",
+          "term1": "smart",
+          "term2": "student",
           "value": 4.62,
           "values": [5, 6, 5, 2, 4, 6, 5, 7, 4, 3, 3, 5, 5]
         },
         {
-          "word1": "smart",
-          "word2": "stupid",
+          "term1": "smart",
+          "term2": "stupid",
           "value": 5.81,
           "values": [3, 7, 9, 9, 5, 8, 6, 0, 6.5, 3, 5, 7, 7]
         },
         {
-          "word1": "company",
-          "word2": "stock",
+          "term1": "company",
+          "term2": "stock",
           "value": 7.08,
           "values": [6, 8, 9, 9, 4, 8, 8, 6, 6, 8, 6, 6, 8]
         },
         {
-          "word1": "stock",
-          "word2": "market",
+          "term1": "stock",
+          "term2": "market",
           "value": 8.08,
           "values": [8, 9, 9.5, 8, 5, 9, 9, 9, 7, 8, 7.5, 7, 9]
         },
         {
-          "word1": "stock",
-          "word2": "phone",
+          "term1": "stock",
+          "term2": "phone",
           "value": 1.62,
           "values": [3, 1, 0, 1, 4, 3, 1, 1, 1, 3, 0, 2, 1]
         },
         {
-          "word1": "stock",
-          "word2": "CD",
+          "term1": "stock",
+          "term2": "CD",
           "value": 1.31,
           "values": [2, 1, 0, 1, 4, 1, 0, 0, 1, 3, 3, 1, 0]
         },
         {
-          "word1": "stock",
-          "word2": "jaguar",
+          "term1": "stock",
+          "term2": "jaguar",
           "value": 0.92,
           "values": [1, 0, 0, 1, 4, 0, 2, 0, 1, 3, 0, 0, 0]
         },
         {
-          "word1": "stock",
-          "word2": "egg",
+          "term1": "stock",
+          "term2": "egg",
           "value": 1.81,
           "values": [5, 1.5, 0, 1, 3, 0, 0, 2, 2, 3, 1, 5, 0]
         },
         {
-          "word1": "fertility",
-          "word2": "egg",
+          "term1": "fertility",
+          "term2": "egg",
           "value": 6.69,
           "values": [7, 8, 8, 7, 4, 8, 8, 8, 6, 9, 2, 6, 6]
         },
         {
-          "word1": "stock",
-          "word2": "live",
+          "term1": "stock",
+          "term2": "live",
           "value": 3.73,
           "values": [8, 5.5, 6, 1, 4, 5, 0, 0, 1, 6, 2, 3, 7]
         },
         {
-          "word1": "stock",
-          "word2": "life",
+          "term1": "stock",
+          "term2": "life",
           "value": 0.92,
           "values": [4, 0, 0, 1, 3, 0, 0, 0, 2, 0, 0, 0, 2]
         },
         {
-          "word1": "book",
-          "word2": "library",
+          "term1": "book",
+          "term2": "library",
           "value": 7.46,
           "values": [8, 9, 8, 9, 5, 9, 8, 7, 6, 8, 7, 6, 7]
         },
         {
-          "word1": "bank",
-          "word2": "money",
+          "term1": "bank",
+          "term2": "money",
           "value": 8.12,
           "values": [8, 9, 9.5, 9, 5, 9, 8, 9, 6, 9, 9, 8, 7]
         },
         {
-          "word1": "wood",
-          "word2": "forest",
+          "term1": "wood",
+          "term2": "forest",
           "value": 7.73,
           "values": [9, 6, 9.5, 7, 5, 9, 9, 9, 6, 8, 9, 8, 6]
         },
         {
-          "word1": "money",
-          "word2": "cash",
+          "term1": "money",
+          "term2": "cash",
           "value": 9.15,
           "values": [10, 9.5, 9.5, 10, 8, 9, 9.5, 10, 7, 10, 8.5, 9, 9]
         },
         {
-          "word1": "professor",
-          "word2": "cucumber",
+          "term1": "professor",
+          "term2": "cucumber",
           "value": 0.31,
           "values": [1, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0]
         },
         {
-          "word1": "king",
-          "word2": "cabbage",
+          "term1": "king",
+          "term2": "cabbage",
           "value": 0.23,
           "values": [1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0]
         },
         {
-          "word1": "king",
-          "word2": "queen",
+          "term1": "king",
+          "term2": "queen",
           "value": 8.58,
           "values": [9, 9.5, 9.5, 10, 7, 8, 8.5, 9, 8, 8, 8, 8, 9]
         },
         {
-          "word1": "king",
-          "word2": "rook",
+          "term1": "king",
+          "term2": "rook",
           "value": 5.92,
           "values": [7, 7.5, 7, 6, 7, 8, 8.5, 0, 8, 0, 6, 5, 7]
         },
         {
-          "word1": "bishop",
-          "word2": "rabbi",
+          "term1": "bishop",
+          "term2": "rabbi",
           "value": 6.69,
           "values": [7, 7.5, 8.5, 2, 5, 7, 9, 7, 8, 7, 6, 7, 6]
         },
         {
-          "word1": "Jerusalem",
-          "word2": "Israel",
+          "term1": "Jerusalem",
+          "term2": "Israel",
           "value": 8.46,
           "values": [9, 8, 9.5, 9, 8, 8, 8, 8, 9, 8, 9.5, 7, 9]
         },
         {
-          "word1": "Jerusalem",
-          "word2": "Palestinian",
+          "term1": "Jerusalem",
+          "term2": "Palestinian",
           "value": 7.65,
           "values": [9, 8, 9, 8, 4, 8, 8, 7, 9, 8, 9.5, 5, 7]
         },
         {
-          "word1": "holy",
-          "word2": "sex",
+          "term1": "holy",
+          "term2": "sex",
           "value": 1.62,
           "values": [3, 0, 5, 2, 1, 1, 7, 0, 1, 0, 0, 0, 1]
         },
         {
-          "word1": "fuck",
-          "word2": "sex",
+          "term1": "fuck",
+          "term2": "sex",
           "value": 9.44,
           "values": [10, 9.75, 10, 10, 8, 9, 9, 10, 9, 10, 8, 10, 10]
         },
         {
-          "word1": "Maradona",
-          "word2": "football",
+          "term1": "Maradona",
+          "term2": "football",
           "value": 8.62,
           "values": [9, 9, 9.5, 10, 7, 9, 8.5, 8, 9, 10, 9, 6, 8]
         },
         {
-          "word1": "football",
-          "word2": "soccer",
+          "term1": "football",
+          "term2": "soccer",
           "value": 9.03,
           "values": [9, 9.9, 9, 10, 8, 7, 9.5, 10, 8, 10, 9, 9, 9]
         },
         {
-          "word1": "football",
-          "word2": "basketball",
+          "term1": "football",
+          "term2": "basketball",
           "value": 6.81,
           "values": [8, 7.5, 8.5, 3, 3, 8, 8, 6, 7.5, 8, 7, 6, 8]
         },
         {
-          "word1": "football",
-          "word2": "tennis",
+          "term1": "football",
+          "term2": "tennis",
           "value": 6.63,
           "values": [7, 7.25, 8.5, 3, 3, 7, 8, 6, 7.5, 8, 7, 6, 8]
         },
         {
-          "word1": "tennis",
-          "word2": "racket",
+          "term1": "tennis",
+          "term2": "racket",
           "value": 7.56,
           "values": [4, 8, 9.5, 9, 4, 9, 7.5, 8, 7.8, 8, 8.5, 6, 9]
         },
         {
-          "word1": "Arafat",
-          "word2": "peace",
+          "term1": "Arafat",
+          "term2": "peace",
           "value": 6.73,
           "values": [8, 8, 9.5, 9, 2, 8, 7, 7, 7, 5, 7, 4, 6]
         },
         {
-          "word1": "Arafat",
-          "word2": "terror",
+          "term1": "Arafat",
+          "term2": "terror",
           "value": 7.65,
           "values": [8, 8, 9.5, 9, 5, 9, 7, 7, 8, 10, 8, 4, 7]
         },
         {
-          "word1": "Arafat",
-          "word2": "Jackson",
+          "term1": "Arafat",
+          "term2": "Jackson",
           "value": 2.5,
           "values": [4, 7.5, 0, 2, 3, 1, 0, 0, 4, 1, 6, 2, 2]
         },
         {
-          "word1": "law",
-          "word2": "lawyer",
+          "term1": "law",
+          "term2": "lawyer",
           "value": 8.38,
           "values": [9, 8, 9.5, 9, 6, 9, 9.5, 9, 7, 10, 6, 8, 9]
         },
         {
-          "word1": "movie",
-          "word2": "star",
+          "term1": "movie",
+          "term2": "star",
           "value": 7.38,
           "values": [9, 8, 9.5, 8, 6, 9, 7, 8, 7, 5, 6.5, 5, 8]
         },
         {
-          "word1": "movie",
-          "word2": "popcorn",
+          "term1": "movie",
+          "term2": "popcorn",
           "value": 6.19,
           "values": [7, 6, 9, 4, 5, 7, 8, 9, 6, 4, 6.5, 2, 7]
         },
         {
-          "word1": "movie",
-          "word2": "critic",
+          "term1": "movie",
+          "term2": "critic",
           "value": 6.73,
           "values": [8, 7.5, 9.5, 9, 6, 8, 7.5, 8, 5, 4, 5, 3, 7]
         },
         {
-          "word1": "movie",
-          "word2": "theater",
+          "term1": "movie",
+          "term2": "theater",
           "value": 7.92,
           "values": [8, 8, 9.5, 9, 6, 8, 8.5, 7, 7, 10, 6, 7, 9]
         },
         {
-          "word1": "physics",
-          "word2": "proton",
+          "term1": "physics",
+          "term2": "proton",
           "value": 8.12,
           "values": [9, 8.5, 9, 10, 6, 8, 8.5, 8, 7, 8, 9.5, 5, 9]
         },
         {
-          "word1": "physics",
-          "word2": "chemistry",
+          "term1": "physics",
+          "term2": "chemistry",
           "value": 7.35,
           "values": [8, 8.5, 9, 8, 5, 7, 8, 7, 8, 7, 7, 4, 9]
         },
         {
-          "word1": "space",
-          "word2": "chemistry",
+          "term1": "space",
+          "term2": "chemistry",
           "value": 4.88,
           "values": [6, 8, 3, 5, 5, 6, 7.5, 6, 5, 3, 1, 2, 6]
         },
         {
-          "word1": "alcohol",
-          "word2": "chemistry",
+          "term1": "alcohol",
+          "term2": "chemistry",
           "value": 5.54,
           "values": [8, 8, 7, 5, 5, 8, 6, 4, 4, 2, 6, 5, 4]
         },
         {
-          "word1": "vodka",
-          "word2": "gin",
+          "term1": "vodka",
+          "term2": "gin",
           "value": 8.46,
           "values": [9, 9.5, 9, 10, 7, 8, 8.5, 9, 8, 10, 6, 8, 8]
         },
         {
-          "word1": "vodka",
-          "word2": "brandy",
+          "term1": "vodka",
+          "term2": "brandy",
           "value": 8.13,
           "values": [9, 9.25, 9, 7, 7, 8, 8.5, 9, 8, 10, 6, 7, 8]
         },
         {
-          "word1": "drink",
-          "word2": "car",
+          "term1": "drink",
+          "term2": "car",
           "value": 3.04,
           "values": [7, 0.5, 0, 2, 2, 7, 5, 5, 4, 0, 2, 0, 5]
         },
         {
-          "word1": "drink",
-          "word2": "ear",
+          "term1": "drink",
+          "term2": "ear",
           "value": 1.31,
           "values": [3, 0, 0, 5, 2, 2, 2, 0, 1, 1, 0, 0, 1]
         },
         {
-          "word1": "drink",
-          "word2": "mouth",
+          "term1": "drink",
+          "term2": "mouth",
           "value": 5.96,
           "values": [8, 6, 7, 7, 3, 7, 4, 6, 7.5, 6, 6, 2, 8]
         },
         {
-          "word1": "drink",
-          "word2": "eat",
+          "term1": "drink",
+          "term2": "eat",
           "value": 6.87,
           "values": [8, 8.75, 9, 9, 3, 7, 8, 9, 7.5, 0, 5, 7, 8]
         },
         {
-          "word1": "baby",
-          "word2": "mother",
+          "term1": "baby",
+          "term2": "mother",
           "value": 7.85,
           "values": [9, 9, 9, 9, 5, 8, 7, 8, 8, 10, 8, 3, 9]
         },
         {
-          "word1": "drink",
-          "word2": "mother",
+          "term1": "drink",
+          "term2": "mother",
           "value": 2.65,
           "values": [3, 1, 1, 3, 3, 7, 0, 2, 6.5, 0, 4, 1, 3]
         },
         {
-          "word1": "car",
-          "word2": "automobile",
+          "term1": "car",
+          "term2": "automobile",
           "value": 8.94,
           "values": [9, 9.75, 10, 10, 5, 6, 10, 10, 7.5, 10, 10, 10, 9]
         },
         {
-          "word1": "gem",
-          "word2": "jewel",
+          "term1": "gem",
+          "term2": "jewel",
           "value": 8.96,
           "values": [9, 9.5, 10, 10, 6, 8, 8.5, 10, 7.5, 10, 10, 8, 10]
         },
         {
-          "word1": "journey",
-          "word2": "voyage",
+          "term1": "journey",
+          "term2": "voyage",
           "value": 9.29,
           "values": [9, 9.75, 10, 10, 6, 7, 9.5, 10, 9.5, 10, 10, 10, 10]
         },
         {
-          "word1": "boy",
-          "word2": "lad",
+          "term1": "boy",
+          "term2": "lad",
           "value": 8.83,
           "values": [9, 9.75, 10, 10, 6, 5, 9.5, 9, 7.5, 10, 10, 9, 10]
         },
         {
-          "word1": "coast",
-          "word2": "shore",
+          "term1": "coast",
+          "term2": "shore",
           "value": 9.1,
           "values": [9, 9.75, 10, 10, 6, 6, 10, 8, 9.5, 10, 10, 10, 10]
         },
         {
-          "word1": "asylum",
-          "word2": "madhouse",
+          "term1": "asylum",
+          "term2": "madhouse",
           "value": 8.87,
           "values": [9, 9.75, 7, 10, 6, 7, 9.5, 10, 9, 10, 10, 9, 9]
         },
         {
-          "word1": "magician",
-          "word2": "wizard",
+          "term1": "magician",
+          "term2": "wizard",
           "value": 9.02,
           "values": [9, 9.75, 10, 10, 7, 6, 9, 8, 8.5, 10, 10, 10, 10]
         },
         {
-          "word1": "midday",
-          "word2": "noon",
+          "term1": "midday",
+          "term2": "noon",
           "value": 9.29,
           "values": [10, 9.75, 9, 10, 7, 6, 9.5, 10, 9.5, 10, 10, 10, 10]
         },
         {
-          "word1": "furnace",
-          "word2": "stove",
+          "term1": "furnace",
+          "term2": "stove",
           "value": 8.79,
           "values": [9, 9.75, 9.5, 10, 7, 7, 9, 9, 8, 10, 10, 8, 8]
         },
         {
-          "word1": "food",
-          "word2": "fruit",
+          "term1": "food",
+          "term2": "fruit",
           "value": 7.52,
           "values": [8, 8.75, 8, 8, 5, 7, 8, 7, 7, 9, 8, 7, 7]
         },
         {
-          "word1": "bird",
-          "word2": "cock",
+          "term1": "bird",
+          "term2": "cock",
           "value": 7.1,
           "values": [8, 8.5, 8, 7, 4, 7, 7, 6, 6.8, 9, 8, 7, 6]
         },
         {
-          "word1": "bird",
-          "word2": "crane",
+          "term1": "bird",
+          "term2": "crane",
           "value": 7.38,
           "values": [9, 8.5, 8.5, 7, 4, 7, 7, 7, 7, 9, 8, 7, 7]
         },
         {
-          "word1": "tool",
-          "word2": "implement",
+          "term1": "tool",
+          "term2": "implement",
           "value": 6.46,
           "values": [8, 6, 8, 7, 4, 7, 6, 6, 5, 6, 10, 7, 4]
         },
         {
-          "word1": "brother",
-          "word2": "monk",
+          "term1": "brother",
+          "term2": "monk",
           "value": 6.27,
           "values": [8, 7, 8, 8, 5, 7, 8.5, 7, 5, 0, 8, 5, 5]
         },
         {
-          "word1": "crane",
-          "word2": "implement",
+          "term1": "crane",
+          "term2": "implement",
           "value": 2.69,
           "values": [3, 6, 1, 1, 4, 1, 0, 6, 1, 0, 9, 3, 0]
         },
         {
-          "word1": "lad",
-          "word2": "brother",
+          "term1": "lad",
+          "term2": "brother",
           "value": 4.46,
           "values": [8, 5.5, 5, 2, 4, 3, 7, 4, 2.5, 7, 5, 2, 3]
         },
         {
-          "word1": "journey",
-          "word2": "car",
+          "term1": "journey",
+          "term2": "car",
           "value": 5.85,
           "values": [7, 7, 7, 6, 4, 6, 6, 7, 5, 5, 5, 4, 7]
         },
         {
-          "word1": "monk",
-          "word2": "oracle",
+          "term1": "monk",
+          "term2": "oracle",
           "value": 5.0,
           "values": [7, 8, 3, 4, 4, 6, 5, 8, 6, 3, 4, 6, 1]
         },
         {
-          "word1": "cemetery",
-          "word2": "woodland",
+          "term1": "cemetery",
+          "term2": "woodland",
           "value": 2.08,
           "values": [3, 2, 1, 2, 3, 6, 2, 3, 3, 0, 0, 1, 1]
         },
         {
-          "word1": "food",
-          "word2": "rooster",
+          "term1": "food",
+          "term2": "rooster",
           "value": 4.42,
           "values": [7, 4, 4, 6, 3, 6, 7, 2, 4.5, 2, 8, 1, 3]
         },
         {
-          "word1": "coast",
-          "word2": "hill",
+          "term1": "coast",
+          "term2": "hill",
           "value": 4.38,
           "values": [6, 6, 6, 5, 2, 6, 5, 5, 4, 3, 4, 1, 4]
         },
         {
-          "word1": "forest",
-          "word2": "graveyard",
+          "term1": "forest",
+          "term2": "graveyard",
           "value": 1.85,
           "values": [4, 2, 1, 1, 2, 6, 1, 3, 3, 0, 0, 1, 0]
         },
         {
-          "word1": "shore",
-          "word2": "woodland",
+          "term1": "shore",
+          "term2": "woodland",
           "value": 3.08,
           "values": [6, 6, 1, 1, 2, 6, 5, 4, 4, 3, 0, 1, 1]
         },
         {
-          "word1": "monk",
-          "word2": "slave",
+          "term1": "monk",
+          "term2": "slave",
           "value": 0.92,
           "values": [3, 2, 1, 1, 2, 2, 0, 0, 0, 0, 0, 1, 0]
         },
         {
-          "word1": "coast",
-          "word2": "forest",
+          "term1": "coast",
+          "term2": "forest",
           "value": 3.15,
           "values": [6, 6, 1, 1, 2, 6, 5, 4, 4, 3, 1, 1, 1]
         },
         {
-          "word1": "lad",
-          "word2": "wizard",
+          "term1": "lad",
+          "term2": "wizard",
           "value": 0.92,
           "values": [4, 0, 0, 1, 2, 3, 0, 0, 0, 0, 0, 1, 1]
         },
         {
-          "word1": "chord",
-          "word2": "smile",
+          "term1": "chord",
+          "term2": "smile",
           "value": 0.54,
           "values": [3, 0, 0, 1, 2, 1, 0, 0, 0, 0, 0, 0, 0]
         },
         {
-          "word1": "glass",
-          "word2": "magician",
+          "term1": "glass",
+          "term2": "magician",
           "value": 2.08,
           "values": [4, 1, 4, 2, 2, 3, 0, 0, 0, 0, 10, 0, 1]
         },
         {
-          "word1": "noon",
-          "word2": "string",
+          "term1": "noon",
+          "term2": "string",
           "value": 0.54,
           "values": [2, 0, 0, 1, 2, 1, 0, 0, 1, 0, 0, 0, 0]
         },
         {
-          "word1": "rooster",
-          "word2": "voyage",
+          "term1": "rooster",
+          "term2": "voyage",
           "value": 0.62,
           "values": [2, 0, 0, 1, 2, 1, 0, 0, 1, 0, 1, 0, 0]
         },
         {
-          "word1": "money",
-          "word2": "dollar",
+          "term1": "money",
+          "term2": "dollar",
           "value": 8.42,
           "values": [9, 9.5, 9, 10, 5, 8, 8.5, 8, 8, 10, 8.5, 8, 8]
         },
         {
-          "word1": "money",
-          "word2": "cash",
+          "term1": "money",
+          "term2": "cash",
           "value": 9.08,
           "values": [10, 9.5, 9.5, 10, 5, 9, 9.5, 10, 8, 10, 8.5, 9, 10]
         },
         {
-          "word1": "money",
-          "word2": "currency",
+          "term1": "money",
+          "term2": "currency",
           "value": 9.04,
           "values": [10, 9.5, 9, 10, 5, 9, 9.5, 9, 9, 10, 8.5, 9, 10]
         },
         {
-          "word1": "money",
-          "word2": "wealth",
+          "term1": "money",
+          "term2": "wealth",
           "value": 8.27,
           "values": [9, 8, 9, 9, 5, 6, 8.5, 9, 9, 10, 8, 9, 8]
         },
         {
-          "word1": "money",
-          "word2": "property",
+          "term1": "money",
+          "term2": "property",
           "value": 7.57,
           "values": [8, 8.25, 6, 8, 5, 8, 8, 7, 8.2, 8, 8, 7, 9]
         },
         {
-          "word1": "money",
-          "word2": "possession",
+          "term1": "money",
+          "term2": "possession",
           "value": 7.29,
           "values": [8, 8.25, 7, 7, 5, 7, 7.5, 5, 9, 7, 8, 7, 9]
         },
         {
-          "word1": "money",
-          "word2": "bank",
+          "term1": "money",
+          "term2": "bank",
           "value": 8.5,
           "values": [9, 8, 9.5, 9, 6, 9, 8.5, 9, 8.5, 10, 8, 7, 9]
         },
         {
-          "word1": "money",
-          "word2": "deposit",
+          "term1": "money",
+          "term2": "deposit",
           "value": 7.73,
           "values": [9, 8, 9.5, 9, 5, 9, 8, 7, 7, 8, 7, 7, 7]
         },
         {
-          "word1": "money",
-          "word2": "withdrawal",
+          "term1": "money",
+          "term2": "withdrawal",
           "value": 6.88,
           "values": [8, 8, 9, 9, 5, 9, 8, 5, 6.5, 8, 2, 5, 7]
         },
         {
-          "word1": "money",
-          "word2": "laundering",
+          "term1": "money",
+          "term2": "laundering",
           "value": 5.65,
           "values": [8, 7, 8, 7, 5, 7, 7.5, 2, 5, 5, 5, 0, 7]
         },
         {
-          "word1": "money",
-          "word2": "operation",
+          "term1": "money",
+          "term2": "operation",
           "value": 3.31,
           "values": [4, 2, 3, 5, 5, 5, 2, 2, 4, 3, 5, 1, 2]
         },
         {
-          "word1": "tiger",
-          "word2": "jaguar",
+          "term1": "tiger",
+          "term2": "jaguar",
           "value": 8.0,
           "values": [9, 9, 9, 10, 5, 8, 7.5, 6, 8, 9, 8.5, 7, 8]
         },
         {
-          "word1": "tiger",
-          "word2": "feline",
+          "term1": "tiger",
+          "term2": "feline",
           "value": 8.0,
           "values": [9, 7.5, 9.5, 8, 5, 8, 8.5, 8, 8, 9, 8.5, 7, 8]
         },
         {
-          "word1": "tiger",
-          "word2": "carnivore",
+          "term1": "tiger",
+          "term2": "carnivore",
           "value": 7.08,
           "values": [9, 6, 8, 5, 5, 8, 7, 7, 8.1, 8, 6, 7, 8]
         },
         {
-          "word1": "tiger",
-          "word2": "mammal",
+          "term1": "tiger",
+          "term2": "mammal",
           "value": 6.85,
           "values": [9, 7, 7.5, 5, 5, 7, 7, 7, 8, 8, 8.5, 6, 4]
         },
         {
-          "word1": "tiger",
-          "word2": "animal",
+          "term1": "tiger",
+          "term2": "animal",
           "value": 7.0,
           "values": [8, 7, 7.5, 5, 5, 6, 6, 7, 7.5, 9, 10, 5, 8]
         },
         {
-          "word1": "tiger",
-          "word2": "organism",
+          "term1": "tiger",
+          "term2": "organism",
           "value": 4.77,
           "values": [8, 7, 6, 1, 5, 5, 1, 2, 6, 4, 10, 5, 2]
         },
         {
-          "word1": "tiger",
-          "word2": "fauna",
+          "term1": "tiger",
+          "term2": "fauna",
           "value": 5.62,
           "values": [8, 7, 7.5, 1, 2, 6, 7, 2, 5.5, 9, 10, 5, 3]
         },
         {
-          "word1": "tiger",
-          "word2": "zoo",
+          "term1": "tiger",
+          "term2": "zoo",
           "value": 5.87,
           "values": [8, 5.25, 8, 3, 5, 7, 6, 8, 6, 5, 5, 5, 5]
         },
         {
-          "word1": "psychology",
-          "word2": "psychiatry",
+          "term1": "psychology",
+          "term2": "psychiatry",
           "value": 8.08,
           "values": [9, 8.5, 9.5, 9, 4, 8, 8, 8, 7, 9, 9, 8, 8]
         },
         {
-          "word1": "psychology",
-          "word2": "anxiety",
+          "term1": "psychology",
+          "term2": "anxiety",
           "value": 7.0,
           "values": [7, 7, 8.5, 4, 5, 8, 5, 7, 8, 8, 8.5, 7, 8]
         },
         {
-          "word1": "psychology",
-          "word2": "fear",
+          "term1": "psychology",
+          "term2": "fear",
           "value": 6.85,
           "values": [8, 7, 8.5, 4, 5, 8, 5, 5, 8, 8, 8.5, 7, 7]
         },
         {
-          "word1": "psychology",
-          "word2": "depression",
+          "term1": "psychology",
+          "term2": "depression",
           "value": 7.42,
           "values": [9, 8, 9, 5, 5, 8, 5, 7, 8, 8, 8.5, 7, 9]
         },
         {
-          "word1": "psychology",
-          "word2": "clinic",
+          "term1": "psychology",
+          "term2": "clinic",
           "value": 6.58,
           "values": [8, 8, 9.5, 5, 4, 9, 7, 6, 6, 7, 6, 4, 6]
         },
         {
-          "word1": "psychology",
-          "word2": "doctor",
+          "term1": "psychology",
+          "term2": "doctor",
           "value": 6.42,
           "values": [9, 8, 9, 5, 5, 8, 7.5, 6, 5, 5, 7, 4, 5]
         },
         {
-          "word1": "psychology",
-          "word2": "Freud",
+          "term1": "psychology",
+          "term2": "Freud",
           "value": 8.21,
           "values": [9, 9.25, 9.5, 10, 5, 8, 8, 9, 7.5, 9, 8.5, 7, 7]
         },
         {
-          "word1": "psychology",
-          "word2": "mind",
+          "term1": "psychology",
+          "term2": "mind",
           "value": 7.69,
           "values": [9, 9.5, 9, 9, 5, 8, 5, 8, 7, 8, 8.5, 7, 7]
         },
         {
-          "word1": "psychology",
-          "word2": "health",
+          "term1": "psychology",
+          "term2": "health",
           "value": 7.23,
           "values": [9, 8, 8.5, 5, 5, 7, 5, 8, 8, 8, 8.5, 6, 8]
         },
         {
-          "word1": "psychology",
-          "word2": "science",
+          "term1": "psychology",
+          "term2": "science",
           "value": 6.71,
           "values": [8, 7.75, 7.5, 5, 5, 7, 4, 8, 6.5, 7, 9.5, 4, 8]
         },
         {
-          "word1": "psychology",
-          "word2": "discipline",
+          "term1": "psychology",
+          "term2": "discipline",
           "value": 5.58,
           "values": [8, 7, 7.5, 6, 4, 6, 4, 7, 6, 8, 2, 5, 2]
         },
         {
-          "word1": "psychology",
-          "word2": "cognition",
+          "term1": "psychology",
+          "term2": "cognition",
           "value": 7.48,
           "values": [9, 9.75, 8.5, 6, 3, 8, 8, 8, 6.5, 9, 7.5, 8, 6]
         },
         {
-          "word1": "planet",
-          "word2": "star",
+          "term1": "planet",
+          "term2": "star",
           "value": 8.45,
           "values": [9, 9.9, 10, 10, 5, 8, 8.5, 9, 8, 9, 8.5, 7, 8]
         },
         {
-          "word1": "planet",
-          "word2": "constellation",
+          "term1": "planet",
+          "term2": "constellation",
           "value": 8.06,
           "values": [9, 8.25, 9, 9, 6, 8, 8, 8, 8, 9, 8.5, 6, 8]
         },
         {
-          "word1": "planet",
-          "word2": "moon",
+          "term1": "planet",
+          "term2": "moon",
           "value": 8.08,
           "values": [9, 8.5, 9, 9, 5, 8, 7, 9, 8, 10, 8.5, 7, 7]
         },
         {
-          "word1": "planet",
-          "word2": "sun",
+          "term1": "planet",
+          "term2": "sun",
           "value": 8.02,
           "values": [9, 8.75, 9, 8, 5, 8, 7, 9, 8, 10, 8.5, 7, 7]
         },
         {
-          "word1": "planet",
-          "word2": "galaxy",
+          "term1": "planet",
+          "term2": "galaxy",
           "value": 8.11,
           "values": [9, 8.25, 9.5, 8, 5, 8, 8, 8, 8.2, 10, 9.5, 6, 8]
         },
         {
-          "word1": "planet",
-          "word2": "space",
+          "term1": "planet",
+          "term2": "space",
           "value": 7.92,
           "values": [9, 8, 9.5, 6, 5, 8, 7, 8, 8, 10, 9.5, 6, 9]
         },
         {
-          "word1": "planet",
-          "word2": "astronomer",
+          "term1": "planet",
+          "term2": "astronomer",
           "value": 7.94,
           "values": [9, 8.25, 9.5, 8, 5, 8, 7, 7, 8, 10, 7.5, 7, 9]
         },
         {
-          "word1": "precedent",
-          "word2": "example",
+          "term1": "precedent",
+          "term2": "example",
           "value": 5.85,
           "values": [6, 8.5, 9.5, 10, 3, 7, 6, 8, 1, 1, 9, 2, 5]
         },
         {
-          "word1": "precedent",
-          "word2": "information",
+          "term1": "precedent",
+          "term2": "information",
           "value": 3.85,
           "values": [5, 5.5, 6, 8, 4, 5, 1, 2, 0, 1, 7.5, 2, 3]
         },
         {
-          "word1": "precedent",
-          "word2": "cognition",
+          "term1": "precedent",
+          "term2": "cognition",
           "value": 2.81,
           "values": [6, 5.5, 2, 7, 3, 3, 0, 0, 0, 1, 7, 1, 1]
         },
         {
-          "word1": "precedent",
-          "word2": "law",
+          "term1": "precedent",
+          "term2": "law",
           "value": 6.65,
           "values": [8, 7, 8.5, 8, 3, 8, 7, 5, 7.5, 8, 8.5, 5, 3]
         },
         {
-          "word1": "precedent",
-          "word2": "collection",
+          "term1": "precedent",
+          "term2": "collection",
           "value": 2.5,
           "values": [7, 5.5, 1, 3, 3, 5, 0, 0, 0, 0, 6, 1, 1]
         },
         {
-          "word1": "precedent",
-          "word2": "group",
+          "term1": "precedent",
+          "term2": "group",
           "value": 1.77,
           "values": [6, 1, 1, 2, 3, 5, 0, 0, 0, 0, 4, 1, 0]
         },
         {
-          "word1": "precedent",
-          "word2": "antecedent",
+          "term1": "precedent",
+          "term2": "antecedent",
           "value": 6.04,
           "values": [9.5, 0, 9.5, 9, 4, 7, 7.5, 7, 8, 7, 5, 3, 2]
         },
         {
-          "word1": "cup",
-          "word2": "coffee",
+          "term1": "cup",
+          "term2": "coffee",
           "value": 6.58,
           "values": [9, 8, 9, 8, 5, 9, 8, 5, 6.5, 5, 4, 3, 6]
         },
         {
-          "word1": "cup",
-          "word2": "tableware",
+          "term1": "cup",
+          "term2": "tableware",
           "value": 6.85,
           "values": [7, 8.5, 8, 9, 5, 7, 7, 4, 5, 9, 8.5, 5, 6]
         },
         {
-          "word1": "cup",
-          "word2": "article",
+          "term1": "cup",
+          "term2": "article",
           "value": 2.4,
           "values": [1, 8.25, 6, 3, 3, 0, 0, 0, 0, 3, 3, 2, 2]
         },
         {
-          "word1": "cup",
-          "word2": "artifact",
+          "term1": "cup",
+          "term2": "artifact",
           "value": 2.92,
           "values": [7, 8, 1, 2, 4, 0, 2, 1, 5, 3, 4, 0, 1]
         },
         {
-          "word1": "cup",
-          "word2": "object",
+          "term1": "cup",
+          "term2": "object",
           "value": 3.69,
           "values": [8, 8, 4, 2, 5, 3, 2, 5, 5, 0, 3, 2, 1]
         },
         {
-          "word1": "cup",
-          "word2": "entity",
+          "term1": "cup",
+          "term2": "entity",
           "value": 2.15,
           "values": [3, 6, 3, 1, 4, 3, 0, 3, 4, 0, 1, 0, 0]
         },
         {
-          "word1": "cup",
-          "word2": "drink",
+          "term1": "cup",
+          "term2": "drink",
           "value": 7.25,
           "values": [9, 7.75, 9, 8, 4, 8, 6, 8, 8, 6, 7.5, 6, 7]
         },
         {
-          "word1": "cup",
-          "word2": "food",
+          "term1": "cup",
+          "term2": "food",
           "value": 5.0,
           "values": [7, 7, 6, 2, 3, 7, 3, 7, 6, 4, 4, 4, 5]
         },
         {
-          "word1": "cup",
-          "word2": "substance",
+          "term1": "cup",
+          "term2": "substance",
           "value": 1.92,
           "values": [3, 3, 2, 1, 3, 2, 1, 3, 5, 0, 2, 0, 0]
         },
         {
-          "word1": "cup",
-          "word2": "liquid",
+          "term1": "cup",
+          "term2": "liquid",
           "value": 5.9,
           "values": [9, 7.75, 7, 5, 4, 7, 4, 7, 7, 6, 7, 4, 2]
         },
         {
-          "word1": "jaguar",
-          "word2": "cat",
+          "term1": "jaguar",
+          "term2": "cat",
           "value": 7.42,
           "values": [9, 7, 8, 8, 4, 8, 7.5, 7, 7, 9, 7, 7, 8]
         },
         {
-          "word1": "jaguar",
-          "word2": "car",
+          "term1": "jaguar",
+          "term2": "car",
           "value": 7.27,
           "values": [9, 9, 8.5, 8, 4, 8, 7, 7, 8, 9, 4, 5, 8]
         }
@@ -977,1202 +977,1202 @@
       },
       "data": [
         {
-          "word1": "energy",
-          "word2": "secretary",
+          "term1": "energy",
+          "term2": "secretary",
           "value": 1.81,
           "values": [1, 0, 4, 2, 4, 5, 1, 1, 1, 0, 1, 1, 4, 0, 2, 2]
         },
         {
-          "word1": "secretary",
-          "word2": "senate",
+          "term1": "secretary",
+          "term2": "senate",
           "value": 5.06,
           "values": [7, 1, 7, 4, 4, 7, 1, 3, 4, 8, 4, 5, 6, 7, 6, 7]
         },
         {
-          "word1": "energy",
-          "word2": "laboratory",
+          "term1": "energy",
+          "term2": "laboratory",
           "value": 5.09,
           "values": [7, 1, 7.5, 4, 6, 7, 4, 6, 1, 2, 4, 3, 7, 9, 6, 7]
         },
         {
-          "word1": "computer",
-          "word2": "laboratory",
+          "term1": "computer",
+          "term2": "laboratory",
           "value": 6.78,
           "values": [8, 5, 8, 7, 6, 9, 6, 7, 6, 7.5, 4, 5, 8, 9, 7, 6]
         },
         {
-          "word1": "weapon",
-          "word2": "secret",
+          "term1": "weapon",
+          "term2": "secret",
           "value": 6.06,
           "values": [7, 4, 8, 6, 6, 9, 2, 6, 3, 6, 5, 6, 8, 9, 7, 5]
         },
         {
-          "word1": "FBI",
-          "word2": "fingerprint",
+          "term1": "FBI",
+          "term2": "fingerprint",
           "value": 6.94,
           "values": [8, 6, 8, 5, 5, 9, 7, 7, 6, 6, 6, 8, 9, 7, 6, 8]
         },
         {
-          "word1": "FBI",
-          "word2": "investigation",
+          "term1": "FBI",
+          "term2": "investigation",
           "value": 8.31,
           "values": [9, 9, 8.5, 9, 7, 9, 8, 8, 8, 7.5, 6, 9, 10, 9, 7, 9]
         },
         {
-          "word1": "investigation",
-          "word2": "effort",
+          "term1": "investigation",
+          "term2": "effort",
           "value": 4.59,
           "values": [5, 1, 7.5, 2, 4, 7, 6, 5, 2, 2, 2, 7, 6, 5, 6, 6]
         },
         {
-          "word1": "Mars",
-          "word2": "water",
+          "term1": "Mars",
+          "term2": "water",
           "value": 2.94,
           "values": [2, 1, 3, 2, 1, 8, 0, 4, 2, 6, 1, 1, 3, 0, 5, 8]
         },
         {
-          "word1": "Mars",
-          "word2": "scientist",
+          "term1": "Mars",
+          "term2": "scientist",
           "value": 5.63,
           "values": [8, 1, 7, 4, 6, 8, 1, 6, 5, 6, 2, 9, 7, 5, 7, 8]
         },
         {
-          "word1": "news",
-          "word2": "report",
+          "term1": "news",
+          "term2": "report",
           "value": 8.16,
           "values": [9, 6, 8.5, 8, 7, 9, 7, 8, 7, 8, 7, 9, 10, 9, 9, 9]
         },
         {
-          "word1": "canyon",
-          "word2": "landscape",
+          "term1": "canyon",
+          "term2": "landscape",
           "value": 7.53,
           "values": [9, 7.5, 7, 7, 7, 7, 8, 7, 7, 8, 6, 9, 8, 6, 8, 9]
         },
         {
-          "word1": "image",
-          "word2": "surface",
+          "term1": "image",
+          "term2": "surface",
           "value": 4.56,
           "values": [7, 1, 5, 1, 1, 5, 4, 3, 4, 4, 5, 5, 7, 7, 8, 6]
         },
         {
-          "word1": "discovery",
-          "word2": "space",
+          "term1": "discovery",
+          "term2": "space",
           "value": 6.34,
           "values": [8, 2, 7.5, 9, 5, 7, 4, 7, 5, 6, 5, 7, 8, 8, 7, 6]
         },
         {
-          "word1": "water",
-          "word2": "seepage",
+          "term1": "water",
+          "term2": "seepage",
           "value": 6.56,
           "values": [8, 7, 9, 7, 7, 8, 7, 6, 0, 6, 1, 8, 7, 8, 8, 8]
         },
         {
-          "word1": "sign",
-          "word2": "recess",
+          "term1": "sign",
+          "term2": "recess",
           "value": 2.38,
           "values": [4, 1, 2, 4, 5, 4, 0, 4, 3, 0, 1, 0, 0, 0, 6, 4]
         },
         {
-          "word1": "Wednesday",
-          "word2": "news",
+          "term1": "Wednesday",
+          "term2": "news",
           "value": 2.22,
           "values": [4, 1, 4, 2, 3, 6, 2, 3, 0.5, 0, 1, 1, 0, 1, 4, 3]
         },
         {
-          "word1": "mile",
-          "word2": "kilometer",
+          "term1": "mile",
+          "term2": "kilometer",
           "value": 8.66,
           "values": [9, 9.5, 9, 8, 9, 8, 9, 9, 8.5, 7.5, 8, 8, 10, 8, 9, 9]
         },
         {
-          "word1": "computer",
-          "word2": "news",
+          "term1": "computer",
+          "term2": "news",
           "value": 4.47,
           "values": [5, 1, 7, 6, 5, 5, 1, 4, 6.5, 4, 2, 5, 3, 7, 6, 4]
         },
         {
-          "word1": "territory",
-          "word2": "surface",
+          "term1": "territory",
+          "term2": "surface",
           "value": 5.34,
           "values": [6, 2, 8.5, 4, 7, 7, 8, 4, 2, 6, 6, 5, 6, 2, 8, 4]
         },
         {
-          "word1": "atmosphere",
-          "word2": "landscape",
+          "term1": "atmosphere",
+          "term2": "landscape",
           "value": 3.69,
           "values": [7, 0, 2, 1, 8, 7, 1, 5, 2, 0, 2, 5, 6, 1, 7, 5]
         },
         {
-          "word1": "president",
-          "word2": "medal",
+          "term1": "president",
+          "term2": "medal",
           "value": 3.0,
           "values": [5, 2, 1, 3, 6, 6, 1, 7, 2, 0, 1, 3, 2, 1, 4, 4]
         },
         {
-          "word1": "war",
-          "word2": "troops",
+          "term1": "war",
+          "term2": "troops",
           "value": 8.13,
           "values": [8, 8.5, 9, 9, 8, 8, 8, 8, 6, 7.5, 8, 8, 9, 8, 9, 8]
         },
         {
-          "word1": "record",
-          "word2": "number",
+          "term1": "record",
+          "term2": "number",
           "value": 6.31,
           "values": [8, 6, 8, 5, 7, 7, 3, 4, 5, 8, 5, 8, 8, 5, 8, 6]
         },
         {
-          "word1": "skin",
-          "word2": "eye",
+          "term1": "skin",
+          "term2": "eye",
           "value": 6.22,
           "values": [7, 9, 7, 3, 6, 6, 7, 7, 6, 7.5, 5, 6, 8, 2, 8, 5]
         },
         {
-          "word1": "Japanese",
-          "word2": "American",
+          "term1": "Japanese",
+          "term2": "American",
           "value": 6.5,
           "values": [7, 6, 8.5, 6, 6, 4, 8, 7, 7, 7.5, 5, 8, 9, 1, 8, 6]
         },
         {
-          "word1": "theater",
-          "word2": "history",
+          "term1": "theater",
+          "term2": "history",
           "value": 3.91,
           "values": [5, 6, 6, 4, 5, 3, 0, 3, 6.5, 6, 1, 5, 1, 1, 7, 3]
         },
         {
-          "word1": "volunteer",
-          "word2": "motto",
+          "term1": "volunteer",
+          "term2": "motto",
           "value": 2.56,
           "values": [2, 5, 1, 1, 4, 2, 0, 3, 3, 0, 4, 7, 0, 3, 4, 2]
         },
         {
-          "word1": "prejudice",
-          "word2": "recognition",
+          "term1": "prejudice",
+          "term2": "recognition",
           "value": 3.0,
           "values": [7, 4, 2, 1, 6, 2, 4, 5, 1, 0, 6, 5, 0, 0, 3, 2]
         },
         {
-          "word1": "decoration",
-          "word2": "valor",
+          "term1": "decoration",
+          "term2": "valor",
           "value": 5.63,
           "values": [6, 8, 7, 8, 8, 2, 2, 9, 5, 0, 7, 8, 9, 1, 8, 2]
         },
         {
-          "word1": "century",
-          "word2": "year",
+          "term1": "century",
+          "term2": "year",
           "value": 7.59,
           "values": [8, 9, 8, 9, 7, 6, 8, 8, 7, 7.5, 7, 9, 8, 5, 9, 6]
         },
         {
-          "word1": "century",
-          "word2": "nation",
+          "term1": "century",
+          "term2": "nation",
           "value": 3.16,
           "values": [5, 0, 7.5, 5, 4, 4, 0, 2, 2, 4, 2, 2, 2, 0, 8, 3]
         },
         {
-          "word1": "delay",
-          "word2": "racism",
+          "term1": "delay",
+          "term2": "racism",
           "value": 1.19,
           "values": [1, 0, 1, 1, 6, 1, 0, 1, 0, 0, 4, 0, 0, 0, 3, 1]
         },
         {
-          "word1": "delay",
-          "word2": "news",
+          "term1": "delay",
+          "term2": "news",
           "value": 3.31,
           "values": [7, 4, 3, 1, 6, 5, 6, 4, 4, 0, 1, 4, 3, 0, 3, 2]
         },
         {
-          "word1": "minister",
-          "word2": "party",
+          "term1": "minister",
+          "term2": "party",
           "value": 6.63,
           "values": [8, 7.5, 8, 7, 6, 7, 8, 8, 5, 7.5, 6, 1, 8, 8, 8, 3]
         },
         {
-          "word1": "peace",
-          "word2": "plan",
+          "term1": "peace",
+          "term2": "plan",
           "value": 4.75,
           "values": [5, 2, 7, 6, 7, 4, 3, 5, 4, 4, 5, 3, 7, 2, 9, 3]
         },
         {
-          "word1": "minority",
-          "word2": "peace",
+          "term1": "minority",
+          "term2": "peace",
           "value": 3.69,
           "values": [6, 0, 7, 3, 1, 5, 6, 4, 4, 4, 3, 3, 5, 0, 5, 3]
         },
         {
-          "word1": "attempt",
-          "word2": "peace",
+          "term1": "attempt",
+          "term2": "peace",
           "value": 4.25,
           "values": [7, 4, 7, 2, 7, 4, 2, 3, 3, 4, 3, 5, 5, 4, 5, 3]
         },
         {
-          "word1": "government",
-          "word2": "crisis",
+          "term1": "government",
+          "term2": "crisis",
           "value": 6.56,
           "values": [8, 5, 8, 5, 7, 7, 5, 6, 5, 6, 7, 8, 7, 9, 7, 5]
         },
         {
-          "word1": "deployment",
-          "word2": "departure",
+          "term1": "deployment",
+          "term2": "departure",
           "value": 4.25,
           "values": [7, 0, 2, 6, 7, 5, 6, 4, 2, 2, 5, 6, 2, 0, 8, 6]
         },
         {
-          "word1": "deployment",
-          "word2": "withdrawal",
+          "term1": "deployment",
+          "term2": "withdrawal",
           "value": 5.88,
           "values": [9, 9, 6, 6, 3, 8, 8, 4, 3, 2, 5, 8, 9, 0, 8, 6]
         },
         {
-          "word1": "energy",
-          "word2": "crisis",
+          "term1": "energy",
+          "term2": "crisis",
           "value": 5.94,
           "values": [8, 5, 8, 5, 8, 8, 8, 4, 1, 4, 2, 7, 5, 8, 8, 6]
         },
         {
-          "word1": "announcement",
-          "word2": "news",
+          "term1": "announcement",
+          "term2": "news",
           "value": 7.56,
           "values": [8, 7, 8, 8, 8, 9, 8, 6, 6, 8, 8, 8, 6, 8, 9, 6]
         },
         {
-          "word1": "announcement",
-          "word2": "effort",
+          "term1": "announcement",
+          "term2": "effort",
           "value": 2.75,
           "values": [5, 6, 2, 2, 1, 5, 4, 2, 2, 2, 2, 0, 3, 0, 5, 3]
         },
         {
-          "word1": "stroke",
-          "word2": "hospital",
+          "term1": "stroke",
+          "term2": "hospital",
           "value": 7.03,
           "values": [9, 8, 8, 8, 7, 3, 8, 7, 6, 7.5, 7, 7, 9, 3, 8, 7]
         },
         {
-          "word1": "disability",
-          "word2": "death",
+          "term1": "disability",
+          "term2": "death",
           "value": 5.47,
           "values": [7, 8, 6.5, 4, 3, 7, 7, 5, 6, 2, 7, 2, 8, 2, 8, 5]
         },
         {
-          "word1": "victim",
-          "word2": "emergency",
+          "term1": "victim",
+          "term2": "emergency",
           "value": 6.47,
           "values": [8, 7, 7.5, 4, 5, 6, 6, 7, 6, 4, 5, 6, 9, 9, 9, 5]
         },
         {
-          "word1": "treatment",
-          "word2": "recovery",
+          "term1": "treatment",
+          "term2": "recovery",
           "value": 7.91,
           "values": [8, 8, 8.5, 9, 9, 8, 9, 8, 6.5, 7.5, 7, 7, 10, 5, 9, 7]
         },
         {
-          "word1": "journal",
-          "word2": "association",
+          "term1": "journal",
+          "term2": "association",
           "value": 4.97,
           "values": [8, 2, 7.5, 7, 1, 5, 4, 6, 3, 6, 7, 3, 7, 1, 8, 4]
         },
         {
-          "word1": "doctor",
-          "word2": "personnel",
+          "term1": "doctor",
+          "term2": "personnel",
           "value": 5.0,
           "values": [7, 2, 8, 6, 4, 7, 2, 6, 2, 6, 4, 5, 7, 3, 8, 3]
         },
         {
-          "word1": "doctor",
-          "word2": "liability",
+          "term1": "doctor",
+          "term2": "liability",
           "value": 5.19,
           "values": [7, 4, 8, 7, 4, 6, 4, 5, 4, 2, 4, 2, 6, 8, 7, 5]
         },
         {
-          "word1": "liability",
-          "word2": "insurance",
+          "term1": "liability",
+          "term2": "insurance",
           "value": 7.03,
           "values": [6, 8.5, 9, 5, 8, 9, 6, 8, 5, 4, 7, 8, 8, 5, 9, 7]
         },
         {
-          "word1": "school",
-          "word2": "center",
+          "term1": "school",
+          "term2": "center",
           "value": 3.44,
           "values": [6, 1, 4, 1, 5, 2, 4, 3, 3, 4, 5, 1, 3, 3, 7, 3]
         },
         {
-          "word1": "reason",
-          "word2": "hypertension",
+          "term1": "reason",
+          "term2": "hypertension",
           "value": 2.31,
           "values": [4, 1, 1, 2, 6, 1, 0, 1, 3, 2, 2, 7, 0, 2, 3, 2]
         },
         {
-          "word1": "reason",
-          "word2": "criterion",
+          "term1": "reason",
+          "term2": "criterion",
           "value": 5.91,
           "values": [3, 2, 8, 7, 9, 3, 6, 4, 4.5, 8, 7, 7, 8, 6, 7, 5]
         },
         {
-          "word1": "hundred",
-          "word2": "percent",
+          "term1": "hundred",
+          "term2": "percent",
           "value": 7.38,
           "values": [9, 5, 9, 3, 10, 9, 6, 7, 7, 6, 6, 7, 10, 9, 8, 7]
         },
         {
-          "word1": "Harvard",
-          "word2": "Yale",
+          "term1": "Harvard",
+          "term2": "Yale",
           "value": 8.13,
           "values": [9, 8, 9, 10, 8, 8, 9, 10, 8.5, 7.5, 8, 8, 10, 0, 8, 9]
         },
         {
-          "word1": "hospital",
-          "word2": "infrastructure",
+          "term1": "hospital",
+          "term2": "infrastructure",
           "value": 4.63,
           "values": [5, 2, 1, 5, 6, 5, 4, 7, 3, 4, 5, 5, 5, 3, 7, 7]
         },
         {
-          "word1": "death",
-          "word2": "row",
+          "term1": "death",
+          "term2": "row",
           "value": 5.25,
           "values": [2, 7, 8, 2, 8, 7, 6, 3, 7, 4, 2, 7, 9, 0, 8, 4]
         },
         {
-          "word1": "death",
-          "word2": "inmate",
+          "term1": "death",
+          "term2": "inmate",
           "value": 5.03,
           "values": [4, 5, 7.5, 1, 5, 4, 7, 3, 6, 2, 6, 6, 3, 8, 8, 5]
         },
         {
-          "word1": "lawyer",
-          "word2": "evidence",
+          "term1": "lawyer",
+          "term2": "evidence",
           "value": 6.69,
           "values": [7, 6.5, 8.5, 7, 8, 6, 8, 8, 7, 3, 5, 8, 10, 0, 9, 6]
         },
         {
-          "word1": "life",
-          "word2": "death",
+          "term1": "life",
+          "term2": "death",
           "value": 7.88,
           "values": [9, 9.5, 9.5, 5, 10, 8, 8, 8, 6.5, 7.5, 8, 9, 10, 0, 9, 9]
         },
         {
-          "word1": "life",
-          "word2": "term",
+          "term1": "life",
+          "term2": "term",
           "value": 4.5,
           "values": [2, 8, 2, 1, 8, 7, 6, 3, 1, 4, 2, 8, 3, 3, 8, 6]
         },
         {
-          "word1": "word",
-          "word2": "similarity",
+          "term1": "word",
+          "term2": "similarity",
           "value": 4.75,
           "values": [6, 1, 8, 2, 10, 7, 6, 2, 1, 4, 2, 5, 0, 9, 7, 6]
         },
         {
-          "word1": "board",
-          "word2": "recommendation",
+          "term1": "board",
+          "term2": "recommendation",
           "value": 4.47,
           "values": [6, 4, 2, 1, 7, 8, 3, 4, 1, 7.5, 2, 7, 7, 0, 7, 5]
         },
         {
-          "word1": "governor",
-          "word2": "interview",
+          "term1": "governor",
+          "term2": "interview",
           "value": 3.25,
           "values": [4, 0, 4, 1, 7, 6, 0, 5, 0, 2, 3, 5, 3, 3, 4, 5]
         },
         {
-          "word1": "OPEC",
-          "word2": "country",
+          "term1": "OPEC",
+          "term2": "country",
           "value": 5.63,
           "values": [7, 4, 8, 4, 0, 4, 8, 6, 5, 8, 4, 6, 7, 8, 6, 5]
         },
         {
-          "word1": "peace",
-          "word2": "atmosphere",
+          "term1": "peace",
+          "term2": "atmosphere",
           "value": 3.69,
           "values": [6, 5, 5, 1, 0, 6, 3, 5, 2, 6, 1, 3, 3, 0, 7, 6]
         },
         {
-          "word1": "peace",
-          "word2": "insurance",
+          "term1": "peace",
+          "term2": "insurance",
           "value": 2.94,
           "values": [6, 4, 1, 1, 7, 4, 0, 3, 2, 6, 5, 1, 0, 0, 3, 4]
         },
         {
-          "word1": "territory",
-          "word2": "kilometer",
+          "term1": "territory",
+          "term2": "kilometer",
           "value": 5.28,
           "values": [6, 6, 8, 1, 5, 8, 7, 6, 4, 7.5, 5, 3, 3, 2, 8, 5]
         },
         {
-          "word1": "travel",
-          "word2": "activity",
+          "term1": "travel",
+          "term2": "activity",
           "value": 5.0,
           "values": [7, 5, 6.5, 2, 5, 6, 6, 6, 5, 7.5, 3, 2, 4, 2, 8, 5]
         },
         {
-          "word1": "competition",
-          "word2": "price",
+          "term1": "competition",
+          "term2": "price",
           "value": 6.44,
           "values": [7, 8, 7.5, 5, 6, 7, 8, 4, 6, 7.5, 5, 6, 9, 5, 9, 3]
         },
         {
-          "word1": "consumer",
-          "word2": "confidence",
+          "term1": "consumer",
+          "term2": "confidence",
           "value": 4.13,
           "values": [7, 4, 2, 3, 3, 3, 1, 2, 2, 6, 2, 7, 9, 4, 8, 3]
         },
         {
-          "word1": "consumer",
-          "word2": "energy",
+          "term1": "consumer",
+          "term2": "energy",
           "value": 4.75,
           "values": [5, 3, 8, 2, 6, 6, 0, 4, 0, 4, 7, 6, 6, 9, 8, 2]
         },
         {
-          "word1": "problem",
-          "word2": "airport",
+          "term1": "problem",
+          "term2": "airport",
           "value": 2.38,
           "values": [2, 2, 1, 0, 5, 4, 0, 3, 0, 4, 1, 2, 0, 7, 5, 2]
         },
         {
-          "word1": "car",
-          "word2": "flight",
+          "term1": "car",
+          "term2": "flight",
           "value": 4.94,
           "values": [6, 3, 7, 5, 6, 6, 4, 7, 4, 2, 7, 5, 8, 0, 5, 4]
         },
         {
-          "word1": "credit",
-          "word2": "card",
+          "term1": "credit",
+          "term2": "card",
           "value": 8.06,
           "values": [8, 6, 9, 8, 9, 8, 8, 9, 7, 8, 5, 8, 10, 9, 9, 8]
         },
         {
-          "word1": "credit",
-          "word2": "information",
+          "term1": "credit",
+          "term2": "information",
           "value": 5.31,
           "values": [7, 5, 2, 3, 7, 4, 1, 5, 7, 1, 2, 8, 10, 9, 8, 6]
         },
         {
-          "word1": "hotel",
-          "word2": "reservation",
+          "term1": "hotel",
+          "term2": "reservation",
           "value": 8.03,
           "values": [8, 7, 9, 7, 8, 8, 8, 8, 7, 7.5, 7, 8, 10, 9, 9, 8]
         },
         {
-          "word1": "grocery",
-          "word2": "money",
+          "term1": "grocery",
+          "term2": "money",
           "value": 5.94,
           "values": [8, 5, 7.5, 2, 7, 7, 7, 5, 6.5, 6, 6, 8, 6, 2, 5, 7]
         },
         {
-          "word1": "registration",
-          "word2": "arrangement",
+          "term1": "registration",
+          "term2": "arrangement",
           "value": 6.0,
           "values": [8, 8, 7, 7, 8, 4, 1, 4, 7, 6, 6, 6, 8, 3, 8, 5]
         },
         {
-          "word1": "arrangement",
-          "word2": "accommodation",
+          "term1": "arrangement",
+          "term2": "accommodation",
           "value": 5.41,
           "values": [5, 6, 7, 6, 4, 4, 4, 6, 3, 7.5, 5, 5, 7, 6, 7, 4]
         },
         {
-          "word1": "month",
-          "word2": "hotel",
+          "term1": "month",
+          "term2": "hotel",
           "value": 1.81,
           "values": [4, 0, 1, 1, 3, 6, 0, 2, 1, 1, 2, 0, 3, 0, 3, 2]
         },
         {
-          "word1": "type",
-          "word2": "kind",
+          "term1": "type",
+          "term2": "kind",
           "value": 8.97,
           "values": [9, 9.5, 9.5, 10, 8, 9, 9, 10, 8.5, 9, 9, 9, 9, 9, 9, 7]
         },
         {
-          "word1": "arrival",
-          "word2": "hotel",
+          "term1": "arrival",
+          "term2": "hotel",
           "value": 6.0,
           "values": [7, 8, 6.5, 1, 6, 9, 7, 5, 6, 7.5, 4, 6, 7, 4, 6, 6]
         },
         {
-          "word1": "bed",
-          "word2": "closet",
+          "term1": "bed",
+          "term2": "closet",
           "value": 6.72,
           "values": [8, 7.5, 8, 5, 7, 8, 7, 8, 7, 6, 7, 5, 9, 1, 8, 6]
         },
         {
-          "word1": "closet",
-          "word2": "clothes",
+          "term1": "closet",
+          "term2": "clothes",
           "value": 8.0,
           "values": [8, 7, 9, 10, 8, 9, 8, 9, 9, 8, 7, 8, 9, 3, 9, 7]
         },
         {
-          "word1": "situation",
-          "word2": "conclusion",
+          "term1": "situation",
+          "term2": "conclusion",
           "value": 4.81,
           "values": [8, 4, 6, 4, 6, 3, 7, 6, 2, 6, 6, 7, 4, 0, 6, 2]
         },
         {
-          "word1": "situation",
-          "word2": "isolation",
+          "term1": "situation",
+          "term2": "isolation",
           "value": 3.88,
           "values": [8, 3, 1, 2, 6, 3, 0, 3, 2, 6, 6, 7, 3, 0, 8, 4]
         },
         {
-          "word1": "impartiality",
-          "word2": "interest",
+          "term1": "impartiality",
+          "term2": "interest",
           "value": 5.16,
           "values": [7, 9.5, 8, 2, 4, 3, 0, 7, 6, 3, 7, 6, 9, 0, 8, 3]
         },
         {
-          "word1": "direction",
-          "word2": "combination",
+          "term1": "direction",
+          "term2": "combination",
           "value": 2.25,
           "values": [2, 0, 1, 1, 7, 2, 0, 2, 2, 2, 4, 3, 0, 1, 6, 3]
         },
         {
-          "word1": "street",
-          "word2": "place",
+          "term1": "street",
+          "term2": "place",
           "value": 6.44,
           "values": [7, 7, 6, 7, 5, 7, 5, 7, 6, 4, 7, 8, 4, 7, 9, 7]
         },
         {
-          "word1": "street",
-          "word2": "avenue",
+          "term1": "street",
+          "term2": "avenue",
           "value": 8.88,
           "values": [9, 9, 8.5, 9, 9, 9, 7, 10, 8.5, 9, 7, 9, 10, 9, 10, 9]
         },
         {
-          "word1": "street",
-          "word2": "block",
+          "term1": "street",
+          "term2": "block",
           "value": 6.88,
           "values": [5, 7, 8.5, 7, 4, 8, 7, 9, 8.5, 9, 6, 9, 4, 0, 9, 9]
         },
         {
-          "word1": "street",
-          "word2": "children",
+          "term1": "street",
+          "term2": "children",
           "value": 4.94,
           "values": [6, 6, 6, 2, 5, 7, 2, 5, 4, 6, 3, 5, 6, 5, 5, 6]
         },
         {
-          "word1": "listing",
-          "word2": "proximity",
+          "term1": "listing",
+          "term2": "proximity",
           "value": 2.56,
           "values": [3, 0, 1, 1, 5, 4, 0, 3, 1, 2, 2, 4, 3, 1, 7, 4]
         },
         {
-          "word1": "listing",
-          "word2": "category",
+          "term1": "listing",
+          "term2": "category",
           "value": 6.38,
           "values": [2, 3, 7, 9, 7, 6, 7, 7, 4, 8, 7, 8, 10, 3, 8, 6]
         },
         {
-          "word1": "cell",
-          "word2": "phone",
+          "term1": "cell",
+          "term2": "phone",
           "value": 7.81,
           "values": [8, 6, 8, 9, 9, 8, 8, 8, 8, 8, 3, 9, 8, 9, 8, 8]
         },
         {
-          "word1": "production",
-          "word2": "hike",
+          "term1": "production",
+          "term2": "hike",
           "value": 1.75,
           "values": [2, 2, 1, 1, 6, 3, 0, 1, 1, 0, 2, 3, 0, 0, 4, 2]
         },
         {
-          "word1": "benchmark",
-          "word2": "index",
+          "term1": "benchmark",
+          "term2": "index",
           "value": 4.25,
           "values": [5, 5, 2, 2, 7, 4, 5, 7, 3, 1, 7, 2, 6, 4, 5, 3]
         },
         {
-          "word1": "media",
-          "word2": "trading",
+          "term1": "media",
+          "term2": "trading",
           "value": 3.88,
           "values": [6, 2, 5, 1, 7, 6, 3, 4, 2, 2, 6, 2, 5, 0, 8, 3]
         },
         {
-          "word1": "media",
-          "word2": "gain",
+          "term1": "media",
+          "term2": "gain",
           "value": 2.88,
           "values": [5, 0, 2, 1, 7, 4, 2, 2, 3, 2, 5, 1, 3, 0, 7, 2]
         },
         {
-          "word1": "dividend",
-          "word2": "payment",
+          "term1": "dividend",
+          "term2": "payment",
           "value": 7.63,
           "values": [6, 9, 7, 4, 9, 8, 8, 8, 7, 8, 7, 8, 8, 9, 9, 7]
         },
         {
-          "word1": "dividend",
-          "word2": "calculation",
+          "term1": "dividend",
+          "term2": "calculation",
           "value": 6.48,
           "values": [7, 8.75, 6.5, 1, 9, 7, 6, 7, 6.5, 8, 3, 6, 7, 8, 8, 5]
         },
         {
-          "word1": "calculation",
-          "word2": "computation",
+          "term1": "calculation",
+          "term2": "computation",
           "value": 8.44,
           "values": [9, 9.5, 9.5, 8, 8, 9, 5, 10, 9, 8, 8, 9, 7, 9, 9, 8]
         },
         {
-          "word1": "currency",
-          "word2": "market",
+          "term1": "currency",
+          "term2": "market",
           "value": 7.5,
           "values": [8, 5, 7.5, 5, 9, 8, 7, 8, 7, 7.5, 6, 8, 8, 9, 9, 8]
         },
         {
-          "word1": "OPEC",
-          "word2": "oil",
+          "term1": "OPEC",
+          "term2": "oil",
           "value": 8.59,
           "values": [8, 8, 9, 10, 10, 8, 8, 8, 8, 7.5, 7, 9, 10, 9, 9, 9]
         },
         {
-          "word1": "oil",
-          "word2": "stock",
+          "term1": "oil",
+          "term2": "stock",
           "value": 6.34,
           "values": [6, 5, 8, 6, 7, 6, 2, 6, 8, 7.5, 6, 6, 7, 8, 7, 6]
         },
         {
-          "word1": "announcement",
-          "word2": "production",
+          "term1": "announcement",
+          "term2": "production",
           "value": 3.38,
           "values": [5, 0, 3, 2, 6, 5, 1, 4, 2, 2, 3, 6, 3, 5, 6, 1]
         },
         {
-          "word1": "announcement",
-          "word2": "warning",
+          "term1": "announcement",
+          "term2": "warning",
           "value": 6.0,
           "values": [7, 7, 5, 7, 8, 4, 4, 8, 5, 7, 6, 8, 3, 8, 7, 2]
         },
         {
-          "word1": "profit",
-          "word2": "warning",
+          "term1": "profit",
+          "term2": "warning",
           "value": 3.88,
           "values": [7, 7, 1, 5, 4, 6, 4, 3, 5, 1, 3, 3, 0, 0, 7, 6]
         },
         {
-          "word1": "profit",
-          "word2": "loss",
+          "term1": "profit",
+          "term2": "loss",
           "value": 7.63,
           "values": [8, 9.5, 9.5, 10, 8, 8, 8, 9, 6, 4, 8, 8, 10, 0, 9, 7]
         },
         {
-          "word1": "dollar",
-          "word2": "yen",
+          "term1": "dollar",
+          "term2": "yen",
           "value": 7.78,
           "values": [8, 9, 9, 10, 7, 5, 8, 8, 7, 7.5, 8, 8, 10, 3, 9, 8]
         },
         {
-          "word1": "dollar",
-          "word2": "buck",
+          "term1": "dollar",
+          "term2": "buck",
           "value": 9.22,
           "values": [9, 10, 9.5, 10, 9, 8, 9, 10, 9, 8, 10, 10, 8, 9, 10, 9]
         },
         {
-          "word1": "dollar",
-          "word2": "profit",
+          "term1": "dollar",
+          "term2": "profit",
           "value": 7.38,
           "values": [8, 6, 9, 9, 9, 7, 7, 8, 8, 6, 7, 5, 6, 7, 8, 8]
         },
         {
-          "word1": "dollar",
-          "word2": "loss",
+          "term1": "dollar",
+          "term2": "loss",
           "value": 6.09,
           "values": [8, 6, 8.5, 2, 5, 7, 7, 8, 4, 6, 5, 5, 5, 7, 8, 6]
         },
         {
-          "word1": "computer",
-          "word2": "software",
+          "term1": "computer",
+          "term2": "software",
           "value": 8.5,
           "values": [9, 8, 9, 8, 9, 8, 8, 9, 8, 9, 8, 8, 10, 9, 9, 7]
         },
         {
-          "word1": "network",
-          "word2": "hardware",
+          "term1": "network",
+          "term2": "hardware",
           "value": 8.31,
           "values": [8, 8.5, 8.5, 9, 9, 7, 8, 7, 8, 9, 8, 9, 8, 9, 9, 8]
         },
         {
-          "word1": "phone",
-          "word2": "equipment",
+          "term1": "phone",
+          "term2": "equipment",
           "value": 7.13,
           "values": [8, 8.5, 7.5, 5, 9, 6, 7, 6, 6, 8, 5, 7, 7, 9, 8, 7]
         },
         {
-          "word1": "equipment",
-          "word2": "maker",
+          "term1": "equipment",
+          "term2": "maker",
           "value": 5.91,
           "values": [8, 7, 7, 6, 6, 5, 8, 5, 2, 7.5, 3, 4, 6, 5, 8, 7]
         },
         {
-          "word1": "luxury",
-          "word2": "car",
+          "term1": "luxury",
+          "term2": "car",
           "value": 6.47,
           "values": [7, 6, 8, 6, 7, 7, 5, 5, 3, 7.5, 6, 6, 7, 7, 8, 8]
         },
         {
-          "word1": "five",
-          "word2": "month",
+          "term1": "five",
+          "term2": "month",
           "value": 3.38,
           "values": [5, 6, 2, 1, 5, 4, 1, 5, 2, 4, 2, 1, 3, 6, 5, 2]
         },
         {
-          "word1": "report",
-          "word2": "gain",
+          "term1": "report",
+          "term2": "gain",
           "value": 3.63,
           "values": [6, 5, 4, 1, 4, 5, 4, 3, 2, 0, 2, 1, 7, 7, 6, 1]
         },
         {
-          "word1": "investor",
-          "word2": "earning",
+          "term1": "investor",
+          "term2": "earning",
           "value": 7.13,
           "values": [8, 7, 8, 8, 7, 7, 8, 7, 3, 8, 7, 6, 8, 7, 8, 7]
         },
         {
-          "word1": "liquid",
-          "word2": "water",
+          "term1": "liquid",
+          "term2": "water",
           "value": 7.89,
           "values": [8, 7.75, 8.5, 8, 7, 8, 4, 8, 7, 9, 8, 9, 8, 9, 9, 8]
         },
         {
-          "word1": "baseball",
-          "word2": "season",
+          "term1": "baseball",
+          "term2": "season",
           "value": 5.97,
           "values": [8, 3, 8.5, 7, 8, 8, 4, 6, 5, 8, 3, 6, 7, 2, 7, 5]
         },
         {
-          "word1": "game",
-          "word2": "victory",
+          "term1": "game",
+          "term2": "victory",
           "value": 7.03,
           "values": [8, 8, 7, 7, 5, 8, 6, 7, 6.5, 8, 7, 5, 9, 8, 7, 6]
         },
         {
-          "word1": "game",
-          "word2": "team",
+          "term1": "game",
+          "term2": "team",
           "value": 7.69,
           "values": [8, 8.5, 8.5, 8, 5, 8, 6, 9, 7, 9, 7, 7, 9, 8, 8, 7]
         },
         {
-          "word1": "marathon",
-          "word2": "sprint",
+          "term1": "marathon",
+          "term2": "sprint",
           "value": 7.47,
           "values": [7, 9, 7, 8, 6, 8, 7, 8, 6.5, 9, 8, 8, 5, 9, 8, 6]
         },
         {
-          "word1": "game",
-          "word2": "series",
+          "term1": "game",
+          "term2": "series",
           "value": 6.19,
           "values": [7, 8, 7.5, 6, 5, 8, 5, 6, 2, 7.5, 3, 8, 6, 5, 8, 7]
         },
         {
-          "word1": "game",
-          "word2": "defeat",
+          "term1": "game",
+          "term2": "defeat",
           "value": 6.97,
           "values": [8, 8, 7.5, 7, 6, 8, 6, 7, 6, 8, 7, 5, 9, 6, 7, 6]
         },
         {
-          "word1": "seven",
-          "word2": "series",
+          "term1": "seven",
+          "term2": "series",
           "value": 3.56,
           "values": [5, 6, 2, 2, 5, 4, 4, 5, 3, 4, 4, 1, 0, 1, 7, 4]
         },
         {
-          "word1": "seafood",
-          "word2": "sea",
+          "term1": "seafood",
+          "term2": "sea",
           "value": 7.47,
           "values": [9, 8, 7.5, 8, 9, 9, 7, 7, 7, 9, 6, 6, 5, 7, 8, 7]
         },
         {
-          "word1": "seafood",
-          "word2": "food",
+          "term1": "seafood",
+          "term2": "food",
           "value": 8.34,
           "values": [9, 9.5, 9, 9, 9, 8, 4, 9, 7, 9, 8, 9, 8, 9, 9, 8]
         },
         {
-          "word1": "seafood",
-          "word2": "lobster",
+          "term1": "seafood",
+          "term2": "lobster",
           "value": 8.7,
           "values": [9, 9.75, 8.5, 10, 9, 9, 6, 10, 7, 9, 9, 9, 8, 9, 9, 8]
         },
         {
-          "word1": "lobster",
-          "word2": "food",
+          "term1": "lobster",
+          "term2": "food",
           "value": 7.81,
           "values": [8, 8, 8, 10, 9, 7, 4, 9, 7, 9, 6, 9, 9, 7, 8, 7]
         },
         {
-          "word1": "lobster",
-          "word2": "wine",
+          "term1": "lobster",
+          "term2": "wine",
           "value": 5.7,
           "values": [7, 7.75, 7.5, 1, 6, 6, 3, 8, 5.5, 7.5, 4, 6, 7, 1, 7, 7]
         },
         {
-          "word1": "food",
-          "word2": "preparation",
+          "term1": "food",
+          "term2": "preparation",
           "value": 6.22,
           "values": [6, 5, 6.5, 5, 9, 6, 3, 7, 6, 8, 5, 6, 6, 7, 8, 6]
         },
         {
-          "word1": "video",
-          "word2": "archive",
+          "term1": "video",
+          "term2": "archive",
           "value": 6.34,
           "values": [7, 6, 7, 5, 9, 7, 4, 7, 4, 7.5, 5, 7, 5, 9, 8, 4]
         },
         {
-          "word1": "start",
-          "word2": "year",
+          "term1": "start",
+          "term2": "year",
           "value": 4.06,
           "values": [5, 5.5, 6.5, 2, 5, 3, 0, 6, 4, 6, 2, 2, 3, 9, 4, 2]
         },
         {
-          "word1": "start",
-          "word2": "match",
+          "term1": "start",
+          "term2": "match",
           "value": 4.47,
           "values": [5, 2, 6.5, 1, 9, 3, 3, 8, 1, 2, 3, 5, 5, 9, 6, 3]
         },
         {
-          "word1": "game",
-          "word2": "round",
+          "term1": "game",
+          "term2": "round",
           "value": 5.97,
           "values": [4, 8, 8, 4, 5, 5, 7, 9, 4, 7.5, 5, 6, 7, 5, 8, 3]
         },
         {
-          "word1": "boxing",
-          "word2": "round",
+          "term1": "boxing",
+          "term2": "round",
           "value": 7.61,
           "values": [6, 8.25, 7.5, 7, 8, 7, 8, 9, 4, 8, 7, 8, 10, 9, 9, 6]
         },
         {
-          "word1": "championship",
-          "word2": "tournament",
+          "term1": "championship",
+          "term2": "tournament",
           "value": 8.36,
           "values": [9, 8.75, 9, 9, 9, 8, 7, 10, 7, 8, 8, 8, 10, 9, 8, 6]
         },
         {
-          "word1": "fighting",
-          "word2": "defeating",
+          "term1": "fighting",
+          "term2": "defeating",
           "value": 7.41,
           "values": [8, 8, 8, 8, 5, 7, 6, 9, 7, 7.5, 8, 9, 8, 5, 9, 6]
         },
         {
-          "word1": "line",
-          "word2": "insurance",
+          "term1": "line",
+          "term2": "insurance",
           "value": 2.69,
           "values": [5, 2, 2, 1, 6, 3, 3, 4, 1, 2, 2, 2, 0, 0, 9, 1]
         },
         {
-          "word1": "day",
-          "word2": "summer",
+          "term1": "day",
+          "term2": "summer",
           "value": 3.94,
           "values": [7, 7, 2, 1, 4, 3, 1, 7, 3, 4, 4, 4, 6, 1, 5, 4]
         },
         {
-          "word1": "summer",
-          "word2": "drought",
+          "term1": "summer",
+          "term2": "drought",
           "value": 7.16,
           "values": [8, 8, 8, 9, 5, 7, 7, 8, 5, 7.5, 5, 4, 8, 9, 8, 8]
         },
         {
-          "word1": "summer",
-          "word2": "nature",
+          "term1": "summer",
+          "term2": "nature",
           "value": 5.63,
           "values": [5, 6, 4, 7, 9, 5, 6, 7, 4, 6, 6, 3, 3, 6, 7, 6]
         },
         {
-          "word1": "day",
-          "word2": "dawn",
+          "term1": "day",
+          "term2": "dawn",
           "value": 7.53,
           "values": [8, 8.5, 8, 8, 9, 8, 6, 8, 6, 6, 8, 7, 8, 7, 8, 7]
         },
         {
-          "word1": "nature",
-          "word2": "environment",
+          "term1": "nature",
+          "term2": "environment",
           "value": 8.31,
           "values": [9, 6.5, 8.5, 9, 9, 9, 7, 9, 8, 8, 8, 8, 10, 9, 8, 7]
         },
         {
-          "word1": "environment",
-          "word2": "ecology",
+          "term1": "environment",
+          "term2": "ecology",
           "value": 8.81,
           "values": [9, 8.5, 8.5, 9, 9, 9, 8, 10, 8, 9, 9, 9, 10, 7, 9, 9]
         },
         {
-          "word1": "nature",
-          "word2": "man",
+          "term1": "nature",
+          "term2": "man",
           "value": 6.25,
           "values": [5, 6, 8, 5, 9, 5, 5, 7, 3, 8, 5, 6, 8, 5, 8, 7]
         },
         {
-          "word1": "man",
-          "word2": "woman",
+          "term1": "man",
+          "term2": "woman",
           "value": 8.3,
           "values": [8, 9.75, 9, 10, 9, 9, 8, 9, 7.5, 7.5, 9, 9, 10, 1, 9, 8]
         },
         {
-          "word1": "man",
-          "word2": "governor",
+          "term1": "man",
+          "term2": "governor",
           "value": 5.25,
           "values": [7, 4.5, 5, 1, 6, 4, 3, 7, 2, 7.5, 3, 7, 7, 8, 7, 5]
         },
         {
-          "word1": "murder",
-          "word2": "manslaughter",
+          "term1": "murder",
+          "term2": "manslaughter",
           "value": 8.53,
           "values": [8, 9.9, 9.5, 10, 7, 9, 9, 10, 6, 4, 8, 9, 9, 9, 10, 9]
         },
         {
-          "word1": "soap",
-          "word2": "opera",
+          "term1": "soap",
+          "term2": "opera",
           "value": 7.94,
           "values": [8, 4, 8.5, 7, 9, 9, 8, 9, 8, 7.5, 7, 8, 9, 9, 7, 9]
         },
         {
-          "word1": "opera",
-          "word2": "performance",
+          "term1": "opera",
+          "term2": "performance",
           "value": 6.88,
           "values": [8, 2, 7.5, 5, 9, 5, 7, 7, 8, 7.5, 6, 9, 7, 9, 7, 6]
         },
         {
-          "word1": "life",
-          "word2": "lesson",
+          "term1": "life",
+          "term2": "lesson",
           "value": 5.94,
           "values": [7, 5, 7.5, 3, 9, 8, 4, 6, 5, 7.5, 4, 5, 2, 9, 7, 6]
         },
         {
-          "word1": "focus",
-          "word2": "life",
+          "term1": "focus",
+          "term2": "life",
           "value": 4.06,
           "values": [5, 0, 7.5, 1, 7, 6, 0, 3, 4, 7.5, 3, 2, 2, 7, 5, 5]
         },
         {
-          "word1": "production",
-          "word2": "crew",
+          "term1": "production",
+          "term2": "crew",
           "value": 6.25,
           "values": [8, 4, 8, 4, 8, 7, 5, 7, 3, 8, 4, 7, 9, 9, 6, 3]
         },
         {
-          "word1": "television",
-          "word2": "film",
+          "term1": "television",
+          "term2": "film",
           "value": 7.72,
           "values": [8, 5, 8.5, 8, 9, 8, 8, 9, 5, 8, 7, 8, 9, 9, 8, 6]
         },
         {
-          "word1": "lover",
-          "word2": "quarrel",
+          "term1": "lover",
+          "term2": "quarrel",
           "value": 6.19,
           "values": [7, 2, 8.5, 3, 7, 7, 6, 9, 5, 7.5, 4, 6, 8, 7, 7, 5]
         },
         {
-          "word1": "viewer",
-          "word2": "serial",
+          "term1": "viewer",
+          "term2": "serial",
           "value": 2.97,
           "values": [3, 0.5, 1, 1, 4, 3, 0, 6, 2, 2, 2, 7, 7, 3, 4, 2]
         },
         {
-          "word1": "possibility",
-          "word2": "girl",
+          "term1": "possibility",
+          "term2": "girl",
           "value": 1.94,
           "values": [3, 0, 0, 1, 4, 2, 0, 2, 2, 4, 3, 1, 0, 3, 5, 1]
         },
         {
-          "word1": "population",
-          "word2": "development",
+          "term1": "population",
+          "term2": "development",
           "value": 3.75,
           "values": [5, 1, 3, 2, 7, 5, 2, 7, 2, 6, 4, 1, 4, 1, 5, 5]
         },
         {
-          "word1": "morality",
-          "word2": "importance",
+          "term1": "morality",
+          "term2": "importance",
           "value": 3.31,
           "values": [7, 0, 1, 1, 6, 4, 0, 6, 1, 6, 3, 3, 3, 4, 4, 4]
         },
         {
-          "word1": "morality",
-          "word2": "marriage",
+          "term1": "morality",
+          "term2": "marriage",
           "value": 3.69,
           "values": [6, 5, 2, 1, 5, 4, 1, 3, 3, 6, 3, 5, 4, 1, 4, 6]
         },
         {
-          "word1": "Mexico",
-          "word2": "Brazil",
+          "term1": "Mexico",
+          "term2": "Brazil",
           "value": 7.44,
           "values": [8, 8.5, 8, 6, 7, 7, 8, 9, 7, 7.5, 7, 8, 10, 2, 8, 8]
         },
         {
-          "word1": "gender",
-          "word2": "equality",
+          "term1": "gender",
+          "term2": "equality",
           "value": 6.41,
           "values": [8, 6, 5, 4, 4, 8, 5, 8, 6, 7.5, 2, 8, 8, 7, 7, 9]
         },
         {
-          "word1": "change",
-          "word2": "attitude",
+          "term1": "change",
+          "term2": "attitude",
           "value": 5.44,
           "values": [8, 5, 6, 3, 4, 7, 4, 7, 7, 6, 4, 6, 5, 0, 7, 8]
         },
         {
-          "word1": "family",
-          "word2": "planning",
+          "term1": "family",
+          "term2": "planning",
           "value": 6.25,
           "values": [7, 5, 7, 3, 7, 8, 4, 6, 7, 8, 7, 6, 8, 1, 8, 8]
         },
         {
-          "word1": "opera",
-          "word2": "industry",
+          "term1": "opera",
+          "term2": "industry",
           "value": 2.63,
           "values": [7, 0, 1, 1, 7, 2, 3, 3, 2, 2, 1, 2, 3, 1, 4, 3]
         },
         {
-          "word1": "sugar",
-          "word2": "approach",
+          "term1": "sugar",
+          "term2": "approach",
           "value": 0.88,
           "values": [3, 0, 0, 1, 5, 1, 0, 1, 0, 0, 1, 0, 0, 0, 1, 1]
         },
         {
-          "word1": "practice",
-          "word2": "institution",
+          "term1": "practice",
+          "term2": "institution",
           "value": 3.19,
           "values": [4, 1, 1, 1, 6, 2, 2, 2, 4, 3, 6, 6, 5, 0, 5, 3]
         },
         {
-          "word1": "ministry",
-          "word2": "culture",
+          "term1": "ministry",
+          "term2": "culture",
           "value": 4.69,
           "values": [4, 1, 6, 4, 7, 6, 1, 4, 5, 6, 5, 7, 6, 7, 3, 3]
         },
         {
-          "word1": "problem",
-          "word2": "challenge",
+          "term1": "problem",
+          "term2": "challenge",
           "value": 6.75,
           "values": [7, 7.5, 7.5, 8, 7, 7, 1, 10, 5, 6, 6, 8, 8, 8, 7, 5]
         },
         {
-          "word1": "size",
-          "word2": "prominence",
+          "term1": "size",
+          "term2": "prominence",
           "value": 5.31,
           "values": [7, 8.5, 6, 7, 6, 4, 2, 8, 3.5, 2, 6, 5, 6, 1, 7, 6]
         },
         {
-          "word1": "country",
-          "word2": "citizen",
+          "term1": "country",
+          "term2": "citizen",
           "value": 7.31,
           "values": [8, 7, 7, 9, 8, 7, 7, 7, 5, 8, 7, 8, 9, 6, 8, 6]
         },
         {
-          "word1": "planet",
-          "word2": "people",
+          "term1": "planet",
+          "term2": "people",
           "value": 5.75,
           "values": [5, 0, 6, 7, 8, 5, 6, 5, 5, 9, 7, 6, 4, 7, 7, 5]
         },
         {
-          "word1": "development",
-          "word2": "issue",
+          "term1": "development",
+          "term2": "issue",
           "value": 3.97,
           "values": [5, 1, 6, 1, 5, 3, 1, 5, 3, 7.5, 3, 7, 3, 2, 5, 6]
         },
         {
-          "word1": "experience",
-          "word2": "music",
+          "term1": "experience",
+          "term2": "music",
           "value": 3.47,
           "values": [6, 1, 7, 1, 5, 3, 1, 1, 1, 7.5, 3, 8, 3, 1, 5, 2]
         },
         {
-          "word1": "music",
-          "word2": "project",
+          "term1": "music",
+          "term2": "project",
           "value": 3.63,
           "values": [5, 0, 6, 1, 5, 3, 4, 2, 3, 6, 5, 2, 7, 2, 4, 3]
         },
         {
-          "word1": "glass",
-          "word2": "metal",
+          "term1": "glass",
+          "term2": "metal",
           "value": 5.56,
           "values": [7, 7, 8, 4, 6, 5, 4, 7, 6, 4, 7, 7, 6, 0, 5, 6]
         },
         {
-          "word1": "aluminum",
-          "word2": "metal",
+          "term1": "aluminum",
+          "term2": "metal",
           "value": 7.83,
           "values": [9, 8.75, 9, 9, 7, 7, 6, 8, 6, 7.5, 8, 9, 8, 8, 8, 7]
         },
         {
-          "word1": "chance",
-          "word2": "credibility",
+          "term1": "chance",
+          "term2": "credibility",
           "value": 3.88,
           "values": [8, 3, 1, 3, 6, 3, 3, 4, 3, 6, 3, 8, 1, 1, 4, 5]
         },
         {
-          "word1": "exhibit",
-          "word2": "memorabilia",
+          "term1": "exhibit",
+          "term2": "memorabilia",
           "value": 5.31,
           "values": [7, 6, 9, 7, 7, 3, 2, 7, 3, 6, 7, 7, 5, 2, 1, 6]
         },
         {
-          "word1": "concert",
-          "word2": "virtuoso",
+          "term1": "concert",
+          "term2": "virtuoso",
           "value": 6.81,
           "values": [8, 6, 7.5, 9, 6, 7, 7, 8, 2, 7.5, 7, 7, 8, 3, 8, 8]
         },
         {
-          "word1": "rock",
-          "word2": "jazz",
+          "term1": "rock",
+          "term2": "jazz",
           "value": 7.59,
           "values": [8, 9, 9, 5, 8, 7, 8, 9, 7, 7.5, 8, 8, 9, 1, 9, 9]
         },
         {
-          "word1": "museum",
-          "word2": "theater",
+          "term1": "museum",
+          "term2": "theater",
           "value": 7.19,
           "values": [8, 7.5, 8.5, 6, 8, 8, 8, 9, 7, 6, 8, 8, 7, 1, 8, 7]
         },
         {
-          "word1": "observation",
-          "word2": "architecture",
+          "term1": "observation",
+          "term2": "architecture",
           "value": 4.38,
           "values": [7, 3, 3, 4, 6, 3, 6, 5, 3, 4, 7, 7, 3, 1, 2, 6]
         },
         {
-          "word1": "space",
-          "word2": "world",
+          "term1": "space",
+          "term2": "world",
           "value": 6.53,
           "values": [7, 6, 8.5, 3, 9, 6, 7, 9, 5, 6, 8, 8, 5, 3, 8, 6]
         },
         {
-          "word1": "preservation",
-          "word2": "world",
+          "term1": "preservation",
+          "term2": "world",
           "value": 6.19,
           "values": [7, 8, 7, 6, 7, 7, 2, 8, 4, 6, 6, 8, 8, 4, 6, 5]
         },
         {
-          "word1": "admission",
-          "word2": "ticket",
+          "term1": "admission",
+          "term2": "ticket",
           "value": 7.69,
           "values": [8, 8, 9, 9, 9, 8, 7, 9, 6, 6, 6, 9, 9, 5, 8, 7]
         },
         {
-          "word1": "shower",
-          "word2": "thunderstorm",
+          "term1": "shower",
+          "term2": "thunderstorm",
           "value": 6.31,
           "values": [8, 9, 8, 6, 7, 8, 2, 7, 6, 4, 5, 9, 8, 2, 8, 4]
         },
         {
-          "word1": "shower",
-          "word2": "flood",
+          "term1": "shower",
+          "term2": "flood",
           "value": 6.03,
           "values": [8, 7, 8.5, 6, 7, 8, 2, 7, 6, 6, 7, 8, 8, 0, 4, 4]
         },
         {
-          "word1": "weather",
-          "word2": "forecast",
+          "term1": "weather",
+          "term2": "forecast",
           "value": 8.34,
           "values": [8, 7.5, 9, 9, 9, 9, 7, 9, 7, 8, 8, 9, 10, 7, 9, 8]
         },
         {
-          "word1": "disaster",
-          "word2": "area",
+          "term1": "disaster",
+          "term2": "area",
           "value": 6.25,
           "values": [7, 8, 9, 3, 9, 8, 3, 5, 6, 6, 5, 8, 9, 1, 5, 8]
         },
         {
-          "word1": "governor",
-          "word2": "office",
+          "term1": "governor",
+          "term2": "office",
           "value": 6.34,
           "values": [8, 5, 7.5, 3, 7, 8, 1, 6, 5, 6, 6, 8, 7, 8, 8, 8]
         },
         {
-          "word1": "architecture",
-          "word2": "century",
+          "term1": "architecture",
+          "term2": "century",
           "value": 3.78,
           "values": [6, 0, 7.5, 1, 6, 8, 1, 3, 1, 6, 5, 7, 3, 2, 2, 2]
         }
@@ -2197,1768 +2197,1768 @@
       },
       "data": [
         {
-          "word1": "love",
-          "word2": "sex",
+          "term1": "love",
+          "term2": "sex",
           "value": 6.77
         },
         {
-          "word1": "tiger",
-          "word2": "cat",
+          "term1": "tiger",
+          "term2": "cat",
           "value": 7.35
         },
         {
-          "word1": "tiger",
-          "word2": "tiger",
+          "term1": "tiger",
+          "term2": "tiger",
           "value": 10.0
         },
         {
-          "word1": "book",
-          "word2": "paper",
+          "term1": "book",
+          "term2": "paper",
           "value": 7.46
         },
         {
-          "word1": "computer",
-          "word2": "keyboard",
+          "term1": "computer",
+          "term2": "keyboard",
           "value": 7.62
         },
         {
-          "word1": "computer",
-          "word2": "internet",
+          "term1": "computer",
+          "term2": "internet",
           "value": 7.58
         },
         {
-          "word1": "plane",
-          "word2": "car",
+          "term1": "plane",
+          "term2": "car",
           "value": 5.77
         },
         {
-          "word1": "train",
-          "word2": "car",
+          "term1": "train",
+          "term2": "car",
           "value": 6.31
         },
         {
-          "word1": "telephone",
-          "word2": "communication",
+          "term1": "telephone",
+          "term2": "communication",
           "value": 7.5
         },
         {
-          "word1": "television",
-          "word2": "radio",
+          "term1": "television",
+          "term2": "radio",
           "value": 6.77
         },
         {
-          "word1": "media",
-          "word2": "radio",
+          "term1": "media",
+          "term2": "radio",
           "value": 7.42
         },
         {
-          "word1": "drug",
-          "word2": "abuse",
+          "term1": "drug",
+          "term2": "abuse",
           "value": 6.85
         },
         {
-          "word1": "bread",
-          "word2": "butter",
+          "term1": "bread",
+          "term2": "butter",
           "value": 6.19
         },
         {
-          "word1": "cucumber",
-          "word2": "potato",
+          "term1": "cucumber",
+          "term2": "potato",
           "value": 5.92
         },
         {
-          "word1": "doctor",
-          "word2": "nurse",
+          "term1": "doctor",
+          "term2": "nurse",
           "value": 7.0
         },
         {
-          "word1": "professor",
-          "word2": "doctor",
+          "term1": "professor",
+          "term2": "doctor",
           "value": 6.62
         },
         {
-          "word1": "student",
-          "word2": "professor",
+          "term1": "student",
+          "term2": "professor",
           "value": 6.81
         },
         {
-          "word1": "smart",
-          "word2": "student",
+          "term1": "smart",
+          "term2": "student",
           "value": 4.62
         },
         {
-          "word1": "smart",
-          "word2": "stupid",
+          "term1": "smart",
+          "term2": "stupid",
           "value": 5.81
         },
         {
-          "word1": "company",
-          "word2": "stock",
+          "term1": "company",
+          "term2": "stock",
           "value": 7.08
         },
         {
-          "word1": "stock",
-          "word2": "market",
+          "term1": "stock",
+          "term2": "market",
           "value": 8.08
         },
         {
-          "word1": "stock",
-          "word2": "phone",
+          "term1": "stock",
+          "term2": "phone",
           "value": 1.62
         },
         {
-          "word1": "stock",
-          "word2": "CD",
+          "term1": "stock",
+          "term2": "CD",
           "value": 1.31
         },
         {
-          "word1": "stock",
-          "word2": "jaguar",
+          "term1": "stock",
+          "term2": "jaguar",
           "value": 0.92
         },
         {
-          "word1": "stock",
-          "word2": "egg",
+          "term1": "stock",
+          "term2": "egg",
           "value": 1.81
         },
         {
-          "word1": "fertility",
-          "word2": "egg",
+          "term1": "fertility",
+          "term2": "egg",
           "value": 6.69
         },
         {
-          "word1": "stock",
-          "word2": "live",
+          "term1": "stock",
+          "term2": "live",
           "value": 3.73
         },
         {
-          "word1": "stock",
-          "word2": "life",
+          "term1": "stock",
+          "term2": "life",
           "value": 0.92
         },
         {
-          "word1": "book",
-          "word2": "library",
+          "term1": "book",
+          "term2": "library",
           "value": 7.46
         },
         {
-          "word1": "bank",
-          "word2": "money",
+          "term1": "bank",
+          "term2": "money",
           "value": 8.12
         },
         {
-          "word1": "wood",
-          "word2": "forest",
+          "term1": "wood",
+          "term2": "forest",
           "value": 7.73
         },
         {
-          "word1": "money",
-          "word2": "cash",
+          "term1": "money",
+          "term2": "cash",
           "value": 9.15
         },
         {
-          "word1": "professor",
-          "word2": "cucumber",
+          "term1": "professor",
+          "term2": "cucumber",
           "value": 0.31
         },
         {
-          "word1": "king",
-          "word2": "cabbage",
+          "term1": "king",
+          "term2": "cabbage",
           "value": 0.23
         },
         {
-          "word1": "king",
-          "word2": "queen",
+          "term1": "king",
+          "term2": "queen",
           "value": 8.58
         },
         {
-          "word1": "king",
-          "word2": "rook",
+          "term1": "king",
+          "term2": "rook",
           "value": 5.92
         },
         {
-          "word1": "bishop",
-          "word2": "rabbi",
+          "term1": "bishop",
+          "term2": "rabbi",
           "value": 6.69
         },
         {
-          "word1": "Jerusalem",
-          "word2": "Israel",
+          "term1": "Jerusalem",
+          "term2": "Israel",
           "value": 8.46
         },
         {
-          "word1": "Jerusalem",
-          "word2": "Palestinian",
+          "term1": "Jerusalem",
+          "term2": "Palestinian",
           "value": 7.65
         },
         {
-          "word1": "holy",
-          "word2": "sex",
+          "term1": "holy",
+          "term2": "sex",
           "value": 1.62
         },
         {
-          "word1": "fuck",
-          "word2": "sex",
+          "term1": "fuck",
+          "term2": "sex",
           "value": 9.44
         },
         {
-          "word1": "Maradona",
-          "word2": "football",
+          "term1": "Maradona",
+          "term2": "football",
           "value": 8.62
         },
         {
-          "word1": "football",
-          "word2": "soccer",
+          "term1": "football",
+          "term2": "soccer",
           "value": 9.03
         },
         {
-          "word1": "football",
-          "word2": "basketball",
+          "term1": "football",
+          "term2": "basketball",
           "value": 6.81
         },
         {
-          "word1": "football",
-          "word2": "tennis",
+          "term1": "football",
+          "term2": "tennis",
           "value": 6.63
         },
         {
-          "word1": "tennis",
-          "word2": "racket",
+          "term1": "tennis",
+          "term2": "racket",
           "value": 7.56
         },
         {
-          "word1": "Arafat",
-          "word2": "peace",
+          "term1": "Arafat",
+          "term2": "peace",
           "value": 6.73
         },
         {
-          "word1": "Arafat",
-          "word2": "terror",
+          "term1": "Arafat",
+          "term2": "terror",
           "value": 7.65
         },
         {
-          "word1": "Arafat",
-          "word2": "Jackson",
+          "term1": "Arafat",
+          "term2": "Jackson",
           "value": 2.5
         },
         {
-          "word1": "law",
-          "word2": "lawyer",
+          "term1": "law",
+          "term2": "lawyer",
           "value": 8.38
         },
         {
-          "word1": "movie",
-          "word2": "star",
+          "term1": "movie",
+          "term2": "star",
           "value": 7.38
         },
         {
-          "word1": "movie",
-          "word2": "popcorn",
+          "term1": "movie",
+          "term2": "popcorn",
           "value": 6.19
         },
         {
-          "word1": "movie",
-          "word2": "critic",
+          "term1": "movie",
+          "term2": "critic",
           "value": 6.73
         },
         {
-          "word1": "movie",
-          "word2": "theater",
+          "term1": "movie",
+          "term2": "theater",
           "value": 7.92
         },
         {
-          "word1": "physics",
-          "word2": "proton",
+          "term1": "physics",
+          "term2": "proton",
           "value": 8.12
         },
         {
-          "word1": "physics",
-          "word2": "chemistry",
+          "term1": "physics",
+          "term2": "chemistry",
           "value": 7.35
         },
         {
-          "word1": "space",
-          "word2": "chemistry",
+          "term1": "space",
+          "term2": "chemistry",
           "value": 4.88
         },
         {
-          "word1": "alcohol",
-          "word2": "chemistry",
+          "term1": "alcohol",
+          "term2": "chemistry",
           "value": 5.54
         },
         {
-          "word1": "vodka",
-          "word2": "gin",
+          "term1": "vodka",
+          "term2": "gin",
           "value": 8.46
         },
         {
-          "word1": "vodka",
-          "word2": "brandy",
+          "term1": "vodka",
+          "term2": "brandy",
           "value": 8.13
         },
         {
-          "word1": "drink",
-          "word2": "car",
+          "term1": "drink",
+          "term2": "car",
           "value": 3.04
         },
         {
-          "word1": "drink",
-          "word2": "ear",
+          "term1": "drink",
+          "term2": "ear",
           "value": 1.31
         },
         {
-          "word1": "drink",
-          "word2": "mouth",
+          "term1": "drink",
+          "term2": "mouth",
           "value": 5.96
         },
         {
-          "word1": "drink",
-          "word2": "eat",
+          "term1": "drink",
+          "term2": "eat",
           "value": 6.87
         },
         {
-          "word1": "baby",
-          "word2": "mother",
+          "term1": "baby",
+          "term2": "mother",
           "value": 7.85
         },
         {
-          "word1": "drink",
-          "word2": "mother",
+          "term1": "drink",
+          "term2": "mother",
           "value": 2.65
         },
         {
-          "word1": "car",
-          "word2": "automobile",
+          "term1": "car",
+          "term2": "automobile",
           "value": 8.94
         },
         {
-          "word1": "gem",
-          "word2": "jewel",
+          "term1": "gem",
+          "term2": "jewel",
           "value": 8.96
         },
         {
-          "word1": "journey",
-          "word2": "voyage",
+          "term1": "journey",
+          "term2": "voyage",
           "value": 9.29
         },
         {
-          "word1": "boy",
-          "word2": "lad",
+          "term1": "boy",
+          "term2": "lad",
           "value": 8.83
         },
         {
-          "word1": "coast",
-          "word2": "shore",
+          "term1": "coast",
+          "term2": "shore",
           "value": 9.1
         },
         {
-          "word1": "asylum",
-          "word2": "madhouse",
+          "term1": "asylum",
+          "term2": "madhouse",
           "value": 8.87
         },
         {
-          "word1": "magician",
-          "word2": "wizard",
+          "term1": "magician",
+          "term2": "wizard",
           "value": 9.02
         },
         {
-          "word1": "midday",
-          "word2": "noon",
+          "term1": "midday",
+          "term2": "noon",
           "value": 9.29
         },
         {
-          "word1": "furnace",
-          "word2": "stove",
+          "term1": "furnace",
+          "term2": "stove",
           "value": 8.79
         },
         {
-          "word1": "food",
-          "word2": "fruit",
+          "term1": "food",
+          "term2": "fruit",
           "value": 7.52
         },
         {
-          "word1": "bird",
-          "word2": "cock",
+          "term1": "bird",
+          "term2": "cock",
           "value": 7.1
         },
         {
-          "word1": "bird",
-          "word2": "crane",
+          "term1": "bird",
+          "term2": "crane",
           "value": 7.38
         },
         {
-          "word1": "tool",
-          "word2": "implement",
+          "term1": "tool",
+          "term2": "implement",
           "value": 6.46
         },
         {
-          "word1": "brother",
-          "word2": "monk",
+          "term1": "brother",
+          "term2": "monk",
           "value": 6.27
         },
         {
-          "word1": "crane",
-          "word2": "implement",
+          "term1": "crane",
+          "term2": "implement",
           "value": 2.69
         },
         {
-          "word1": "lad",
-          "word2": "brother",
+          "term1": "lad",
+          "term2": "brother",
           "value": 4.46
         },
         {
-          "word1": "journey",
-          "word2": "car",
+          "term1": "journey",
+          "term2": "car",
           "value": 5.85
         },
         {
-          "word1": "monk",
-          "word2": "oracle",
+          "term1": "monk",
+          "term2": "oracle",
           "value": 5.0
         },
         {
-          "word1": "cemetery",
-          "word2": "woodland",
+          "term1": "cemetery",
+          "term2": "woodland",
           "value": 2.08
         },
         {
-          "word1": "food",
-          "word2": "rooster",
+          "term1": "food",
+          "term2": "rooster",
           "value": 4.42
         },
         {
-          "word1": "coast",
-          "word2": "hill",
+          "term1": "coast",
+          "term2": "hill",
           "value": 4.38
         },
         {
-          "word1": "forest",
-          "word2": "graveyard",
+          "term1": "forest",
+          "term2": "graveyard",
           "value": 1.85
         },
         {
-          "word1": "shore",
-          "word2": "woodland",
+          "term1": "shore",
+          "term2": "woodland",
           "value": 3.08
         },
         {
-          "word1": "monk",
-          "word2": "slave",
+          "term1": "monk",
+          "term2": "slave",
           "value": 0.92
         },
         {
-          "word1": "coast",
-          "word2": "forest",
+          "term1": "coast",
+          "term2": "forest",
           "value": 3.15
         },
         {
-          "word1": "lad",
-          "word2": "wizard",
+          "term1": "lad",
+          "term2": "wizard",
           "value": 0.92
         },
         {
-          "word1": "chord",
-          "word2": "smile",
+          "term1": "chord",
+          "term2": "smile",
           "value": 0.54
         },
         {
-          "word1": "glass",
-          "word2": "magician",
+          "term1": "glass",
+          "term2": "magician",
           "value": 2.08
         },
         {
-          "word1": "noon",
-          "word2": "string",
+          "term1": "noon",
+          "term2": "string",
           "value": 0.54
         },
         {
-          "word1": "rooster",
-          "word2": "voyage",
+          "term1": "rooster",
+          "term2": "voyage",
           "value": 0.62
         },
         {
-          "word1": "money",
-          "word2": "dollar",
+          "term1": "money",
+          "term2": "dollar",
           "value": 8.42
         },
         {
-          "word1": "money",
-          "word2": "cash",
+          "term1": "money",
+          "term2": "cash",
           "value": 9.08
         },
         {
-          "word1": "money",
-          "word2": "currency",
+          "term1": "money",
+          "term2": "currency",
           "value": 9.04
         },
         {
-          "word1": "money",
-          "word2": "wealth",
+          "term1": "money",
+          "term2": "wealth",
           "value": 8.27
         },
         {
-          "word1": "money",
-          "word2": "property",
+          "term1": "money",
+          "term2": "property",
           "value": 7.57
         },
         {
-          "word1": "money",
-          "word2": "possession",
+          "term1": "money",
+          "term2": "possession",
           "value": 7.29
         },
         {
-          "word1": "money",
-          "word2": "bank",
+          "term1": "money",
+          "term2": "bank",
           "value": 8.5
         },
         {
-          "word1": "money",
-          "word2": "deposit",
+          "term1": "money",
+          "term2": "deposit",
           "value": 7.73
         },
         {
-          "word1": "money",
-          "word2": "withdrawal",
+          "term1": "money",
+          "term2": "withdrawal",
           "value": 6.88
         },
         {
-          "word1": "money",
-          "word2": "laundering",
+          "term1": "money",
+          "term2": "laundering",
           "value": 5.65
         },
         {
-          "word1": "money",
-          "word2": "operation",
+          "term1": "money",
+          "term2": "operation",
           "value": 3.31
         },
         {
-          "word1": "tiger",
-          "word2": "jaguar",
+          "term1": "tiger",
+          "term2": "jaguar",
           "value": 8.0
         },
         {
-          "word1": "tiger",
-          "word2": "feline",
+          "term1": "tiger",
+          "term2": "feline",
           "value": 8.0
         },
         {
-          "word1": "tiger",
-          "word2": "carnivore",
+          "term1": "tiger",
+          "term2": "carnivore",
           "value": 7.08
         },
         {
-          "word1": "tiger",
-          "word2": "mammal",
+          "term1": "tiger",
+          "term2": "mammal",
           "value": 6.85
         },
         {
-          "word1": "tiger",
-          "word2": "animal",
+          "term1": "tiger",
+          "term2": "animal",
           "value": 7.0
         },
         {
-          "word1": "tiger",
-          "word2": "organism",
+          "term1": "tiger",
+          "term2": "organism",
           "value": 4.77
         },
         {
-          "word1": "tiger",
-          "word2": "fauna",
+          "term1": "tiger",
+          "term2": "fauna",
           "value": 5.62
         },
         {
-          "word1": "tiger",
-          "word2": "zoo",
+          "term1": "tiger",
+          "term2": "zoo",
           "value": 5.87
         },
         {
-          "word1": "psychology",
-          "word2": "psychiatry",
+          "term1": "psychology",
+          "term2": "psychiatry",
           "value": 8.08
         },
         {
-          "word1": "psychology",
-          "word2": "anxiety",
+          "term1": "psychology",
+          "term2": "anxiety",
           "value": 7.0
         },
         {
-          "word1": "psychology",
-          "word2": "fear",
+          "term1": "psychology",
+          "term2": "fear",
           "value": 6.85
         },
         {
-          "word1": "psychology",
-          "word2": "depression",
+          "term1": "psychology",
+          "term2": "depression",
           "value": 7.42
         },
         {
-          "word1": "psychology",
-          "word2": "clinic",
+          "term1": "psychology",
+          "term2": "clinic",
           "value": 6.58
         },
         {
-          "word1": "psychology",
-          "word2": "doctor",
+          "term1": "psychology",
+          "term2": "doctor",
           "value": 6.42
         },
         {
-          "word1": "psychology",
-          "word2": "Freud",
+          "term1": "psychology",
+          "term2": "Freud",
           "value": 8.21
         },
         {
-          "word1": "psychology",
-          "word2": "mind",
+          "term1": "psychology",
+          "term2": "mind",
           "value": 7.69
         },
         {
-          "word1": "psychology",
-          "word2": "health",
+          "term1": "psychology",
+          "term2": "health",
           "value": 7.23
         },
         {
-          "word1": "psychology",
-          "word2": "science",
+          "term1": "psychology",
+          "term2": "science",
           "value": 6.71
         },
         {
-          "word1": "psychology",
-          "word2": "discipline",
+          "term1": "psychology",
+          "term2": "discipline",
           "value": 5.58
         },
         {
-          "word1": "psychology",
-          "word2": "cognition",
+          "term1": "psychology",
+          "term2": "cognition",
           "value": 7.48
         },
         {
-          "word1": "planet",
-          "word2": "star",
+          "term1": "planet",
+          "term2": "star",
           "value": 8.45
         },
         {
-          "word1": "planet",
-          "word2": "constellation",
+          "term1": "planet",
+          "term2": "constellation",
           "value": 8.06
         },
         {
-          "word1": "planet",
-          "word2": "moon",
+          "term1": "planet",
+          "term2": "moon",
           "value": 8.08
         },
         {
-          "word1": "planet",
-          "word2": "sun",
+          "term1": "planet",
+          "term2": "sun",
           "value": 8.02
         },
         {
-          "word1": "planet",
-          "word2": "galaxy",
+          "term1": "planet",
+          "term2": "galaxy",
           "value": 8.11
         },
         {
-          "word1": "planet",
-          "word2": "space",
+          "term1": "planet",
+          "term2": "space",
           "value": 7.92
         },
         {
-          "word1": "planet",
-          "word2": "astronomer",
+          "term1": "planet",
+          "term2": "astronomer",
           "value": 7.94
         },
         {
-          "word1": "precedent",
-          "word2": "example",
+          "term1": "precedent",
+          "term2": "example",
           "value": 5.85
         },
         {
-          "word1": "precedent",
-          "word2": "information",
+          "term1": "precedent",
+          "term2": "information",
           "value": 3.85
         },
         {
-          "word1": "precedent",
-          "word2": "cognition",
+          "term1": "precedent",
+          "term2": "cognition",
           "value": 2.81
         },
         {
-          "word1": "precedent",
-          "word2": "law",
+          "term1": "precedent",
+          "term2": "law",
           "value": 6.65
         },
         {
-          "word1": "precedent",
-          "word2": "collection",
+          "term1": "precedent",
+          "term2": "collection",
           "value": 2.5
         },
         {
-          "word1": "precedent",
-          "word2": "group",
+          "term1": "precedent",
+          "term2": "group",
           "value": 1.77
         },
         {
-          "word1": "precedent",
-          "word2": "antecedent",
+          "term1": "precedent",
+          "term2": "antecedent",
           "value": 6.04
         },
         {
-          "word1": "cup",
-          "word2": "coffee",
+          "term1": "cup",
+          "term2": "coffee",
           "value": 6.58
         },
         {
-          "word1": "cup",
-          "word2": "tableware",
+          "term1": "cup",
+          "term2": "tableware",
           "value": 6.85
         },
         {
-          "word1": "cup",
-          "word2": "article",
+          "term1": "cup",
+          "term2": "article",
           "value": 2.4
         },
         {
-          "word1": "cup",
-          "word2": "artifact",
+          "term1": "cup",
+          "term2": "artifact",
           "value": 2.92
         },
         {
-          "word1": "cup",
-          "word2": "object",
+          "term1": "cup",
+          "term2": "object",
           "value": 3.69
         },
         {
-          "word1": "cup",
-          "word2": "entity",
+          "term1": "cup",
+          "term2": "entity",
           "value": 2.15
         },
         {
-          "word1": "cup",
-          "word2": "drink",
+          "term1": "cup",
+          "term2": "drink",
           "value": 7.25
         },
         {
-          "word1": "cup",
-          "word2": "food",
+          "term1": "cup",
+          "term2": "food",
           "value": 5.0
         },
         {
-          "word1": "cup",
-          "word2": "substance",
+          "term1": "cup",
+          "term2": "substance",
           "value": 1.92
         },
         {
-          "word1": "cup",
-          "word2": "liquid",
+          "term1": "cup",
+          "term2": "liquid",
           "value": 5.9
         },
         {
-          "word1": "jaguar",
-          "word2": "cat",
+          "term1": "jaguar",
+          "term2": "cat",
           "value": 7.42
         },
         {
-          "word1": "jaguar",
-          "word2": "car",
+          "term1": "jaguar",
+          "term2": "car",
           "value": 7.27
         },
         {
-          "word1": "energy",
-          "word2": "secretary",
+          "term1": "energy",
+          "term2": "secretary",
           "value": 1.81
         },
         {
-          "word1": "secretary",
-          "word2": "senate",
+          "term1": "secretary",
+          "term2": "senate",
           "value": 5.06
         },
         {
-          "word1": "energy",
-          "word2": "laboratory",
+          "term1": "energy",
+          "term2": "laboratory",
           "value": 5.09
         },
         {
-          "word1": "computer",
-          "word2": "laboratory",
+          "term1": "computer",
+          "term2": "laboratory",
           "value": 6.78
         },
         {
-          "word1": "weapon",
-          "word2": "secret",
+          "term1": "weapon",
+          "term2": "secret",
           "value": 6.06
         },
         {
-          "word1": "FBI",
-          "word2": "fingerprint",
+          "term1": "FBI",
+          "term2": "fingerprint",
           "value": 6.94
         },
         {
-          "word1": "FBI",
-          "word2": "investigation",
+          "term1": "FBI",
+          "term2": "investigation",
           "value": 8.31
         },
         {
-          "word1": "investigation",
-          "word2": "effort",
+          "term1": "investigation",
+          "term2": "effort",
           "value": 4.59
         },
         {
-          "word1": "Mars",
-          "word2": "water",
+          "term1": "Mars",
+          "term2": "water",
           "value": 2.94
         },
         {
-          "word1": "Mars",
-          "word2": "scientist",
+          "term1": "Mars",
+          "term2": "scientist",
           "value": 5.63
         },
         {
-          "word1": "news",
-          "word2": "report",
+          "term1": "news",
+          "term2": "report",
           "value": 8.16
         },
         {
-          "word1": "canyon",
-          "word2": "landscape",
+          "term1": "canyon",
+          "term2": "landscape",
           "value": 7.53
         },
         {
-          "word1": "image",
-          "word2": "surface",
+          "term1": "image",
+          "term2": "surface",
           "value": 4.56
         },
         {
-          "word1": "discovery",
-          "word2": "space",
+          "term1": "discovery",
+          "term2": "space",
           "value": 6.34
         },
         {
-          "word1": "water",
-          "word2": "seepage",
+          "term1": "water",
+          "term2": "seepage",
           "value": 6.56
         },
         {
-          "word1": "sign",
-          "word2": "recess",
+          "term1": "sign",
+          "term2": "recess",
           "value": 2.38
         },
         {
-          "word1": "Wednesday",
-          "word2": "news",
+          "term1": "Wednesday",
+          "term2": "news",
           "value": 2.22
         },
         {
-          "word1": "mile",
-          "word2": "kilometer",
+          "term1": "mile",
+          "term2": "kilometer",
           "value": 8.66
         },
         {
-          "word1": "computer",
-          "word2": "news",
+          "term1": "computer",
+          "term2": "news",
           "value": 4.47
         },
         {
-          "word1": "territory",
-          "word2": "surface",
+          "term1": "territory",
+          "term2": "surface",
           "value": 5.34
         },
         {
-          "word1": "atmosphere",
-          "word2": "landscape",
+          "term1": "atmosphere",
+          "term2": "landscape",
           "value": 3.69
         },
         {
-          "word1": "president",
-          "word2": "medal",
+          "term1": "president",
+          "term2": "medal",
           "value": 3.0
         },
         {
-          "word1": "war",
-          "word2": "troops",
+          "term1": "war",
+          "term2": "troops",
           "value": 8.13
         },
         {
-          "word1": "record",
-          "word2": "number",
+          "term1": "record",
+          "term2": "number",
           "value": 6.31
         },
         {
-          "word1": "skin",
-          "word2": "eye",
+          "term1": "skin",
+          "term2": "eye",
           "value": 6.22
         },
         {
-          "word1": "Japanese",
-          "word2": "American",
+          "term1": "Japanese",
+          "term2": "American",
           "value": 6.5
         },
         {
-          "word1": "theater",
-          "word2": "history",
+          "term1": "theater",
+          "term2": "history",
           "value": 3.91
         },
         {
-          "word1": "volunteer",
-          "word2": "motto",
+          "term1": "volunteer",
+          "term2": "motto",
           "value": 2.56
         },
         {
-          "word1": "prejudice",
-          "word2": "recognition",
+          "term1": "prejudice",
+          "term2": "recognition",
           "value": 3.0
         },
         {
-          "word1": "decoration",
-          "word2": "valor",
+          "term1": "decoration",
+          "term2": "valor",
           "value": 5.63
         },
         {
-          "word1": "century",
-          "word2": "year",
+          "term1": "century",
+          "term2": "year",
           "value": 7.59
         },
         {
-          "word1": "century",
-          "word2": "nation",
+          "term1": "century",
+          "term2": "nation",
           "value": 3.16
         },
         {
-          "word1": "delay",
-          "word2": "racism",
+          "term1": "delay",
+          "term2": "racism",
           "value": 1.19
         },
         {
-          "word1": "delay",
-          "word2": "news",
+          "term1": "delay",
+          "term2": "news",
           "value": 3.31
         },
         {
-          "word1": "minister",
-          "word2": "party",
+          "term1": "minister",
+          "term2": "party",
           "value": 6.63
         },
         {
-          "word1": "peace",
-          "word2": "plan",
+          "term1": "peace",
+          "term2": "plan",
           "value": 4.75
         },
         {
-          "word1": "minority",
-          "word2": "peace",
+          "term1": "minority",
+          "term2": "peace",
           "value": 3.69
         },
         {
-          "word1": "attempt",
-          "word2": "peace",
+          "term1": "attempt",
+          "term2": "peace",
           "value": 4.25
         },
         {
-          "word1": "government",
-          "word2": "crisis",
+          "term1": "government",
+          "term2": "crisis",
           "value": 6.56
         },
         {
-          "word1": "deployment",
-          "word2": "departure",
+          "term1": "deployment",
+          "term2": "departure",
           "value": 4.25
         },
         {
-          "word1": "deployment",
-          "word2": "withdrawal",
+          "term1": "deployment",
+          "term2": "withdrawal",
           "value": 5.88
         },
         {
-          "word1": "energy",
-          "word2": "crisis",
+          "term1": "energy",
+          "term2": "crisis",
           "value": 5.94
         },
         {
-          "word1": "announcement",
-          "word2": "news",
+          "term1": "announcement",
+          "term2": "news",
           "value": 7.56
         },
         {
-          "word1": "announcement",
-          "word2": "effort",
+          "term1": "announcement",
+          "term2": "effort",
           "value": 2.75
         },
         {
-          "word1": "stroke",
-          "word2": "hospital",
+          "term1": "stroke",
+          "term2": "hospital",
           "value": 7.03
         },
         {
-          "word1": "disability",
-          "word2": "death",
+          "term1": "disability",
+          "term2": "death",
           "value": 5.47
         },
         {
-          "word1": "victim",
-          "word2": "emergency",
+          "term1": "victim",
+          "term2": "emergency",
           "value": 6.47
         },
         {
-          "word1": "treatment",
-          "word2": "recovery",
+          "term1": "treatment",
+          "term2": "recovery",
           "value": 7.91
         },
         {
-          "word1": "journal",
-          "word2": "association",
+          "term1": "journal",
+          "term2": "association",
           "value": 4.97
         },
         {
-          "word1": "doctor",
-          "word2": "personnel",
+          "term1": "doctor",
+          "term2": "personnel",
           "value": 5.0
         },
         {
-          "word1": "doctor",
-          "word2": "liability",
+          "term1": "doctor",
+          "term2": "liability",
           "value": 5.19
         },
         {
-          "word1": "liability",
-          "word2": "insurance",
+          "term1": "liability",
+          "term2": "insurance",
           "value": 7.03
         },
         {
-          "word1": "school",
-          "word2": "center",
+          "term1": "school",
+          "term2": "center",
           "value": 3.44
         },
         {
-          "word1": "reason",
-          "word2": "hypertension",
+          "term1": "reason",
+          "term2": "hypertension",
           "value": 2.31
         },
         {
-          "word1": "reason",
-          "word2": "criterion",
+          "term1": "reason",
+          "term2": "criterion",
           "value": 5.91
         },
         {
-          "word1": "hundred",
-          "word2": "percent",
+          "term1": "hundred",
+          "term2": "percent",
           "value": 7.38
         },
         {
-          "word1": "Harvard",
-          "word2": "Yale",
+          "term1": "Harvard",
+          "term2": "Yale",
           "value": 8.13
         },
         {
-          "word1": "hospital",
-          "word2": "infrastructure",
+          "term1": "hospital",
+          "term2": "infrastructure",
           "value": 4.63
         },
         {
-          "word1": "death",
-          "word2": "row",
+          "term1": "death",
+          "term2": "row",
           "value": 5.25
         },
         {
-          "word1": "death",
-          "word2": "inmate",
+          "term1": "death",
+          "term2": "inmate",
           "value": 5.03
         },
         {
-          "word1": "lawyer",
-          "word2": "evidence",
+          "term1": "lawyer",
+          "term2": "evidence",
           "value": 6.69
         },
         {
-          "word1": "life",
-          "word2": "death",
+          "term1": "life",
+          "term2": "death",
           "value": 7.88
         },
         {
-          "word1": "life",
-          "word2": "term",
+          "term1": "life",
+          "term2": "term",
           "value": 4.5
         },
         {
-          "word1": "word",
-          "word2": "similarity",
+          "term1": "word",
+          "term2": "similarity",
           "value": 4.75
         },
         {
-          "word1": "board",
-          "word2": "recommendation",
+          "term1": "board",
+          "term2": "recommendation",
           "value": 4.47
         },
         {
-          "word1": "governor",
-          "word2": "interview",
+          "term1": "governor",
+          "term2": "interview",
           "value": 3.25
         },
         {
-          "word1": "OPEC",
-          "word2": "country",
+          "term1": "OPEC",
+          "term2": "country",
           "value": 5.63
         },
         {
-          "word1": "peace",
-          "word2": "atmosphere",
+          "term1": "peace",
+          "term2": "atmosphere",
           "value": 3.69
         },
         {
-          "word1": "peace",
-          "word2": "insurance",
+          "term1": "peace",
+          "term2": "insurance",
           "value": 2.94
         },
         {
-          "word1": "territory",
-          "word2": "kilometer",
+          "term1": "territory",
+          "term2": "kilometer",
           "value": 5.28
         },
         {
-          "word1": "travel",
-          "word2": "activity",
+          "term1": "travel",
+          "term2": "activity",
           "value": 5.0
         },
         {
-          "word1": "competition",
-          "word2": "price",
+          "term1": "competition",
+          "term2": "price",
           "value": 6.44
         },
         {
-          "word1": "consumer",
-          "word2": "confidence",
+          "term1": "consumer",
+          "term2": "confidence",
           "value": 4.13
         },
         {
-          "word1": "consumer",
-          "word2": "energy",
+          "term1": "consumer",
+          "term2": "energy",
           "value": 4.75
         },
         {
-          "word1": "problem",
-          "word2": "airport",
+          "term1": "problem",
+          "term2": "airport",
           "value": 2.38
         },
         {
-          "word1": "car",
-          "word2": "flight",
+          "term1": "car",
+          "term2": "flight",
           "value": 4.94
         },
         {
-          "word1": "credit",
-          "word2": "card",
+          "term1": "credit",
+          "term2": "card",
           "value": 8.06
         },
         {
-          "word1": "credit",
-          "word2": "information",
+          "term1": "credit",
+          "term2": "information",
           "value": 5.31
         },
         {
-          "word1": "hotel",
-          "word2": "reservation",
+          "term1": "hotel",
+          "term2": "reservation",
           "value": 8.03
         },
         {
-          "word1": "grocery",
-          "word2": "money",
+          "term1": "grocery",
+          "term2": "money",
           "value": 5.94
         },
         {
-          "word1": "registration",
-          "word2": "arrangement",
+          "term1": "registration",
+          "term2": "arrangement",
           "value": 6.0
         },
         {
-          "word1": "arrangement",
-          "word2": "accommodation",
+          "term1": "arrangement",
+          "term2": "accommodation",
           "value": 5.41
         },
         {
-          "word1": "month",
-          "word2": "hotel",
+          "term1": "month",
+          "term2": "hotel",
           "value": 1.81
         },
         {
-          "word1": "type",
-          "word2": "kind",
+          "term1": "type",
+          "term2": "kind",
           "value": 8.97
         },
         {
-          "word1": "arrival",
-          "word2": "hotel",
+          "term1": "arrival",
+          "term2": "hotel",
           "value": 6.0
         },
         {
-          "word1": "bed",
-          "word2": "closet",
+          "term1": "bed",
+          "term2": "closet",
           "value": 6.72
         },
         {
-          "word1": "closet",
-          "word2": "clothes",
+          "term1": "closet",
+          "term2": "clothes",
           "value": 8.0
         },
         {
-          "word1": "situation",
-          "word2": "conclusion",
+          "term1": "situation",
+          "term2": "conclusion",
           "value": 4.81
         },
         {
-          "word1": "situation",
-          "word2": "isolation",
+          "term1": "situation",
+          "term2": "isolation",
           "value": 3.88
         },
         {
-          "word1": "impartiality",
-          "word2": "interest",
+          "term1": "impartiality",
+          "term2": "interest",
           "value": 5.16
         },
         {
-          "word1": "direction",
-          "word2": "combination",
+          "term1": "direction",
+          "term2": "combination",
           "value": 2.25
         },
         {
-          "word1": "street",
-          "word2": "place",
+          "term1": "street",
+          "term2": "place",
           "value": 6.44
         },
         {
-          "word1": "street",
-          "word2": "avenue",
+          "term1": "street",
+          "term2": "avenue",
           "value": 8.88
         },
         {
-          "word1": "street",
-          "word2": "block",
+          "term1": "street",
+          "term2": "block",
           "value": 6.88
         },
         {
-          "word1": "street",
-          "word2": "children",
+          "term1": "street",
+          "term2": "children",
           "value": 4.94
         },
         {
-          "word1": "listing",
-          "word2": "proximity",
+          "term1": "listing",
+          "term2": "proximity",
           "value": 2.56
         },
         {
-          "word1": "listing",
-          "word2": "category",
+          "term1": "listing",
+          "term2": "category",
           "value": 6.38
         },
         {
-          "word1": "cell",
-          "word2": "phone",
+          "term1": "cell",
+          "term2": "phone",
           "value": 7.81
         },
         {
-          "word1": "production",
-          "word2": "hike",
+          "term1": "production",
+          "term2": "hike",
           "value": 1.75
         },
         {
-          "word1": "benchmark",
-          "word2": "index",
+          "term1": "benchmark",
+          "term2": "index",
           "value": 4.25
         },
         {
-          "word1": "media",
-          "word2": "trading",
+          "term1": "media",
+          "term2": "trading",
           "value": 3.88
         },
         {
-          "word1": "media",
-          "word2": "gain",
+          "term1": "media",
+          "term2": "gain",
           "value": 2.88
         },
         {
-          "word1": "dividend",
-          "word2": "payment",
+          "term1": "dividend",
+          "term2": "payment",
           "value": 7.63
         },
         {
-          "word1": "dividend",
-          "word2": "calculation",
+          "term1": "dividend",
+          "term2": "calculation",
           "value": 6.48
         },
         {
-          "word1": "calculation",
-          "word2": "computation",
+          "term1": "calculation",
+          "term2": "computation",
           "value": 8.44
         },
         {
-          "word1": "currency",
-          "word2": "market",
+          "term1": "currency",
+          "term2": "market",
           "value": 7.5
         },
         {
-          "word1": "OPEC",
-          "word2": "oil",
+          "term1": "OPEC",
+          "term2": "oil",
           "value": 8.59
         },
         {
-          "word1": "oil",
-          "word2": "stock",
+          "term1": "oil",
+          "term2": "stock",
           "value": 6.34
         },
         {
-          "word1": "announcement",
-          "word2": "production",
+          "term1": "announcement",
+          "term2": "production",
           "value": 3.38
         },
         {
-          "word1": "announcement",
-          "word2": "warning",
+          "term1": "announcement",
+          "term2": "warning",
           "value": 6.0
         },
         {
-          "word1": "profit",
-          "word2": "warning",
+          "term1": "profit",
+          "term2": "warning",
           "value": 3.88
         },
         {
-          "word1": "profit",
-          "word2": "loss",
+          "term1": "profit",
+          "term2": "loss",
           "value": 7.63
         },
         {
-          "word1": "dollar",
-          "word2": "yen",
+          "term1": "dollar",
+          "term2": "yen",
           "value": 7.78
         },
         {
-          "word1": "dollar",
-          "word2": "buck",
+          "term1": "dollar",
+          "term2": "buck",
           "value": 9.22
         },
         {
-          "word1": "dollar",
-          "word2": "profit",
+          "term1": "dollar",
+          "term2": "profit",
           "value": 7.38
         },
         {
-          "word1": "dollar",
-          "word2": "loss",
+          "term1": "dollar",
+          "term2": "loss",
           "value": 6.09
         },
         {
-          "word1": "computer",
-          "word2": "software",
+          "term1": "computer",
+          "term2": "software",
           "value": 8.5
         },
         {
-          "word1": "network",
-          "word2": "hardware",
+          "term1": "network",
+          "term2": "hardware",
           "value": 8.31
         },
         {
-          "word1": "phone",
-          "word2": "equipment",
+          "term1": "phone",
+          "term2": "equipment",
           "value": 7.13
         },
         {
-          "word1": "equipment",
-          "word2": "maker",
+          "term1": "equipment",
+          "term2": "maker",
           "value": 5.91
         },
         {
-          "word1": "luxury",
-          "word2": "car",
+          "term1": "luxury",
+          "term2": "car",
           "value": 6.47
         },
         {
-          "word1": "five",
-          "word2": "month",
+          "term1": "five",
+          "term2": "month",
           "value": 3.38
         },
         {
-          "word1": "report",
-          "word2": "gain",
+          "term1": "report",
+          "term2": "gain",
           "value": 3.63
         },
         {
-          "word1": "investor",
-          "word2": "earning",
+          "term1": "investor",
+          "term2": "earning",
           "value": 7.13
         },
         {
-          "word1": "liquid",
-          "word2": "water",
+          "term1": "liquid",
+          "term2": "water",
           "value": 7.89
         },
         {
-          "word1": "baseball",
-          "word2": "season",
+          "term1": "baseball",
+          "term2": "season",
           "value": 5.97
         },
         {
-          "word1": "game",
-          "word2": "victory",
+          "term1": "game",
+          "term2": "victory",
           "value": 7.03
         },
         {
-          "word1": "game",
-          "word2": "team",
+          "term1": "game",
+          "term2": "team",
           "value": 7.69
         },
         {
-          "word1": "marathon",
-          "word2": "sprint",
+          "term1": "marathon",
+          "term2": "sprint",
           "value": 7.47
         },
         {
-          "word1": "game",
-          "word2": "series",
+          "term1": "game",
+          "term2": "series",
           "value": 6.19
         },
         {
-          "word1": "game",
-          "word2": "defeat",
+          "term1": "game",
+          "term2": "defeat",
           "value": 6.97
         },
         {
-          "word1": "seven",
-          "word2": "series",
+          "term1": "seven",
+          "term2": "series",
           "value": 3.56
         },
         {
-          "word1": "seafood",
-          "word2": "sea",
+          "term1": "seafood",
+          "term2": "sea",
           "value": 7.47
         },
         {
-          "word1": "seafood",
-          "word2": "food",
+          "term1": "seafood",
+          "term2": "food",
           "value": 8.34
         },
         {
-          "word1": "seafood",
-          "word2": "lobster",
+          "term1": "seafood",
+          "term2": "lobster",
           "value": 8.7
         },
         {
-          "word1": "lobster",
-          "word2": "food",
+          "term1": "lobster",
+          "term2": "food",
           "value": 7.81
         },
         {
-          "word1": "lobster",
-          "word2": "wine",
+          "term1": "lobster",
+          "term2": "wine",
           "value": 5.7
         },
         {
-          "word1": "food",
-          "word2": "preparation",
+          "term1": "food",
+          "term2": "preparation",
           "value": 6.22
         },
         {
-          "word1": "video",
-          "word2": "archive",
+          "term1": "video",
+          "term2": "archive",
           "value": 6.34
         },
         {
-          "word1": "start",
-          "word2": "year",
+          "term1": "start",
+          "term2": "year",
           "value": 4.06
         },
         {
-          "word1": "start",
-          "word2": "match",
+          "term1": "start",
+          "term2": "match",
           "value": 4.47
         },
         {
-          "word1": "game",
-          "word2": "round",
+          "term1": "game",
+          "term2": "round",
           "value": 5.97
         },
         {
-          "word1": "boxing",
-          "word2": "round",
+          "term1": "boxing",
+          "term2": "round",
           "value": 7.61
         },
         {
-          "word1": "championship",
-          "word2": "tournament",
+          "term1": "championship",
+          "term2": "tournament",
           "value": 8.36
         },
         {
-          "word1": "fighting",
-          "word2": "defeating",
+          "term1": "fighting",
+          "term2": "defeating",
           "value": 7.41
         },
         {
-          "word1": "line",
-          "word2": "insurance",
+          "term1": "line",
+          "term2": "insurance",
           "value": 2.69
         },
         {
-          "word1": "day",
-          "word2": "summer",
+          "term1": "day",
+          "term2": "summer",
           "value": 3.94
         },
         {
-          "word1": "summer",
-          "word2": "drought",
+          "term1": "summer",
+          "term2": "drought",
           "value": 7.16
         },
         {
-          "word1": "summer",
-          "word2": "nature",
+          "term1": "summer",
+          "term2": "nature",
           "value": 5.63
         },
         {
-          "word1": "day",
-          "word2": "dawn",
+          "term1": "day",
+          "term2": "dawn",
           "value": 7.53
         },
         {
-          "word1": "nature",
-          "word2": "environment",
+          "term1": "nature",
+          "term2": "environment",
           "value": 8.31
         },
         {
-          "word1": "environment",
-          "word2": "ecology",
+          "term1": "environment",
+          "term2": "ecology",
           "value": 8.81
         },
         {
-          "word1": "nature",
-          "word2": "man",
+          "term1": "nature",
+          "term2": "man",
           "value": 6.25
         },
         {
-          "word1": "man",
-          "word2": "woman",
+          "term1": "man",
+          "term2": "woman",
           "value": 8.3
         },
         {
-          "word1": "man",
-          "word2": "governor",
+          "term1": "man",
+          "term2": "governor",
           "value": 5.25
         },
         {
-          "word1": "murder",
-          "word2": "manslaughter",
+          "term1": "murder",
+          "term2": "manslaughter",
           "value": 8.53
         },
         {
-          "word1": "soap",
-          "word2": "opera",
+          "term1": "soap",
+          "term2": "opera",
           "value": 7.94
         },
         {
-          "word1": "opera",
-          "word2": "performance",
+          "term1": "opera",
+          "term2": "performance",
           "value": 6.88
         },
         {
-          "word1": "life",
-          "word2": "lesson",
+          "term1": "life",
+          "term2": "lesson",
           "value": 5.94
         },
         {
-          "word1": "focus",
-          "word2": "life",
+          "term1": "focus",
+          "term2": "life",
           "value": 4.06
         },
         {
-          "word1": "production",
-          "word2": "crew",
+          "term1": "production",
+          "term2": "crew",
           "value": 6.25
         },
         {
-          "word1": "television",
-          "word2": "film",
+          "term1": "television",
+          "term2": "film",
           "value": 7.72
         },
         {
-          "word1": "lover",
-          "word2": "quarrel",
+          "term1": "lover",
+          "term2": "quarrel",
           "value": 6.19
         },
         {
-          "word1": "viewer",
-          "word2": "serial",
+          "term1": "viewer",
+          "term2": "serial",
           "value": 2.97
         },
         {
-          "word1": "possibility",
-          "word2": "girl",
+          "term1": "possibility",
+          "term2": "girl",
           "value": 1.94
         },
         {
-          "word1": "population",
-          "word2": "development",
+          "term1": "population",
+          "term2": "development",
           "value": 3.75
         },
         {
-          "word1": "morality",
-          "word2": "importance",
+          "term1": "morality",
+          "term2": "importance",
           "value": 3.31
         },
         {
-          "word1": "morality",
-          "word2": "marriage",
+          "term1": "morality",
+          "term2": "marriage",
           "value": 3.69
         },
         {
-          "word1": "Mexico",
-          "word2": "Brazil",
+          "term1": "Mexico",
+          "term2": "Brazil",
           "value": 7.44
         },
         {
-          "word1": "gender",
-          "word2": "equality",
+          "term1": "gender",
+          "term2": "equality",
           "value": 6.41
         },
         {
-          "word1": "change",
-          "word2": "attitude",
+          "term1": "change",
+          "term2": "attitude",
           "value": 5.44
         },
         {
-          "word1": "family",
-          "word2": "planning",
+          "term1": "family",
+          "term2": "planning",
           "value": 6.25
         },
         {
-          "word1": "opera",
-          "word2": "industry",
+          "term1": "opera",
+          "term2": "industry",
           "value": 2.63
         },
         {
-          "word1": "sugar",
-          "word2": "approach",
+          "term1": "sugar",
+          "term2": "approach",
           "value": 0.88
         },
         {
-          "word1": "practice",
-          "word2": "institution",
+          "term1": "practice",
+          "term2": "institution",
           "value": 3.19
         },
         {
-          "word1": "ministry",
-          "word2": "culture",
+          "term1": "ministry",
+          "term2": "culture",
           "value": 4.69
         },
         {
-          "word1": "problem",
-          "word2": "challenge",
+          "term1": "problem",
+          "term2": "challenge",
           "value": 6.75
         },
         {
-          "word1": "size",
-          "word2": "prominence",
+          "term1": "size",
+          "term2": "prominence",
           "value": 5.31
         },
         {
-          "word1": "country",
-          "word2": "citizen",
+          "term1": "country",
+          "term2": "citizen",
           "value": 7.31
         },
         {
-          "word1": "planet",
-          "word2": "people",
+          "term1": "planet",
+          "term2": "people",
           "value": 5.75
         },
         {
-          "word1": "development",
-          "word2": "issue",
+          "term1": "development",
+          "term2": "issue",
           "value": 3.97
         },
         {
-          "word1": "experience",
-          "word2": "music",
+          "term1": "experience",
+          "term2": "music",
           "value": 3.47
         },
         {
-          "word1": "music",
-          "word2": "project",
+          "term1": "music",
+          "term2": "project",
           "value": 3.63
         },
         {
-          "word1": "glass",
-          "word2": "metal",
+          "term1": "glass",
+          "term2": "metal",
           "value": 5.56
         },
         {
-          "word1": "aluminum",
-          "word2": "metal",
+          "term1": "aluminum",
+          "term2": "metal",
           "value": 7.83
         },
         {
-          "word1": "chance",
-          "word2": "credibility",
+          "term1": "chance",
+          "term2": "credibility",
           "value": 3.88
         },
         {
-          "word1": "exhibit",
-          "word2": "memorabilia",
+          "term1": "exhibit",
+          "term2": "memorabilia",
           "value": 5.31
         },
         {
-          "word1": "concert",
-          "word2": "virtuoso",
+          "term1": "concert",
+          "term2": "virtuoso",
           "value": 6.81
         },
         {
-          "word1": "rock",
-          "word2": "jazz",
+          "term1": "rock",
+          "term2": "jazz",
           "value": 7.59
         },
         {
-          "word1": "museum",
-          "word2": "theater",
+          "term1": "museum",
+          "term2": "theater",
           "value": 7.19
         },
         {
-          "word1": "observation",
-          "word2": "architecture",
+          "term1": "observation",
+          "term2": "architecture",
           "value": 4.38
         },
         {
-          "word1": "space",
-          "word2": "world",
+          "term1": "space",
+          "term2": "world",
           "value": 6.53
         },
         {
-          "word1": "preservation",
-          "word2": "world",
+          "term1": "preservation",
+          "term2": "world",
           "value": 6.19
         },
         {
-          "word1": "admission",
-          "word2": "ticket",
+          "term1": "admission",
+          "term2": "ticket",
           "value": 7.69
         },
         {
-          "word1": "shower",
-          "word2": "thunderstorm",
+          "term1": "shower",
+          "term2": "thunderstorm",
           "value": 6.31
         },
         {
-          "word1": "shower",
-          "word2": "flood",
+          "term1": "shower",
+          "term2": "flood",
           "value": 6.03
         },
         {
-          "word1": "weather",
-          "word2": "forecast",
+          "term1": "weather",
+          "term2": "forecast",
           "value": 8.34
         },
         {
-          "word1": "disaster",
-          "word2": "area",
+          "term1": "disaster",
+          "term2": "area",
           "value": 6.25
         },
         {
-          "word1": "governor",
-          "word2": "office",
+          "term1": "governor",
+          "term2": "office",
           "value": 6.34
         },
         {
-          "word1": "architecture",
-          "word2": "century",
+          "term1": "architecture",
+          "term2": "century",
           "value": 3.78
         }
       ]

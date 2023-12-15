@@ -2,7 +2,9 @@
   "id": "atlasify240",
   "metadata": {
     "name": "Atlasify240",
-    "urls": ["https://users.cs.northwestern.edu/~ddowney/data_code.html"],
+    "urls": [
+      "https://users.cs.northwestern.edu/~ddowney/data_code.html"
+    ],
     "papers": [
       {
         "title": "Explanatory Semantic Relatedness and Explicit Spatialization for Exploratory Search",
@@ -14,8 +16,12 @@
     "downloadUrls": [
       "https://users.cs.northwestern.edu/~ddowney/data/atlasify240.csv"
     ],
-    "measureTypes": ["relatedness"],
-    "tags": ["entities"]
+    "measureTypes": [
+      "relatedness"
+    ],
+    "tags": [
+      "entities"
+    ]
   },
   "partitions": [
     {
@@ -37,1203 +43,1203 @@
       },
       "data": [
         {
-          "word1": "Isaac Newton",
-          "word2": "War",
+          "term1": "Isaac Newton",
+          "term2": "War",
           "value": 0.6
         },
         {
-          "word1": "Radio",
-          "word2": "Technology",
+          "term1": "Radio",
+          "term2": "Technology",
           "value": 3.7
         },
         {
-          "word1": "Australia",
-          "word2": "Hinduism",
+          "term1": "Australia",
+          "term2": "Hinduism",
           "value": 0.9
         },
         {
-          "word1": "Television",
-          "word2": "Truth",
+          "term1": "Television",
+          "term2": "Truth",
           "value": 2.5
         },
         {
-          "word1": "Courage",
-          "word2": "Dove",
+          "term1": "Courage",
+          "term2": "Dove",
           "value": 1.4
         },
         {
-          "word1": "YouTube",
-          "word2": "Art",
+          "term1": "YouTube",
+          "term2": "Art",
           "value": 2.5
         },
         {
-          "word1": "Antarctica",
-          "word2": "Communism",
+          "term1": "Antarctica",
+          "term2": "Communism",
           "value": 0.2
         },
         {
-          "word1": "Radio",
-          "word2": "News",
+          "term1": "Radio",
+          "term2": "News",
           "value": 3.7
         },
         {
-          "word1": "Loyalty",
-          "word2": "Lion",
+          "term1": "Loyalty",
+          "term2": "Lion",
           "value": 1.9
         },
         {
-          "word1": "England",
-          "word2": "Chocolate",
+          "term1": "England",
+          "term2": "Chocolate",
           "value": 1.9
         },
         {
-          "word1": "Yellow",
-          "word2": "Bill Clinton",
+          "term1": "Yellow",
+          "term2": "Bill Clinton",
           "value": 0.3
         },
         {
-          "word1": "Happiness",
-          "word2": "Sahara Desert",
+          "term1": "Happiness",
+          "term2": "Sahara Desert",
           "value": 0.2
         },
         {
-          "word1": "Genghis Khan",
-          "word2": "Google",
+          "term1": "Genghis Khan",
+          "term2": "Google",
           "value": 0.6
         },
         {
-          "word1": "South America",
-          "word2": "Hinduism",
+          "term1": "South America",
+          "term2": "Hinduism",
           "value": 1.0
         },
         {
-          "word1": "Cat",
-          "word2": "Mouse",
+          "term1": "Cat",
+          "term2": "Mouse",
           "value": 4.0
         },
         {
-          "word1": "Flickr",
-          "word2": "Community",
+          "term1": "Flickr",
+          "term2": "Community",
           "value": 3.2
         },
         {
-          "word1": "Envy",
-          "word2": "Yellow",
+          "term1": "Envy",
+          "term2": "Yellow",
           "value": 1.1
         },
         {
-          "word1": "Beer",
-          "word2": "Led Zeppelin",
+          "term1": "Beer",
+          "term2": "Led Zeppelin",
           "value": 1.4
         },
         {
-          "word1": "Europe",
-          "word2": "Hinduism",
+          "term1": "Europe",
+          "term2": "Hinduism",
           "value": 1.6
         },
         {
-          "word1": "Morning",
-          "word2": "Sunrise",
+          "term1": "Morning",
+          "term2": "Sunrise",
           "value": 4.0
         },
         {
-          "word1": "Autumn",
-          "word2": "Winter",
+          "term1": "Autumn",
+          "term2": "Winter",
           "value": 4.0
         },
         {
-          "word1": "Lion",
-          "word2": "Mouse",
+          "term1": "Lion",
+          "term2": "Mouse",
           "value": 3.1
         },
         {
-          "word1": "Australia",
-          "word2": "Bread",
+          "term1": "Australia",
+          "term2": "Bread",
           "value": 1.4
         },
         {
-          "word1": "Summer",
-          "word2": "Julius Caesar",
+          "term1": "Summer",
+          "term2": "Julius Caesar",
           "value": 1.0
         },
         {
-          "word1": "Somatosensory system",
-          "word2": "Australia",
+          "term1": "Somatosensory system",
+          "term2": "Australia",
           "value": 0.3
         },
         {
-          "word1": "Alan Turing",
-          "word2": "Biology",
+          "term1": "Alan Turing",
+          "term2": "Biology",
           "value": 2.0
         },
         {
-          "word1": "Fear",
-          "word2": "Yellow",
+          "term1": "Fear",
+          "term2": "Yellow",
           "value": 2.4
         },
         {
-          "word1": "England",
-          "word2": "Wine",
+          "term1": "England",
+          "term2": "Wine",
           "value": 2.1
         },
         {
-          "word1": "Switzerland",
-          "word2": "deviantArt",
+          "term1": "Switzerland",
+          "term2": "deviantArt",
           "value": 0.6
         },
         {
-          "word1": "Radio",
-          "word2": "Deception",
+          "term1": "Radio",
+          "term2": "Deception",
           "value": 1.6
         },
         {
-          "word1": "Leonhard Euler",
-          "word2": "Computer Science",
+          "term1": "Leonhard Euler",
+          "term2": "Computer Science",
           "value": 2.5
         },
         {
-          "word1": "Italy",
-          "word2": "Beer",
+          "term1": "Italy",
+          "term2": "Beer",
           "value": 2.0
         },
         {
-          "word1": "France",
-          "word2": "Bread",
+          "term1": "France",
+          "term2": "Bread",
           "value": 3.8
         },
         {
-          "word1": "Ireland",
-          "word2": "Hinduism",
+          "term1": "Ireland",
+          "term2": "Hinduism",
           "value": 0.5
         },
         {
-          "word1": "Antarctica",
-          "word2": "Buddhism",
+          "term1": "Antarctica",
+          "term2": "Buddhism",
           "value": 0.3
         },
         {
-          "word1": "4Chan",
-          "word2": "Art",
+          "term1": "4Chan",
+          "term2": "Art",
           "value": 1.3
         },
         {
-          "word1": "Architect",
-          "word2": "4Chan",
+          "term1": "Architect",
+          "term2": "4Chan",
           "value": 0.2
         },
         {
-          "word1": "Cat",
-          "word2": "Loyalty",
+          "term1": "Cat",
+          "term2": "Loyalty",
           "value": 1.3
         },
         {
-          "word1": "deviantArt",
-          "word2": "Charles Darwin",
+          "term1": "deviantArt",
+          "term2": "Charles Darwin",
           "value": 0.1
         },
         {
-          "word1": "Queen (band)",
-          "word2": "Country music",
+          "term1": "Queen (band)",
+          "term2": "Country music",
           "value": 1.5
         },
         {
-          "word1": "Isaac Newton",
-          "word2": "Physics",
+          "term1": "Isaac Newton",
+          "term2": "Physics",
           "value": 4.0
         },
         {
-          "word1": "Soap",
-          "word2": "deviantArt",
+          "term1": "Soap",
+          "term2": "deviantArt",
           "value": 0.3
         },
         {
-          "word1": "Newspaper",
-          "word2": "Fear",
+          "term1": "Newspaper",
+          "term2": "Fear",
           "value": 2.0
         },
         {
-          "word1": "Morning",
-          "word2": "Humpback Whale",
+          "term1": "Morning",
+          "term2": "Humpback Whale",
           "value": 0.5
         },
         {
-          "word1": "Microsoft",
-          "word2": "Apple Inc.",
+          "term1": "Microsoft",
+          "term2": "Apple Inc.",
           "value": 3.9
         },
         {
-          "word1": "Religion",
-          "word2": "Democracy",
+          "term1": "Religion",
+          "term2": "Democracy",
           "value": 2.5
         },
         {
-          "word1": "Astronaut",
-          "word2": "Flamingo",
+          "term1": "Astronaut",
+          "term2": "Flamingo",
           "value": 0.2
         },
         {
-          "word1": "Dove",
-          "word2": "Skype",
+          "term1": "Dove",
+          "term2": "Skype",
           "value": 0.1
         },
         {
-          "word1": "Beer",
-          "word2": "Computer Science",
+          "term1": "Beer",
+          "term2": "Computer Science",
           "value": 1.0
         },
         {
-          "word1": "Marie Curie",
-          "word2": "Mathematics",
+          "term1": "Marie Curie",
+          "term2": "Mathematics",
           "value": 2.1
         },
         {
-          "word1": "Love",
-          "word2": "Dog",
+          "term1": "Love",
+          "term2": "Dog",
           "value": 2.8
         },
         {
-          "word1": "Bald Eagle",
-          "word2": "Autumn",
+          "term1": "Bald Eagle",
+          "term2": "Autumn",
           "value": 1.1
         },
         {
-          "word1": "Loyalty",
-          "word2": "Eagle",
+          "term1": "Loyalty",
+          "term2": "Eagle",
           "value": 2.0
         },
         {
-          "word1": "Buddhism",
-          "word2": "Winter",
+          "term1": "Buddhism",
+          "term2": "Winter",
           "value": 0.9
         },
         {
-          "word1": "Switzerland",
-          "word2": "News",
+          "term1": "Switzerland",
+          "term2": "News",
           "value": 1.4
         },
         {
-          "word1": "France",
-          "word2": "Cheese",
+          "term1": "France",
+          "term2": "Cheese",
           "value": 3.6
         },
         {
-          "word1": "South America",
-          "word2": "Islam",
+          "term1": "South America",
+          "term2": "Islam",
           "value": 1.1
         },
         {
-          "word1": "Australia",
-          "word2": "Love",
+          "term1": "Australia",
+          "term2": "Love",
           "value": 1.3
         },
         {
-          "word1": "Genghis Khan",
-          "word2": "Red",
+          "term1": "Genghis Khan",
+          "term2": "Red",
           "value": 1.4
         },
         {
-          "word1": "North America",
-          "word2": "Buddhism",
+          "term1": "North America",
+          "term2": "Buddhism",
           "value": 1.4
         },
         {
-          "word1": "Switzerland",
-          "word2": "Lobster",
+          "term1": "Switzerland",
+          "term2": "Lobster",
           "value": 0.6
         },
         {
-          "word1": "Giant Panda",
-          "word2": "Banker",
+          "term1": "Giant Panda",
+          "term2": "Banker",
           "value": 0.2
         },
         {
-          "word1": "Barack Obama",
-          "word2": "Blue",
+          "term1": "Barack Obama",
+          "term2": "Blue",
           "value": 2.7
         },
         {
-          "word1": "Galileo Galilei",
-          "word2": "Biology",
+          "term1": "Galileo Galilei",
+          "term2": "Biology",
           "value": 1.7
         },
         {
-          "word1": "Anger",
-          "word2": "Yellow",
+          "term1": "Anger",
+          "term2": "Yellow",
           "value": 0.7
         },
         {
-          "word1": "George W. Bush",
-          "word2": "War",
+          "term1": "George W. Bush",
+          "term2": "War",
           "value": 4.0
         },
         {
-          "word1": "Queen (band)",
-          "word2": "Pop music",
+          "term1": "Queen (band)",
+          "term2": "Pop music",
           "value": 3.5
         },
         {
-          "word1": "Skype",
-          "word2": "Art",
+          "term1": "Skype",
+          "term2": "Art",
           "value": 0.7
         },
         {
-          "word1": "Facebook",
-          "word2": "Cheese",
+          "term1": "Facebook",
+          "term2": "Cheese",
           "value": 0.0
         },
         {
-          "word1": "World of Warcraft",
-          "word2": "Community",
+          "term1": "World of Warcraft",
+          "term2": "Community",
           "value": 3.6
         },
         {
-          "word1": "Isaac Newton",
-          "word2": "Computer Science",
+          "term1": "Isaac Newton",
+          "term2": "Computer Science",
           "value": 1.9
         },
         {
-          "word1": "England",
-          "word2": "Beer",
+          "term1": "England",
+          "term2": "Beer",
           "value": 3.0
         },
         {
-          "word1": "Antarctica",
-          "word2": "Christianity",
+          "term1": "Antarctica",
+          "term2": "Christianity",
           "value": 0.6
         },
         {
-          "word1": "Hinduism",
-          "word2": "Spring (season)",
+          "term1": "Hinduism",
+          "term2": "Spring (season)",
           "value": 1.0
         },
         {
-          "word1": "Fear",
-          "word2": "Blue",
+          "term1": "Fear",
+          "term2": "Blue",
           "value": 0.7
         },
         {
-          "word1": "Alligator",
-          "word2": "Crocodile",
+          "term1": "Alligator",
+          "term2": "Crocodile",
           "value": 4.0
         },
         {
-          "word1": "Galileo Galilei",
-          "word2": "Banker",
+          "term1": "Galileo Galilei",
+          "term2": "Banker",
           "value": 0.5
         },
         {
-          "word1": "Love",
-          "word2": "Blue",
+          "term1": "Love",
+          "term2": "Blue",
           "value": 1.6
         },
         {
-          "word1": "Australia",
-          "word2": "Chocolate",
+          "term1": "Australia",
+          "term2": "Chocolate",
           "value": 1.1
         },
         {
-          "word1": "Carnivore",
-          "word2": "Mammal",
+          "term1": "Carnivore",
+          "term2": "Mammal",
           "value": 3.3
         },
         {
-          "word1": "Summer",
-          "word2": "Autumn",
+          "term1": "Summer",
+          "term2": "Autumn",
           "value": 4.0
         },
         {
-          "word1": "France",
-          "word2": "Wine",
+          "term1": "France",
+          "term2": "Wine",
           "value": 3.9
         },
         {
-          "word1": "Rock music",
-          "word2": "Isaac Newton",
+          "term1": "Rock music",
+          "term2": "Isaac Newton",
           "value": 0.0
         },
         {
-          "word1": "deviantArt",
-          "word2": "Privacy",
+          "term1": "deviantArt",
+          "term2": "Privacy",
           "value": 1.5
         },
         {
-          "word1": "Marie Curie",
-          "word2": "Physics",
+          "term1": "Marie Curie",
+          "term2": "Physics",
           "value": 3.2
         },
         {
-          "word1": "Loyalty",
-          "word2": "Dove",
+          "term1": "Loyalty",
+          "term2": "Dove",
           "value": 1.3
         },
         {
-          "word1": "Anger",
-          "word2": "Blue",
+          "term1": "Anger",
+          "term2": "Blue",
           "value": 0.9
         },
         {
-          "word1": "Cheese",
-          "word2": "France",
+          "term1": "Cheese",
+          "term2": "France",
           "value": 3.7
         },
         {
-          "word1": "ABBA",
-          "word2": "Country music",
+          "term1": "ABBA",
+          "term2": "Country music",
           "value": 1.4
         },
         {
-          "word1": "Albert Einstein",
-          "word2": "Chemistry",
+          "term1": "Albert Einstein",
+          "term2": "Chemistry",
           "value": 3.1
         },
         {
-          "word1": "AOL Instant Messenger",
-          "word2": "Community",
+          "term1": "AOL Instant Messenger",
+          "term2": "Community",
           "value": 3.2
         },
         {
-          "word1": "Happiness",
-          "word2": "Red",
+          "term1": "Happiness",
+          "term2": "Red",
           "value": 1.5
         },
         {
-          "word1": "Cat",
-          "word2": "Dog",
+          "term1": "Cat",
+          "term2": "Dog",
           "value": 4.0
         },
         {
-          "word1": "Bridge",
-          "word2": "River",
+          "term1": "Bridge",
+          "term2": "River",
           "value": 3.9
         },
         {
-          "word1": "Peace",
-          "word2": "Dog",
+          "term1": "Peace",
+          "term2": "Dog",
           "value": 0.9
         },
         {
-          "word1": "Skype",
-          "word2": "Privacy",
+          "term1": "Skype",
+          "term2": "Privacy",
           "value": 2.7
         },
         {
-          "word1": "Alaska",
-          "word2": "Rainforest",
+          "term1": "Alaska",
+          "term2": "Rainforest",
           "value": 0.9
         },
         {
-          "word1": "Loyalty",
-          "word2": "Dog",
+          "term1": "Loyalty",
+          "term2": "Dog",
           "value": 4.0
         },
         {
-          "word1": "Russia",
-          "word2": "Buddhism",
+          "term1": "Russia",
+          "term2": "Buddhism",
           "value": 1.0
         },
         {
-          "word1": "Winter",
-          "word2": "Summer",
+          "term1": "Winter",
+          "term2": "Summer",
           "value": 3.9
         },
         {
-          "word1": "Isaac Newton",
-          "word2": "Mathematics",
+          "term1": "Isaac Newton",
+          "term2": "Mathematics",
           "value": 3.8
         },
         {
-          "word1": "Ronald Reagan",
-          "word2": "Islam",
+          "term1": "Ronald Reagan",
+          "term2": "Islam",
           "value": 1.5
         },
         {
-          "word1": "Canada",
-          "word2": "Morning",
+          "term1": "Canada",
+          "term2": "Morning",
           "value": 0.4
         },
         {
-          "word1": "Alan Turing",
-          "word2": "Atilla the Hun",
+          "term1": "Alan Turing",
+          "term2": "Atilla the Hun",
           "value": 0.2
         },
         {
-          "word1": "World of Warcraft",
-          "word2": "Privacy",
+          "term1": "World of Warcraft",
+          "term2": "Privacy",
           "value": 1.9
         },
         {
-          "word1": "Charles Darwin",
-          "word2": "Physics",
+          "term1": "Charles Darwin",
+          "term2": "Physics",
           "value": 1.8
         },
         {
-          "word1": "Sponge",
-          "word2": "Michael Jackson",
+          "term1": "Sponge",
+          "term2": "Michael Jackson",
           "value": 0.2
         },
         {
-          "word1": "Italy",
-          "word2": "Bread",
+          "term1": "Italy",
+          "term2": "Bread",
           "value": 3.1
         },
         {
-          "word1": "Love",
-          "word2": "Dove",
+          "term1": "Love",
+          "term2": "Dove",
           "value": 2.9
         },
         {
-          "word1": "Love",
-          "word2": "Lion",
+          "term1": "Love",
+          "term2": "Lion",
           "value": 0.8
         },
         {
-          "word1": "YouTube",
-          "word2": "Community",
+          "term1": "YouTube",
+          "term2": "Community",
           "value": 3.2
         },
         {
-          "word1": "Twitter",
-          "word2": "Art",
+          "term1": "Twitter",
+          "term2": "Art",
           "value": 1.0
         },
         {
-          "word1": "Flamingo",
-          "word2": "Astronaut",
+          "term1": "Flamingo",
+          "term2": "Astronaut",
           "value": 0.3
         },
         {
-          "word1": "Wheat",
-          "word2": "Grain",
+          "term1": "Wheat",
+          "term2": "Grain",
           "value": 4.0
         },
         {
-          "word1": "Love",
-          "word2": "Hawk",
+          "term1": "Love",
+          "term2": "Hawk",
           "value": 0.8
         },
         {
-          "word1": "deviantArt",
-          "word2": "Community",
+          "term1": "deviantArt",
+          "term2": "Community",
           "value": 3.3
         },
         {
-          "word1": "Israel",
-          "word2": "War",
+          "term1": "Israel",
+          "term2": "War",
           "value": 3.9
         },
         {
-          "word1": "Barack Obama",
-          "word2": "Red",
+          "term1": "Barack Obama",
+          "term2": "Red",
           "value": 1.1
         },
         {
-          "word1": "War",
-          "word2": "Hawk",
+          "term1": "War",
+          "term2": "Hawk",
           "value": 3.3
         },
         {
-          "word1": "Bear",
-          "word2": "Panda",
+          "term1": "Bear",
+          "term2": "Panda",
           "value": 4.0
         },
         {
-          "word1": "Hawk",
-          "word2": "Computer Science",
+          "term1": "Hawk",
+          "term2": "Computer Science",
           "value": 0.2
         },
         {
-          "word1": "Marie Curie",
-          "word2": "Biology",
+          "term1": "Marie Curie",
+          "term2": "Biology",
           "value": 1.7
         },
         {
-          "word1": "Fear",
-          "word2": "Bald Eagle",
+          "term1": "Fear",
+          "term2": "Bald Eagle",
           "value": 0.9
         },
         {
-          "word1": "Twitter",
-          "word2": "Summer",
+          "term1": "Twitter",
+          "term2": "Summer",
           "value": 0.4
         },
         {
-          "word1": "Moss",
-          "word2": "Communism",
+          "term1": "Moss",
+          "term2": "Communism",
           "value": 0.0
         },
         {
-          "word1": "Lion",
-          "word2": "Hands",
+          "term1": "Lion",
+          "term2": "Hands",
           "value": 0.4
         },
         {
-          "word1": "Newspaper",
-          "word2": "Technology",
+          "term1": "Newspaper",
+          "term2": "Technology",
           "value": 2.9
         },
         {
-          "word1": "Radio",
-          "word2": "Bald Eagle",
+          "term1": "Radio",
+          "term2": "Bald Eagle",
           "value": 0.2
         },
         {
-          "word1": "Google",
-          "word2": "Facebook",
+          "term1": "Google",
+          "term2": "Facebook",
           "value": 3.8
         },
         {
-          "word1": "4Chan",
-          "word2": "ABBA",
+          "term1": "4Chan",
+          "term2": "ABBA",
           "value": 0.3
         },
         {
-          "word1": "Morality",
-          "word2": "Abortion",
+          "term1": "Morality",
+          "term2": "Abortion",
           "value": 3.4
         },
         {
-          "word1": "Architect",
-          "word2": "Architecture",
+          "term1": "Architect",
+          "term2": "Architecture",
           "value": 4.0
         },
         {
-          "word1": "Apple Inc.",
-          "word2": "Google",
+          "term1": "Apple Inc.",
+          "term2": "Google",
           "value": 3.7
         },
         {
-          "word1": "Chemistry",
-          "word2": "Mathematics",
+          "term1": "Chemistry",
+          "term2": "Mathematics",
           "value": 3.4
         },
         {
-          "word1": "Television",
-          "word2": "Deception",
+          "term1": "Television",
+          "term2": "Deception",
           "value": 2.4
         },
         {
-          "word1": "United States",
-          "word2": "Spoon",
+          "term1": "United States",
+          "term2": "Spoon",
           "value": 0.3
         },
         {
-          "word1": "Evil",
-          "word2": "Science",
+          "term1": "Evil",
+          "term2": "Science",
           "value": 1.9
         },
         {
-          "word1": "Winter",
-          "word2": "Spring (season)",
+          "term1": "Winter",
+          "term2": "Spring (season)",
           "value": 4.0
         },
         {
-          "word1": "Happiness",
-          "word2": "Blue",
+          "term1": "Happiness",
+          "term2": "Blue",
           "value": 2.1
         },
         {
-          "word1": "Barack Obama",
-          "word2": "Christianity",
+          "term1": "Barack Obama",
+          "term2": "Christianity",
           "value": 2.6
         },
         {
-          "word1": "Privacy",
-          "word2": "Chocolate",
+          "term1": "Privacy",
+          "term2": "Chocolate",
           "value": 0.4
         },
         {
-          "word1": "Philosophy",
-          "word2": "Science",
+          "term1": "Philosophy",
+          "term2": "Science",
           "value": 3.7
         },
         {
-          "word1": "Antarctica",
-          "word2": "Islam",
+          "term1": "Antarctica",
+          "term2": "Islam",
           "value": 0.2
         },
         {
-          "word1": "Flickr",
-          "word2": "Art",
+          "term1": "Flickr",
+          "term2": "Art",
           "value": 3.7
         },
         {
-          "word1": "Dog",
-          "word2": "Architect",
+          "term1": "Dog",
+          "term2": "Architect",
           "value": 0.2
         },
         {
-          "word1": "Winter",
-          "word2": "Autumn",
+          "term1": "Winter",
+          "term2": "Autumn",
           "value": 4.0
         },
         {
-          "word1": "Literature",
-          "word2": "Facebook",
+          "term1": "Literature",
+          "term2": "Facebook",
           "value": 1.5
         },
         {
-          "word1": "War",
-          "word2": "Harp Seal",
+          "term1": "War",
+          "term2": "Harp Seal",
           "value": 0.4
         },
         {
-          "word1": "Mexico",
-          "word2": "Privacy",
+          "term1": "Mexico",
+          "term2": "Privacy",
           "value": 1.1
         },
         {
-          "word1": "Newspaper",
-          "word2": "Truth",
+          "term1": "Newspaper",
+          "term2": "Truth",
           "value": 3.1
         },
         {
-          "word1": "Charles Darwin",
-          "word2": "Biology",
+          "term1": "Charles Darwin",
+          "term2": "Biology",
           "value": 4.0
         },
         {
-          "word1": "Leonhard Euler",
-          "word2": "Biology",
+          "term1": "Leonhard Euler",
+          "term2": "Biology",
           "value": 2.0
         },
         {
-          "word1": "Alan Turing",
-          "word2": "Computer Science",
+          "term1": "Alan Turing",
+          "term2": "Computer Science",
           "value": 3.4
         },
         {
-          "word1": "Physics",
-          "word2": "Mathematics",
+          "term1": "Physics",
+          "term2": "Mathematics",
           "value": 4.0
         },
         {
-          "word1": "Carnivore",
-          "word2": "Carnivore",
+          "term1": "Carnivore",
+          "term2": "Carnivore",
           "value": 4.0
         },
         {
-          "word1": "Ireland",
-          "word2": "Wine",
+          "term1": "Ireland",
+          "term2": "Wine",
           "value": 1.9
         },
         {
-          "word1": "The Beatles",
-          "word2": "Architect",
+          "term1": "The Beatles",
+          "term2": "Architect",
           "value": 0.2
         },
         {
-          "word1": "Middle East",
-          "word2": "Peace",
+          "term1": "Middle East",
+          "term2": "Peace",
           "value": 3.8
         },
         {
-          "word1": "Computer Science",
-          "word2": "Beer",
+          "term1": "Computer Science",
+          "term2": "Beer",
           "value": 1.2
         },
         {
-          "word1": "Elvis Presley",
-          "word2": "Country music",
+          "term1": "Elvis Presley",
+          "term2": "Country music",
           "value": 2.7
         },
         {
-          "word1": "California Condor",
-          "word2": "Peru",
+          "term1": "California Condor",
+          "term2": "Peru",
           "value": 1.1
         },
         {
-          "word1": "Bald Eagle",
-          "word2": "Physics",
+          "term1": "Bald Eagle",
+          "term2": "Physics",
           "value": 0.1
         },
         {
-          "word1": "Envy",
-          "word2": "Green",
+          "term1": "Envy",
+          "term2": "Green",
           "value": 4.0
         },
         {
-          "word1": "The Beatles",
-          "word2": "Pop music",
+          "term1": "The Beatles",
+          "term2": "Pop music",
           "value": 3.9
         },
         {
-          "word1": "Charles Darwin",
-          "word2": "Chemistry",
+          "term1": "Charles Darwin",
+          "term2": "Chemistry",
           "value": 2.0
         },
         {
-          "word1": "Napoleon",
-          "word2": "Judaism",
+          "term1": "Napoleon",
+          "term2": "Judaism",
           "value": 1.2
         },
         {
-          "word1": "Asia",
-          "word2": "Islam",
+          "term1": "Asia",
+          "term2": "Islam",
           "value": 3.5
         },
         {
-          "word1": "Religion",
-          "word2": "United States Constitution",
+          "term1": "Religion",
+          "term2": "United States Constitution",
           "value": 3.0
         },
         {
-          "word1": "MySpace",
-          "word2": "Community",
+          "term1": "MySpace",
+          "term2": "Community",
           "value": 3.9
         },
         {
-          "word1": "Happiness",
-          "word2": "Green",
+          "term1": "Happiness",
+          "term2": "Green",
           "value": 1.1
         },
         {
-          "word1": "Brazil",
-          "word2": "Beer",
+          "term1": "Brazil",
+          "term2": "Beer",
           "value": 1.7
         },
         {
-          "word1": "Google",
-          "word2": "Internet",
+          "term1": "Google",
+          "term2": "Internet",
           "value": 4.0
         },
         {
-          "word1": "Michael Jackson",
-          "word2": "Pop music",
+          "term1": "Michael Jackson",
+          "term2": "Pop music",
           "value": 4.0
         },
         {
-          "word1": "Leonhard Euler",
-          "word2": "Television",
+          "term1": "Leonhard Euler",
+          "term2": "Television",
           "value": 0.7
         },
         {
-          "word1": "England",
-          "word2": "Cheese",
+          "term1": "England",
+          "term2": "Cheese",
           "value": 2.5
         },
         {
-          "word1": "Microsoft",
-          "word2": "Facebook",
+          "term1": "Microsoft",
+          "term2": "Facebook",
           "value": 2.9
         },
         {
-          "word1": "Albert Einstein",
-          "word2": "Computer Science",
+          "term1": "Albert Einstein",
+          "term2": "Computer Science",
           "value": 2.3
         },
         {
-          "word1": "Corn",
-          "word2": "Brick",
+          "term1": "Corn",
+          "term2": "Brick",
           "value": 0.3
         },
         {
-          "word1": "Grain",
-          "word2": "Wheat",
+          "term1": "Grain",
+          "term2": "Wheat",
           "value": 4.0
         },
         {
-          "word1": "Africa",
-          "word2": "Islam",
+          "term1": "Africa",
+          "term2": "Islam",
           "value": 3.1
         },
         {
-          "word1": "United States",
-          "word2": "Chocolate",
+          "term1": "United States",
+          "term2": "Chocolate",
           "value": 1.7
         },
         {
-          "word1": "Islam",
-          "word2": "Terrorism",
+          "term1": "Islam",
+          "term2": "Terrorism",
           "value": 3.5
         },
         {
-          "word1": "Buddhism",
-          "word2": "4Chan",
+          "term1": "Buddhism",
+          "term2": "4Chan",
           "value": 0.5
         },
         {
-          "word1": "Green",
-          "word2": "Knife",
+          "term1": "Green",
+          "term2": "Knife",
           "value": 0.2
         },
         {
-          "word1": "Art",
-          "word2": "Fear",
+          "term1": "Art",
+          "term2": "Fear",
           "value": 1.3
         },
         {
-          "word1": "Australia",
-          "word2": "Cheese",
+          "term1": "Australia",
+          "term2": "Cheese",
           "value": 1.7
         },
         {
-          "word1": "Architect",
-          "word2": "Democratic Republic of the Congo",
+          "term1": "Architect",
+          "term2": "Democratic Republic of the Congo",
           "value": 0.3
         },
         {
-          "word1": "World of Warcraft",
-          "word2": "Art",
+          "term1": "World of Warcraft",
+          "term2": "Art",
           "value": 1.6
         },
         {
-          "word1": "Gregor Mendel",
-          "word2": "Chemistry",
+          "term1": "Gregor Mendel",
+          "term2": "Chemistry",
           "value": 2.6
         },
         {
-          "word1": "Peace",
-          "word2": "Dove",
+          "term1": "Peace",
+          "term2": "Dove",
           "value": 3.9
         },
         {
-          "word1": "Spring (season)",
-          "word2": "Summer",
+          "term1": "Spring (season)",
+          "term2": "Summer",
           "value": 4.0
         },
         {
-          "word1": "ABBA",
-          "word2": "Rock music",
+          "term1": "ABBA",
+          "term2": "Rock music",
           "value": 2.8
         },
         {
-          "word1": "Galileo Galilei",
-          "word2": "Physics",
+          "term1": "Galileo Galilei",
+          "term2": "Physics",
           "value": 4.0
         },
         {
-          "word1": "Britney Spears",
-          "word2": "Indonesia",
+          "term1": "Britney Spears",
+          "term2": "Indonesia",
           "value": 0.4
         },
         {
-          "word1": "Galileo Galilei",
-          "word2": "Computer Science",
+          "term1": "Galileo Galilei",
+          "term2": "Computer Science",
           "value": 1.5
         },
         {
-          "word1": "Led Zeppelin",
-          "word2": "Pop music",
+          "term1": "Led Zeppelin",
+          "term2": "Pop music",
           "value": 2.8
         },
         {
-          "word1": "Happiness",
-          "word2": "Yellow",
+          "term1": "Happiness",
+          "term2": "Yellow",
           "value": 2.2
         },
         {
-          "word1": "Evil",
-          "word2": "Ethics",
+          "term1": "Evil",
+          "term2": "Ethics",
           "value": 3.9
         },
         {
-          "word1": "Facebook",
-          "word2": "Google",
+          "term1": "Facebook",
+          "term2": "Google",
           "value": 3.6
         },
         {
-          "word1": "Albert Einstein",
-          "word2": "Taste",
+          "term1": "Albert Einstein",
+          "term2": "Taste",
           "value": 0.2
         },
         {
-          "word1": "War",
-          "word2": "Dove",
+          "term1": "War",
+          "term2": "Dove",
           "value": 2.8
         },
         {
-          "word1": "Lion",
-          "word2": "Sweden",
+          "term1": "Lion",
+          "term2": "Sweden",
           "value": 1.4
         },
         {
-          "word1": "War",
-          "word2": "Eagle",
+          "term1": "War",
+          "term2": "Eagle",
           "value": 2.7
         },
         {
-          "word1": "Yasser Arafat",
-          "word2": "Peace",
+          "term1": "Yasser Arafat",
+          "term2": "Peace",
           "value": 3.3
         },
         {
-          "word1": "South America",
-          "word2": "Red",
+          "term1": "South America",
+          "term2": "Red",
           "value": 0.9
         },
         {
-          "word1": "Ireland",
-          "word2": "Beer",
+          "term1": "Ireland",
+          "term2": "Beer",
           "value": 3.9
         },
         {
-          "word1": "Christopher Columbus",
-          "word2": "Australia",
+          "term1": "Christopher Columbus",
+          "term2": "Australia",
           "value": 0.7
         },
         {
-          "word1": "Leonhard Euler",
-          "word2": "Mathematics",
+          "term1": "Leonhard Euler",
+          "term2": "Mathematics",
           "value": 4.0
         },
         {
-          "word1": "deviantArt",
-          "word2": "Art",
+          "term1": "deviantArt",
+          "term2": "Art",
           "value": 3.8
         },
         {
-          "word1": "France",
-          "word2": "Beer",
+          "term1": "France",
+          "term2": "Beer",
           "value": 1.7
         },
         {
-          "word1": "Loyalty",
-          "word2": "Hawk",
+          "term1": "Loyalty",
+          "term2": "Hawk",
           "value": 1.2
         },
         {
-          "word1": "Wine",
-          "word2": "Flickr",
+          "term1": "Wine",
+          "term2": "Flickr",
           "value": 0.3
         },
         {
-          "word1": "Dance",
-          "word2": "Beer",
+          "term1": "Dance",
+          "term2": "Beer",
           "value": 2.2
         },
         {
-          "word1": "ABBA",
-          "word2": "Politician",
+          "term1": "ABBA",
+          "term2": "Politician",
           "value": 0.5
         },
         {
-          "word1": "United States",
-          "word2": "Wine",
+          "term1": "United States",
+          "term2": "Wine",
           "value": 2.2
         },
         {
-          "word1": "Autumn",
-          "word2": "Spring (season)",
+          "term1": "Autumn",
+          "term2": "Spring (season)",
           "value": 3.9
         },
         {
-          "word1": "Marie Curie",
-          "word2": "Computer Science",
+          "term1": "Marie Curie",
+          "term2": "Computer Science",
           "value": 0.9
         },
         {
-          "word1": "Yasser Arafat",
-          "word2": "Jesse Jackson",
+          "term1": "Yasser Arafat",
+          "term2": "Jesse Jackson",
           "value": 0.7
         },
         {
-          "word1": "Bald Eagle",
-          "word2": "Brazil",
+          "term1": "Bald Eagle",
+          "term2": "Brazil",
           "value": 1.1
         },
         {
-          "word1": "Bald Eagle",
-          "word2": "Art",
+          "term1": "Bald Eagle",
+          "term2": "Art",
           "value": 1.1
         },
         {
-          "word1": "Yellow",
-          "word2": "Love",
+          "term1": "Yellow",
+          "term2": "Love",
           "value": 1.0
         },
         {
-          "word1": "Twitter",
-          "word2": "Community",
+          "term1": "Twitter",
+          "term2": "Community",
           "value": 3.7
         },
         {
-          "word1": "Barack Obama",
-          "word2": "Recession",
+          "term1": "Barack Obama",
+          "term2": "Recession",
           "value": 3.6
         },
         {
-          "word1": "Skype",
-          "word2": "Community",
+          "term1": "Skype",
+          "term2": "Community",
           "value": 3.3
         },
         {
-          "word1": "South America",
-          "word2": "Buddhism",
+          "term1": "South America",
+          "term2": "Buddhism",
           "value": 0.8
         },
         {
-          "word1": "Sadness",
-          "word2": "Blue",
+          "term1": "Sadness",
+          "term2": "Blue",
           "value": 4.0
         },
         {
-          "word1": "Courage",
-          "word2": "Eagle",
+          "term1": "Courage",
+          "term2": "Eagle",
           "value": 3.1
         },
         {
-          "word1": "Internet",
-          "word2": "Truth",
+          "term1": "Internet",
+          "term2": "Truth",
           "value": 2.5
         },
         {
-          "word1": "Christianity",
-          "word2": "Democracy",
+          "term1": "Christianity",
+          "term2": "Democracy",
           "value": 2.1
         },
         {
-          "word1": "Charles Darwin",
-          "word2": "Mathematics",
+          "term1": "Charles Darwin",
+          "term2": "Mathematics",
           "value": 1.7
         },
         {
-          "word1": "California Condor",
-          "word2": "Islam",
+          "term1": "California Condor",
+          "term2": "Islam",
           "value": 0.1
         },
         {
-          "word1": "Leonhard Euler",
-          "word2": "Physics",
+          "term1": "Leonhard Euler",
+          "term2": "Physics",
           "value": 2.8
         },
         {
-          "word1": "Gregor Mendel",
-          "word2": "Winter",
+          "term1": "Gregor Mendel",
+          "term2": "Winter",
           "value": 0.5
         },
         {
-          "word1": "Europe",
-          "word2": "Christianity",
+          "term1": "Europe",
+          "term2": "Christianity",
           "value": 3.7
         },
         {
-          "word1": "North America",
-          "word2": "Islam",
+          "term1": "North America",
+          "term2": "Islam",
           "value": 2.6
         },
         {
-          "word1": "Galileo Galilei",
-          "word2": "Kitchen",
+          "term1": "Galileo Galilei",
+          "term2": "Kitchen",
           "value": 0.0
         },
         {
-          "word1": "War",
-          "word2": "Lion",
+          "term1": "War",
+          "term2": "Lion",
           "value": 2.9
         },
         {
-          "word1": "California Condor",
-          "word2": "Alexander the Great",
+          "term1": "California Condor",
+          "term2": "Alexander the Great",
           "value": 0.2
         },
         {
-          "word1": "Germany",
-          "word2": "Cheese",
+          "term1": "Germany",
+          "term2": "Cheese",
           "value": 2.1
         },
         {
-          "word1": "Apple Inc.",
-          "word2": "Microsoft",
+          "term1": "Apple Inc.",
+          "term2": "Microsoft",
           "value": 3.8
         }
       ]
