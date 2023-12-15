@@ -12,15 +12,19 @@
     "date": "",
     "description": "",
     "downloadUrls": [],
+    "languages": [],
+    "domain": "general",
     "measureTypes": [""]
   },
   "partitions": [
     {
       "id": "",
       "measureType": "",
-      "interval": {
-        "max": 0,
-        "min": 0
+      "scale": {
+        "value": {
+          "max": 0,
+          "min": 0
+        }
       },
       "metrics": {
         "annotators": {

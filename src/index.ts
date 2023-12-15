@@ -38,6 +38,7 @@ import gtrd from "./datasets/gtrd";
 import word19k from "./datasets/word19k";
 import tr9856 from "./datasets/tr9856";
 import semeval17 from "./datasets/semeval17";
+import pt65 from "./datasets/pt65";
 
 export {
   bg100k,
@@ -80,4 +81,5 @@ export {
   word19k,
   tr9856,
   semeval17,
+  pt65,
 };
