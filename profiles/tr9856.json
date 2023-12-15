@@ -30,11 +30,11 @@
       },
       "metrics": {
         "annotators": {
-          "total": null,
-          "minEachPair": null
+          "total": 22, 
+          "minEachPair": 10
         },
         "interAgreement": {
-          "pearson": null,
+          "pearson": 0.8,
           "spearman": null
         }
       },
