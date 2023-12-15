@@ -12,6 +12,7 @@
     "date": "2012",
     "description": "",
     "downloadUrls": ["http://www-nlp.stanford.edu/~ehhuang/SCWS.zip"],
+    "languages": ["en"],
     "measureTypes": ["relatedness"]
   },
   "partitions": [

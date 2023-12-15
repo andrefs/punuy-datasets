@@ -60,6 +60,11 @@ interface Metadata {
   downloadUrls: string[];
 
   /**
+   * The languages used in the dataset
+   */
+  languages: "en"[];
+
+  /**
    * Which type of measures are used to compare the words
    */
   measureTypes: ("similarity" | "relatedness")[];

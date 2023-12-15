@@ -17,6 +17,7 @@
     "downloadUrls": [
       "https://www.intelligence.tuc.gr/similarity/datasets/MeSHDataset.pdf"
     ],
+    "languages": ["en"],
     "measureTypes": ["similarity"]
   },
   "partitions": [

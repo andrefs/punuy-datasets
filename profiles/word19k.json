@@ -17,6 +17,7 @@
       "https://dax-cdn.cdn.appdomain.cloud/dax-wikipedia-oriented-relatedness/1.0.2/wikipedia-oriented-relatedness.tar.gz"
     ],
     "measureTypes": ["relatedness"],
+    "languages": ["en"],
     "tags": ["mturk"]
   },
   "partitions": [

@@ -14,6 +14,7 @@
     "downloadUrls": [
       "https://conservancy.umn.edu/bitstream/handle/11299/196265/MiniMayoSRS.csv?sequence=2&isAllowed=y"
     ],
+    "languages": ["en"],
     "measureTypes": ["relatedness"]
   },
   "partitions": [

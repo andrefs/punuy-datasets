@@ -13,6 +13,7 @@
     "description": "A new dataset of 26 pairs of entities for which relatedness judgements have been provided by 20 judges has been collected. The motivation for this new dataset is that existing datasets such as Rubinstein and Goodenough (R&G, Miller and Charles (M&C) and Word-353,  contain couples of entities such as Car-Automobile or Stock-Market and miss couples of more specific entities such as Android-Linux.\n\nHere are reported the 26 couples along with the scores provided by 20 Computer Science Master students normalized between 0 and 1.",
     "downloadUrls": ["https://relwod.wordpress.com/datasets/"],
     "measureTypes": ["relatedness"],
+    "languages": ["en"],
     "tags": ["entities"]
   },
   "partitions": [

@@ -15,6 +15,7 @@
       "http://alt.qcri.org/semeval2017/task2/data/uploads/semeval2017-task2.zip"
     ],
     "measureTypes": ["similarity"],
+    "languages": ["en"],
     "tags": ["entities"]
   },
   "partitions": [

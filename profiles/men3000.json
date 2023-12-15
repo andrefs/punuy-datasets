@@ -18,6 +18,7 @@
       "https://staff.fnwi.uva.nl/e.bruni/resources/MEN.tar.gz",
       "https://staff.fnwi.uva.nl/e.bruni/resources/MEN.zip"
     ],
+    "languages": ["en"],
     "measureTypes": ["relatedness"],
     "tags": ["pair-comparison", "mturk"]
   },

@@ -2,9 +2,7 @@
   "id": "baker143",
   "metadata": {
     "name": "Baker 143",
-    "urls": [
-      "https://github.com/sb895/verb-similarity-dataset"
-    ],
+    "urls": ["https://github.com/sb895/verb-similarity-dataset"],
     "papers": [
       {
         "title": "An Unsupervised Model for Instance Level Subcategorization Acquisition",
@@ -16,9 +14,8 @@
     "downloadUrls": [
       "https://github.com/sb895/verb-similarity-dataset/blob/master/verb_similarity%20dataset.txt"
     ],
-    "measureTypes": [
-      "similarity"
-    ]
+    "languages": ["en"],
+    "measureTypes": ["similarity"]
   },
   "partitions": [
     {
@@ -42,2449 +39,865 @@
         {
           "term1": "happen",
           "term2": "say",
-          "values": [
-            3,
-            0,
-            2,
-            5,
-            0,
-            0,
-            0,
-            4,
-            3,
-            2
-          ],
+          "values": [3, 0, 2, 5, 0, 0, 0, 4, 3, 2],
           "value": 0.19
         },
         {
           "term1": "makes",
           "term2": "produced",
-          "values": [
-            9,
-            8,
-            7,
-            8,
-            8,
-            7,
-            8,
-            7,
-            7,
-            3
-          ],
+          "values": [9, 8, 7, 8, 8, 7, 8, 7, 7, 3],
           "value": 0.72
         },
         {
           "term1": "established",
           "term2": "make",
-          "values": [
-            7,
-            2,
-            2,
-            8,
-            5,
-            3,
-            7,
-            6,
-            4,
-            4
-          ],
+          "values": [7, 2, 2, 8, 5, 3, 7, 6, 4, 4],
           "value": 0.48
         },
         {
           "term1": "calling",
           "term2": "say",
-          "values": [
-            8,
-            4,
-            3,
-            4,
-            5,
-            6,
-            4,
-            9,
-            5,
-            5
-          ],
+          "values": [8, 4, 3, 4, 5, 6, 4, 9, 5, 5],
           "value": 0.53
         },
         {
           "term1": "developed",
           "term2": "considers",
-          "values": [
-            2,
-            0,
-            8,
-            2,
-            1,
-            0,
-            2,
-            6,
-            1,
-            2
-          ],
+          "values": [2, 0, 8, 2, 1, 0, 2, 6, 1, 2],
           "value": 0.24
         },
         {
           "term1": "organising",
           "term2": "developed",
-          "values": [
-            5,
-            0,
-            7,
-            1,
-            1,
-            5,
-            3,
-            6,
-            5,
-            2
-          ],
+          "values": [5, 0, 7, 1, 1, 5, 3, 6, 5, 2],
           "value": 0.35
         },
         {
           "term1": "causes",
           "term2": "allows",
-          "values": [
-            6,
-            10,
-            3,
-            1,
-            1,
-            8,
-            5,
-            5,
-            8,
-            1
-          ],
+          "values": [6, 10, 3, 1, 1, 8, 5, 5, 8, 1],
           "value": 0.48
         },
         {
           "term1": "requiring",
           "term2": "organising",
-          "values": [
-            2,
-            3,
-            4,
-            1,
-            0,
-            4,
-            3,
-            5,
-            4,
-            1
-          ],
+          "values": [2, 3, 4, 1, 0, 4, 3, 5, 4, 1],
           "value": 0.27
         },
         {
           "term1": "made",
           "term2": "set",
-          "values": [
-            4,
-            5,
-            2,
-            3,
-            0,
-            5,
-            3,
-            9,
-            5,
-            3
-          ],
+          "values": [4, 5, 2, 3, 0, 5, 3, 9, 5, 3],
           "value": 0.39
         },
         {
           "term1": "gave",
           "term2": "shows",
-          "values": [
-            4,
-            6,
-            4,
-            1,
-            4,
-            6,
-            4,
-            7,
-            6,
-            1
-          ],
+          "values": [4, 6, 4, 1, 4, 6, 4, 7, 6, 1],
           "value": 0.43
         },
         {
           "term1": "giving",
           "term2": "produces",
-          "values": [
-            2,
-            6,
-            6,
-            1,
-            8,
-            0,
-            3,
-            9,
-            0,
-            1
-          ],
+          "values": [2, 6, 6, 1, 8, 0, 3, 9, 0, 1],
           "value": 0.36
         },
         {
           "term1": "rise",
           "term2": "made",
-          "values": [
-            1,
-            0,
-            6,
-            1,
-            4,
-            0,
-            2,
-            8,
-            0,
-            1
-          ],
+          "values": [1, 0, 6, 1, 4, 0, 2, 8, 0, 1],
           "value": 0.23
         },
         {
           "term1": "seemed",
           "term2": "find",
-          "values": [
-            3,
-            7,
-            2,
-            6,
-            3,
-            0,
-            5,
-            3,
-            1,
-            5
-          ],
+          "values": [3, 7, 2, 6, 3, 0, 5, 3, 1, 5],
           "value": 0.35
         },
         {
           "term1": "form",
           "term2": "employ",
-          "values": [
-            3,
-            0,
-            2,
-            2,
-            0,
-            0,
-            3,
-            7,
-            0,
-            2
-          ],
+          "values": [3, 0, 2, 2, 0, 0, 3, 7, 0, 2],
           "value": 0.19
         },
         {
           "term1": "refuses",
           "term2": "protect",
-          "values": [
-            2,
-            2,
-            5,
-            3,
-            0,
-            0,
-            4,
-            2,
-            2,
-            3
-          ],
+          "values": [2, 2, 5, 3, 0, 0, 4, 2, 2, 3],
           "value": 0.23
         },
         {
           "term1": "produced",
           "term2": "reports",
-          "values": [
-            3,
-            0,
-            7,
-            3,
-            2,
-            0,
-            4,
-            7,
-            2,
-            3
-          ],
+          "values": [3, 0, 7, 3, 2, 0, 4, 7, 2, 3],
           "value": 0.31
         },
         {
           "term1": "gives",
           "term2": "employed",
-          "values": [
-            1,
-            0,
-            6,
-            1,
-            0,
-            0,
-            2,
-            2,
-            3,
-            1
-          ],
+          "values": [1, 0, 6, 1, 0, 0, 2, 2, 3, 1],
           "value": 0.16
         },
         {
           "term1": "sets",
           "term2": "starting",
-          "values": [
-            2,
-            0,
-            2,
-            1,
-            1,
-            0,
-            4,
-            6,
-            2,
-            1
-          ],
+          "values": [2, 0, 2, 1, 1, 0, 4, 6, 2, 1],
           "value": 0.19
         },
         {
           "term1": "organising",
           "term2": "shown",
-          "values": [
-            3,
-            0,
-            2,
-            1,
-            0,
-            0,
-            3,
-            6,
-            4,
-            2
-          ],
+          "values": [3, 0, 2, 1, 0, 0, 3, 6, 4, 2],
           "value": 0.21
         },
         {
           "term1": "works",
           "term2": "causes",
-          "values": [
-            5,
-            0,
-            5,
-            2,
-            1,
-            0,
-            4,
-            6,
-            5,
-            2
-          ],
+          "values": [5, 0, 5, 2, 1, 0, 4, 6, 5, 2],
           "value": 0.3
         },
         {
           "term1": "using",
           "term2": "calls",
-          "values": [
-            2,
-            0,
-            2,
-            2,
-            0,
-            0,
-            2,
-            7,
-            2,
-            2
-          ],
+          "values": [2, 0, 2, 2, 0, 0, 2, 7, 2, 2],
           "value": 0.19
         },
         {
           "term1": "causes",
           "term2": "used",
-          "values": [
-            2,
-            0,
-            2,
-            2,
-            0,
-            0,
-            1,
-            3,
-            0,
-            3
-          ],
+          "values": [2, 0, 2, 2, 0, 0, 1, 3, 0, 3],
           "value": 0.13
         },
         {
           "term1": "affecting",
           "term2": "works",
-          "values": [
-            3,
-            0,
-            2,
-            2,
-            1,
-            5,
-            5,
-            6,
-            5,
-            2
-          ],
+          "values": [3, 0, 2, 2, 1, 5, 5, 6, 5, 2],
           "value": 0.31
         },
         {
           "term1": "cause",
           "term2": "starts",
-          "values": [
-            5,
-            8,
-            7,
-            2,
-            4,
-            4,
-            8,
-            9,
-            4,
-            2
-          ],
+          "values": [5, 8, 7, 2, 4, 4, 8, 9, 4, 2],
           "value": 0.53
         },
         {
           "term1": "strike",
           "term2": "form",
-          "values": [
-            2,
-            0,
-            6,
-            2,
-            0,
-            0,
-            0,
-            2,
-            0,
-            2
-          ],
+          "values": [2, 0, 6, 2, 0, 0, 0, 2, 0, 2],
           "value": 0.14
         },
         {
           "term1": "considering",
           "term2": "leading",
-          "values": [
-            2,
-            0,
-            8,
-            2,
-            0,
-            2,
-            1,
-            1,
-            2,
-            2
-          ],
+          "values": [2, 0, 8, 2, 0, 2, 1, 1, 2, 2],
           "value": 0.2
         },
         {
           "term1": "refuses",
           "term2": "refused",
-          "values": [
-            9,
-            10,
-            8,
-            7,
-            9,
-            9,
-            9,
-            2,
-            9,
-            7
-          ],
+          "values": [9, 10, 8, 7, 9, 9, 9, 2, 9, 7],
           "value": 0.79
         },
         {
           "term1": "affected",
           "term2": "reported",
-          "values": [
-            1,
-            0,
-            7,
-            7,
-            1,
-            0,
-            0,
-            6,
-            0,
-            7
-          ],
+          "values": [1, 0, 7, 7, 1, 0, 0, 6, 0, 7],
           "value": 0.29
         },
         {
           "term1": "show",
           "term2": "use",
-          "values": [
-            2,
-            0,
-            4,
-            3,
-            0,
-            0,
-            0,
-            6,
-            0,
-            3
-          ],
+          "values": [2, 0, 4, 3, 0, 0, 0, 6, 0, 3],
           "value": 0.18
         },
         {
           "term1": "work",
           "term2": "allow",
-          "values": [
-            2,
-            2,
-            4,
-            1,
-            0,
-            5,
-            2,
-            9,
-            5,
-            1
-          ],
+          "values": [2, 2, 4, 1, 0, 5, 2, 9, 5, 1],
           "value": 0.31
         },
         {
           "term1": "starts",
           "term2": "requires",
-          "values": [
-            3,
-            4,
-            2,
-            1,
-            0,
-            0,
-            1,
-            6,
-            0,
-            2
-          ],
+          "values": [3, 4, 2, 1, 0, 0, 1, 6, 0, 2],
           "value": 0.19
         },
         {
           "term1": "gives",
           "term2": "produced",
-          "values": [
-            3,
-            3,
-            2,
-            3,
-            5,
-            7,
-            1,
-            8,
-            7,
-            1
-          ],
+          "values": [3, 3, 2, 3, 5, 7, 1, 8, 7, 1],
           "value": 0.4
         },
         {
           "term1": "exist",
           "term2": "produced",
-          "values": [
-            4,
-            0,
-            2,
-            3,
-            4,
-            0,
-            0,
-            3,
-            0,
-            3
-          ],
+          "values": [4, 0, 2, 3, 4, 0, 0, 3, 0, 3],
           "value": 0.19
         },
         {
           "term1": "starts",
           "term2": "set",
-          "values": [
-            2,
-            2,
-            7,
-            5,
-            0,
-            0,
-            1,
-            9,
-            0,
-            5
-          ],
+          "values": [2, 2, 7, 5, 0, 0, 1, 9, 0, 5],
           "value": 0.31
         },
         {
           "term1": "employed",
           "term2": "helping",
-          "values": [
-            4.5,
-            0,
-            7,
-            2,
-            0,
-            0,
-            0,
-            2,
-            1,
-            2
-          ],
+          "values": [4.5, 0, 7, 2, 0, 0, 0, 2, 1, 2],
           "value": 0.185
         },
         {
           "term1": "affected",
           "term2": "created",
-          "values": [
-            3,
-            4,
-            4,
-            5,
-            0,
-            0,
-            0,
-            2,
-            1,
-            3
-          ],
+          "values": [3, 4, 4, 5, 0, 0, 0, 2, 1, 3],
           "value": 0.22
         },
         {
           "term1": "produces",
           "term2": "starts",
-          "values": [
-            2,
-            9,
-            7,
-            2,
-            2,
-            0,
-            3,
-            10,
-            0,
-            2
-          ],
+          "values": [2, 9, 7, 2, 2, 0, 3, 10, 0, 2],
           "value": 0.37
         },
         {
           "term1": "happens",
           "term2": "produce",
-          "values": [
-            3,
-            0,
-            3,
-            2,
-            0,
-            4,
-            0,
-            5,
-            4,
-            2
-          ],
+          "values": [3, 0, 3, 2, 0, 4, 0, 5, 4, 2],
           "value": 0.23
         },
         {
           "term1": "using",
           "term2": "employed",
-          "values": [
-            7,
-            6,
-            2,
-            0,
-            0,
-            0,
-            7,
-            9,
-            0,
-            2
-          ],
+          "values": [7, 6, 2, 0, 0, 0, 7, 9, 0, 2],
           "value": 0.33
         },
         {
           "term1": "establishing",
           "term2": "increasing",
-          "values": [
-            4,
-            7,
-            6,
-            3,
-            0,
-            0,
-            3,
-            4,
-            0,
-            3
-          ],
+          "values": [4, 7, 6, 3, 0, 0, 3, 4, 0, 3],
           "value": 0.3
         },
         {
           "term1": "seemed",
           "term2": "seems",
-          "values": [
-            9,
-            9,
-            9,
-            2,
-            9,
-            9,
-            9,
-            7,
-            9,
-            1
-          ],
+          "values": [9, 9, 9, 2, 9, 9, 9, 7, 9, 1],
           "value": 0.73
         },
         {
           "term1": "increasing",
           "term2": "start",
-          "values": [
-            4,
-            0,
-            2,
-            1,
-            0,
-            0,
-            3,
-            5,
-            2,
-            1
-          ],
+          "values": [4, 0, 2, 1, 0, 0, 3, 5, 2, 1],
           "value": 0.18
         },
         {
           "term1": "said",
           "term2": "considering",
-          "values": [
-            4,
-            0,
-            2,
-            1,
-            0,
-            0,
-            0,
-            7,
-            0,
-            2
-          ],
+          "values": [4, 0, 2, 1, 0, 0, 0, 7, 0, 2],
           "value": 0.16
         },
         {
           "term1": "allow",
           "term2": "make",
-          "values": [
-            3,
-            5,
-            4,
-            1,
-            0,
-            0,
-            2,
-            8,
-            3,
-            1
-          ],
+          "values": [3, 5, 4, 1, 0, 0, 2, 8, 3, 1],
           "value": 0.27
         },
         {
           "term1": "led",
           "term2": "established",
-          "values": [
-            4,
-            9,
-            2,
-            2,
-            0,
-            4,
-            2,
-            6,
-            4,
-            2
-          ],
+          "values": [4, 9, 2, 2, 0, 4, 2, 6, 4, 2],
           "value": 0.35
         },
         {
           "term1": "calling",
           "term2": "reported",
-          "values": [
-            2,
-            0,
-            5,
-            1,
-            1,
-            5,
-            0,
-            6,
-            5,
-            1
-          ],
+          "values": [2, 0, 5, 1, 1, 5, 0, 6, 5, 1],
           "value": 0.26
         },
         {
           "term1": "found",
           "term2": "taken",
-          "values": [
-            6,
-            0,
-            2,
-            2,
-            2,
-            0,
-            4,
-            7,
-            0,
-            2
-          ],
+          "values": [6, 0, 2, 2, 2, 0, 4, 7, 0, 2],
           "value": 0.25
         },
         {
           "term1": "says",
           "term2": "set",
-          "values": [
-            3,
-            0,
-            7,
-            7,
-            0,
-            0,
-            0,
-            7,
-            0,
-            7
-          ],
+          "values": [3, 0, 7, 7, 0, 0, 0, 7, 0, 7],
           "value": 0.31
         },
         {
           "term1": "happens",
           "term2": "continue",
-          "values": [
-            6,
-            0,
-            4,
-            2,
-            0,
-            0,
-            1,
-            6,
-            1,
-            2
-          ],
+          "values": [6, 0, 4, 2, 0, 0, 1, 6, 1, 2],
           "value": 0.22
         },
         {
           "term1": "reducing",
           "term2": "works",
-          "values": [
-            3,
-            0,
-            2,
-            1,
-            0,
-            0,
-            2,
-            5,
-            0,
-            1
-          ],
+          "values": [3, 0, 2, 1, 0, 0, 2, 5, 0, 1],
           "value": 0.14
         },
         {
           "term1": "shows",
           "term2": "produced",
-          "values": [
-            4,
-            0,
-            6,
-            1,
-            4,
-            3,
-            0,
-            8,
-            3,
-            1
-          ],
+          "values": [4, 0, 6, 1, 4, 3, 0, 8, 3, 1],
           "value": 0.3
         },
         {
           "term1": "report",
           "term2": "creating",
-          "values": [
-            3,
-            0,
-            2,
-            1,
-            0,
-            0,
-            0,
-            7,
-            0,
-            1
-          ],
+          "values": [3, 0, 2, 1, 0, 0, 0, 7, 0, 1],
           "value": 0.14
         },
         {
           "term1": "considers",
           "term2": "says",
-          "values": [
-            5,
-            2,
-            2,
-            6,
-            0,
-            0,
-            3,
-            9,
-            0,
-            6
-          ],
+          "values": [5, 2, 2, 6, 0, 0, 3, 9, 0, 6],
           "value": 0.33
         },
         {
           "term1": "created",
           "term2": "work",
-          "values": [
-            4,
-            0,
-            4,
-            1,
-            0,
-            0,
-            0,
-            8,
-            1,
-            1
-          ],
+          "values": [4, 0, 4, 1, 0, 0, 0, 8, 1, 1],
           "value": 0.19
         },
         {
           "term1": "affecting",
           "term2": "protect",
-          "values": [
-            2,
-            0,
-            5,
-            7,
-            0,
-            0,
-            0,
-            2,
-            1,
-            7
-          ],
+          "values": [2, 0, 5, 7, 0, 0, 0, 2, 1, 7],
           "value": 0.24
         },
         {
           "term1": "providing",
           "term2": "showing",
-          "values": [
-            6,
-            10,
-            7,
-            7,
-            0,
-            5,
-            2,
-            9,
-            5,
-            7
-          ],
+          "values": [6, 10, 7, 7, 0, 5, 2, 9, 5, 7],
           "value": 0.58
         },
         {
           "term1": "happening",
           "term2": "affected",
-          "values": [
-            7,
-            0,
-            4,
-            2,
-            0,
-            0,
-            0,
-            7,
-            0,
-            2
-          ],
+          "values": [7, 0, 4, 2, 0, 0, 0, 7, 0, 2],
           "value": 0.22
         },
         {
           "term1": "says",
           "term2": "shows",
-          "values": [
-            5,
-            0,
-            6,
-            8,
-            0,
-            0,
-            1,
-            10,
-            2,
-            8
-          ],
+          "values": [5, 0, 6, 8, 0, 0, 1, 10, 2, 8],
           "value": 0.4
         },
         {
           "term1": "given",
           "term2": "working",
-          "values": [
-            4,
-            0,
-            2,
-            3,
-            0,
-            0,
-            0,
-            5,
-            1,
-            3
-          ],
+          "values": [4, 0, 2, 3, 0, 0, 0, 5, 1, 3],
           "value": 0.18
         },
         {
           "term1": "affect",
           "term2": "happen",
-          "values": [
-            6,
-            1,
-            4,
-            2,
-            0,
-            0,
-            3,
-            8,
-            1,
-            2
-          ],
+          "values": [6, 1, 4, 2, 0, 0, 3, 8, 1, 2],
           "value": 0.27
         },
         {
           "term1": "requires",
           "term2": "exists",
-          "values": [
-            7,
-            0,
-            5,
-            6,
-            0,
-            0,
-            1,
-            6,
-            1,
-            6
-          ],
+          "values": [7, 0, 5, 6, 0, 0, 1, 6, 1, 6],
           "value": 0.32
         },
         {
           "term1": "affecting",
           "term2": "helping",
-          "values": [
-            4,
-            2,
-            6,
-            6,
-            0,
-            0,
-            1,
-            3,
-            0,
-            6
-          ],
+          "values": [4, 2, 6, 6, 0, 0, 1, 3, 0, 6],
           "value": 0.28
         },
         {
           "term1": "making",
           "term2": "establishing",
-          "values": [
-            7,
-            10,
-            7,
-            6,
-            4,
-            3,
-            5,
-            8,
-            3,
-            6
-          ],
+          "values": [7, 10, 7, 6, 4, 3, 5, 8, 3, 6],
           "value": 0.59
         },
         {
           "term1": "applies",
           "term2": "cause",
-          "values": [
-            4,
-            3,
-            4,
-            2,
-            0,
-            0,
-            4,
-            4,
-            0,
-            2
-          ],
+          "values": [4, 3, 4, 2, 0, 0, 4, 4, 0, 2],
           "value": 0.23
         },
         {
           "term1": "found",
           "term2": "take",
-          "values": [
-            7,
-            0,
-            3,
-            2,
-            2,
-            0,
-            4,
-            5,
-            1,
-            2
-          ],
+          "values": [7, 0, 3, 2, 2, 0, 4, 5, 1, 2],
           "value": 0.26
         },
         {
           "term1": "organising",
           "term2": "produced",
-          "values": [
-            3,
-            0,
-            6,
-            2,
-            0,
-            2,
-            0,
-            7,
-            2,
-            2
-          ],
+          "values": [3, 0, 6, 2, 0, 2, 0, 7, 2, 2],
           "value": 0.24
         },
         {
           "term1": "providing",
           "term2": "reported",
-          "values": [
-            2,
-            6,
-            4,
-            3,
-            0,
-            5,
-            1,
-            9,
-            5,
-            3
-          ],
+          "values": [2, 6, 4, 3, 0, 5, 1, 9, 5, 3],
           "value": 0.38
         },
         {
           "term1": "calls",
           "term2": "help",
-          "values": [
-            4,
-            0,
-            7,
-            2,
-            1,
-            0,
-            1,
-            8,
-            0,
-            2
-          ],
+          "values": [4, 0, 7, 2, 1, 0, 1, 8, 0, 2],
           "value": 0.25
         },
         {
           "term1": "refusing",
           "term2": "apply",
-          "values": [
-            2,
-            0,
-            3,
-            2,
-            0,
-            0,
-            0,
-            4,
-            0,
-            2
-          ],
+          "values": [2, 0, 3, 2, 0, 0, 0, 4, 0, 2],
           "value": 0.13
         },
         {
           "term1": "setting",
           "term2": "finds",
-          "values": [
-            1,
-            3,
-            3,
-            2,
-            0,
-            0,
-            0,
-            5,
-            0,
-            2
-          ],
+          "values": [1, 3, 3, 2, 0, 0, 0, 5, 0, 2],
           "value": 0.16
         },
         {
           "term1": "organise",
           "term2": "used",
-          "values": [
-            3,
-            0,
-            3,
-            2,
-            0,
-            0,
-            0,
-            6,
-            0,
-            2
-          ],
+          "values": [3, 0, 3, 2, 0, 0, 0, 6, 0, 2],
           "value": 0.16
         },
         {
           "term1": "considers",
           "term2": "allows",
-          "values": [
-            3,
-            5,
-            6,
-            2,
-            0,
-            0,
-            3,
-            8,
-            1,
-            2
-          ],
+          "values": [3, 5, 6, 2, 0, 0, 3, 8, 1, 2],
           "value": 0.3
         },
         {
           "term1": "allowed",
           "term2": "sets",
-          "values": [
-            1,
-            8,
-            3,
-            3,
-            0,
-            0,
-            0,
-            6,
-            2,
-            3
-          ],
+          "values": [1, 8, 3, 3, 0, 0, 0, 6, 2, 3],
           "value": 0.26
         },
         {
           "term1": "led",
           "term2": "organised",
-          "values": [
-            1,
-            5,
-            2,
-            3,
-            0,
-            0,
-            7,
-            5,
-            0,
-            3
-          ],
+          "values": [1, 5, 2, 3, 0, 0, 7, 5, 0, 3],
           "value": 0.26
         },
         {
           "term1": "helped",
           "term2": "starts",
-          "values": [
-            2,
-            0,
-            4,
-            2,
-            0,
-            0,
-            2,
-            5,
-            1,
-            2
-          ],
+          "values": [2, 0, 4, 2, 0, 0, 2, 5, 1, 2],
           "value": 0.18
         },
         {
           "term1": "recognise",
           "term2": "considered",
-          "values": [
-            5,
-            8,
-            6,
-            1,
-            0,
-            5,
-            0,
-            6,
-            2,
-            1
-          ],
+          "values": [5, 8, 6, 1, 0, 5, 0, 6, 2, 1],
           "value": 0.34
         },
         {
           "term1": "makes",
           "term2": "increases",
-          "values": [
-            6,
-            0,
-            4,
-            2,
-            0,
-            0,
-            5,
-            6,
-            0,
-            2
-          ],
+          "values": [6, 0, 4, 2, 0, 0, 5, 6, 0, 2],
           "value": 0.25
         },
         {
           "term1": "given",
           "term2": "showing",
-          "values": [
-            4,
-            8,
-            4,
-            1,
-            2,
-            0,
-            0,
-            8,
-            1,
-            1
-          ],
+          "values": [4, 8, 4, 1, 2, 0, 0, 8, 1, 1],
           "value": 0.29
         },
         {
           "term1": "creating",
           "term2": "exist",
-          "values": [
-            8,
-            5,
-            3,
-            1,
-            5,
-            0,
-            1,
-            7,
-            2,
-            1
-          ],
+          "values": [8, 5, 3, 1, 5, 0, 1, 7, 2, 1],
           "value": 0.33
         },
         {
           "term1": "happened",
           "term2": "showed",
-          "values": [
-            8,
-            3,
-            5,
-            3,
-            5,
-            0,
-            1,
-            9,
-            0,
-            3
-          ],
+          "values": [8, 3, 5, 3, 5, 0, 1, 9, 0, 3],
           "value": 0.37
         },
         {
           "term1": "starts",
           "term2": "refused",
-          "values": [
-            1,
-            0,
-            4,
-            1,
-            0,
-            0,
-            0,
-            0,
-            0,
-            1
-          ],
+          "values": [1, 0, 4, 1, 0, 0, 0, 0, 0, 1],
           "value": 0.07
         },
         {
           "term1": "establish",
           "term2": "creating",
-          "values": [
-            7,
-            5,
-            6,
-            1,
-            5,
-            0,
-            6,
-            7,
-            1,
-            1
-          ],
+          "values": [7, 5, 6, 1, 5, 0, 6, 7, 1, 1],
           "value": 0.39
         },
         {
           "term1": "employ",
           "term2": "affect",
-          "values": [
-            6,
-            0,
-            6,
-            4,
-            0,
-            0,
-            2,
-            3,
-            1,
-            4
-          ],
+          "values": [6, 0, 6, 4, 0, 0, 2, 3, 1, 4],
           "value": 0.26
         },
         {
           "term1": "working",
           "term2": "developing",
-          "values": [
-            7,
-            5,
-            6,
-            6,
-            0,
-            3,
-            2,
-            9,
-            2,
-            6
-          ],
+          "values": [7, 5, 6, 6, 0, 3, 2, 9, 2, 6],
           "value": 0.46
         },
         {
           "term1": "take",
           "term2": "providing",
-          "values": [
-            4,
-            0,
-            3,
-            1,
-            0,
-            0,
-            0,
-            2,
-            0,
-            1
-          ],
+          "values": [4, 0, 3, 1, 0, 0, 0, 2, 0, 1],
           "value": 0.11
         },
         {
           "term1": "required",
           "term2": "considers",
-          "values": [
-            3,
-            0,
-            6,
-            2,
-            0,
-            0,
-            0,
-            7,
-            0,
-            2
-          ],
+          "values": [3, 0, 6, 2, 0, 0, 0, 7, 0, 2],
           "value": 0.2
         },
         {
           "term1": "affecting",
           "term2": "use",
-          "values": [
-            4,
-            0,
-            2,
-            2,
-            0,
-            0,
-            0,
-            6,
-            2,
-            2
-          ],
+          "values": [4, 0, 2, 2, 0, 0, 0, 6, 2, 2],
           "value": 0.18
         },
         {
           "term1": "recognise",
           "term2": "provide",
-          "values": [
-            1,
-            0,
-            4,
-            2,
-            0,
-            0,
-            0,
-            6,
-            1,
-            3
-          ],
+          "values": [1, 0, 4, 2, 0, 0, 0, 6, 1, 3],
           "value": 0.17
         },
         {
           "term1": "produced",
           "term2": "provides",
-          "values": [
-            4,
-            0,
-            5,
-            2,
-            4,
-            0,
-            7,
-            4,
-            0,
-            4
-          ],
+          "values": [4, 0, 5, 2, 4, 0, 7, 4, 0, 4],
           "value": 0.3
         },
         {
           "term1": "showed",
           "term2": "apply",
-          "values": [
-            3,
-            3,
-            4,
-            4,
-            1,
-            0,
-            0,
-            7,
-            0,
-            4
-          ],
+          "values": [3, 3, 4, 4, 1, 0, 0, 7, 0, 4],
           "value": 0.26
         },
         {
           "term1": "setting",
           "term2": "showing",
-          "values": [
-            3,
-            5,
-            6,
-            6,
-            0,
-            0,
-            2,
-            6,
-            1,
-            6
-          ],
+          "values": [3, 5, 6, 6, 0, 0, 2, 6, 1, 6],
           "value": 0.35
         },
         {
           "term1": "happening",
           "term2": "shown",
-          "values": [
-            5,
-            0,
-            3,
-            2,
-            0,
-            0,
-            0,
-            7,
-            2,
-            2
-          ],
+          "values": [5, 0, 3, 2, 0, 0, 0, 7, 2, 2],
           "value": 0.21
         },
         {
           "term1": "given",
           "term2": "use",
-          "values": [
-            3,
-            0,
-            2,
-            2,
-            0,
-            0,
-            1,
-            7,
-            0,
-            2
-          ],
+          "values": [3, 0, 2, 2, 0, 0, 1, 7, 0, 2],
           "value": 0.17
         },
         {
           "term1": "said",
           "term2": "allow",
-          "values": [
-            2,
-            0,
-            2,
-            2,
-            0,
-            0,
-            0,
-            3,
-            2,
-            3
-          ],
+          "values": [2, 0, 2, 2, 0, 0, 0, 3, 2, 3],
           "value": 0.14
         },
         {
           "term1": "employ",
           "term2": "applied",
-          "values": [
-            3,
-            0,
-            6,
-            2,
-            0,
-            0,
-            0,
-            8,
-            1,
-            2
-          ],
+          "values": [3, 0, 6, 2, 0, 0, 0, 8, 1, 2],
           "value": 0.22
         },
         {
           "term1": "works",
           "term2": "dismiss",
-          "values": [
-            4,
-            0,
-            4,
-            1,
-            0,
-            0,
-            0,
-            2,
-            1,
-            1
-          ],
+          "values": [4, 0, 4, 1, 0, 0, 0, 2, 1, 1],
           "value": 0.13
         },
         {
           "term1": "showing",
           "term2": "showed",
-          "values": [
-            2,
-            9,
-            9,
-            4,
-            9,
-            9,
-            8,
-            7,
-            9,
-            4
-          ],
+          "values": [2, 9, 9, 4, 9, 9, 8, 7, 9, 4],
           "value": 0.7
         },
         {
           "term1": "employ",
           "term2": "makes",
-          "values": [
-            3,
-            0,
-            6,
-            3,
-            0,
-            0,
-            7,
-            7,
-            1,
-            3
-          ],
+          "values": [3, 0, 6, 3, 0, 0, 7, 7, 1, 3],
           "value": 0.3
         },
         {
           "term1": "take",
           "term2": "includes",
-          "values": [
-            3,
-            0,
-            2,
-            1,
-            0,
-            0,
-            1,
-            8,
-            3,
-            1
-          ],
+          "values": [3, 0, 2, 1, 0, 0, 1, 8, 3, 1],
           "value": 0.19
         },
         {
           "term1": "refused",
           "term2": "provide",
-          "values": [
-            2,
-            0,
-            3,
-            2,
-            0,
-            0,
-            0,
-            2,
-            4,
-            2
-          ],
+          "values": [2, 0, 3, 2, 0, 0, 0, 2, 4, 2],
           "value": 0.15
         },
         {
           "term1": "affected",
           "term2": "apply",
-          "values": [
-            6,
-            3,
-            4,
-            1,
-            0,
-            0,
-            1,
-            6,
-            0,
-            1
-          ],
+          "values": [6, 3, 4, 1, 0, 0, 1, 6, 0, 1],
           "value": 0.22
         },
         {
           "term1": "concerned",
           "term2": "provides",
-          "values": [
-            1,
-            0,
-            2,
-            1,
-            0,
-            0,
-            0,
-            8,
-            2,
-            1
-          ],
+          "values": [1, 0, 2, 1, 0, 0, 0, 8, 2, 1],
           "value": 0.15
         },
         {
           "term1": "included",
           "term2": "allows",
-          "values": [
-            3,
-            5,
-            3,
-            1,
-            0,
-            0,
-            3,
-            7,
-            4,
-            1
-          ],
+          "values": [3, 5, 3, 1, 0, 0, 3, 7, 4, 1],
           "value": 0.27
         },
         {
           "term1": "produce",
           "term2": "lead",
-          "values": [
-            2,
-            0,
-            2,
-            1,
-            0,
-            0,
-            4,
-            8,
-            5,
-            1
-          ],
+          "values": [2, 0, 2, 1, 0, 0, 4, 8, 5, 1],
           "value": 0.23
         },
         {
           "term1": "produce",
           "term2": "dismiss",
-          "values": [
-            2,
-            0,
-            2,
-            1,
-            0,
-            0,
-            0,
-            1,
-            0,
-            1
-          ],
+          "values": [2, 0, 2, 1, 0, 0, 0, 1, 0, 1],
           "value": 0.07
         },
         {
           "term1": "find",
           "term2": "given",
-          "values": [
-            5,
-            2,
-            6,
-            2,
-            0,
-            0,
-            2,
-            4,
-            3,
-            2
-          ],
+          "values": [5, 2, 6, 2, 0, 0, 2, 4, 3, 2],
           "value": 0.26
         },
         {
           "term1": "protected",
           "term2": "exist",
-          "values": [
-            2,
-            0,
-            2,
-            2,
-            0,
-            0,
-            0,
-            1,
-            4,
-            2
-          ],
+          "values": [2, 0, 2, 2, 0, 0, 0, 1, 4, 2],
           "value": 0.13
         },
         {
           "term1": "dismiss",
           "term2": "finding",
-          "values": [
-            1,
-            0,
-            3,
-            2,
-            0,
-            0,
-            0,
-            1,
-            0,
-            2
-          ],
+          "values": [1, 0, 3, 2, 0, 0, 0, 1, 0, 2],
           "value": 0.09
         },
         {
           "term1": "found",
           "term2": "happen",
-          "values": [
-            4,
-            0,
-            4,
-            2,
-            0,
-            0,
-            1,
-            3,
-            5,
-            2
-          ],
+          "values": [4, 0, 4, 2, 0, 0, 1, 3, 5, 2],
           "value": 0.21
         },
         {
           "term1": "give",
           "term2": "working",
-          "values": [
-            2,
-            0,
-            3,
-            1,
-            0,
-            0,
-            0,
-            3,
-            3,
-            1
-          ],
+          "values": [2, 0, 3, 1, 0, 0, 0, 3, 3, 1],
           "value": 0.13
         },
         {
           "term1": "reducing",
           "term2": "increased",
-          "values": [
-            4,
-            0,
-            2,
-            1,
-            0,
-            0,
-            0,
-            0,
-            0,
-            1
-          ],
+          "values": [4, 0, 2, 1, 0, 0, 0, 0, 0, 1],
           "value": 0.08
         },
         {
           "term1": "take",
           "term2": "considered",
-          "values": [
-            2,
-            0,
-            2,
-            1,
-            0,
-            2,
-            1,
-            5,
-            4,
-            1
-          ],
+          "values": [2, 0, 2, 1, 0, 2, 1, 5, 4, 1],
           "value": 0.18
         },
         {
           "term1": "employed",
           "term2": "applied",
-          "values": [
-            2,
-            0,
-            5,
-            3,
-            0,
-            0,
-            2,
-            2,
-            3,
-            3
-          ],
+          "values": [2, 0, 5, 3, 0, 0, 2, 2, 3, 3],
           "value": 0.2
         },
         {
           "term1": "pay",
           "term2": "includes",
-          "values": [
-            1,
-            0,
-            2,
-            2,
-            0,
-            0,
-            0,
-            6,
-            2,
-            2
-          ],
+          "values": [1, 0, 2, 2, 0, 0, 0, 6, 2, 2],
           "value": 0.15
         },
         {
           "term1": "including",
           "term2": "refuses",
-          "values": [
-            1,
-            0,
-            4,
-            2,
-            0,
-            0,
-            0,
-            1,
-            0,
-            2
-          ],
+          "values": [1, 0, 4, 2, 0, 0, 0, 1, 0, 2],
           "value": 0.1
         },
         {
           "term1": "strike",
           "term2": "says",
-          "values": [
-            1,
-            0,
-            6,
-            1,
-            0,
-            0,
-            1,
-            6,
-            3,
-            1
-          ],
+          "values": [1, 0, 6, 1, 0, 0, 1, 6, 3, 1],
           "value": 0.19
         },
         {
           "term1": "report",
           "term2": "starting",
-          "values": [
-            1,
-            0,
-            2,
-            2,
-            0,
-            0,
-            0,
-            5,
-            2,
-            2
-          ],
+          "values": [1, 0, 2, 2, 0, 0, 0, 5, 2, 2],
           "value": 0.14
         },
         {
           "term1": "included",
           "term2": "increased",
-          "values": [
-            1,
-            0,
-            7,
-            2,
-            0,
-            0,
-            0,
-            1,
-            3,
-            1
-          ],
+          "values": [1, 0, 7, 2, 0, 0, 0, 1, 3, 1],
           "value": 0.15
         },
         {
           "term1": "continued",
           "term2": "says",
-          "values": [
-            1,
-            0,
-            2,
-            2,
-            0,
-            0,
-            0,
-            1,
-            4,
-            2
-          ],
+          "values": [1, 0, 2, 2, 0, 0, 0, 1, 4, 2],
           "value": 0.12
         },
         {
           "term1": "affect",
           "term2": "organising",
-          "values": [
-            1,
-            0,
-            4,
-            2,
-            0,
-            0,
-            1,
-            1,
-            1,
-            1
-          ],
+          "values": [1, 0, 4, 2, 0, 0, 1, 1, 1, 1],
           "value": 0.11
         },
         {
           "term1": "establishing",
           "term2": "gives",
-          "values": [
-            1,
-            0,
-            3,
-            2,
-            0,
-            0,
-            0,
-            4,
-            1,
-            2
-          ],
+          "values": [1, 0, 3, 2, 0, 0, 0, 4, 1, 2],
           "value": 0.13
         },
         {
           "term1": "provide",
           "term2": "including",
-          "values": [
-            1,
-            3,
-            2,
-            2,
-            0,
-            0,
-            0,
-            7,
-            1,
-            3
-          ],
+          "values": [1, 3, 2, 2, 0, 0, 0, 7, 1, 3],
           "value": 0.19
         },
         {
           "term1": "said",
           "term2": "included",
-          "values": [
-            1,
-            0,
-            3,
-            2,
-            0,
-            0,
-            3,
-            8,
-            2,
-            2
-          ],
+          "values": [1, 0, 3, 2, 0, 0, 3, 8, 2, 2],
           "value": 0.21
         },
         {
           "term1": "develop",
           "term2": "makes",
-          "values": [
-            7,
-            9,
-            3,
-            2,
-            0,
-            8,
-            7,
-            9,
-            8,
-            3
-          ],
+          "values": [7, 9, 3, 2, 0, 8, 7, 9, 8, 3],
           "value": 0.56
         },
         {
           "term1": "refusing",
           "term2": "allows",
-          "values": [
-            8,
-            0,
-            2,
-            2,
-            0,
-            0,
-            0,
-            0,
-            0,
-            2
-          ],
+          "values": [8, 0, 2, 2, 0, 0, 0, 0, 0, 2],
           "value": 0.14
         },
         {
           "term1": "paid",
           "term2": "seems",
-          "values": [
-            1,
-            0,
-            4,
-            2,
-            0,
-            0,
-            0,
-            3,
-            0,
-            3
-          ],
+          "values": [1, 0, 4, 2, 0, 0, 0, 3, 0, 3],
           "value": 0.13
         },
         {
           "term1": "establishing",
           "term2": "including",
-          "values": [
-            1,
-            0,
-            7,
-            4,
-            0,
-            0,
-            3,
-            8,
-            1,
-            4
-          ],
+          "values": [1, 0, 7, 4, 0, 0, 3, 8, 1, 4],
           "value": 0.28
         },
         {
           "term1": "seem",
           "term2": "said",
-          "values": [
-            2,
-            0,
-            8,
-            3,
-            0,
-            0,
-            2,
-            4,
-            2,
-            3
-          ],
+          "values": [2, 0, 8, 3, 0, 0, 2, 4, 2, 3],
           "value": 0.24
         },
         {
           "term1": "seem",
           "term2": "called",
-          "values": [
-            2,
-            0,
-            3,
-            2,
-            0,
-            0,
-            4,
-            4,
-            0,
-            3
-          ],
+          "values": [2, 0, 3, 2, 0, 0, 4, 4, 0, 3],
           "value": 0.18
         },
         {
           "term1": "happens",
           "term2": "require",
-          "values": [
-            2,
-            0,
-            5,
-            2,
-            0,
-            0,
-            1,
-            6,
-            3,
-            2
-          ],
+          "values": [2, 0, 5, 2, 0, 0, 1, 6, 3, 2],
           "value": 0.21
         },
         {
           "term1": "use",
           "term2": "working",
-          "values": [
-            6,
-            0,
-            2,
-            2,
-            0,
-            0,
-            0,
-            7,
-            0,
-            2
-          ],
+          "values": [6, 0, 2, 2, 0, 0, 0, 7, 0, 2],
           "value": 0.19
         },
         {
           "term1": "take",
           "term2": "leading",
-          "values": [
-            1,
-            0,
-            3,
-            2,
-            0,
-            0,
-            0,
-            3,
-            2,
-            2
-          ],
+          "values": [1, 0, 3, 2, 0, 0, 0, 3, 2, 2],
           "value": 0.13
         },
         {
           "term1": "working",
           "term2": "worked",
-          "values": [
-            9,
-            9,
-            9,
-            7,
-            9,
-            9,
-            8,
-            1,
-            10,
-            7
-          ],
+          "values": [9, 9, 9, 7, 9, 9, 8, 1, 10, 7],
           "value": 0.78
         },
         {
           "term1": "refusing",
           "term2": "exist",
-          "values": [
-            2,
-            0,
-            2,
-            2,
-            0,
-            0,
-            0,
-            1,
-            0,
-            2
-          ],
+          "values": [2, 0, 2, 2, 0, 0, 0, 1, 0, 2],
           "value": 0.09
         },
         {
           "term1": "establish",
           "term2": "requires",
-          "values": [
-            5,
-            0,
-            5,
-            2,
-            0,
-            0,
-            2,
-            1,
-            1,
-            2
-          ],
+          "values": [5, 0, 5, 2, 0, 0, 2, 1, 1, 2],
           "value": 0.18
         },
         {
           "term1": "allows",
           "term2": "employ",
-          "values": [
-            4,
-            0,
-            3,
-            2,
-            0,
-            0,
-            0,
-            4,
-            2,
-            2
-          ],
+          "values": [4, 0, 3, 2, 0, 0, 0, 4, 2, 2],
           "value": 0.17
         },
         {
           "term1": "increased",
           "term2": "reported",
-          "values": [
-            1,
-            0,
-            7,
-            3,
-            0,
-            0,
-            1,
-            4,
-            1,
-            3
-          ],
+          "values": [1, 0, 7, 3, 0, 0, 1, 4, 1, 3],
           "value": 0.2
         },
         {
           "term1": "seemed",
           "term2": "protects",
-          "values": [
-            1,
-            0,
-            2,
-            2,
-            0,
-            0,
-            0,
-            2,
-            1,
-            2
-          ],
+          "values": [1, 0, 2, 2, 0, 0, 0, 2, 1, 2],
           "value": 0.1
         },
         {
           "term1": "seems",
           "term2": "allowed",
-          "values": [
-            2,
-            0,
-            3,
-            2,
-            0,
-            0,
-            0,
-            3,
-            1,
-            2
-          ],
+          "values": [2, 0, 3, 2, 0, 0, 0, 3, 1, 2],
           "value": 0.13
         },
         {
           "term1": "lead",
           "term2": "require",
-          "values": [
-            2,
-            3,
-            4,
-            2,
-            0,
-            0,
-            0,
-            4,
-            2,
-            3
-          ],
+          "values": [2, 3, 4, 2, 0, 0, 0, 4, 2, 3],
           "value": 0.2
         },
         {
           "term1": "affect",
           "term2": "showed",
-          "values": [
-            3,
-            3,
-            3,
-            2,
-            2,
-            0,
-            0,
-            5,
-            1,
-            2
-          ],
+          "values": [3, 3, 3, 2, 2, 0, 0, 5, 1, 2],
           "value": 0.21
         },
         {
           "term1": "pay",
           "term2": "led",
-          "values": [
-            1,
-            0,
-            8,
-            2,
-            0,
-            0,
-            1,
-            1,
-            2,
-            3
-          ],
+          "values": [1, 0, 8, 2, 0, 0, 1, 1, 2, 3],
           "value": 0.18
         },
         {
           "term1": "made",
           "term2": "affect",
-          "values": [
-            3,
-            4,
-            3,
-            2,
-            0,
-            0,
-            2,
-            6,
-            1,
-            2
-          ],
+          "values": [3, 4, 3, 2, 0, 0, 2, 6, 1, 2],
           "value": 0.23
         },
         {
           "term1": "employ",
           "term2": "using",
-          "values": [
-            8,
-            3,
-            5,
-            2,
-            0,
-            0,
-            3,
-            7,
-            2,
-            3
-          ],
+          "values": [8, 3, 5, 2, 0, 0, 3, 7, 2, 3],
           "value": 0.33
         }
       ]

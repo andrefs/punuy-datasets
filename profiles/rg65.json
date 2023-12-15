@@ -12,6 +12,7 @@
     "date": "1965",
     "description": "",
     "downloadUrls": ["https://dl.acm.org/doi/pdf/10.1145/365628.365657"],
+    "languages": ["en"],
     "measureTypes": ["similarity"]
   },
   "partitions": [

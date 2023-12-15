@@ -12,6 +12,7 @@
     "date": "2008",
     "description": "",
     "downloadUrls": [],
+    "languages": ["en"],
     "measureTypes": ["relatedness"]
   },
   "partitions": [

@@ -15,6 +15,7 @@
       "https://drive.google.com/file/d/1qYc2R9vRB8i1WirDrDsL5gU3A81Dh2Fa/view?usp=sharing"
     ],
     "measureTypes": ["similarity"],
+    "languages": ["en"],
     "tags": ["mturk"]
   },
   "partitions": [

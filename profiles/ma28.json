@@ -10,6 +10,7 @@
       }
     ],
     "date": "2013",
+    "languages": ["en"],
     "description": "",
     "downloadUrls": ["https://hal.science/hal-01628399/file/article.pdf"],
     "measureTypes": ["similarity"]
