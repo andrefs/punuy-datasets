@@ -61,7 +61,7 @@ function getCsvRow(partInfo: PartInfo) {
 }
 
 function genCsvHeader() {
-  let res = '"Dataset ID", "Partition ID", "Year", "Size",  "Measure Type",  "Total Annotators", "Pair Annotators", "Pearson", "Spearman"\n';
+  const res = '"Dataset ID", "Partition ID", "Year", "Size",  "Measure Type",  "Total Annotators", "Pair Annotators", "Pearson", "Spearman"\n';
   return res;
 }
 
