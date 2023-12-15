@@ -2,7 +2,7 @@
 
 [![Node.js CI](https://github.com/andrefs/punuy-datasets/actions/workflows/node.js.yml/badge.svg)](https://github.com/andrefs/punuy-datasets/actions/workflows/node.js.yml)
 
-A collection of semantic measures evaluation datasets described in academic literature.
+A collection of datasets, gathered from the academic literature, for the evaluation of semantic measures between concepts or entities. Currently focused on the English language.
 
 ## Datasets
 
@@ -46,6 +46,7 @@ A collection of semantic measures evaluation datasets described in academic lite
 | word19k | Wikipedia Oriented Relatedness Dataset | 2018 | rel | [link](https://aclanthology.org/L18-1408.pdf) | [link](https://developer.ibm.com/exchanges/data/all/wikipedia-oriented-relatedness/) | 
 
 <!-- datasets-section-end -->
+
 
 
 
