@@ -40,6 +40,8 @@ import tr9856 from "./datasets/tr9856";
 import semeval17 from "./datasets/semeval17";
 import pt65 from "./datasets/pt65";
 
+import lxws353 from "./datasets/lxws353";
+
 export {
   bg100k,
   mayoSRS,
@@ -82,4 +84,6 @@ export {
   tr9856,
   semeval17,
   pt65,
+  //
+  lxws353,
 };
