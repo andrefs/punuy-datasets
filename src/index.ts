@@ -37,6 +37,7 @@ import simverb3500 from "./datasets/simverb3500";
 import gtrd from "./datasets/gtrd";
 import word19k from "./datasets/word19k";
 import tr9856 from "./datasets/tr9856";
+import semeval17 from "./datasets/semeval17";
 
 export {
   bg100k,
@@ -78,4 +79,5 @@ export {
   gtrd,
   word19k,
   tr9856,
+  semeval17,
 };

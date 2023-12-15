@@ -38,12 +38,14 @@ A collection of semantic measures evaluation datasets described in academic lite
 | men3000 | MEN | 2014 | rel | [link](https://core.ac.uk/download/pdf/35317232.pdf) | [link](https://staff.fnwi.uva.nl/e.bruni/MEN) | 
 | sl7576 | SL7576 | 2014 | sim | [link](https://aclanthology.org/P14-1068.pdf) | [link](https://sites.google.com/view/carinasilberer) | 
 | simlex999 | SimLex-999 | 2015 | sim | [link](https://aclanthology.org/J15-4004.pdf) | [link](https://fh295.github.io/simlex.html) | 
+| tr9856 | TR9856 | 2015 | rel | [link](https://aclanthology.org/P15-2069.pdf) | [link](https://developer.ibm.com/exchanges/data/all/multi-word-term-relatedness-benchmark/) | 
 | simverb3500 | SimVerb-3500 | 2016 | sim | [link](https://aclanthology.org/D16-1235.pdf) | [link](https://www.repository.cam.ac.uk/items/8a568201-0fa4-4e54-81b1-f920102492ea) | 
 | umnsrsMod | UMNSRS (modified) | 2016 | rel/sim | [link](https://academic.oup.com/bioinformatics/article/32/23/3635/2525643) | [link](https://conservancy.umn.edu/handle/11299/196265) | 
 | gtrd | GTRD | 2018 | rel | [link](https://pdfs.semanticscholar.org/f8f1/b82386147b6a9142b2cff2dc662a3e614d80.pdf) | [link](https://github.com/czgbjy/GTRD) | 
 | word19k | Wikipedia Oriented Relatedness Dataset | 2018 | rel | [link](https://aclanthology.org/L18-1408.pdf) | [link](https://developer.ibm.com/exchanges/data/all/wikipedia-oriented-relatedness/) | 
 
 <!-- datasets-section-end -->
+
 
 
 
