@@ -19,9 +19,11 @@
     {
       "id": "wordsim_relatedness_goldstandard.txt",
       "measureType": "relatedness",
-      "interval": {
-        "min": 0,
-        "max": 10
+      "scale": {
+        "value": {
+          "min": 0,
+          "max": 10
+        }
       },
       "metrics": {
         "annotators": {

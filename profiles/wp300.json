@@ -22,9 +22,11 @@
     {
       "id": "wp",
       "measureType": "similarity",
-      "interval": {
-        "max": 1,
-        "min": 0
+      "scale": {
+        "value": {
+          "max": 1,
+          "min": 0
+        }
       },
       "metrics": {
         "annotators": {

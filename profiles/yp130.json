@@ -21,9 +21,11 @@
     {
       "id": "verbpairs",
       "measureType": "similarity",
-      "interval": {
-        "min": 0,
-        "max": 4
+      "scale": {
+        "value": {
+          "min": 0,
+          "max": 4
+        }
       },
       "metrics": {
         "annotators": {

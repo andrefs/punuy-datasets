@@ -20,9 +20,11 @@
     {
       "id": "mturk",
       "measureType": "relatedness",
-      "interval": {
-        "min": 1,
-        "max": 5
+      "scale": {
+        "value": {
+          "min": 1,
+          "max": 5
+        }
       },
       "metrics": {
         "annotators": {

@@ -22,9 +22,11 @@
     {
       "id": "UMNSRS_similarity",
       "measureType": "similarity",
-      "interval": {
-        "max": 1600,
-        "min": 0
+      "scale": {
+        "value": {
+          "max": 1600,
+          "min": 0
+        }
       },
       "metrics": {
         "annotators": {
@@ -3438,9 +3440,11 @@
     {
       "id": "UMNSRS_relatedness",
       "measureType": "relatedness",
-      "interval": {
-        "max": 1600,
-        "min": 0
+      "scale": {
+        "value": {
+          "max": 1600,
+          "min": 0
+        }
       },
       "metrics": {
         "annotators": {

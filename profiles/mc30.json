@@ -19,9 +19,11 @@
     {
       "id": "table1",
       "measureType": "similarity",
-      "interval": {
-        "max": 4.0,
-        "min": 0.0
+      "scale": {
+        "value": {
+          "max": 4.0,
+          "min": 0.0
+        }
       },
       "metrics": {
         "annotators": {

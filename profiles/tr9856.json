@@ -25,10 +25,10 @@
     {
       "id": "main",
       "measureType": "relatedness",
-      "interval": {
+      "scale":{"value": {
         "max": 1,
         "min": 0
-      },
+      }},
       "metrics": {
         "annotators": {
           "total": 22, 

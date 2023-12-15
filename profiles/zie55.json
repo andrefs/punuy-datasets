@@ -22,9 +22,11 @@
     {
       "id": "B0",
       "measureType": "relatedness",
-      "interval": {
-        "min": 0,
-        "max": 5
+      "scale": {
+        "value": {
+          "min": 0,
+          "max": 5
+        }
       },
       "metrics": {
         "annotators": {
@@ -192,9 +194,11 @@
     {
       "id": "B1",
       "measureType": "relatedness",
-      "interval": {
-        "min": 0,
-        "max": 4
+      "scale": {
+        "value": {
+          "min": 0,
+          "max": 4
+        }
       },
       "metrics": {
         "annotators": {

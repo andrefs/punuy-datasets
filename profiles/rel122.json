@@ -22,9 +22,11 @@
     {
       "id": "main",
       "measureType": "relatedness",
-      "interval": {
-        "max": 4,
-        "min": 0
+      "scale": {
+        "value": {
+          "max": 4,
+          "min": 0
+        }
       },
       "metrics": {
         "annotators": {

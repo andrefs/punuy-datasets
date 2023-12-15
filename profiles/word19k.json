@@ -24,9 +24,11 @@
     {
       "id": "train",
       "measureType": "relatedness",
-      "interval": {
-        "max": 1,
-        "min": 0
+      "scale": {
+        "value": {
+          "max": 1,
+          "min": 0
+        }
       },
       "metrics": {
         "annotators": {
@@ -19431,7 +19433,7 @@
         },
         {
           "term1": "Aerial warfare",
-          "term2": "Gaza War (2008���09)",
+          "term2": "Gaza War (2008�����09)",
           "value": 0.7
         },
         {
@@ -64889,9 +64891,11 @@
     {
       "id": "test",
       "measureType": "relatedness",
-      "interval": {
-        "max": 1,
-        "min": 0
+      "scale": {
+        "value": {
+          "max": 1,
+          "min": 0
+        }
       },
       "metrics": {
         "annotators": {

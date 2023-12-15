@@ -104,19 +104,41 @@ interface Partition {
   measureType: "similarity" | "relatedness";
 
   /**
-   * The interval of the semantic measure values
+   * The scale of the semantic measure values
    */
-  interval: {
-    /**
-     * The minimum value of the interval
-     */
-    min: number;
+  scale: {
 
     /**
-     * The maximum value of the interval
-     * @minimum 1
+     * The scale for the average value
      */
-    max: number;
+    value: {
+      /**
+       * The minimum value of the scale
+       */
+      min: number;
+
+      /**
+       * The maximum value of the scale
+       * @minimum 1
+       */
+      max: number;
+    },
+
+    /**
+     * The scale for the individual annotator values
+     */
+    values?: {
+      /**
+       * The minimum value of the scale
+       */
+      min: number;
+
+      /**
+       * The maximum value of the scale
+       * @minimum 1
+       */
+      max: number;
+    }
   };
 
   /**
@@ -188,7 +210,7 @@ type PartitionData = {
    */
   term2: string;
 } & (
-  | {
+    | {
       /**
        * The averaged numeric value of the semantic measure for the pair
        */
@@ -206,7 +228,7 @@ type PartitionData = {
        */
       values?: (number | null)[];
     }
-  | {
+    | {
       /**
        * The averaged numeric value of the semantic measure for the pair
        */
@@ -219,4 +241,4 @@ type PartitionData = {
        */
       values: number[];
     }
-);
+  );

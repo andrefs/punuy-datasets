@@ -19,9 +19,11 @@
     {
       "id": "wordsim_similarity_goldstandard.txt",
       "measureType": "similarity",
-      "interval": {
-        "min": 0,
-        "max": 10
+      "scale": {
+        "value": {
+          "min": 0,
+          "max": 10
+        }
       },
       "metrics": {
         "annotators": {

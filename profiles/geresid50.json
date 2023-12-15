@@ -23,9 +23,11 @@
     {
       "id": "GeReSiD-rel",
       "measureType": "relatedness",
-      "interval": {
-        "max": 1,
-        "min": 0
+      "scale": {
+        "value": {
+          "max": 1,
+          "min": 0
+        }
       },
       "metrics": {
         "annotators": {
@@ -293,9 +295,11 @@
     {
       "id": "GeReSiD-sim",
       "measureType": "similarity",
-      "interval": {
-        "max": 1,
-        "min": 0
+      "scale": {
+        "value": {
+          "max": 1,
+          "min": 0
+        }
       },
       "metrics": {
         "annotators": {

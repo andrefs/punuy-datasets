@@ -20,9 +20,11 @@
     {
       "id": "main",
       "measureType": "similarity",
-      "interval": {
-        "max": 10,
-        "min": 0
+      "scale": {
+        "value": {
+          "max": 10,
+          "min": 0
+        }
       },
       "metrics": {
         "annotators": {

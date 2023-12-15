@@ -26,9 +26,11 @@
     {
       "id": "dev",
       "measureType": "relatedness",
-      "interval": {
-        "max": 50,
-        "min": 0
+      "scale": {
+        "value": {
+          "max": 50,
+          "min": 0
+        }
       },
       "metrics": {
         "annotators": {
@@ -10046,9 +10048,11 @@
     {
       "id": "test",
       "measureType": "similarity",
-      "interval": {
-        "max": 50,
-        "min": 0
+      "scale": {
+        "value": {
+          "max": 50,
+          "min": 0
+        }
       },
       "metrics": {
         "annotators": {
@@ -15066,9 +15070,11 @@
     {
       "id": "full",
       "measureType": "similarity",
-      "interval": {
-        "max": 50,
-        "min": 0
+      "scale": {
+        "value": {
+          "max": 50,
+          "min": 0
+        }
       },
       "metrics": {
         "annotators": {
