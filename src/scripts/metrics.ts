@@ -29,7 +29,6 @@ interface PartInfo {
   spearman: number;
 }
 
-
 async function getPartitions(file: string) {
   const data = await fs.readFile(file, "utf-8");
   const all = JSON.parse(data) as DatasetProfile;
@@ -54,25 +53,28 @@ async function getPartitions(file: string) {
   return res;
 }
 
-
 function getCsvRow(partInfo: PartInfo) {
-  const res = `"${partInfo.dsId}", "${partInfo.partId}", "${partInfo.year}", "${partInfo.size}",  "${partInfo.measureType}", "${partInfo.totalAnnot || ''}", "${partInfo.pairAnnot || ''}", "${partInfo.pearson || ''}", "${partInfo.spearman || ''}"\n`;
+  const res = `"${partInfo.dsId}", "${partInfo.partId}", "${partInfo.year}", "${
+    partInfo.size
+  }",  "${partInfo.measureType}", "${partInfo.totalAnnot || ""}", "${
+    partInfo.pairAnnot || ""
+  }", "${partInfo.pearson || ""}", "${partInfo.spearman || ""}"\n`;
   return res;
 }
 
 function genCsvHeader() {
-  const res = '"Dataset ID", "Partition ID", "Year", "Size",  "Measure Type",  "Total Annotators", "Pair Annotators", "Pearson", "Spearman"\n';
+  const res =
+    '"Dataset ID", "Partition ID", "Year", "Size",  "Measure Type",  "Total Annotators", "Pair Annotators", "Pearson", "Spearman"\n';
   return res;
 }
 
-
 async function main() {
-  const folder = './profiles';
+  const folder = "./profiles";
   const files = await getFileNames(folder);
   let csv = genCsvHeader();
   const parts = [];
   for (const file of files) {
-    const moreParts = await getPartitions(folder + '/' + file);
+    const moreParts = await getPartitions(folder + "/" + file);
     parts.push(...moreParts);
   }
   for (const part of parts) {
@@ -82,7 +84,7 @@ async function main() {
 }
 
 async function writeCsv(csv: string) {
-  await fs.writeFile('./metrics.csv', csv);
+  await fs.writeFile("./metrics.csv", csv);
 }
 
-main().then(() => console.log('Done!'));
+main().then(() => console.log("Done!"));
