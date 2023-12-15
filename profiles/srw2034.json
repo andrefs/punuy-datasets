@@ -24,6 +24,10 @@
         "value": {
           "min": 0,
           "max": 10
+        },
+        "values": {
+          "min": 0,
+          "max": 10
         }
       },
       "metrics": {
