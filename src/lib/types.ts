@@ -215,7 +215,7 @@ type PartitionData = {
    */
   term2: string;
 } & (
-    | {
+  | {
       /**
        * The averaged numeric value of the semantic measure for the pair
        */
@@ -233,7 +233,7 @@ type PartitionData = {
        */
       values?: (number | null)[];
     }
-    | {
+  | {
       /**
        * The averaged numeric value of the semantic measure for the pair
        */
@@ -246,4 +246,4 @@ type PartitionData = {
        */
       values: number[];
     }
-  );
+);
