@@ -15,6 +15,7 @@
       "https://github.com/czgbjy/GTRD/tree/master/Geo-Terminology%20Relatedness%20Dataset"
     ],
     "languages": ["en"],
+    "domain": "geographical",
     "measureTypes": ["relatedness"]
   },
   "partitions": [

@@ -14,6 +14,7 @@
     "downloadUrls": ["https://relwod.wordpress.com/datasets/"],
     "measureTypes": ["relatedness"],
     "languages": ["en"],
+    "domain": "general",
     "tags": ["entities"]
   },
   "partitions": [

@@ -13,6 +13,7 @@
     "description": "",
     "downloadUrls": ["http://www-nlp.stanford.edu/~ehhuang/SCWS.zip"],
     "languages": ["en"],
+    "domain": "general",
     "measureTypes": ["relatedness"]
   },
   "partitions": [

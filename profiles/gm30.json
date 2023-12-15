@@ -13,6 +13,7 @@
     "description": "",
     "downloadUrls": [],
     "languages": ["en"],
+    "domain": "general",
     "measureTypes": ["relatedness"]
   },
   "partitions": [

@@ -16,6 +16,7 @@
     ],
     "measureTypes": ["relatedness"],
     "languages": ["en"],
+    "domain": "general",
     "tags": ["entities"]
   },
   "partitions": [

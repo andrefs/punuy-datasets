@@ -18,6 +18,7 @@
       "https://gabrilovich.com/resources/data/wordsim353/wordsim353.zip"
     ],
     "languages": ["en"],
+    "domain": "general",
     "measureTypes": ["similarity"]
   },
   "partitions": [

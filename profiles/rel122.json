@@ -16,6 +16,7 @@
       "https://www.cs.ucf.edu/~seansz/rel-122/rel122-norms.pdf"
     ],
     "languages": ["en"],
+    "domain": "general",
     "measureTypes": ["relatedness"]
   },
   "partitions": [

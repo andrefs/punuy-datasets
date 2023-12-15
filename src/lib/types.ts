@@ -65,6 +65,12 @@ interface Metadata {
   languages: "en"[];
 
   /**
+   * The domain of the dataset
+   */
+
+  domain: "general" | "geographical" | "biomedical";
+
+  /**
    * Which type of measures are used to compare the words
    */
   measureTypes: ("similarity" | "relatedness")[];
@@ -107,7 +113,6 @@ interface Partition {
    * The scale of the semantic measure values
    */
   scale: {
-
     /**
      * The scale for the average value
      */
@@ -122,7 +127,7 @@ interface Partition {
        * @minimum 1
        */
       max: number;
-    },
+    };
 
     /**
      * The scale for the individual annotator values
@@ -138,7 +143,7 @@ interface Partition {
        * @minimum 1
        */
       max: number;
-    }
+    };
   };
 
   /**
@@ -210,7 +215,7 @@ type PartitionData = {
    */
   term2: string;
 } & (
-    | {
+  | {
       /**
        * The averaged numeric value of the semantic measure for the pair
        */
@@ -228,7 +233,7 @@ type PartitionData = {
        */
       values?: (number | null)[];
     }
-    | {
+  | {
       /**
        * The averaged numeric value of the semantic measure for the pair
        */
@@ -241,4 +246,4 @@ type PartitionData = {
        */
       values: number[];
     }
-  );
+);

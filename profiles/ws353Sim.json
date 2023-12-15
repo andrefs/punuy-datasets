@@ -13,6 +13,7 @@
     "description": "The final goldstandard for measuring similarity, in the same format as the WordSim353 distribution.",
     "downloadUrls": ["http://alfonseca.org/pubs/ws353simrel.tar.gz"],
     "languages": ["en"],
+    "domain": "general",
     "measureTypes": ["similarity"]
   },
   "partitions": [

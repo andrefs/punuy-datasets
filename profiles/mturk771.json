@@ -16,6 +16,7 @@
       "http://www2.mta.ac.il/~gideon/datasets/MTURK-771.csv"
     ],
     "measureTypes": ["relatedness"],
+    "domain": "general",
     "languages": ["en"],
     "tags": ["mturk"]
   },

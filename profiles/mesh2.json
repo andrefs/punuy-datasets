@@ -18,6 +18,7 @@
       "https://www.intelligence.tuc.gr/similarity/datasets/MeSHDataset.pdf"
     ],
     "languages": ["en"],
+    "domain": "biomedical",
     "measureTypes": ["similarity"]
   },
   "partitions": [

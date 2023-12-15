@@ -18,6 +18,7 @@
     ],
     "measureTypes": ["relatedness"],
     "languages": ["en"],
+    "domain": "general",
     "tags": ["mturk"]
   },
   "partitions": [

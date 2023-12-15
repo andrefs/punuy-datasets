@@ -17,6 +17,7 @@
       "https://www.repository.cam.ac.uk/bitstreams/8b6bfa68-4256-4e2d-9d06-628748b2daea/download"
     ],
     "languages": ["en"],
+    "domain": "general",
     "measureTypes": ["similarity"]
   },
   "partitions": [

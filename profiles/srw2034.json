@@ -13,6 +13,7 @@
     "description": "The dataset (rw.txt) consists of 2034 pairs, one per line. Each line consists of a pair of words, the average similarity rating and up to 10 individual ratings. Tokens are tab-delimited.",
     "downloadUrls": ["http://www-nlp.stanford.edu/~lmthang/morphoNLM/rw.zip"],
     "languages": ["en"],
+    "domain": "biomedical",
     "measureTypes": ["similarity"]
   },
   "partitions": [
