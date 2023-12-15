@@ -15,7 +15,7 @@ A collection of semantic measures evaluation datasets described in academic lite
 | mc30 | Miller and Charles (1991) | 1991 | sim | [link](https://sci-hub.se/https://doi.org/10.1080/01690969108406936) |  | 
 | ws353 | WordSimilarity-353 | 2002 | sim | [link](https://www.cs.tau.ac.il/~ruppin/p116-finkelstein.pdf) | [link](https://www.cs.technion.ac.il/~gabr/resources/data/wordsim353/) | 
 | yp130 | YP-130 | 2005 | sim | [link](http://david.wardpowers.info/Research/AI/papers/200601-GWC-VerbSimWN.pdf) |  | 
-| mesh2 | mesh2 | 2006 | sim | [link](https://users.uop.gr/~praftop/papers/pdf/wms06-PVHR.pdf) | [link](https://www.intelligence.tuc.gr/similarity/datasets.php) | 
+| mesh2 | MeSH2 | 2006 | sim | [link](https://users.uop.gr/~praftop/papers/pdf/wms06-PVHR.pdf) | [link](https://www.intelligence.tuc.gr/similarity/datasets.php) | 
 | zie55 | Ziegler et al. (2006) | 2006 | rel | [link](https://web.archive.org/web/20070824183036id_/http://www.informatik.uni-freiburg.de/~ksimon/papers/CIKM-06-Proximity.pdf) |  | 
 | mayoSRS | MayoSRS | 2007 | rel | [link](https://www.sciencedirect.com/science/article/pii/S1532046406000645?via%3Dihub) | [link](https://conservancy.umn.edu/handle/11299/196265) | 
 | minimayoSRS | MiniMayoSRS | 2007 | rel | [link](https://www.sciencedirect.com/science/article/pii/S1532046406000645?via%3Dihub) | [link](https://conservancy.umn.edu/handle/11299/196265) | 
@@ -36,7 +36,7 @@ A collection of semantic measures evaluation datasets described in academic lite
 | baker143 | Baker 143 | 2014 | sim | [link](https://aclanthology.org/D14-1034.pdf) | [link](https://github.com/sb895/verb-similarity-dataset) | 
 | geresid50 | GeReSiD | 2014 | rel/sim | [link](https://www.academia.edu/download/45239000/1402.3371.pdf) | [link](https://github.com/ucd-spatial/Datasets/tree/master/geresid-geo_relatedness_similarity_dataset) | 
 | men3000 | MEN | 2014 | rel | [link](https://core.ac.uk/download/pdf/35317232.pdf) | [link](https://staff.fnwi.uva.nl/e.bruni/MEN) | 
-| sl7576 | sl7576 | 2014 | sim | [link](https://aclanthology.org/P14-1068.pdf) | [link](https://sites.google.com/view/carinasilberer) | 
+| sl7576 | SL7576 | 2014 | sim | [link](https://aclanthology.org/P14-1068.pdf) | [link](https://sites.google.com/view/carinasilberer) | 
 | simlex999 | SimLex-999 | 2015 | sim | [link](https://aclanthology.org/J15-4004.pdf) | [link](https://fh295.github.io/simlex.html) | 
 | simverb3500 | SimVerb-3500 | 2016 | sim | [link](https://aclanthology.org/D16-1235.pdf) | [link](https://www.repository.cam.ac.uk/items/8a568201-0fa4-4e54-81b1-f920102492ea) | 
 | umnsrsMod | UMNSRS (modified) | 2016 | rel/sim | [link](https://academic.oup.com/bioinformatics/article/32/23/3635/2525643) | [link](https://conservancy.umn.edu/handle/11299/196265) | 
@@ -44,5 +44,6 @@ A collection of semantic measures evaluation datasets described in academic lite
 | word19k | Wikipedia Oriented Relatedness Dataset | 2018 | rel | [link](https://aclanthology.org/L18-1408.pdf) | [link](https://developer.ibm.com/exchanges/data/all/wikipedia-oriented-relatedness/) | 
 
 <!-- datasets-section-end -->
+
 
 
