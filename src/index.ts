@@ -41,6 +41,7 @@ import semeval17 from "./datasets/semeval17";
 import pt65 from "./datasets/pt65";
 
 import lxws353 from "./datasets/lxws353";
+import lxsimlex999 from "./datasets/lxsimlex999";
 
 export {
   bg100k,
@@ -86,4 +87,5 @@ export {
   pt65,
   //
   lxws353,
+  lxsimlex999,
 };

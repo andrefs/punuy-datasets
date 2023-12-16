@@ -42,11 +42,13 @@ A collection of datasets, gathered from the academic literature, for the evaluat
 | tr9856 | TR9856 | 2015 | rel | [link](https://aclanthology.org/P15-2069.pdf) | [link](https://developer.ibm.com/exchanges/data/all/multi-word-term-relatedness-benchmark/) | 
 | simverb3500 | SimVerb-3500 | 2016 | sim | [link](https://aclanthology.org/D16-1235.pdf) | [link](https://www.repository.cam.ac.uk/items/8a568201-0fa4-4e54-81b1-f920102492ea) | 
 | umnsrsMod | UMNSRS (modified) | 2016 | rel/sim | [link](https://academic.oup.com/bioinformatics/article/32/23/3635/2525643) | [link](https://conservancy.umn.edu/handle/11299/196265) | 
+| lxws353 | LX-WordSim-353 | 2017 | rel | [link](https://www.grupocole.org/cole/library/ps/QueCarRodGarSilCorRenPerCamBra2017a.pdf) | [link](https://portulanclarin.net/repository/browse/lx-wordsim-353/c4e08b72e6dd11e6a2aa782bcb074135a5ac38ba70a14fb3adbd5782b21dacb0/) | 
 | semeval17 | SemEval-2017 Task 2.1 | 2017 | sim | [link](https://aclanthology.org/S17-2002.pdf) | [link](https://alt.qcri.org/semeval2017/task2/) | 
 | gtrd | GTRD | 2018 | rel | [link](https://pdfs.semanticscholar.org/f8f1/b82386147b6a9142b2cff2dc662a3e614d80.pdf) | [link](https://github.com/czgbjy/GTRD) | 
 | word19k | Wikipedia Oriented Relatedness Dataset | 2018 | rel | [link](https://aclanthology.org/L18-1408.pdf) | [link](https://developer.ibm.com/exchanges/data/all/wikipedia-oriented-relatedness/) | 
 
 <!-- datasets-section-end -->
+
 
 
 ## Adding a new dataset
