@@ -42,6 +42,7 @@ import pt65 from "./datasets/pt65";
 
 import lxws353 from "./datasets/lxws353";
 import lxsimlex999 from "./datasets/lxsimlex999";
+import lxrw2034 from "./datasets/lxrw2034";
 
 export {
   bg100k,
@@ -88,4 +89,5 @@ export {
   //
   lxws353,
   lxsimlex999,
+  lxrw2034,
 };

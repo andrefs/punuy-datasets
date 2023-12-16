@@ -40,8 +40,8 @@
           "minEachPair": 2
         },
         "interAgreement": {
-          "pearson": 0.688,
-          "spearman": null
+          "pearson": null,
+          "spearman": 0.688
         }
       },
       "data": [
