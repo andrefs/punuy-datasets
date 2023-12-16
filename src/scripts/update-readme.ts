@@ -9,6 +9,8 @@ interface DsInfo {
   id: string;
   name: string;
   year: number;
+  lang: string;
+  domain: string;
   measureTypes: string;
   reference: string;
   website: string;
@@ -55,6 +57,8 @@ async function getFileInfo(file: string) {
     id: all.id,
     name: all.metadata.name,
     year: Number(all.metadata.date.substring(0, 4)),
+    lang: all.metadata.languages.join("/"),
+    domain: all.metadata.domain,
     measureTypes: measTypes,
     reference: all.metadata.papers[0].url,
     website: all.metadata.urls[0],
@@ -84,7 +88,7 @@ async function generateDatasetsSection() {
 
 function getTableRow(dsInfo: DsInfo) {
   const fields = getTableFields(dsInfo);
-  const res = `| ${fields.id} | ${fields.name} | ${fields.year} | ${fields.measureTypes} | ${fields.reference} | ${fields.website} | \n`;
+  const res = `| ${fields.id} | ${fields.name} | ${fields.year} | ${fields.lang} | ${fields.domain} | ${fields.measureTypes} | ${fields.reference} | ${fields.website} | \n`;
   return res;
 }
 
@@ -93,6 +97,8 @@ function getTableFields(dsInfo: DsInfo) {
     id: dsInfo.id,
     name: dsInfo.name,
     year: dsInfo.year,
+    lang: dsInfo.lang,
+    domain: dsInfo.domain,
     measureTypes: dsInfo.measureTypes,
     reference: dsInfo.reference ? `[link](${dsInfo.reference})` : "",
     website: dsInfo.website ? `[link](${dsInfo.website})` : "",
@@ -100,7 +106,7 @@ function getTableFields(dsInfo: DsInfo) {
 }
 
 function genTableHeader() {
-  let res = `| ID | Name | Year | Sim/Rel | Reference | Website | \n`;
+  let res = `| ID | Name | Year | Language | Domain | Sim/Rel | Reference | Website | \n`;
   res += `| --- | --- | --- | --- | --- | --- | \n`;
   return res;
 }
