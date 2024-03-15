@@ -1,3 +1,3 @@
-import profile from "../../profiles/gm30.json";
+import profile from "../../profiles/simlex999.json";
 import { DatasetProfile } from "../lib/types";
 export default profile as DatasetProfile;
