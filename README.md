@@ -66,9 +66,16 @@ A collection of datasets, gathered from the academic literature, for the evaluat
 
 
 
+
 ## Adding a new dataset
 
 If you can create the dataset profile yourself, PRs are welcome!
 You can find the dataset schema (in Typescript) [here](./src/lib/types.ts).
 
-Or you can open an issue (please include a link to the dataset homepage (if it exists), a link to download the dataset and a link to the paper describing it). I'll get to it as soon as I have some free time ;)
+Or you can open an issue. Please include:
+
+1. a link to the dataset homepage (if it exists), 
+1. a link to download the dataset, and
+1. a link to the paper describing it.
+
+I'll get to it as soon as I have some free time ;)
