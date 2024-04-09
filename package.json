@@ -6,7 +6,7 @@
   "imports": {
     "default": "./src/index.ts",
     "profiles/*": "./profiles/*",
-    "types": "./src/lib/types.ts",
+    "types": "./src/lib/types.ts"
   },
   "exports": {
     ".": "./src/index.ts",
