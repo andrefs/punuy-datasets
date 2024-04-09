@@ -6,11 +6,8 @@
   "exports": {
     ".": "./src/index.ts",
     "./datasets/*": "./src/datasets/*.ts",
-    "./lib/*": "./src/lib/*.ts"
-  },
-  "imports": {
-    "datasets": "./src/datasets",
-    "types": "./src/lib/types"
+    ".datasets": "./src/datasets",
+    "./types": "./src/lib/types"
   },
   "scripts": {
     "build": "./src/scripts/compile-schema",
