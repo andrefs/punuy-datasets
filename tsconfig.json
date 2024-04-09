@@ -2,16 +2,25 @@
   "compilerOptions": {
     "target": "es2016",
     "outDir": "dist",
-    "lib": ["ES2017", "DOM"],
+    "lib": [
+      "ES2017",
+      "DOM"
+    ],
     "module": "nodenext",
     "resolveJsonModule": true,
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
     "strict": true,
     "paths": {
-      "types": ["./src/lib/types"],
-      "profiles/*": ["./profiles/*"],
-      "datasets/*": ["./src/datasets/*"]
+      "types": [
+        "./src/lib/types"
+      ],
+      "profiles/*": [
+        "./profiles/*"
+      ],
+      "datasets/*": [
+        "./src/datasets/*"
+      ]
     },
     "skipLibCheck": true
   }

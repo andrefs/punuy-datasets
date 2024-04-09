@@ -2,7 +2,11 @@
   "name": "punuy-datasets",
   "version": "5.7.6",
   "description": "",
-  "main": "src/index.ts",
+  "exports": {
+    ".": "./src/index.ts",
+    "./datasets/*": "./src/datasets/*.ts",
+    "./types": "./src/lib/types.ts"
+  },
   "scripts": {
     "typecheck": "tsc -b tsconfig.json",
     "typecheck:watch": "tsc -b tsconfig.json --watch",
