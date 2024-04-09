@@ -9,9 +9,9 @@
     "forceConsistentCasingInFileNames": true,
     "strict": true,
     "paths": {
-      "types": ["./src/lib/types"],
-      "profiles/*": ["./profiles/*"],
-      "datasets/*": ["./src/datasets/*"]
+      "./types": ["./src/lib/types"],
+      "./profiles/*": ["./profiles/*"],
+      "./datasets/*": ["./src/datasets/*"]
     },
     "skipLibCheck": true
   }
