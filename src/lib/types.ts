@@ -22,7 +22,7 @@ export interface DatasetProfile {
   partitions: Partition[];
 }
 
-interface Metadata {
+export interface Metadata {
   /**
    * The name of the dataset
    */
@@ -99,7 +99,7 @@ export interface Paper {
   url?: string;
 }
 
-interface Partition {
+export interface Partition {
   /**
    * An identifier for the partition
    */
@@ -160,7 +160,7 @@ export type PartitionScale = {
   };
 };
 
-type PartitionMetrics = {
+export type PartitionMetrics = {
   /**
    * The number of annotators
    */
