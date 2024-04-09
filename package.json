@@ -6,7 +6,7 @@
   "exports": {
     ".": "./src/index.ts",
     "./datasets/*": "./src/datasets/*.ts",
-    ".datasets": "./src/datasets",
+    "./datasets": "./src/datasets",
     "./types": "./src/lib/types"
   },
   "scripts": {

@@ -5,6 +5,7 @@
     "lib": ["ES2017", "DOM"],
     "module": "nodenext",
     "resolveJsonModule": true,
+    "moduleResolution": "Bundler",
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
     "strict": true,
