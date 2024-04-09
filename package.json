@@ -3,6 +3,11 @@
   "version": "5.7.5",
   "description": "",
   "main": "src/index.ts",
+  "imports": {
+    "default": "./src/index.ts",
+    "profiles/*": "./profiles/*",
+    "types": "./src/lib/types.ts",
+  },
   "exports": {
     ".": "./src/index.ts",
     "./datasets/*": "./src/datasets/*.ts",
