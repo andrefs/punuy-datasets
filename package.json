@@ -6,8 +6,7 @@
   "exports": {
     ".": "./src/index.ts",
     "./datasets/*": "./src/datasets/*.ts",
-    "./datasets": "./src/datasets",
-    "./types": "./src/lib/types"
+    "./types": "./src/lib/types.ts"
   },
   "scripts": {
     "build": "./src/scripts/compile-schema",
