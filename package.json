@@ -8,6 +8,10 @@
     "./datasets/*": "./src/datasets/*.ts",
     "./lib/*": "./src/lib/*.ts"
   },
+  "imports": {
+    "datasets": "./src/datasets",
+    "types": "./src/lib/types",
+  },
   "scripts": {
     "build": "./src/scripts/compile-schema",
     "preversion": "ts-node src/scripts/update-readme.ts && npm run lint",
