@@ -2,9 +2,15 @@
   "name": "punuy-datasets",
   "version": "5.7.6",
   "description": "",
+  "imports": {
+    ".": "./src/index.ts",
+    "./types": "./src/lib/types.ts",
+    "./profiles/*": "./src/profiles/*.json"
+  },
   "exports": {
     ".": "./src/index.ts",
     "./datasets/*": "./src/datasets/*.ts",
+    "./profiles/*": "./src/profiles/*.json",
     "./types": "./src/lib/types.ts"
   },
   "scripts": {
