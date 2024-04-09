@@ -3,18 +3,6 @@
   "version": "5.7.6",
   "description": "",
   "main": "src/index.ts",
-  "imports": {
-    ".": "./src/index.ts",
-    "profiles/*": "./profiles/*",
-    "./datasets/*": "./src/datasets/*",
-    "types": "./src/lib/types.ts"
-  },
-  "exports": {
-    ".": "./src/index.ts",
-    "profiles/*": "./profiles/*",
-    "./datasets/*": "./src/datasets/*",
-    "types": "./src/lib/types.ts"
-  },
   "scripts": {
     "typecheck": "tsc -b tsconfig.json",
     "typecheck:watch": "tsc -b tsconfig.json --watch",
