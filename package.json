@@ -10,7 +10,7 @@
   },
   "imports": {
     "datasets": "./src/datasets",
-    "types": "./src/lib/types",
+    "types": "./src/lib/types"
   },
   "scripts": {
     "build": "./src/scripts/compile-schema",
