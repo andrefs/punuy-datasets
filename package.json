@@ -4,14 +4,15 @@
   "description": "",
   "imports": {
     ".": "./src/index.ts",
+    "./datasets/*.ts": "./src/datasets/*.ts",
     "./types": "./src/lib/types.ts",
-    "./profiles/*": "./src/profiles/*.json"
+    "./profiles/*.json": "./profiles/*.json"
   },
   "exports": {
     ".": "./src/index.ts",
     "./datasets/*": "./src/datasets/*.ts",
-    "./profiles/*": "./src/profiles/*.json",
-    "./types": "./src/lib/types.ts"
+    "./types": "./src/lib/types.ts",
+    "./profiles/*.json": "./profiles/*.json"
   },
   "scripts": {
     "typecheck": "tsc -b tsconfig.json",
