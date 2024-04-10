@@ -1,5 +1,5 @@
 import { promises as fs } from "fs";
-import { DatasetProfile } from "@types";
+import { DatasetProfile } from "../lib/types";
 
 const ignoreDS = ["bg100k"];
 const datasetsSectionStart = "<!-- datasets-section-start -->";

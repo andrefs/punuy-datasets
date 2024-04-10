@@ -1,48 +1,48 @@
-import bg100k from "@datasets/bg100k";
-import mayoSRS from "@datasets/mayoSRS";
-import minimayoSRS from "@datasets/minimayoSRS";
-import umnsrs from "@datasets/umnsrs";
-import umnsrsMod from "@datasets/umnsrsMod";
+import bg100k from "../src/datasets/bg100k";
+import mayoSRS from "../src/datasets/mayoSRS";
+import minimayoSRS from "../src/datasets/minimayoSRS";
+import umnsrs from "../src/datasets/umnsrs";
+import umnsrsMod from "../src/datasets/umnsrsMod";
 
-import mc30 from "@datasets/mc30";
-import mturk287 from "@datasets/mturk287";
-import rg65 from "@datasets/rg65";
-import srw2034 from "@datasets/srw2034";
-import ws353 from "@datasets/ws353";
+import mc30 from "../src/datasets/mc30";
+import mturk287 from "../src/datasets/mturk287";
+import rg65 from "../src/datasets/rg65";
+import srw2034 from "../src/datasets/srw2034";
+import ws353 from "../src/datasets/ws353";
 
-import ws353Rel from "@datasets/ws353Rel";
-import ws353Sim from "@datasets/ws353Sim";
-import yp130 from "@datasets/yp130";
-import ps65 from "@datasets/ps65";
-import mesh2 from "@datasets/mesh2";
+import ws353Rel from "../src/datasets/ws353Rel";
+import ws353Sim from "../src/datasets/ws353Sim";
+import yp130 from "../src/datasets/yp130";
+import ps65 from "../src/datasets/ps65";
+import mesh2 from "../src/datasets/mesh2";
 
-import zie55 from "@datasets/zie55";
-import gm30 from "@datasets/gm30";
-import mturk771 from "@datasets/mturk771";
-import scws2003 from "@datasets/scws2003";
-import reword26 from "@datasets/reword26";
+import zie55 from "../src/datasets/zie55";
+import gm30 from "../src/datasets/gm30";
+import mturk771 from "../src/datasets/mturk771";
+import scws2003 from "../src/datasets/scws2003";
+import reword26 from "../src/datasets/reword26";
 
-import atlasify240 from "@datasets/atlasify240";
-import men3000 from "@datasets/men3000";
-import wp300 from "@datasets/wp300";
-import rel122 from "@datasets/rel122";
-import ma28 from "@datasets/ma28";
+import atlasify240 from "../src/datasets/atlasify240";
+import men3000 from "../src/datasets/men3000";
+import wp300 from "../src/datasets/wp300";
+import rel122 from "../src/datasets/rel122";
+import ma28 from "../src/datasets/ma28";
 
-import sl7576 from "@datasets/sl7576";
-import simlex999 from "@datasets/simlex999";
-import baker143 from "@datasets/baker143";
-import geresid50 from "@datasets/geresid50";
-import simverb3500 from "@datasets/simverb3500";
+import sl7576 from "../src/datasets/sl7576";
+import simlex999 from "../src/datasets/simlex999";
+import baker143 from "../src/datasets/baker143";
+import geresid50 from "../src/datasets/geresid50";
+import simverb3500 from "../src/datasets/simverb3500";
 
-import gtrd from "@datasets/gtrd";
-import word19k from "@datasets/word19k";
-import tr9856 from "@datasets/tr9856";
-import semeval17 from "@datasets/semeval17";
-import pt65 from "@datasets/pt65";
+import gtrd from "../src/datasets/gtrd";
+import word19k from "../src/datasets/word19k";
+import tr9856 from "../src/datasets/tr9856";
+import semeval17 from "../src/datasets/semeval17";
+import pt65 from "../src/datasets/pt65";
 
-import lxws353 from "@datasets/lxws353";
-import lxsimlex999 from "@datasets/lxsimlex999";
-import lxrw2034 from "@datasets/lxrw2034";
+import lxws353 from "../src/datasets/lxws353";
+import lxsimlex999 from "../src/datasets/lxsimlex999";
+import lxrw2034 from "../src/datasets/lxrw2034";
 
 export {
   bg100k,

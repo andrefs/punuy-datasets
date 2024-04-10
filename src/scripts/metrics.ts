@@ -1,5 +1,5 @@
 import { promises as fs } from "fs";
-import { DatasetProfile } from "@types";
+import { DatasetProfile } from "../lib/types";
 
 async function getFileNames(folder: string) {
   const res = [];
