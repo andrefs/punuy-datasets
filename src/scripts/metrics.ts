@@ -54,9 +54,11 @@ async function getPartitions(file: string) {
 }
 
 function getCsvRow(partInfo: PartInfo) {
-  const res = `"${partInfo.dsId}", "${partInfo.partId}", "${partInfo.year}", "${partInfo.size
-    }",  "${partInfo.measureType}", "${partInfo.totalAnnot || ""}", "${partInfo.pairAnnot || ""
-    }", "${partInfo.pearson || ""}", "${partInfo.spearman || ""}"\n`;
+  const res = `"${partInfo.dsId}", "${partInfo.partId}", "${partInfo.year}", "${
+    partInfo.size
+  }",  "${partInfo.measureType}", "${partInfo.totalAnnot || ""}", "${
+    partInfo.pairAnnot || ""
+  }", "${partInfo.pearson || ""}", "${partInfo.spearman || ""}"\n`;
   return res;
 }
 
