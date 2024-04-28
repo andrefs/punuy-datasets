@@ -1,0 +1,182 @@
+[
+  {
+    "term1": "Holiday Inn",
+    "term2": "Valentine’s Day",
+    "value": 1.882,
+    "stddev": 0.855
+  },
+  {
+    "term1": "Blockbuster",
+    "term2": "Nike",
+    "value": 1.588,
+    "stddev": 0.867
+  },
+  {
+    "term1": "Inland Revenue",
+    "term2": "Love",
+    "value": 1.216,
+    "stddev": 0.604
+  },
+  {
+    "term1": "Google",
+    "term2": "GMail",
+    "value": 4.118,
+    "stddev": 0.783
+  },
+  {
+    "term1": "Love Quotes",
+    "term2": "TV Guide",
+    "value": 1.549,
+    "stddev": 0.749
+  },
+  {
+    "term1": "PC World",
+    "term2": "United Airlines",
+    "value": 1.235,
+    "stddev": 0.468
+  },
+  {
+    "term1": "Jokes",
+    "term2": "Quotes",
+    "value": 2.294,
+    "stddev": 1.108
+  },
+  {
+    "term1": "Delta Airlines",
+    "term2": "Love Poems",
+    "value": 1.098,
+    "stddev": 0.357
+  },
+  {
+    "term1": "Britney Spears",
+    "term2": "Paris Hilton",
+    "value": 3.804,
+    "stddev": 0.767
+  },
+  {
+    "term1": "NASA",
+    "term2": "Super Bowl",
+    "value": 1.392,
+    "stddev": 0.659
+  },
+  {
+    "term1": "Periodic Table",
+    "term2": "Toyota",
+    "value": 1.176,
+    "stddev": 0.55
+  },
+  {
+    "term1": "WinZIP",
+    "term2": "Zip Code Finder",
+    "value": 1.902,
+    "stddev": 1.241
+  },
+  {
+    "term1": "EasyJet",
+    "term2": "Cheap Flights",
+    "value": 4.294,
+    "stddev": 0.749
+  },
+  {
+    "term1": "People Search",
+    "term2": "White Pages",
+    "value": 3.843,
+    "stddev": 1.274
+  },
+  {
+    "term1": "Tsunami",
+    "term2": "Harry Potter",
+    "value": 1.098,
+    "stddev": 0.297
+  },
+  {
+    "term1": "BBC",
+    "term2": "Jennifer Lopez",
+    "value": 1.686,
+    "stddev": 0.779
+  },
+  {
+    "term1": "U2",
+    "term2": "Recipes",
+    "value": 1.157,
+    "stddev": 0.364
+  },
+  {
+    "term1": "Thesaurus",
+    "term2": "US Airways",
+    "value": 1.118,
+    "stddev": 0.322
+  },
+  {
+    "term1": "XBOX Cheats",
+    "term2": "Yahoo Games",
+    "value": 2.941,
+    "stddev": 0.998
+  },
+  {
+    "term1": "Currency Converter",
+    "term2": "Exchange Rates",
+    "value": 4.137,
+    "stddev": 0.971
+  },
+  {
+    "term1": "Flowers",
+    "term2": "Weather",
+    "value": 2.765,
+    "stddev": 1.059
+  },
+  {
+    "term1": "Used Cars",
+    "term2": "Virgin",
+    "value": 1.431,
+    "stddev": 0.693
+  },
+  {
+    "term1": "Eminem",
+    "term2": "Music",
+    "value": 4.137,
+    "stddev": 0.687
+  },
+  {
+    "term1": "Cars",
+    "term2": "Honda",
+    "value": 4.176,
+    "stddev": 0.617
+  },
+  {
+    "term1": "Lyrics",
+    "term2": "Real Player",
+    "value": 2.588,
+    "stddev": 1.07
+  },
+  {
+    "term1": "Free Games",
+    "term2": "XBOX 2",
+    "value": 2.549,
+    "stddev": 0.996
+  },
+  {
+    "term1": "MSN Messenger",
+    "term2": "UPS",
+    "value": 1.706,
+    "stddev": 0.799
+  },
+  {
+    "term1": "Microsoft",
+    "term2": "Internet Explorer",
+    "value": 4.314,
+    "stddev": 0.727
+  },
+  {
+    "term1": "Poems",
+    "term2": "Song Lyrics",
+    "value": 3.647,
+    "stddev": 0.762
+  },
+  {
+    "term1": "Delta Airlines",
+    "term2": "Walmart",
+    "value": 1.725,
+    "stddev": 0.794
+  }
+]

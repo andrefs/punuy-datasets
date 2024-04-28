@@ -1,0 +1,252 @@
+[
+  {
+    "term1": "administrative office",
+    "term2": "town hall",
+    "value": 0.7375
+  },
+  {
+    "term1": "mountain hut",
+    "term2": "hilltop, mountaintop",
+    "value": 0.7089
+  },
+  {
+    "term1": "arts centre",
+    "term2": "bureau de change/currency exchange",
+    "value": 0.1406
+  },
+  {
+    "term1": "art shop",
+    "term2": "art gallery",
+    "value": 0.784
+  },
+  {
+    "term1": "barracks",
+    "term2": "shooting range",
+    "value": 0.5759
+  },
+  {
+    "term1": "ambulance station",
+    "term2": "city",
+    "value": 0.3892
+  },
+  {
+    "term1": "basketball court",
+    "term2": "volleyball facility",
+    "value": 0.7531
+  },
+  {
+    "term1": "bay",
+    "term2": "body of water (lake, pond)",
+    "value": 0.7312
+  },
+  {
+    "term1": "beauty parlour",
+    "term2": "fire station",
+    "value": 0.0737
+  },
+  {
+    "term1": "canal",
+    "term2": "dock",
+    "value": 0.713
+  },
+  {
+    "term1": "canoe spot",
+    "term2": "hunting shop",
+    "value": 0.3156
+  },
+  {
+    "term1": "car store/shop",
+    "term2": "cycling facility",
+    "value": 0.35
+  },
+  {
+    "term1": "church",
+    "term2": "historic ruins",
+    "value": 0.5494
+  },
+  {
+    "term1": "city",
+    "term2": "railway station",
+    "value": 0.5156
+  },
+  {
+    "term1": "city suburb",
+    "term2": "antiques furniture shop",
+    "value": 0.1562
+  },
+  {
+    "term1": "community centre",
+    "term2": "stream",
+    "value": 0.0737
+  },
+  {
+    "term1": "fashion shop",
+    "term2": "swimming spot",
+    "value": 0.0737
+  },
+  {
+    "term1": "floodplain",
+    "term2": "wetland",
+    "value": 0.7595
+  },
+  {
+    "term1": "glacier",
+    "term2": "body of water (lake, pond)",
+    "value": 0.5812
+  },
+  {
+    "term1": "greengrocer",
+    "term2": "aqueduct",
+    "value": 0.0417
+  },
+  {
+    "term1": "heritage item,area",
+    "term2": "valley",
+    "value": 0.2727
+  },
+  {
+    "term1": "historic battlefield",
+    "term2": "monument",
+    "value": 0.7407
+  },
+  {
+    "term1": "historic castle",
+    "term2": "city walls",
+    "value": 0.7469
+  },
+  {
+    "term1": "industrial landuse",
+    "term2": "landfill",
+    "value": 0.4906
+  },
+  {
+    "term1": "interior decoration shop",
+    "term2": "tomb",
+    "value": 0.0256
+  },
+  {
+    "term1": "managed forest",
+    "term2": "lone, significant tree",
+    "value": 0.4383
+  },
+  {
+    "term1": "motel",
+    "term2": "hotel",
+    "value": 0.9312
+  },
+  {
+    "term1": "bed and breakfast",
+    "term2": "school building",
+    "value": 0.1139
+  },
+  {
+    "term1": "nursing home",
+    "term2": "continent",
+    "value": 0.0128
+  },
+  {
+    "term1": "office building",
+    "term2": "academic bookstore",
+    "value": 0.2848
+  },
+  {
+    "term1": "panoramic viewpoint",
+    "term2": "race track",
+    "value": 0.1646
+  },
+  {
+    "term1": "picnic site",
+    "term2": "stream",
+    "value": 0.4969
+  },
+  {
+    "term1": "police station",
+    "term2": "prison",
+    "value": 0.5781
+  },
+  {
+    "term1": "political boundary",
+    "term2": "women's clothes shop",
+    "value": 0.0162
+  },
+  {
+    "term1": "post box",
+    "term2": "town",
+    "value": 0.4719
+  },
+  {
+    "term1": "public transport station",
+    "term2": "railway platform",
+    "value": 0.8735
+  },
+  {
+    "term1": "restaurant",
+    "term2": "beverages shop",
+    "value": 0.6605
+  },
+  {
+    "term1": "school",
+    "term2": "toy shop",
+    "value": 0.2219
+  },
+  {
+    "term1": "sea",
+    "term2": "island",
+    "value": 0.7406
+  },
+  {
+    "term1": "shelter",
+    "term2": "agricultural field",
+    "value": 0.1582
+  },
+  {
+    "term1": "speed bump",
+    "term2": "car park",
+    "value": 0.5438
+  },
+  {
+    "term1": "stadium",
+    "term2": "athletics track",
+    "value": 0.8549
+  },
+  {
+    "term1": "swimming pool",
+    "term2": "water reservoir",
+    "value": 0.4051
+  },
+  {
+    "term1": "football,soccer, baseball pitch/field",
+    "term2": "corporate office",
+    "value": 0.0994
+  },
+  {
+    "term1": "theatre",
+    "term2": "cinema",
+    "value": 0.821
+  },
+  {
+    "term1": "tower",
+    "term2": "lighthouse",
+    "value": 0.6173
+  },
+  {
+    "term1": "supermarket",
+    "term2": "surveillance camera",
+    "value": 0.3656
+  },
+  {
+    "term1": "tram way",
+    "term2": "subway",
+    "value": 0.716
+  },
+  {
+    "term1": "vending machine",
+    "term2": "gate",
+    "value": 0.0833
+  },
+  {
+    "term1": "water ski facility",
+    "term2": "office furniture shop",
+    "value": 0.0475
+  }
+]

@@ -1,0 +1,2502 @@
+[
+  {
+    "term1": "hurt",
+    "term2": "offend",
+    "value": 6.81
+  },
+  {
+    "term1": "clarify",
+    "term2": "worry",
+    "value": 0.33
+  },
+  {
+    "term1": "fasten",
+    "term2": "attach",
+    "value": 8.47
+  },
+  {
+    "term1": "meet",
+    "term2": "introduce",
+    "value": 2.82
+  },
+  {
+    "term1": "throw",
+    "term2": "kick",
+    "value": 1.66
+  },
+  {
+    "term1": "rebel",
+    "term2": "protest",
+    "value": 7.64
+  },
+  {
+    "term1": "veer",
+    "term2": "lean",
+    "value": 3.98
+  },
+  {
+    "term1": "assault",
+    "term2": "kill",
+    "value": 5.81
+  },
+  {
+    "term1": "engage",
+    "term2": "wed",
+    "value": 4.32
+  },
+  {
+    "term1": "flee",
+    "term2": "escape",
+    "value": 9.79
+  },
+  {
+    "term1": "respect",
+    "term2": "salute",
+    "value": 4.81
+  },
+  {
+    "term1": "guess",
+    "term2": "suspect",
+    "value": 7.64
+  },
+  {
+    "term1": "annoy",
+    "term2": "irritate",
+    "value": 9.3
+  },
+  {
+    "term1": "excuse",
+    "term2": "pardon",
+    "value": 9.63
+  },
+  {
+    "term1": "hate",
+    "term2": "disgust",
+    "value": 4.98
+  },
+  {
+    "term1": "pick",
+    "term2": "gather",
+    "value": 6.64
+  },
+  {
+    "term1": "persuade",
+    "term2": "discourage",
+    "value": 1.66
+  },
+  {
+    "term1": "mix",
+    "term2": "dissolve",
+    "value": 5.81
+  },
+  {
+    "term1": "cry",
+    "term2": "punish",
+    "value": 1.16
+  },
+  {
+    "term1": "respond",
+    "term2": "talk",
+    "value": 4.98
+  },
+  {
+    "term1": "deliver",
+    "term2": "take",
+    "value": 2.49
+  },
+  {
+    "term1": "get",
+    "term2": "put",
+    "value": 1.33
+  },
+  {
+    "term1": "ride",
+    "term2": "drive",
+    "value": 4.98
+  },
+  {
+    "term1": "reject",
+    "term2": "ignore",
+    "value": 7.3
+  },
+  {
+    "term1": "holler",
+    "term2": "scream",
+    "value": 7.8
+  },
+  {
+    "term1": "drag",
+    "term2": "pull",
+    "value": 7.3
+  },
+  {
+    "term1": "waste",
+    "term2": "save",
+    "value": 1
+  },
+  {
+    "term1": "restore",
+    "term2": "receive",
+    "value": 1.49
+  },
+  {
+    "term1": "succeed",
+    "term2": "attempt",
+    "value": 2.16
+  },
+  {
+    "term1": "hamper",
+    "term2": "hurt",
+    "value": 4.53
+  },
+  {
+    "term1": "determine",
+    "term2": "deny",
+    "value": 0.66
+  },
+  {
+    "term1": "solve",
+    "term2": "discover",
+    "value": 3.15
+  },
+  {
+    "term1": "leave",
+    "term2": "float",
+    "value": 0.66
+  },
+  {
+    "term1": "deny",
+    "term2": "object",
+    "value": 7.24
+  },
+  {
+    "term1": "haul",
+    "term2": "stab",
+    "value": 0.33
+  },
+  {
+    "term1": "move",
+    "term2": "scramble",
+    "value": 5.15
+  },
+  {
+    "term1": "ridicule",
+    "term2": "bother",
+    "value": 1.83
+  },
+  {
+    "term1": "disintegrate",
+    "term2": "perish",
+    "value": 7.97
+  },
+  {
+    "term1": "stop",
+    "term2": "warn",
+    "value": 3.47
+  },
+  {
+    "term1": "dislike",
+    "term2": "discourage",
+    "value": 3.65
+  },
+  {
+    "term1": "grind",
+    "term2": "grate",
+    "value": 6.47
+  },
+  {
+    "term1": "plead",
+    "term2": "please",
+    "value": 1.66
+  },
+  {
+    "term1": "educate",
+    "term2": "barter",
+    "value": 1.33
+  },
+  {
+    "term1": "write",
+    "term2": "say",
+    "value": 2.49
+  },
+  {
+    "term1": "request",
+    "term2": "want",
+    "value": 6.47
+  },
+  {
+    "term1": "urge",
+    "term2": "beg",
+    "value": 4.98
+  },
+  {
+    "term1": "live",
+    "term2": "lend",
+    "value": 0.83
+  },
+  {
+    "term1": "accomplish",
+    "term2": "become",
+    "value": 3.98
+  },
+  {
+    "term1": "glide",
+    "term2": "hang",
+    "value": 1.66
+  },
+  {
+    "term1": "disprove",
+    "term2": "deny",
+    "value": 4.15
+  },
+  {
+    "term1": "shrink",
+    "term2": "grow",
+    "value": 1
+  },
+  {
+    "term1": "move",
+    "term2": "walk",
+    "value": 6.81
+  },
+  {
+    "term1": "dislike",
+    "term2": "admire",
+    "value": 0
+  },
+  {
+    "term1": "grab",
+    "term2": "snatch",
+    "value": 7.97
+  },
+  {
+    "term1": "compose",
+    "term2": "design",
+    "value": 6.14
+  },
+  {
+    "term1": "kidnap",
+    "term2": "capture",
+    "value": 7.8
+  },
+  {
+    "term1": "offend",
+    "term2": "embarrass",
+    "value": 4.48
+  },
+  {
+    "term1": "discourage",
+    "term2": "beat",
+    "value": 3.82
+  },
+  {
+    "term1": "toss",
+    "term2": "flip",
+    "value": 6.81
+  },
+  {
+    "term1": "surprise",
+    "term2": "guess",
+    "value": 1.49
+  },
+  {
+    "term1": "hamper",
+    "term2": "hold",
+    "value": 3.15
+  },
+  {
+    "term1": "hate",
+    "term2": "respect",
+    "value": 0.17
+  },
+  {
+    "term1": "glow",
+    "term2": "shine",
+    "value": 8.63
+  },
+  {
+    "term1": "talk",
+    "term2": "communicate",
+    "value": 7.47
+  },
+  {
+    "term1": "respect",
+    "term2": "acknowledge",
+    "value": 4.98
+  },
+  {
+    "term1": "reject",
+    "term2": "take",
+    "value": 0.33
+  },
+  {
+    "term1": "control",
+    "term2": "steer",
+    "value": 7.14
+  },
+  {
+    "term1": "presume",
+    "term2": "guess",
+    "value": 6.97
+  },
+  {
+    "term1": "hunt",
+    "term2": "find",
+    "value": 6.97
+  },
+  {
+    "term1": "hold",
+    "term2": "reserve",
+    "value": 6.31
+  },
+  {
+    "term1": "speak",
+    "term2": "listen",
+    "value": 0.66
+  },
+  {
+    "term1": "waste",
+    "term2": "deteriorate",
+    "value": 6.64
+  },
+  {
+    "term1": "follow",
+    "term2": "lead",
+    "value": 0.17
+  },
+  {
+    "term1": "obtain",
+    "term2": "get",
+    "value": 9.3
+  },
+  {
+    "term1": "think",
+    "term2": "pause",
+    "value": 4.48
+  },
+  {
+    "term1": "go",
+    "term2": "let",
+    "value": 2.82
+  },
+  {
+    "term1": "let",
+    "term2": "release",
+    "value": 4.65
+  },
+  {
+    "term1": "gather",
+    "term2": "bring",
+    "value": 4.65
+  },
+  {
+    "term1": "tell",
+    "term2": "describe",
+    "value": 7.64
+  },
+  {
+    "term1": "get",
+    "term2": "receive",
+    "value": 7.97
+  },
+  {
+    "term1": "cheat",
+    "term2": "lie",
+    "value": 5.15
+  },
+  {
+    "term1": "slay",
+    "term2": "kill",
+    "value": 9.46
+  },
+  {
+    "term1": "visit",
+    "term2": "travel",
+    "value": 6.31
+  },
+  {
+    "term1": "reprimand",
+    "term2": "yell",
+    "value": 4.48
+  },
+  {
+    "term1": "go",
+    "term2": "disperse",
+    "value": 5.64
+  },
+  {
+    "term1": "slap",
+    "term2": "pat",
+    "value": 2.99
+  },
+  {
+    "term1": "blur",
+    "term2": "rush",
+    "value": 2.49
+  },
+  {
+    "term1": "think",
+    "term2": "talk",
+    "value": 1.66
+  },
+  {
+    "term1": "bias",
+    "term2": "incline",
+    "value": 3.65
+  },
+  {
+    "term1": "keep",
+    "term2": "hide",
+    "value": 2.82
+  },
+  {
+    "term1": "get",
+    "term2": "conquer",
+    "value": 3.65
+  },
+  {
+    "term1": "throw",
+    "term2": "chuck",
+    "value": 8.47
+  },
+  {
+    "term1": "give",
+    "term2": "take",
+    "value": 1.49
+  },
+  {
+    "term1": "waste",
+    "term2": "decompose",
+    "value": 4.81
+  },
+  {
+    "term1": "color",
+    "term2": "decorate",
+    "value": 4.48
+  },
+  {
+    "term1": "use",
+    "term2": "borrow",
+    "value": 3.65
+  },
+  {
+    "term1": "hike",
+    "term2": "trail",
+    "value": 5.48
+  },
+  {
+    "term1": "lower",
+    "term2": "walk",
+    "value": 0.83
+  },
+  {
+    "term1": "save",
+    "term2": "drown",
+    "value": 1.33
+  },
+  {
+    "term1": "adjourn",
+    "term2": "judge",
+    "value": 1.99
+  },
+  {
+    "term1": "polish",
+    "term2": "tarnish",
+    "value": 2.32
+  },
+  {
+    "term1": "stay",
+    "term2": "come",
+    "value": 1
+  },
+  {
+    "term1": "go",
+    "term2": "begin",
+    "value": 4.32
+  },
+  {
+    "term1": "hurry",
+    "term2": "rush",
+    "value": 9.79
+  },
+  {
+    "term1": "plead",
+    "term2": "help",
+    "value": 0.66
+  },
+  {
+    "term1": "shine",
+    "term2": "glare",
+    "value": 3.65
+  },
+  {
+    "term1": "polish",
+    "term2": "inform",
+    "value": 0.5
+  },
+  {
+    "term1": "laugh",
+    "term2": "embarrass",
+    "value": 2.32
+  },
+  {
+    "term1": "hear",
+    "term2": "pretend",
+    "value": 0.33
+  },
+  {
+    "term1": "design",
+    "term2": "decorate",
+    "value": 5.15
+  },
+  {
+    "term1": "discover",
+    "term2": "count",
+    "value": 1.16
+  },
+  {
+    "term1": "achieve",
+    "term2": "excel",
+    "value": 7.64
+  },
+  {
+    "term1": "incline",
+    "term2": "dispose",
+    "value": 1.49
+  },
+  {
+    "term1": "observe",
+    "term2": "analyze",
+    "value": 5.98
+  },
+  {
+    "term1": "prosecute",
+    "term2": "charge",
+    "value": 6.31
+  },
+  {
+    "term1": "strain",
+    "term2": "release",
+    "value": 2.66
+  },
+  {
+    "term1": "begin",
+    "term2": "finish",
+    "value": 1.83
+  },
+  {
+    "term1": "suspect",
+    "term2": "turn",
+    "value": 1.16
+  },
+  {
+    "term1": "tell",
+    "term2": "remark",
+    "value": 6.31
+  },
+  {
+    "term1": "flex",
+    "term2": "relax",
+    "value": 0.66
+  },
+  {
+    "term1": "make",
+    "term2": "reproduce",
+    "value": 5.81
+  },
+  {
+    "term1": "glow",
+    "term2": "burn",
+    "value": 4.32
+  },
+  {
+    "term1": "disprove",
+    "term2": "disagree",
+    "value": 5.98
+  },
+  {
+    "term1": "attempt",
+    "term2": "try",
+    "value": 8.63
+  },
+  {
+    "term1": "beat",
+    "term2": "pounce",
+    "value": 2.82
+  },
+  {
+    "term1": "conquer",
+    "term2": "divide",
+    "value": 1
+  },
+  {
+    "term1": "look",
+    "term2": "observe",
+    "value": 9.3
+  },
+  {
+    "term1": "calculate",
+    "term2": "subtract",
+    "value": 3.65
+  },
+  {
+    "term1": "rip",
+    "term2": "tear",
+    "value": 9.96
+  },
+  {
+    "term1": "gather",
+    "term2": "obtain",
+    "value": 6.31
+  },
+  {
+    "term1": "hit",
+    "term2": "attack",
+    "value": 6.81
+  },
+  {
+    "term1": "swoon",
+    "term2": "fall",
+    "value": 5.64
+  },
+  {
+    "term1": "multiply",
+    "term2": "reproduce",
+    "value": 8.13
+  },
+  {
+    "term1": "attack",
+    "term2": "sneak",
+    "value": 1.66
+  },
+  {
+    "term1": "say",
+    "term2": "announce",
+    "value": 8.3
+  },
+  {
+    "term1": "launch",
+    "term2": "deposit",
+    "value": 2.49
+  },
+  {
+    "term1": "finish",
+    "term2": "do",
+    "value": 4.07
+  },
+  {
+    "term1": "crush",
+    "term2": "grind",
+    "value": 7.47
+  },
+  {
+    "term1": "try",
+    "term2": "think",
+    "value": 3.49
+  },
+  {
+    "term1": "scold",
+    "term2": "yell",
+    "value": 6.47
+  },
+  {
+    "term1": "hit",
+    "term2": "kick",
+    "value": 4.65
+  },
+  {
+    "term1": "mean",
+    "term2": "ascend",
+    "value": 1.99
+  },
+  {
+    "term1": "swim",
+    "term2": "meet",
+    "value": 0.5
+  },
+  {
+    "term1": "disown",
+    "term2": "ignore",
+    "value": 4.15
+  },
+  {
+    "term1": "rub",
+    "term2": "grate",
+    "value": 5.15
+  },
+  {
+    "term1": "drown",
+    "term2": "kill",
+    "value": 4.81
+  },
+  {
+    "term1": "tackle",
+    "term2": "handle",
+    "value": 3.82
+  },
+  {
+    "term1": "apply",
+    "term2": "use",
+    "value": 6.64
+  },
+  {
+    "term1": "bite",
+    "term2": "scratch",
+    "value": 1.99
+  },
+  {
+    "term1": "guess",
+    "term2": "jump",
+    "value": 0.83
+  },
+  {
+    "term1": "steal",
+    "term2": "sneak",
+    "value": 6.14
+  },
+  {
+    "term1": "shine",
+    "term2": "rise",
+    "value": 2.16
+  },
+  {
+    "term1": "forbid",
+    "term2": "permit",
+    "value": 0.66
+  },
+  {
+    "term1": "look",
+    "term2": "find",
+    "value": 4.98
+  },
+  {
+    "term1": "participate",
+    "term2": "join",
+    "value": 5.64
+  },
+  {
+    "term1": "allow",
+    "term2": "ban",
+    "value": 1.49
+  },
+  {
+    "term1": "invite",
+    "term2": "travel",
+    "value": 1
+  },
+  {
+    "term1": "reap",
+    "term2": "prosper",
+    "value": 5.64
+  },
+  {
+    "term1": "show",
+    "term2": "direct",
+    "value": 6.64
+  },
+  {
+    "term1": "select",
+    "term2": "elect",
+    "value": 5.15
+  },
+  {
+    "term1": "remain",
+    "term2": "stay",
+    "value": 9.13
+  },
+  {
+    "term1": "be",
+    "term2": "become",
+    "value": 5.81
+  },
+  {
+    "term1": "detach",
+    "term2": "tear",
+    "value": 6.79
+  },
+  {
+    "term1": "happen",
+    "term2": "hide",
+    "value": 1.16
+  },
+  {
+    "term1": "join",
+    "term2": "marry",
+    "value": 4.48
+  },
+  {
+    "term1": "decorate",
+    "term2": "adorn",
+    "value": 6.81
+  },
+  {
+    "term1": "leave",
+    "term2": "meet",
+    "value": 0.83
+  },
+  {
+    "term1": "descend",
+    "term2": "leave",
+    "value": 2.66
+  },
+  {
+    "term1": "work",
+    "term2": "participate",
+    "value": 5.64
+  },
+  {
+    "term1": "dislike",
+    "term2": "disown",
+    "value": 3.82
+  },
+  {
+    "term1": "fail",
+    "term2": "rely",
+    "value": 1
+  },
+  {
+    "term1": "catch",
+    "term2": "obtain",
+    "value": 5.81
+  },
+  {
+    "term1": "attack",
+    "term2": "capture",
+    "value": 3.32
+  },
+  {
+    "term1": "organize",
+    "term2": "prepare",
+    "value": 7.3
+  },
+  {
+    "term1": "have",
+    "term2": "give",
+    "value": 1.49
+  },
+  {
+    "term1": "practice",
+    "term2": "dance",
+    "value": 0.91
+  },
+  {
+    "term1": "spoil",
+    "term2": "perish",
+    "value": 4.81
+  },
+  {
+    "term1": "marry",
+    "term2": "adjourn",
+    "value": 1.49
+  },
+  {
+    "term1": "work",
+    "term2": "collaborate",
+    "value": 4.98
+  },
+  {
+    "term1": "strive",
+    "term2": "seek",
+    "value": 6.97
+  },
+  {
+    "term1": "beg",
+    "term2": "ask",
+    "value": 4.48
+  },
+  {
+    "term1": "lie",
+    "term2": "assume",
+    "value": 1.49
+  },
+  {
+    "term1": "refuse",
+    "term2": "flex",
+    "value": 0.17
+  },
+  {
+    "term1": "agree",
+    "term2": "differ",
+    "value": 1.16
+  },
+  {
+    "term1": "drink",
+    "term2": "pop",
+    "value": 0.5
+  },
+  {
+    "term1": "hate",
+    "term2": "kill",
+    "value": 1.33
+  },
+  {
+    "term1": "think",
+    "term2": "presume",
+    "value": 3.49
+  },
+  {
+    "term1": "disintegrate",
+    "term2": "demolish",
+    "value": 4.38
+  },
+  {
+    "term1": "examine",
+    "term2": "analyze",
+    "value": 7.14
+  },
+  {
+    "term1": "swap",
+    "term2": "give",
+    "value": 3.17
+  },
+  {
+    "term1": "preview",
+    "term2": "observe",
+    "value": 5.31
+  },
+  {
+    "term1": "disown",
+    "term2": "forget",
+    "value": 1.66
+  },
+  {
+    "term1": "buy",
+    "term2": "purchase",
+    "value": 9.46
+  },
+  {
+    "term1": "fight",
+    "term2": "defend",
+    "value": 6.47
+  },
+  {
+    "term1": "doze",
+    "term2": "throw",
+    "value": 0.15
+  },
+  {
+    "term1": "hesitate",
+    "term2": "rebel",
+    "value": 0.83
+  },
+  {
+    "term1": "vacate",
+    "term2": "evacuate",
+    "value": 7.3
+  },
+  {
+    "term1": "stay",
+    "term2": "leave",
+    "value": 0.17
+  },
+  {
+    "term1": "burst",
+    "term2": "laugh",
+    "value": 2.16
+  },
+  {
+    "term1": "save",
+    "term2": "rescue",
+    "value": 9.79
+  },
+  {
+    "term1": "achieve",
+    "term2": "conquer",
+    "value": 5.31
+  },
+  {
+    "term1": "punch",
+    "term2": "slap",
+    "value": 5.31
+  },
+  {
+    "term1": "flutter",
+    "term2": "move",
+    "value": 5.98
+  },
+  {
+    "term1": "cook",
+    "term2": "stew",
+    "value": 4.65
+  },
+  {
+    "term1": "slide",
+    "term2": "move",
+    "value": 4.48
+  },
+  {
+    "term1": "take",
+    "term2": "snatch",
+    "value": 7.8
+  },
+  {
+    "term1": "strive",
+    "term2": "want",
+    "value": 5.15
+  },
+  {
+    "term1": "leave",
+    "term2": "avoid",
+    "value": 3.65
+  },
+  {
+    "term1": "add",
+    "term2": "subtract",
+    "value": 1.16
+  },
+  {
+    "term1": "send",
+    "term2": "get",
+    "value": 1.83
+  },
+  {
+    "term1": "flap",
+    "term2": "cover",
+    "value": 0.66
+  },
+  {
+    "term1": "disperse",
+    "term2": "move",
+    "value": 4.98
+  },
+  {
+    "term1": "introduce",
+    "term2": "show",
+    "value": 6.14
+  },
+  {
+    "term1": "fly",
+    "term2": "flap",
+    "value": 4.32
+  },
+  {
+    "term1": "ridicule",
+    "term2": "criticize",
+    "value": 5.15
+  },
+  {
+    "term1": "join",
+    "term2": "gather",
+    "value": 5.15
+  },
+  {
+    "term1": "adjourn",
+    "term2": "leave",
+    "value": 4.81
+  },
+  {
+    "term1": "cough",
+    "term2": "yawn",
+    "value": 1.66
+  },
+  {
+    "term1": "crash",
+    "term2": "wreck",
+    "value": 6.64
+  },
+  {
+    "term1": "desire",
+    "term2": "yearn",
+    "value": 7.47
+  },
+  {
+    "term1": "steal",
+    "term2": "rob",
+    "value": 9.46
+  },
+  {
+    "term1": "smell",
+    "term2": "offend",
+    "value": 0.66
+  },
+  {
+    "term1": "obtain",
+    "term2": "acquire",
+    "value": 9.79
+  },
+  {
+    "term1": "flex",
+    "term2": "bend",
+    "value": 7.97
+  },
+  {
+    "term1": "drip",
+    "term2": "spill",
+    "value": 4.98
+  },
+  {
+    "term1": "destroy",
+    "term2": "conquer",
+    "value": 6.14
+  },
+  {
+    "term1": "offend",
+    "term2": "disturb",
+    "value": 4.48
+  },
+  {
+    "term1": "squeeze",
+    "term2": "hug",
+    "value": 6.64
+  },
+  {
+    "term1": "refrain",
+    "term2": "keep",
+    "value": 2.32
+  },
+  {
+    "term1": "get",
+    "term2": "bring",
+    "value": 3.62
+  },
+  {
+    "term1": "receive",
+    "term2": "take",
+    "value": 5.98
+  },
+  {
+    "term1": "speak",
+    "term2": "communicate",
+    "value": 8.47
+  },
+  {
+    "term1": "drink",
+    "term2": "quench",
+    "value": 6.34
+  },
+  {
+    "term1": "overpower",
+    "term2": "dominate",
+    "value": 8.47
+  },
+  {
+    "term1": "know",
+    "term2": "inform",
+    "value": 1.99
+  },
+  {
+    "term1": "deal",
+    "term2": "manage",
+    "value": 6.14
+  },
+  {
+    "term1": "know",
+    "term2": "predict",
+    "value": 3.49
+  },
+  {
+    "term1": "bargain",
+    "term2": "concur",
+    "value": 2.82
+  },
+  {
+    "term1": "walk",
+    "term2": "follow",
+    "value": 2.82
+  },
+  {
+    "term1": "compose",
+    "term2": "create",
+    "value": 8.13
+  },
+  {
+    "term1": "define",
+    "term2": "say",
+    "value": 3.82
+  },
+  {
+    "term1": "rationalize",
+    "term2": "justify",
+    "value": 8.8
+  },
+  {
+    "term1": "repair",
+    "term2": "replace",
+    "value": 2.66
+  },
+  {
+    "term1": "visit",
+    "term2": "giggle",
+    "value": 0
+  },
+  {
+    "term1": "assault",
+    "term2": "fight",
+    "value": 7.24
+  },
+  {
+    "term1": "draw",
+    "term2": "write",
+    "value": 4.98
+  },
+  {
+    "term1": "grind",
+    "term2": "smash",
+    "value": 4.65
+  },
+  {
+    "term1": "attempt",
+    "term2": "intend",
+    "value": 3.32
+  },
+  {
+    "term1": "wait",
+    "term2": "hold",
+    "value": 5.15
+  },
+  {
+    "term1": "hear",
+    "term2": "repeat",
+    "value": 0.66
+  },
+  {
+    "term1": "aggravate",
+    "term2": "irritate",
+    "value": 8.3
+  },
+  {
+    "term1": "unite",
+    "term2": "guess",
+    "value": 0.17
+  },
+  {
+    "term1": "seem",
+    "term2": "believe",
+    "value": 1.33
+  },
+  {
+    "term1": "hope",
+    "term2": "design",
+    "value": 0.83
+  },
+  {
+    "term1": "shrink",
+    "term2": "reduce",
+    "value": 9.13
+  },
+  {
+    "term1": "despise",
+    "term2": "taste",
+    "value": 0.5
+  },
+  {
+    "term1": "obtain",
+    "term2": "receive",
+    "value": 8.13
+  },
+  {
+    "term1": "design",
+    "term2": "invent",
+    "value": 6.47
+  },
+  {
+    "term1": "attempt",
+    "term2": "go",
+    "value": 1.83
+  },
+  {
+    "term1": "change",
+    "term2": "renounce",
+    "value": 3.82
+  },
+  {
+    "term1": "debate",
+    "term2": "decide",
+    "value": 4.65
+  },
+  {
+    "term1": "grant",
+    "term2": "aid",
+    "value": 5.64
+  },
+  {
+    "term1": "rush",
+    "term2": "hustle",
+    "value": 6.97
+  },
+  {
+    "term1": "hold",
+    "term2": "seize",
+    "value": 4.81
+  },
+  {
+    "term1": "agree",
+    "term2": "overflow",
+    "value": 0.66
+  },
+  {
+    "term1": "bounce",
+    "term2": "move",
+    "value": 3.82
+  },
+  {
+    "term1": "warn",
+    "term2": "tell",
+    "value": 6.14
+  },
+  {
+    "term1": "unload",
+    "term2": "carry",
+    "value": 1.49
+  },
+  {
+    "term1": "overcome",
+    "term2": "keep",
+    "value": 1.49
+  },
+  {
+    "term1": "develop",
+    "term2": "sue",
+    "value": 1.33
+  },
+  {
+    "term1": "disown",
+    "term2": "neglect",
+    "value": 4.81
+  },
+  {
+    "term1": "squeak",
+    "term2": "squeal",
+    "value": 7.47
+  },
+  {
+    "term1": "acknowledge",
+    "term2": "exist",
+    "value": 2.32
+  },
+  {
+    "term1": "concentrate",
+    "term2": "wander",
+    "value": 0.5
+  },
+  {
+    "term1": "build",
+    "term2": "restore",
+    "value": 4.98
+  },
+  {
+    "term1": "teach",
+    "term2": "show",
+    "value": 5.81
+  },
+  {
+    "term1": "sip",
+    "term2": "gulp",
+    "value": 2.99
+  },
+  {
+    "term1": "give",
+    "term2": "award",
+    "value": 6.31
+  },
+  {
+    "term1": "ask",
+    "term2": "receive",
+    "value": 0.5
+  },
+  {
+    "term1": "confess",
+    "term2": "deny",
+    "value": 0
+  },
+  {
+    "term1": "deteriorate",
+    "term2": "delay",
+    "value": 0.66
+  },
+  {
+    "term1": "dip",
+    "term2": "dunk",
+    "value": 7.3
+  },
+  {
+    "term1": "grow",
+    "term2": "raise",
+    "value": 7.14
+  },
+  {
+    "term1": "touch",
+    "term2": "pat",
+    "value": 7.3
+  },
+  {
+    "term1": "ascend",
+    "term2": "descend",
+    "value": 1.06
+  },
+  {
+    "term1": "explain",
+    "term2": "understand",
+    "value": 1.66
+  },
+  {
+    "term1": "stop",
+    "term2": "hesitate",
+    "value": 5.15
+  },
+  {
+    "term1": "die",
+    "term2": "slay",
+    "value": 1.99
+  },
+  {
+    "term1": "learn",
+    "term2": "understand",
+    "value": 6.31
+  },
+  {
+    "term1": "help",
+    "term2": "depend",
+    "value": 2.32
+  },
+  {
+    "term1": "protect",
+    "term2": "help",
+    "value": 5.15
+  },
+  {
+    "term1": "scratch",
+    "term2": "scribble",
+    "value": 4.15
+  },
+  {
+    "term1": "ensure",
+    "term2": "secure",
+    "value": 4.07
+  },
+  {
+    "term1": "operate",
+    "term2": "entertain",
+    "value": 1.33
+  },
+  {
+    "term1": "run",
+    "term2": "avoid",
+    "value": 3.98
+  },
+  {
+    "term1": "save",
+    "term2": "collect",
+    "value": 4.65
+  },
+  {
+    "term1": "overcome",
+    "term2": "beat",
+    "value": 7.64
+  },
+  {
+    "term1": "acknowledge",
+    "term2": "greet",
+    "value": 5.64
+  },
+  {
+    "term1": "overcome",
+    "term2": "try",
+    "value": 5.64
+  },
+  {
+    "term1": "retreat",
+    "term2": "go",
+    "value": 3.49
+  },
+  {
+    "term1": "forbid",
+    "term2": "stop",
+    "value": 7.8
+  },
+  {
+    "term1": "sit",
+    "term2": "jump",
+    "value": 1.33
+  },
+  {
+    "term1": "agree",
+    "term2": "accept",
+    "value": 6.81
+  },
+  {
+    "term1": "obey",
+    "term2": "follow",
+    "value": 7.97
+  },
+  {
+    "term1": "cough",
+    "term2": "swallow",
+    "value": 1.99
+  },
+  {
+    "term1": "triumph",
+    "term2": "conquer",
+    "value": 7.97
+  },
+  {
+    "term1": "remove",
+    "term2": "strip",
+    "value": 7.47
+  },
+  {
+    "term1": "begin",
+    "term2": "introduce",
+    "value": 4.32
+  },
+  {
+    "term1": "die",
+    "term2": "survive",
+    "value": 0.15
+  },
+  {
+    "term1": "take",
+    "term2": "remove",
+    "value": 6.81
+  },
+  {
+    "term1": "commit",
+    "term2": "devote",
+    "value": 7.3
+  },
+  {
+    "term1": "freeze",
+    "term2": "thaw",
+    "value": 0
+  },
+  {
+    "term1": "bring",
+    "term2": "send",
+    "value": 1.99
+  },
+  {
+    "term1": "separate",
+    "term2": "snatch",
+    "value": 1.66
+  },
+  {
+    "term1": "attack",
+    "term2": "kill",
+    "value": 4.23
+  },
+  {
+    "term1": "perceive",
+    "term2": "deceive",
+    "value": 0.17
+  },
+  {
+    "term1": "drive",
+    "term2": "veer",
+    "value": 3.49
+  },
+  {
+    "term1": "live",
+    "term2": "let",
+    "value": 1.99
+  },
+  {
+    "term1": "decrease",
+    "term2": "diminish",
+    "value": 7.97
+  },
+  {
+    "term1": "slip",
+    "term2": "cover",
+    "value": 2.16
+  },
+  {
+    "term1": "die",
+    "term2": "deteriorate",
+    "value": 2.49
+  },
+  {
+    "term1": "disturb",
+    "term2": "interrupt",
+    "value": 8.63
+  },
+  {
+    "term1": "broil",
+    "term2": "boil",
+    "value": 2.99
+  },
+  {
+    "term1": "prefer",
+    "term2": "want",
+    "value": 6.14
+  },
+  {
+    "term1": "invent",
+    "term2": "make",
+    "value": 6.64
+  },
+  {
+    "term1": "lounge",
+    "term2": "reprimand",
+    "value": 0.83
+  },
+  {
+    "term1": "laugh",
+    "term2": "chuck",
+    "value": 2.49
+  },
+  {
+    "term1": "catch",
+    "term2": "lose",
+    "value": 1
+  },
+  {
+    "term1": "define",
+    "term2": "mean",
+    "value": 5.15
+  },
+  {
+    "term1": "refuse",
+    "term2": "slide",
+    "value": 0.45
+  },
+  {
+    "term1": "retire",
+    "term2": "retreat",
+    "value": 4.48
+  },
+  {
+    "term1": "help",
+    "term2": "warn",
+    "value": 3.82
+  },
+  {
+    "term1": "leave",
+    "term2": "stray",
+    "value": 5.64
+  },
+  {
+    "term1": "bet",
+    "term2": "hug",
+    "value": 0.83
+  },
+  {
+    "term1": "decide",
+    "term2": "think",
+    "value": 4.65
+  },
+  {
+    "term1": "burn",
+    "term2": "melt",
+    "value": 5.81
+  },
+  {
+    "term1": "understand",
+    "term2": "solve",
+    "value": 5.15
+  },
+  {
+    "term1": "prosecute",
+    "term2": "try",
+    "value": 4.48
+  },
+  {
+    "term1": "fall",
+    "term2": "jump",
+    "value": 1.49
+  },
+  {
+    "term1": "urge",
+    "term2": "suggest",
+    "value": 5.89
+  },
+  {
+    "term1": "show",
+    "term2": "hide",
+    "value": 2.16
+  },
+  {
+    "term1": "despise",
+    "term2": "like",
+    "value": 1.33
+  },
+  {
+    "term1": "smell",
+    "term2": "feel",
+    "value": 2.16
+  },
+  {
+    "term1": "acknowledge",
+    "term2": "respond",
+    "value": 6.97
+  },
+  {
+    "term1": "break",
+    "term2": "escape",
+    "value": 2.82
+  },
+  {
+    "term1": "boom",
+    "term2": "obtain",
+    "value": 0.17
+  },
+  {
+    "term1": "suggest",
+    "term2": "say",
+    "value": 5.81
+  },
+  {
+    "term1": "bleach",
+    "term2": "wash",
+    "value": 3.98
+  },
+  {
+    "term1": "repeat",
+    "term2": "slap",
+    "value": 0.33
+  },
+  {
+    "term1": "gain",
+    "term2": "operate",
+    "value": 1.16
+  },
+  {
+    "term1": "destroy",
+    "term2": "kill",
+    "value": 7.8
+  },
+  {
+    "term1": "approach",
+    "term2": "promise",
+    "value": 1.16
+  },
+  {
+    "term1": "grab",
+    "term2": "seize",
+    "value": 7.14
+  },
+  {
+    "term1": "exchange",
+    "term2": "change",
+    "value": 5.15
+  },
+  {
+    "term1": "smell",
+    "term2": "sniff",
+    "value": 7.97
+  },
+  {
+    "term1": "accept",
+    "term2": "allow",
+    "value": 6.94
+  },
+  {
+    "term1": "smear",
+    "term2": "wipe",
+    "value": 6.31
+  },
+  {
+    "term1": "reach",
+    "term2": "grasp",
+    "value": 4.15
+  },
+  {
+    "term1": "observe",
+    "term2": "see",
+    "value": 9.3
+  },
+  {
+    "term1": "attend",
+    "term2": "leave",
+    "value": 1.16
+  },
+  {
+    "term1": "erode",
+    "term2": "decay",
+    "value": 7.8
+  },
+  {
+    "term1": "sweat",
+    "term2": "shiver",
+    "value": 1.16
+  },
+  {
+    "term1": "grasp",
+    "term2": "release",
+    "value": 0
+  },
+  {
+    "term1": "adopt",
+    "term2": "wash",
+    "value": 1.83
+  },
+  {
+    "term1": "deliver",
+    "term2": "stand",
+    "value": 0
+  },
+  {
+    "term1": "angle",
+    "term2": "toss",
+    "value": 1.66
+  },
+  {
+    "term1": "misspend",
+    "term2": "pass",
+    "value": 1.16
+  },
+  {
+    "term1": "toss",
+    "term2": "turn",
+    "value": 4.23
+  },
+  {
+    "term1": "wash",
+    "term2": "wear",
+    "value": 0.66
+  },
+  {
+    "term1": "humiliate",
+    "term2": "degrade",
+    "value": 8.63
+  },
+  {
+    "term1": "push",
+    "term2": "lean",
+    "value": 3.98
+  },
+  {
+    "term1": "reply",
+    "term2": "speak",
+    "value": 5.48
+  },
+  {
+    "term1": "reflect",
+    "term2": "see",
+    "value": 4.15
+  },
+  {
+    "term1": "fit",
+    "term2": "integrate",
+    "value": 4.81
+  },
+  {
+    "term1": "desire",
+    "term2": "need",
+    "value": 5.13
+  },
+  {
+    "term1": "discourage",
+    "term2": "disappoint",
+    "value": 3.98
+  },
+  {
+    "term1": "steal",
+    "term2": "buy",
+    "value": 1.16
+  },
+  {
+    "term1": "mimic",
+    "term2": "look",
+    "value": 1.99
+  },
+  {
+    "term1": "count",
+    "term2": "add",
+    "value": 7.09
+  },
+  {
+    "term1": "defend",
+    "term2": "prosecute",
+    "value": 0.33
+  },
+  {
+    "term1": "search",
+    "term2": "seek",
+    "value": 9.63
+  },
+  {
+    "term1": "seize",
+    "term2": "stop",
+    "value": 5.81
+  },
+  {
+    "term1": "pretend",
+    "term2": "imitate",
+    "value": 4.65
+  },
+  {
+    "term1": "sit",
+    "term2": "rise",
+    "value": 0.3
+  },
+  {
+    "term1": "lead",
+    "term2": "confuse",
+    "value": 0.66
+  },
+  {
+    "term1": "beware",
+    "term2": "warn",
+    "value": 7.14
+  },
+  {
+    "term1": "weave",
+    "term2": "spin",
+    "value": 4.32
+  },
+  {
+    "term1": "kiss",
+    "term2": "embrace",
+    "value": 6.31
+  },
+  {
+    "term1": "fade",
+    "term2": "tarnish",
+    "value": 2.49
+  },
+  {
+    "term1": "repeat",
+    "term2": "do",
+    "value": 2.99
+  },
+  {
+    "term1": "leave",
+    "term2": "travel",
+    "value": 5.98
+  },
+  {
+    "term1": "fling",
+    "term2": "diminish",
+    "value": 0.83
+  },
+  {
+    "term1": "disprove",
+    "term2": "dislike",
+    "value": 8.3
+  },
+  {
+    "term1": "persuade",
+    "term2": "sway",
+    "value": 7.3
+  },
+  {
+    "term1": "become",
+    "term2": "succeed",
+    "value": 3.98
+  },
+  {
+    "term1": "exchange",
+    "term2": "return",
+    "value": 5.48
+  },
+  {
+    "term1": "bend",
+    "term2": "shake",
+    "value": 1.49
+  },
+  {
+    "term1": "rearrange",
+    "term2": "fix",
+    "value": 2.32
+  },
+  {
+    "term1": "rap",
+    "term2": "knock",
+    "value": 6.64
+  },
+  {
+    "term1": "shake",
+    "term2": "stir",
+    "value": 4.15
+  },
+  {
+    "term1": "stink",
+    "term2": "smell",
+    "value": 8.63
+  },
+  {
+    "term1": "find",
+    "term2": "attract",
+    "value": 2.16
+  },
+  {
+    "term1": "compete",
+    "term2": "finish",
+    "value": 4.98
+  },
+  {
+    "term1": "yield",
+    "term2": "submit",
+    "value": 6.64
+  },
+  {
+    "term1": "play",
+    "term2": "practice",
+    "value": 2.66
+  },
+  {
+    "term1": "hide",
+    "term2": "repress",
+    "value": 6.64
+  },
+  {
+    "term1": "hurt",
+    "term2": "ache",
+    "value": 5.64
+  },
+  {
+    "term1": "mean",
+    "term2": "join",
+    "value": 1
+  },
+  {
+    "term1": "grab",
+    "term2": "squeeze",
+    "value": 4.32
+  },
+  {
+    "term1": "run",
+    "term2": "escape",
+    "value": 4.65
+  },
+  {
+    "term1": "crackle",
+    "term2": "crunch",
+    "value": 6.31
+  },
+  {
+    "term1": "swear",
+    "term2": "damn",
+    "value": 6.14
+  },
+  {
+    "term1": "mind",
+    "term2": "worry",
+    "value": 4.15
+  },
+  {
+    "term1": "breathe",
+    "term2": "choke",
+    "value": 1.33
+  },
+  {
+    "term1": "do",
+    "term2": "become",
+    "value": 2.99
+  },
+  {
+    "term1": "kill",
+    "term2": "annihilate",
+    "value": 8.13
+  },
+  {
+    "term1": "enter",
+    "term2": "return",
+    "value": 2.49
+  },
+  {
+    "term1": "obtain",
+    "term2": "take",
+    "value": 7.64
+  },
+  {
+    "term1": "hear",
+    "term2": "talk",
+    "value": 1.99
+  },
+  {
+    "term1": "snap",
+    "term2": "break",
+    "value": 7.7
+  },
+  {
+    "term1": "go",
+    "term2": "sneak",
+    "value": 1.83
+  },
+  {
+    "term1": "stay",
+    "term2": "please",
+    "value": 1.83
+  },
+  {
+    "term1": "inform",
+    "term2": "tell",
+    "value": 8.63
+  },
+  {
+    "term1": "run",
+    "term2": "hustle",
+    "value": 3.15
+  },
+  {
+    "term1": "bake",
+    "term2": "make",
+    "value": 6.19
+  },
+  {
+    "term1": "acknowledge",
+    "term2": "notify",
+    "value": 1.99
+  },
+  {
+    "term1": "acquire",
+    "term2": "steal",
+    "value": 5.31
+  },
+  {
+    "term1": "connect",
+    "term2": "attach",
+    "value": 7.64
+  },
+  {
+    "term1": "lower",
+    "term2": "degrade",
+    "value": 7.8
+  },
+  {
+    "term1": "solve",
+    "term2": "compute",
+    "value": 5.15
+  },
+  {
+    "term1": "hike",
+    "term2": "hitch",
+    "value": 1.33
+  },
+  {
+    "term1": "forbid",
+    "term2": "allow",
+    "value": 0.17
+  },
+  {
+    "term1": "discuss",
+    "term2": "debate",
+    "value": 5.81
+  },
+  {
+    "term1": "acknowledge",
+    "term2": "admit",
+    "value": 6.81
+  },
+  {
+    "term1": "borrow",
+    "term2": "keep",
+    "value": 1.16
+  },
+  {
+    "term1": "rip",
+    "term2": "fold",
+    "value": 0.83
+  },
+  {
+    "term1": "engage",
+    "term2": "go",
+    "value": 6.14
+  },
+  {
+    "term1": "notify",
+    "term2": "announce",
+    "value": 8.47
+  },
+  {
+    "term1": "allow",
+    "term2": "refuse",
+    "value": 1.16
+  },
+  {
+    "term1": "integrate",
+    "term2": "drown",
+    "value": 0.33
+  },
+  {
+    "term1": "analyze",
+    "term2": "evaluate",
+    "value": 8.13
+  },
+  {
+    "term1": "request",
+    "term2": "beg",
+    "value": 5.64
+  },
+  {
+    "term1": "stop",
+    "term2": "accelerate",
+    "value": 0.5
+  },
+  {
+    "term1": "grab",
+    "term2": "obtain",
+    "value": 4.83
+  },
+  {
+    "term1": "deliver",
+    "term2": "send",
+    "value": 6.14
+  },
+  {
+    "term1": "hug",
+    "term2": "dismay",
+    "value": 0.33
+  },
+  {
+    "term1": "remain",
+    "term2": "retain",
+    "value": 4.48
+  },
+  {
+    "term1": "fix",
+    "term2": "set",
+    "value": 4.48
+  },
+  {
+    "term1": "like",
+    "term2": "adore",
+    "value": 5.15
+  },
+  {
+    "term1": "teach",
+    "term2": "educate",
+    "value": 9.63
+  },
+  {
+    "term1": "taste",
+    "term2": "acquire",
+    "value": 2.82
+  },
+  {
+    "term1": "hurt",
+    "term2": "smash",
+    "value": 4.65
+  },
+  {
+    "term1": "acquire",
+    "term2": "buy",
+    "value": 7.3
+  },
+  {
+    "term1": "correct",
+    "term2": "disprove",
+    "value": 2.26
+  },
+  {
+    "term1": "croak",
+    "term2": "cough",
+    "value": 2.32
+  },
+  {
+    "term1": "disintegrate",
+    "term2": "burn",
+    "value": 4.48
+  },
+  {
+    "term1": "solve",
+    "term2": "lend",
+    "value": 1.66
+  },
+  {
+    "term1": "snuggle",
+    "term2": "hug",
+    "value": 6.97
+  },
+  {
+    "term1": "dare",
+    "term2": "reap",
+    "value": 3.32
+  },
+  {
+    "term1": "increase",
+    "term2": "raise",
+    "value": 8.13
+  },
+  {
+    "term1": "keep",
+    "term2": "stay",
+    "value": 3.15
+  },
+  {
+    "term1": "holler",
+    "term2": "roar",
+    "value": 7.8
+  },
+  {
+    "term1": "fill",
+    "term2": "pour",
+    "value": 6.14
+  },
+  {
+    "term1": "leave",
+    "term2": "detach",
+    "value": 2.99
+  },
+  {
+    "term1": "rip",
+    "term2": "mend",
+    "value": 1.49
+  },
+  {
+    "term1": "scare",
+    "term2": "scream",
+    "value": 2.49
+  },
+  {
+    "term1": "stop",
+    "term2": "whistle",
+    "value": 0.33
+  },
+  {
+    "term1": "croak",
+    "term2": "die",
+    "value": 7.97
+  },
+  {
+    "term1": "catch",
+    "term2": "grab",
+    "value": 3.32
+  },
+  {
+    "term1": "flush",
+    "term2": "blush",
+    "value": 5.31
+  },
+  {
+    "term1": "cover",
+    "term2": "spread",
+    "value": 4.98
+  },
+  {
+    "term1": "decay",
+    "term2": "deteriorate",
+    "value": 8.13
+  },
+  {
+    "term1": "annoy",
+    "term2": "disgust",
+    "value": 4.65
+  },
+  {
+    "term1": "insult",
+    "term2": "rip",
+    "value": 3.15
+  },
+  {
+    "term1": "beg",
+    "term2": "spread",
+    "value": 0.5
+  },
+  {
+    "term1": "differ",
+    "term2": "disagree",
+    "value": 8.3
+  },
+  {
+    "term1": "discover",
+    "term2": "invent",
+    "value": 5.31
+  },
+  {
+    "term1": "watch",
+    "term2": "observe",
+    "value": 9.46
+  },
+  {
+    "term1": "have",
+    "term2": "earn",
+    "value": 2.66
+  },
+  {
+    "term1": "plead",
+    "term2": "convince",
+    "value": 4.81
+  },
+  {
+    "term1": "attend",
+    "term2": "join",
+    "value": 3.82
+  },
+  {
+    "term1": "spawn",
+    "term2": "litter",
+    "value": 2.99
+  },
+  {
+    "term1": "participate",
+    "term2": "say",
+    "value": 3.82
+  },
+  {
+    "term1": "introduce",
+    "term2": "know",
+    "value": 2.49
+  },
+  {
+    "term1": "direct",
+    "term2": "help",
+    "value": 3.32
+  },
+  {
+    "term1": "replace",
+    "term2": "fix",
+    "value": 2.11
+  },
+  {
+    "term1": "know",
+    "term2": "meet",
+    "value": 2.82
+  },
+  {
+    "term1": "aim",
+    "term2": "look",
+    "value": 2.82
+  },
+  {
+    "term1": "hit",
+    "term2": "pinch",
+    "value": 2.99
+  },
+  {
+    "term1": "release",
+    "term2": "give",
+    "value": 3.32
+  },
+  {
+    "term1": "pardon",
+    "term2": "forgive",
+    "value": 8.96
+  },
+  {
+    "term1": "believe",
+    "term2": "know",
+    "value": 3.65
+  },
+  {
+    "term1": "perish",
+    "term2": "die",
+    "value": 9.46
+  },
+  {
+    "term1": "assault",
+    "term2": "aggravate",
+    "value": 3.65
+  },
+  {
+    "term1": "take",
+    "term2": "choose",
+    "value": 3.82
+  },
+  {
+    "term1": "search",
+    "term2": "look",
+    "value": 9.63
+  },
+  {
+    "term1": "sing",
+    "term2": "rejoice",
+    "value": 3.15
+  },
+  {
+    "term1": "snooze",
+    "term2": "nap",
+    "value": 8.8
+  },
+  {
+    "term1": "despair",
+    "term2": "upset",
+    "value": 3.65
+  },
+  {
+    "term1": "achieve",
+    "term2": "accomplish",
+    "value": 8.47
+  }
+]

@@ -1,0 +1,5996 @@
+[
+  {
+    "term1": "old",
+    "term2": "new",
+    "value": 1.58,
+    "stddev": 0.41
+  },
+  {
+    "term1": "smart",
+    "term2": "intelligent",
+    "value": 9.2,
+    "stddev": 0.67
+  },
+  {
+    "term1": "hard",
+    "term2": "difficult",
+    "value": 8.77,
+    "stddev": 1.19
+  },
+  {
+    "term1": "happy",
+    "term2": "cheerful",
+    "value": 9.55,
+    "stddev": 2.18
+  },
+  {
+    "term1": "hard",
+    "term2": "easy",
+    "value": 0.95,
+    "stddev": 0.93
+  },
+  {
+    "term1": "fast",
+    "term2": "rapid",
+    "value": 8.75,
+    "stddev": 1.68
+  },
+  {
+    "term1": "happy",
+    "term2": "glad",
+    "value": 9.17,
+    "stddev": 1.59
+  },
+  {
+    "term1": "short",
+    "term2": "long",
+    "value": 1.23,
+    "stddev": 1.58
+  },
+  {
+    "term1": "stupid",
+    "term2": "dumb",
+    "value": 9.58,
+    "stddev": 1.48
+  },
+  {
+    "term1": "weird",
+    "term2": "strange",
+    "value": 8.93,
+    "stddev": 1.3
+  },
+  {
+    "term1": "wide",
+    "term2": "narrow",
+    "value": 1.03,
+    "stddev": 0.58
+  },
+  {
+    "term1": "bad",
+    "term2": "awful",
+    "value": 8.42,
+    "stddev": 1.74
+  },
+  {
+    "term1": "easy",
+    "term2": "difficult",
+    "value": 0.58,
+    "stddev": 0.36
+  },
+  {
+    "term1": "bad",
+    "term2": "terrible",
+    "value": 7.78,
+    "stddev": 1.43
+  },
+  {
+    "term1": "hard",
+    "term2": "simple",
+    "value": 1.38,
+    "stddev": 1.03
+  },
+  {
+    "term1": "smart",
+    "term2": "dumb",
+    "value": 0.55,
+    "stddev": 0.47
+  },
+  {
+    "term1": "insane",
+    "term2": "crazy",
+    "value": 9.57,
+    "stddev": 0.92
+  },
+  {
+    "term1": "happy",
+    "term2": "mad",
+    "value": 0.95,
+    "stddev": 1.4
+  },
+  {
+    "term1": "large",
+    "term2": "huge",
+    "value": 9.47,
+    "stddev": 1.27
+  },
+  {
+    "term1": "hard",
+    "term2": "tough",
+    "value": 8.05,
+    "stddev": 1.18
+  },
+  {
+    "term1": "new",
+    "term2": "fresh",
+    "value": 6.83,
+    "stddev": 1.2
+  },
+  {
+    "term1": "sharp",
+    "term2": "dull",
+    "value": 0.6,
+    "stddev": 1.39
+  },
+  {
+    "term1": "quick",
+    "term2": "rapid",
+    "value": 9.7,
+    "stddev": 1.14
+  },
+  {
+    "term1": "dumb",
+    "term2": "foolish",
+    "value": 6.67,
+    "stddev": 1.36
+  },
+  {
+    "term1": "wonderful",
+    "term2": "terrific",
+    "value": 8.63,
+    "stddev": 1.63
+  },
+  {
+    "term1": "strange",
+    "term2": "odd",
+    "value": 9.02,
+    "stddev": 1.04
+  },
+  {
+    "term1": "happy",
+    "term2": "angry",
+    "value": 1.28,
+    "stddev": 1.41
+  },
+  {
+    "term1": "narrow",
+    "term2": "broad",
+    "value": 1.18,
+    "stddev": 1.18
+  },
+  {
+    "term1": "simple",
+    "term2": "easy",
+    "value": 9.4,
+    "stddev": 1.51
+  },
+  {
+    "term1": "old",
+    "term2": "fresh",
+    "value": 0.87,
+    "stddev": 1.64
+  },
+  {
+    "term1": "apparent",
+    "term2": "obvious",
+    "value": 8.47,
+    "stddev": 1.52
+  },
+  {
+    "term1": "inexpensive",
+    "term2": "cheap",
+    "value": 8.72,
+    "stddev": 0.81
+  },
+  {
+    "term1": "nice",
+    "term2": "generous",
+    "value": 5,
+    "stddev": 1.14
+  },
+  {
+    "term1": "weird",
+    "term2": "normal",
+    "value": 0.72,
+    "stddev": 1.15
+  },
+  {
+    "term1": "weird",
+    "term2": "odd",
+    "value": 9.2,
+    "stddev": 1.27
+  },
+  {
+    "term1": "bad",
+    "term2": "immoral",
+    "value": 7.62,
+    "stddev": 0.98
+  },
+  {
+    "term1": "sad",
+    "term2": "funny",
+    "value": 0.95,
+    "stddev": 1.28
+  },
+  {
+    "term1": "wonderful",
+    "term2": "great",
+    "value": 8.05,
+    "stddev": 1.05
+  },
+  {
+    "term1": "guilty",
+    "term2": "ashamed",
+    "value": 6.38,
+    "stddev": 0.47
+  },
+  {
+    "term1": "beautiful",
+    "term2": "wonderful",
+    "value": 6.5,
+    "stddev": 0.85
+  },
+  {
+    "term1": "confident",
+    "term2": "sure",
+    "value": 8.27,
+    "stddev": 1.21
+  },
+  {
+    "term1": "dumb",
+    "term2": "dense",
+    "value": 7.27,
+    "stddev": 0.43
+  },
+  {
+    "term1": "large",
+    "term2": "big",
+    "value": 9.55,
+    "stddev": 0.44
+  },
+  {
+    "term1": "nice",
+    "term2": "cruel",
+    "value": 0.67,
+    "stddev": 1.53
+  },
+  {
+    "term1": "impatient",
+    "term2": "anxious",
+    "value": 6.03,
+    "stddev": 1.22
+  },
+  {
+    "term1": "big",
+    "term2": "broad",
+    "value": 6.73,
+    "stddev": 1.68
+  },
+  {
+    "term1": "strong",
+    "term2": "proud",
+    "value": 3.17,
+    "stddev": 1.46
+  },
+  {
+    "term1": "unnecessary",
+    "term2": "necessary",
+    "value": 0.63,
+    "stddev": 0.61
+  },
+  {
+    "term1": "restless",
+    "term2": "young",
+    "value": 1.6,
+    "stddev": 0.85
+  },
+  {
+    "term1": "dumb",
+    "term2": "intelligent",
+    "value": 0.75,
+    "stddev": 1.5
+  },
+  {
+    "term1": "bad",
+    "term2": "great",
+    "value": 0.35,
+    "stddev": 1.49
+  },
+  {
+    "term1": "difficult",
+    "term2": "simple",
+    "value": 0.87,
+    "stddev": 0.44
+  },
+  {
+    "term1": "necessary",
+    "term2": "important",
+    "value": 7.37,
+    "stddev": 1.36
+  },
+  {
+    "term1": "bad",
+    "term2": "terrific",
+    "value": 0.65,
+    "stddev": 1.43
+  },
+  {
+    "term1": "mad",
+    "term2": "glad",
+    "value": 1.45,
+    "stddev": 1.17
+  },
+  {
+    "term1": "honest",
+    "term2": "guilty",
+    "value": 1.18,
+    "stddev": 1.68
+  },
+  {
+    "term1": "easy",
+    "term2": "tough",
+    "value": 0.52,
+    "stddev": 1.87
+  },
+  {
+    "term1": "easy",
+    "term2": "flexible",
+    "value": 4.1,
+    "stddev": 1.08
+  },
+  {
+    "term1": "certain",
+    "term2": "sure",
+    "value": 8.42,
+    "stddev": 1.29
+  },
+  {
+    "term1": "essential",
+    "term2": "necessary",
+    "value": 8.97,
+    "stddev": 1.11
+  },
+  {
+    "term1": "different",
+    "term2": "normal",
+    "value": 1.08,
+    "stddev": 1.75
+  },
+  {
+    "term1": "sly",
+    "term2": "clever",
+    "value": 7.25,
+    "stddev": 1.41
+  },
+  {
+    "term1": "crucial",
+    "term2": "important",
+    "value": 8.82,
+    "stddev": 1.25
+  },
+  {
+    "term1": "harsh",
+    "term2": "cruel",
+    "value": 8.18,
+    "stddev": 1.66
+  },
+  {
+    "term1": "childish",
+    "term2": "foolish",
+    "value": 5.5,
+    "stddev": 1.45
+  },
+  {
+    "term1": "scarce",
+    "term2": "rare",
+    "value": 9.17,
+    "stddev": 1.21
+  },
+  {
+    "term1": "friendly",
+    "term2": "generous",
+    "value": 5.9,
+    "stddev": 0.6
+  },
+  {
+    "term1": "fragile",
+    "term2": "frigid",
+    "value": 2.38,
+    "stddev": 0.84
+  },
+  {
+    "term1": "long",
+    "term2": "narrow",
+    "value": 3.57,
+    "stddev": 1.62
+  },
+  {
+    "term1": "big",
+    "term2": "heavy",
+    "value": 6.18,
+    "stddev": 1.54
+  },
+  {
+    "term1": "rough",
+    "term2": "frigid",
+    "value": 2.47,
+    "stddev": 1.37
+  },
+  {
+    "term1": "bizarre",
+    "term2": "strange",
+    "value": 9.37,
+    "stddev": 1.54
+  },
+  {
+    "term1": "illegal",
+    "term2": "immoral",
+    "value": 4.28,
+    "stddev": 1.57
+  },
+  {
+    "term1": "bad",
+    "term2": "guilty",
+    "value": 4.2,
+    "stddev": 1.47
+  },
+  {
+    "term1": "modern",
+    "term2": "ancient",
+    "value": 0.73,
+    "stddev": 0.71
+  },
+  {
+    "term1": "new",
+    "term2": "ancient",
+    "value": 0.23,
+    "stddev": 0.46
+  },
+  {
+    "term1": "dull",
+    "term2": "funny",
+    "value": 0.55,
+    "stddev": 1.76
+  },
+  {
+    "term1": "happy",
+    "term2": "young",
+    "value": 2,
+    "stddev": 0.47
+  },
+  {
+    "term1": "easy",
+    "term2": "big",
+    "value": 1.12,
+    "stddev": 1.22
+  },
+  {
+    "term1": "great",
+    "term2": "awful",
+    "value": 1.17,
+    "stddev": 1.53
+  },
+  {
+    "term1": "tiny",
+    "term2": "huge",
+    "value": 0.6,
+    "stddev": 0.59
+  },
+  {
+    "term1": "polite",
+    "term2": "proper",
+    "value": 7.63,
+    "stddev": 1.42
+  },
+  {
+    "term1": "modest",
+    "term2": "ashamed",
+    "value": 2.65,
+    "stddev": 1
+  },
+  {
+    "term1": "exotic",
+    "term2": "rare",
+    "value": 8.05,
+    "stddev": 0.93
+  },
+  {
+    "term1": "dumb",
+    "term2": "clever",
+    "value": 1.17,
+    "stddev": 1.3
+  },
+  {
+    "term1": "delightful",
+    "term2": "wonderful",
+    "value": 8.65,
+    "stddev": 1.29
+  },
+  {
+    "term1": "noticeable",
+    "term2": "obvious",
+    "value": 8.48,
+    "stddev": 1.69
+  },
+  {
+    "term1": "afraid",
+    "term2": "anxious",
+    "value": 5.07,
+    "stddev": 1.28
+  },
+  {
+    "term1": "formal",
+    "term2": "proper",
+    "value": 8.02,
+    "stddev": 1.31
+  },
+  {
+    "term1": "dreary",
+    "term2": "dull",
+    "value": 8.25,
+    "stddev": 1.85
+  },
+  {
+    "term1": "delightful",
+    "term2": "cheerful",
+    "value": 6.58,
+    "stddev": 1.56
+  },
+  {
+    "term1": "unhappy",
+    "term2": "mad",
+    "value": 5.95,
+    "stddev": 1.36
+  },
+  {
+    "term1": "sad",
+    "term2": "terrible",
+    "value": 5.4,
+    "stddev": 0.44
+  },
+  {
+    "term1": "sick",
+    "term2": "crazy",
+    "value": 3.57,
+    "stddev": 0.95
+  },
+  {
+    "term1": "violent",
+    "term2": "angry",
+    "value": 6.98,
+    "stddev": 1.55
+  },
+  {
+    "term1": "laden",
+    "term2": "heavy",
+    "value": 5.9,
+    "stddev": 1.28
+  },
+  {
+    "term1": "dirty",
+    "term2": "cheap",
+    "value": 1.6,
+    "stddev": 1.1
+  },
+  {
+    "term1": "elastic",
+    "term2": "flexible",
+    "value": 7.78,
+    "stddev": 1.09
+  },
+  {
+    "term1": "hard",
+    "term2": "dense",
+    "value": 5.9,
+    "stddev": 1
+  },
+  {
+    "term1": "recent",
+    "term2": "new",
+    "value": 7.05,
+    "stddev": 1.05
+  },
+  {
+    "term1": "bold",
+    "term2": "proud",
+    "value": 3.97,
+    "stddev": 1.36
+  },
+  {
+    "term1": "sly",
+    "term2": "strange",
+    "value": 1.97,
+    "stddev": 1.07
+  },
+  {
+    "term1": "strange",
+    "term2": "sly",
+    "value": 2.07,
+    "stddev": 0.51
+  },
+  {
+    "term1": "dumb",
+    "term2": "rare",
+    "value": 0.48,
+    "stddev": 1.55
+  },
+  {
+    "term1": "sly",
+    "term2": "tough",
+    "value": 0.58,
+    "stddev": 1.01
+  },
+  {
+    "term1": "terrific",
+    "term2": "mad",
+    "value": 0.4,
+    "stddev": 0.86
+  },
+  {
+    "term1": "modest",
+    "term2": "flexible",
+    "value": 0.98,
+    "stddev": 1.89
+  },
+  {
+    "term1": "fresh",
+    "term2": "wide",
+    "value": 0.4,
+    "stddev": 1.41
+  },
+  {
+    "term1": "huge",
+    "term2": "dumb",
+    "value": 0.48,
+    "stddev": 0.91
+  },
+  {
+    "term1": "large",
+    "term2": "flexible",
+    "value": 0.48,
+    "stddev": 1.59
+  },
+  {
+    "term1": "dirty",
+    "term2": "narrow",
+    "value": 0.3,
+    "stddev": 0.89
+  },
+  {
+    "term1": "wife",
+    "term2": "husband",
+    "value": 2.3,
+    "stddev": 0.84
+  },
+  {
+    "term1": "book",
+    "term2": "text",
+    "value": 6.35,
+    "stddev": 1.43
+  },
+  {
+    "term1": "groom",
+    "term2": "bride",
+    "value": 3.17,
+    "stddev": 0.68
+  },
+  {
+    "term1": "night",
+    "term2": "day",
+    "value": 1.88,
+    "stddev": 1.17
+  },
+  {
+    "term1": "south",
+    "term2": "north",
+    "value": 2.2,
+    "stddev": 0.59
+  },
+  {
+    "term1": "plane",
+    "term2": "airport",
+    "value": 3.65,
+    "stddev": 1.07
+  },
+  {
+    "term1": "uncle",
+    "term2": "aunt",
+    "value": 5.5,
+    "stddev": 1.63
+  },
+  {
+    "term1": "horse",
+    "term2": "mare",
+    "value": 8.33,
+    "stddev": 0.73
+  },
+  {
+    "term1": "bottom",
+    "term2": "top",
+    "value": 0.7,
+    "stddev": 1.16
+  },
+  {
+    "term1": "friend",
+    "term2": "buddy",
+    "value": 8.78,
+    "stddev": 0.93
+  },
+  {
+    "term1": "student",
+    "term2": "pupil",
+    "value": 9.35,
+    "stddev": 1.11
+  },
+  {
+    "term1": "world",
+    "term2": "globe",
+    "value": 6.67,
+    "stddev": 0.67
+  },
+  {
+    "term1": "leg",
+    "term2": "arm",
+    "value": 2.88,
+    "stddev": 0.79
+  },
+  {
+    "term1": "plane",
+    "term2": "jet",
+    "value": 8.1,
+    "stddev": 1.24
+  },
+  {
+    "term1": "woman",
+    "term2": "man",
+    "value": 3.33,
+    "stddev": 1.42
+  },
+  {
+    "term1": "horse",
+    "term2": "colt",
+    "value": 7.07,
+    "stddev": 0.84
+  },
+  {
+    "term1": "actress",
+    "term2": "actor",
+    "value": 7.12,
+    "stddev": 1.3
+  },
+  {
+    "term1": "teacher",
+    "term2": "instructor",
+    "value": 9.25,
+    "stddev": 1.53
+  },
+  {
+    "term1": "movie",
+    "term2": "film",
+    "value": 8.87,
+    "stddev": 1.72
+  },
+  {
+    "term1": "bird",
+    "term2": "hawk",
+    "value": 7.85,
+    "stddev": 0.91
+  },
+  {
+    "term1": "word",
+    "term2": "dictionary",
+    "value": 3.68,
+    "stddev": 1.56
+  },
+  {
+    "term1": "money",
+    "term2": "salary",
+    "value": 7.88,
+    "stddev": 1.11
+  },
+  {
+    "term1": "dog",
+    "term2": "cat",
+    "value": 1.75,
+    "stddev": 1.3
+  },
+  {
+    "term1": "area",
+    "term2": "region",
+    "value": 9.47,
+    "stddev": 0.58
+  },
+  {
+    "term1": "navy",
+    "term2": "army",
+    "value": 6.43,
+    "stddev": 0.53
+  },
+  {
+    "term1": "book",
+    "term2": "literature",
+    "value": 7.53,
+    "stddev": 0.45
+  },
+  {
+    "term1": "clothes",
+    "term2": "closet",
+    "value": 3.27,
+    "stddev": 1.29
+  },
+  {
+    "term1": "sunset",
+    "term2": "sunrise",
+    "value": 2.47,
+    "stddev": 1.12
+  },
+  {
+    "term1": "child",
+    "term2": "adult",
+    "value": 2.98,
+    "stddev": 1.48
+  },
+  {
+    "term1": "cow",
+    "term2": "cattle",
+    "value": 9.52,
+    "stddev": 0.79
+  },
+  {
+    "term1": "book",
+    "term2": "story",
+    "value": 5.63,
+    "stddev": 0.78
+  },
+  {
+    "term1": "winter",
+    "term2": "summer",
+    "value": 2.38,
+    "stddev": 0.47
+  },
+  {
+    "term1": "taxi",
+    "term2": "cab",
+    "value": 9.2,
+    "stddev": 1.23
+  },
+  {
+    "term1": "tree",
+    "term2": "maple",
+    "value": 5.53,
+    "stddev": 1.19
+  },
+  {
+    "term1": "bed",
+    "term2": "bedroom",
+    "value": 3.4,
+    "stddev": 1.25
+  },
+  {
+    "term1": "roof",
+    "term2": "ceiling",
+    "value": 7.58,
+    "stddev": 0.77
+  },
+  {
+    "term1": "disease",
+    "term2": "infection",
+    "value": 7.15,
+    "stddev": 1.08
+  },
+  {
+    "term1": "arm",
+    "term2": "shoulder",
+    "value": 4.85,
+    "stddev": 1.81
+  },
+  {
+    "term1": "sheep",
+    "term2": "lamb",
+    "value": 8.42,
+    "stddev": 1.51
+  },
+  {
+    "term1": "lady",
+    "term2": "gentleman",
+    "value": 3.42,
+    "stddev": 1.08
+  },
+  {
+    "term1": "boat",
+    "term2": "anchor",
+    "value": 2.25,
+    "stddev": 1.1
+  },
+  {
+    "term1": "priest",
+    "term2": "monk",
+    "value": 6.28,
+    "stddev": 0.61
+  },
+  {
+    "term1": "toe",
+    "term2": "finger",
+    "value": 4.68,
+    "stddev": 0.55
+  },
+  {
+    "term1": "river",
+    "term2": "stream",
+    "value": 7.3,
+    "stddev": 0.81
+  },
+  {
+    "term1": "anger",
+    "term2": "fury",
+    "value": 8.73,
+    "stddev": 1.89
+  },
+  {
+    "term1": "date",
+    "term2": "calendar",
+    "value": 4.42,
+    "stddev": 1.5
+  },
+  {
+    "term1": "sea",
+    "term2": "ocean",
+    "value": 8.27,
+    "stddev": 1.3
+  },
+  {
+    "term1": "second",
+    "term2": "minute",
+    "value": 4.62,
+    "stddev": 1.15
+  },
+  {
+    "term1": "hand",
+    "term2": "thumb",
+    "value": 3.88,
+    "stddev": 0.44
+  },
+  {
+    "term1": "wood",
+    "term2": "log",
+    "value": 7.3,
+    "stddev": 0.87
+  },
+  {
+    "term1": "mud",
+    "term2": "dirt",
+    "value": 7.32,
+    "stddev": 0.48
+  },
+  {
+    "term1": "hallway",
+    "term2": "corridor",
+    "value": 9.28,
+    "stddev": 0.76
+  },
+  {
+    "term1": "way",
+    "term2": "manner",
+    "value": 7.62,
+    "stddev": 0.44
+  },
+  {
+    "term1": "mouse",
+    "term2": "cat",
+    "value": 1.12,
+    "stddev": 1.02
+  },
+  {
+    "term1": "cop",
+    "term2": "sheriff",
+    "value": 9.05,
+    "stddev": 1.55
+  },
+  {
+    "term1": "death",
+    "term2": "burial",
+    "value": 4.93,
+    "stddev": 1.88
+  },
+  {
+    "term1": "music",
+    "term2": "melody",
+    "value": 6.98,
+    "stddev": 1.36
+  },
+  {
+    "term1": "beer",
+    "term2": "alcohol",
+    "value": 7.5,
+    "stddev": 1.07
+  },
+  {
+    "term1": "mouth",
+    "term2": "lip",
+    "value": 7.1,
+    "stddev": 1.4
+  },
+  {
+    "term1": "storm",
+    "term2": "hurricane",
+    "value": 6.38,
+    "stddev": 0.9
+  },
+  {
+    "term1": "tax",
+    "term2": "income",
+    "value": 2.38,
+    "stddev": 1.15
+  },
+  {
+    "term1": "flower",
+    "term2": "violet",
+    "value": 6.95,
+    "stddev": 1.72
+  },
+  {
+    "term1": "paper",
+    "term2": "cardboard",
+    "value": 5.38,
+    "stddev": 1.22
+  },
+  {
+    "term1": "floor",
+    "term2": "ceiling",
+    "value": 1.73,
+    "stddev": 0.97
+  },
+  {
+    "term1": "beach",
+    "term2": "seashore",
+    "value": 8.33,
+    "stddev": 0.47
+  },
+  {
+    "term1": "rod",
+    "term2": "curtain",
+    "value": 3.03,
+    "stddev": 0.39
+  },
+  {
+    "term1": "hound",
+    "term2": "fox",
+    "value": 2.38,
+    "stddev": 1.36
+  },
+  {
+    "term1": "street",
+    "term2": "alley",
+    "value": 5.48,
+    "stddev": 1.62
+  },
+  {
+    "term1": "boat",
+    "term2": "deck",
+    "value": 4.28,
+    "stddev": 1.39
+  },
+  {
+    "term1": "car",
+    "term2": "horn",
+    "value": 2.57,
+    "stddev": 0.79
+  },
+  {
+    "term1": "friend",
+    "term2": "guest",
+    "value": 4.25,
+    "stddev": 1.41
+  },
+  {
+    "term1": "employer",
+    "term2": "employee",
+    "value": 3.65,
+    "stddev": 0.95
+  },
+  {
+    "term1": "hand",
+    "term2": "wrist",
+    "value": 3.97,
+    "stddev": 1.32
+  },
+  {
+    "term1": "ball",
+    "term2": "cannon",
+    "value": 2.58,
+    "stddev": 1.82
+  },
+  {
+    "term1": "alcohol",
+    "term2": "brandy",
+    "value": 6.98,
+    "stddev": 0.57
+  },
+  {
+    "term1": "victory",
+    "term2": "triumph",
+    "value": 8.98,
+    "stddev": 0.94
+  },
+  {
+    "term1": "telephone",
+    "term2": "booth",
+    "value": 3.63,
+    "stddev": 1.1
+  },
+  {
+    "term1": "door",
+    "term2": "doorway",
+    "value": 5.4,
+    "stddev": 1.86
+  },
+  {
+    "term1": "motel",
+    "term2": "inn",
+    "value": 8.17,
+    "stddev": 0.39
+  },
+  {
+    "term1": "clothes",
+    "term2": "cloth",
+    "value": 5.47,
+    "stddev": 1.43
+  },
+  {
+    "term1": "steak",
+    "term2": "meat",
+    "value": 7.47,
+    "stddev": 1.34
+  },
+  {
+    "term1": "nail",
+    "term2": "thumb",
+    "value": 3.55,
+    "stddev": 1.16
+  },
+  {
+    "term1": "band",
+    "term2": "orchestra",
+    "value": 7.08,
+    "stddev": 1.36
+  },
+  {
+    "term1": "book",
+    "term2": "bible",
+    "value": 5,
+    "stddev": 1.43
+  },
+  {
+    "term1": "business",
+    "term2": "industry",
+    "value": 7.02,
+    "stddev": 1.1
+  },
+  {
+    "term1": "winter",
+    "term2": "season",
+    "value": 6.27,
+    "stddev": 1.76
+  },
+  {
+    "term1": "decade",
+    "term2": "century",
+    "value": 3.48,
+    "stddev": 1.36
+  },
+  {
+    "term1": "alcohol",
+    "term2": "gin",
+    "value": 8.65,
+    "stddev": 1.17
+  },
+  {
+    "term1": "hat",
+    "term2": "coat",
+    "value": 2.67,
+    "stddev": 1.76
+  },
+  {
+    "term1": "window",
+    "term2": "door",
+    "value": 3.33,
+    "stddev": 1.6
+  },
+  {
+    "term1": "arm",
+    "term2": "wrist",
+    "value": 3.57,
+    "stddev": 1.33
+  },
+  {
+    "term1": "house",
+    "term2": "apartment",
+    "value": 5.8,
+    "stddev": 1.4
+  },
+  {
+    "term1": "glass",
+    "term2": "crystal",
+    "value": 6.27,
+    "stddev": 1.48
+  },
+  {
+    "term1": "wine",
+    "term2": "brandy",
+    "value": 5.15,
+    "stddev": 1.67
+  },
+  {
+    "term1": "creator",
+    "term2": "maker",
+    "value": 9.62,
+    "stddev": 1.4
+  },
+  {
+    "term1": "dinner",
+    "term2": "breakfast",
+    "value": 3.33,
+    "stddev": 1.72
+  },
+  {
+    "term1": "arm",
+    "term2": "muscle",
+    "value": 3.72,
+    "stddev": 0.83
+  },
+  {
+    "term1": "bubble",
+    "term2": "suds",
+    "value": 8.57,
+    "stddev": 1.59
+  },
+  {
+    "term1": "bread",
+    "term2": "flour",
+    "value": 3.33,
+    "stddev": 1.25
+  },
+  {
+    "term1": "death",
+    "term2": "tragedy",
+    "value": 5.8,
+    "stddev": 1.13
+  },
+  {
+    "term1": "absence",
+    "term2": "presence",
+    "value": 0.4,
+    "stddev": 1.5
+  },
+  {
+    "term1": "gun",
+    "term2": "cannon",
+    "value": 5.68,
+    "stddev": 1.56
+  },
+  {
+    "term1": "grass",
+    "term2": "blade",
+    "value": 4.57,
+    "stddev": 1.53
+  },
+  {
+    "term1": "ball",
+    "term2": "basket",
+    "value": 1.67,
+    "stddev": 1.08
+  },
+  {
+    "term1": "hose",
+    "term2": "garden",
+    "value": 1.67,
+    "stddev": 1.1
+  },
+  {
+    "term1": "boy",
+    "term2": "kid",
+    "value": 7.5,
+    "stddev": 1.44
+  },
+  {
+    "term1": "church",
+    "term2": "choir",
+    "value": 2.95,
+    "stddev": 1.43
+  },
+  {
+    "term1": "clothes",
+    "term2": "drawer",
+    "value": 3.02,
+    "stddev": 1.49
+  },
+  {
+    "term1": "tower",
+    "term2": "bell",
+    "value": 1.9,
+    "stddev": 1.41
+  },
+  {
+    "term1": "father",
+    "term2": "parent",
+    "value": 7.07,
+    "stddev": 1.06
+  },
+  {
+    "term1": "school",
+    "term2": "grade",
+    "value": 4.42,
+    "stddev": 1.32
+  },
+  {
+    "term1": "parent",
+    "term2": "adult",
+    "value": 5.37,
+    "stddev": 1.6
+  },
+  {
+    "term1": "bar",
+    "term2": "jail",
+    "value": 1.9,
+    "stddev": 1.12
+  },
+  {
+    "term1": "car",
+    "term2": "highway",
+    "value": 3.4,
+    "stddev": 1.77
+  },
+  {
+    "term1": "dictionary",
+    "term2": "definition",
+    "value": 6.25,
+    "stddev": 1.06
+  },
+  {
+    "term1": "door",
+    "term2": "cellar",
+    "value": 1.97,
+    "stddev": 1.47
+  },
+  {
+    "term1": "army",
+    "term2": "legion",
+    "value": 5.95,
+    "stddev": 1.29
+  },
+  {
+    "term1": "metal",
+    "term2": "aluminum",
+    "value": 7.25,
+    "stddev": 1.76
+  },
+  {
+    "term1": "chair",
+    "term2": "bench",
+    "value": 6.67,
+    "stddev": 1.22
+  },
+  {
+    "term1": "cloud",
+    "term2": "fog",
+    "value": 6,
+    "stddev": 1.04
+  },
+  {
+    "term1": "boy",
+    "term2": "son",
+    "value": 6.75,
+    "stddev": 0.88
+  },
+  {
+    "term1": "water",
+    "term2": "ice",
+    "value": 6.47,
+    "stddev": 1.66
+  },
+  {
+    "term1": "bed",
+    "term2": "blanket",
+    "value": 3.02,
+    "stddev": 1.48
+  },
+  {
+    "term1": "attorney",
+    "term2": "lawyer",
+    "value": 9.35,
+    "stddev": 1.4
+  },
+  {
+    "term1": "area",
+    "term2": "zone",
+    "value": 8.33,
+    "stddev": 0.89
+  },
+  {
+    "term1": "business",
+    "term2": "company",
+    "value": 9.02,
+    "stddev": 0.47
+  },
+  {
+    "term1": "clothes",
+    "term2": "fabric",
+    "value": 5.87,
+    "stddev": 1.66
+  },
+  {
+    "term1": "sweater",
+    "term2": "jacket",
+    "value": 7.15,
+    "stddev": 1.13
+  },
+  {
+    "term1": "money",
+    "term2": "capital",
+    "value": 6.67,
+    "stddev": 0.97
+  },
+  {
+    "term1": "hand",
+    "term2": "foot",
+    "value": 4.17,
+    "stddev": 1.41
+  },
+  {
+    "term1": "alcohol",
+    "term2": "cocktail",
+    "value": 6.73,
+    "stddev": 1.2
+  },
+  {
+    "term1": "yard",
+    "term2": "inch",
+    "value": 3.78,
+    "stddev": 1.4
+  },
+  {
+    "term1": "molecule",
+    "term2": "atom",
+    "value": 6.45,
+    "stddev": 1.56
+  },
+  {
+    "term1": "lens",
+    "term2": "camera",
+    "value": 4.28,
+    "stddev": 1.89
+  },
+  {
+    "term1": "meal",
+    "term2": "dinner",
+    "value": 7.15,
+    "stddev": 2
+  },
+  {
+    "term1": "eye",
+    "term2": "tear",
+    "value": 3.55,
+    "stddev": 1.48
+  },
+  {
+    "term1": "god",
+    "term2": "devil",
+    "value": 1.8,
+    "stddev": 1.1
+  },
+  {
+    "term1": "loop",
+    "term2": "belt",
+    "value": 3.1,
+    "stddev": 1.74
+  },
+  {
+    "term1": "rat",
+    "term2": "mouse",
+    "value": 7.78,
+    "stddev": 0.93
+  },
+  {
+    "term1": "motor",
+    "term2": "engine",
+    "value": 8.65,
+    "stddev": 1.47
+  },
+  {
+    "term1": "car",
+    "term2": "cab",
+    "value": 7.42,
+    "stddev": 1.15
+  },
+  {
+    "term1": "cat",
+    "term2": "lion",
+    "value": 6.75,
+    "stddev": 0.84
+  },
+  {
+    "term1": "size",
+    "term2": "magnitude",
+    "value": 6.33,
+    "stddev": 0.59
+  },
+  {
+    "term1": "reality",
+    "term2": "fantasy",
+    "value": 1.03,
+    "stddev": 0.89
+  },
+  {
+    "term1": "door",
+    "term2": "gate",
+    "value": 5.25,
+    "stddev": 1.47
+  },
+  {
+    "term1": "cat",
+    "term2": "pet",
+    "value": 5.95,
+    "stddev": 1.41
+  },
+  {
+    "term1": "tin",
+    "term2": "aluminum",
+    "value": 6.42,
+    "stddev": 1.3
+  },
+  {
+    "term1": "bone",
+    "term2": "jaw",
+    "value": 4.17,
+    "stddev": 0.44
+  },
+  {
+    "term1": "cereal",
+    "term2": "wheat",
+    "value": 3.75,
+    "stddev": 1.72
+  },
+  {
+    "term1": "house",
+    "term2": "key",
+    "value": 1.9,
+    "stddev": 1.09
+  },
+  {
+    "term1": "blood",
+    "term2": "flesh",
+    "value": 4.28,
+    "stddev": 1.74
+  },
+  {
+    "term1": "door",
+    "term2": "corridor",
+    "value": 3.73,
+    "stddev": 1.11
+  },
+  {
+    "term1": "god",
+    "term2": "spirit",
+    "value": 7.3,
+    "stddev": 1.63
+  },
+  {
+    "term1": "capability",
+    "term2": "competence",
+    "value": 7.62,
+    "stddev": 0.84
+  },
+  {
+    "term1": "abundance",
+    "term2": "plenty",
+    "value": 8.97,
+    "stddev": 1.02
+  },
+  {
+    "term1": "sofa",
+    "term2": "chair",
+    "value": 6.67,
+    "stddev": 1.56
+  },
+  {
+    "term1": "wall",
+    "term2": "brick",
+    "value": 4.68,
+    "stddev": 1.16
+  },
+  {
+    "term1": "horn",
+    "term2": "drum",
+    "value": 2.68,
+    "stddev": 0.47
+  },
+  {
+    "term1": "organ",
+    "term2": "liver",
+    "value": 6.15,
+    "stddev": 1.12
+  },
+  {
+    "term1": "strength",
+    "term2": "might",
+    "value": 7.07,
+    "stddev": 0.8
+  },
+  {
+    "term1": "phrase",
+    "term2": "word",
+    "value": 5.48,
+    "stddev": 1.73
+  },
+  {
+    "term1": "band",
+    "term2": "parade",
+    "value": 3.92,
+    "stddev": 1.74
+  },
+  {
+    "term1": "stomach",
+    "term2": "waist",
+    "value": 5.9,
+    "stddev": 1.49
+  },
+  {
+    "term1": "cloud",
+    "term2": "storm",
+    "value": 5.6,
+    "stddev": 1.47
+  },
+  {
+    "term1": "joy",
+    "term2": "pride",
+    "value": 5,
+    "stddev": 0.9
+  },
+  {
+    "term1": "noise",
+    "term2": "rattle",
+    "value": 6.17,
+    "stddev": 1.33
+  },
+  {
+    "term1": "rain",
+    "term2": "mist",
+    "value": 5.97,
+    "stddev": 1.83
+  },
+  {
+    "term1": "beer",
+    "term2": "beverage",
+    "value": 5.42,
+    "stddev": 1.34
+  },
+  {
+    "term1": "man",
+    "term2": "uncle",
+    "value": 3.92,
+    "stddev": 1.36
+  },
+  {
+    "term1": "apple",
+    "term2": "juice",
+    "value": 2.88,
+    "stddev": 1.65
+  },
+  {
+    "term1": "intelligence",
+    "term2": "logic",
+    "value": 6.5,
+    "stddev": 1.2
+  },
+  {
+    "term1": "communication",
+    "term2": "language",
+    "value": 7.47,
+    "stddev": 1.09
+  },
+  {
+    "term1": "mink",
+    "term2": "fur",
+    "value": 6.83,
+    "stddev": 0.39
+  },
+  {
+    "term1": "mob",
+    "term2": "crowd",
+    "value": 7.85,
+    "stddev": 1.2
+  },
+  {
+    "term1": "shore",
+    "term2": "coast",
+    "value": 8.83,
+    "stddev": 1.53
+  },
+  {
+    "term1": "wire",
+    "term2": "cord",
+    "value": 7.62,
+    "stddev": 1.35
+  },
+  {
+    "term1": "bird",
+    "term2": "turkey",
+    "value": 6.58,
+    "stddev": 1.6
+  },
+  {
+    "term1": "bed",
+    "term2": "crib",
+    "value": 7.3,
+    "stddev": 1.56
+  },
+  {
+    "term1": "competence",
+    "term2": "ability",
+    "value": 7.5,
+    "stddev": 0.6
+  },
+  {
+    "term1": "cloud",
+    "term2": "haze",
+    "value": 7.32,
+    "stddev": 1.68
+  },
+  {
+    "term1": "supper",
+    "term2": "meal",
+    "value": 7.53,
+    "stddev": 0.47
+  },
+  {
+    "term1": "bar",
+    "term2": "cage",
+    "value": 2.8,
+    "stddev": 0.51
+  },
+  {
+    "term1": "water",
+    "term2": "salt",
+    "value": 1.3,
+    "stddev": 0.94
+  },
+  {
+    "term1": "sense",
+    "term2": "intuition",
+    "value": 7.68,
+    "stddev": 1.24
+  },
+  {
+    "term1": "situation",
+    "term2": "condition",
+    "value": 6.58,
+    "stddev": 1.41
+  },
+  {
+    "term1": "crime",
+    "term2": "theft",
+    "value": 7.53,
+    "stddev": 1.32
+  },
+  {
+    "term1": "style",
+    "term2": "fashion",
+    "value": 8.5,
+    "stddev": 0.87
+  },
+  {
+    "term1": "boundary",
+    "term2": "border",
+    "value": 9.08,
+    "stddev": 0.44
+  },
+  {
+    "term1": "arm",
+    "term2": "body",
+    "value": 4.05,
+    "stddev": 0.51
+  },
+  {
+    "term1": "boat",
+    "term2": "car",
+    "value": 2.37,
+    "stddev": 1.17
+  },
+  {
+    "term1": "sandwich",
+    "term2": "lunch",
+    "value": 6.3,
+    "stddev": 1.53
+  },
+  {
+    "term1": "bride",
+    "term2": "princess",
+    "value": 2.8,
+    "stddev": 0.92
+  },
+  {
+    "term1": "heroine",
+    "term2": "hero",
+    "value": 8.78,
+    "stddev": 1.79
+  },
+  {
+    "term1": "car",
+    "term2": "gauge",
+    "value": 1.13,
+    "stddev": 1.47
+  },
+  {
+    "term1": "insect",
+    "term2": "bee",
+    "value": 6.07,
+    "stddev": 1.34
+  },
+  {
+    "term1": "crib",
+    "term2": "cradle",
+    "value": 8.55,
+    "stddev": 1.15
+  },
+  {
+    "term1": "animal",
+    "term2": "person",
+    "value": 3.05,
+    "stddev": 1.38
+  },
+  {
+    "term1": "marijuana",
+    "term2": "herb",
+    "value": 6.5,
+    "stddev": 0.59
+  },
+  {
+    "term1": "bed",
+    "term2": "hospital",
+    "value": 0.92,
+    "stddev": 1.35
+  },
+  {
+    "term1": "cheek",
+    "term2": "tongue",
+    "value": 4.52,
+    "stddev": 0.47
+  },
+  {
+    "term1": "disc",
+    "term2": "computer",
+    "value": 3.2,
+    "stddev": 0.44
+  },
+  {
+    "term1": "curve",
+    "term2": "angle",
+    "value": 3.33,
+    "stddev": 1.51
+  },
+  {
+    "term1": "grass",
+    "term2": "moss",
+    "value": 5,
+    "stddev": 1.27
+  },
+  {
+    "term1": "school",
+    "term2": "law",
+    "value": 1.13,
+    "stddev": 1.49
+  },
+  {
+    "term1": "foot",
+    "term2": "head",
+    "value": 2.3,
+    "stddev": 0.62
+  },
+  {
+    "term1": "mother",
+    "term2": "guardian",
+    "value": 6.5,
+    "stddev": 1.13
+  },
+  {
+    "term1": "orthodontist",
+    "term2": "dentist",
+    "value": 8.27,
+    "stddev": 1.47
+  },
+  {
+    "term1": "alcohol",
+    "term2": "whiskey",
+    "value": 7.27,
+    "stddev": 1.19
+  },
+  {
+    "term1": "mouth",
+    "term2": "tooth",
+    "value": 6.3,
+    "stddev": 1.39
+  },
+  {
+    "term1": "breakfast",
+    "term2": "bacon",
+    "value": 4.37,
+    "stddev": 1.46
+  },
+  {
+    "term1": "bathroom",
+    "term2": "bedroom",
+    "value": 3.4,
+    "stddev": 1.73
+  },
+  {
+    "term1": "plate",
+    "term2": "bowl",
+    "value": 5.23,
+    "stddev": 1.46
+  },
+  {
+    "term1": "meat",
+    "term2": "bacon",
+    "value": 5.8,
+    "stddev": 1.5
+  },
+  {
+    "term1": "air",
+    "term2": "helium",
+    "value": 3.63,
+    "stddev": 1.59
+  },
+  {
+    "term1": "worker",
+    "term2": "employer",
+    "value": 5.37,
+    "stddev": 1.4
+  },
+  {
+    "term1": "body",
+    "term2": "chest",
+    "value": 4.45,
+    "stddev": 1.45
+  },
+  {
+    "term1": "son",
+    "term2": "father",
+    "value": 3.82,
+    "stddev": 1.75
+  },
+  {
+    "term1": "heart",
+    "term2": "surgery",
+    "value": 1.08,
+    "stddev": 1.07
+  },
+  {
+    "term1": "woman",
+    "term2": "secretary",
+    "value": 1.98,
+    "stddev": 1.6
+  },
+  {
+    "term1": "man",
+    "term2": "father",
+    "value": 4.83,
+    "stddev": 1.62
+  },
+  {
+    "term1": "beach",
+    "term2": "island",
+    "value": 5.6,
+    "stddev": 0.39
+  },
+  {
+    "term1": "story",
+    "term2": "topic",
+    "value": 5,
+    "stddev": 1.7
+  },
+  {
+    "term1": "game",
+    "term2": "fun",
+    "value": 3.42,
+    "stddev": 2.07
+  },
+  {
+    "term1": "weekend",
+    "term2": "week",
+    "value": 4,
+    "stddev": 1.57
+  },
+  {
+    "term1": "couple",
+    "term2": "pair",
+    "value": 8.33,
+    "stddev": 1.5
+  },
+  {
+    "term1": "woman",
+    "term2": "wife",
+    "value": 5.72,
+    "stddev": 1.35
+  },
+  {
+    "term1": "sheep",
+    "term2": "cattle",
+    "value": 4.77,
+    "stddev": 0.47
+  },
+  {
+    "term1": "purse",
+    "term2": "bag",
+    "value": 8.33,
+    "stddev": 1.39
+  },
+  {
+    "term1": "ceiling",
+    "term2": "cathedral",
+    "value": 2.42,
+    "stddev": 1.57
+  },
+  {
+    "term1": "bean",
+    "term2": "coffee",
+    "value": 5.15,
+    "stddev": 1.52
+  },
+  {
+    "term1": "wood",
+    "term2": "paper",
+    "value": 2.88,
+    "stddev": 1.55
+  },
+  {
+    "term1": "top",
+    "term2": "side",
+    "value": 1.9,
+    "stddev": 1.29
+  },
+  {
+    "term1": "crime",
+    "term2": "fraud",
+    "value": 5.65,
+    "stddev": 1.18
+  },
+  {
+    "term1": "pain",
+    "term2": "harm",
+    "value": 5.38,
+    "stddev": 0.95
+  },
+  {
+    "term1": "lover",
+    "term2": "companion",
+    "value": 5.97,
+    "stddev": 0.8
+  },
+  {
+    "term1": "evening",
+    "term2": "dusk",
+    "value": 7.78,
+    "stddev": 1.32
+  },
+  {
+    "term1": "father",
+    "term2": "daughter",
+    "value": 2.62,
+    "stddev": 1.69
+  },
+  {
+    "term1": "wine",
+    "term2": "liquor",
+    "value": 7.85,
+    "stddev": 0.78
+  },
+  {
+    "term1": "cow",
+    "term2": "goat",
+    "value": 2.93,
+    "stddev": 0.59
+  },
+  {
+    "term1": "belief",
+    "term2": "opinion",
+    "value": 7.7,
+    "stddev": 1.24
+  },
+  {
+    "term1": "reality",
+    "term2": "illusion",
+    "value": 1.42,
+    "stddev": 1.36
+  },
+  {
+    "term1": "pact",
+    "term2": "agreement",
+    "value": 9.02,
+    "stddev": 1.2
+  },
+  {
+    "term1": "wealth",
+    "term2": "poverty",
+    "value": 1.27,
+    "stddev": 1.47
+  },
+  {
+    "term1": "accident",
+    "term2": "emergency",
+    "value": 4.93,
+    "stddev": 0.49
+  },
+  {
+    "term1": "battle",
+    "term2": "conquest",
+    "value": 7.22,
+    "stddev": 0.89
+  },
+  {
+    "term1": "friend",
+    "term2": "teacher",
+    "value": 2.62,
+    "stddev": 1.29
+  },
+  {
+    "term1": "illness",
+    "term2": "infection",
+    "value": 6.9,
+    "stddev": 1.28
+  },
+  {
+    "term1": "game",
+    "term2": "trick",
+    "value": 2.32,
+    "stddev": 1.02
+  },
+  {
+    "term1": "brother",
+    "term2": "son",
+    "value": 3.48,
+    "stddev": 1.61
+  },
+  {
+    "term1": "aunt",
+    "term2": "nephew",
+    "value": 3.1,
+    "stddev": 1.31
+  },
+  {
+    "term1": "worker",
+    "term2": "mechanic",
+    "value": 4.92,
+    "stddev": 1.2
+  },
+  {
+    "term1": "doctor",
+    "term2": "orthodontist",
+    "value": 5.58,
+    "stddev": 1.25
+  },
+  {
+    "term1": "oak",
+    "term2": "maple",
+    "value": 6.03,
+    "stddev": 0.39
+  },
+  {
+    "term1": "bee",
+    "term2": "queen",
+    "value": 3.27,
+    "stddev": 1.2
+  },
+  {
+    "term1": "car",
+    "term2": "bicycle",
+    "value": 3.47,
+    "stddev": 1.68
+  },
+  {
+    "term1": "goal",
+    "term2": "quest",
+    "value": 5.83,
+    "stddev": 1.31
+  },
+  {
+    "term1": "august",
+    "term2": "month",
+    "value": 5.53,
+    "stddev": 1.54
+  },
+  {
+    "term1": "army",
+    "term2": "squad",
+    "value": 5.08,
+    "stddev": 1.61
+  },
+  {
+    "term1": "cloud",
+    "term2": "weather",
+    "value": 4.87,
+    "stddev": 0.94
+  },
+  {
+    "term1": "physician",
+    "term2": "doctor",
+    "value": 8.88,
+    "stddev": 1.5
+  },
+  {
+    "term1": "canyon",
+    "term2": "valley",
+    "value": 6.75,
+    "stddev": 1.39
+  },
+  {
+    "term1": "river",
+    "term2": "valley",
+    "value": 1.67,
+    "stddev": 1.23
+  },
+  {
+    "term1": "sun",
+    "term2": "sky",
+    "value": 2.27,
+    "stddev": 1.67
+  },
+  {
+    "term1": "target",
+    "term2": "arrow",
+    "value": 3.25,
+    "stddev": 1.74
+  },
+  {
+    "term1": "chocolate",
+    "term2": "pie",
+    "value": 2.27,
+    "stddev": 1.79
+  },
+  {
+    "term1": "circumstance",
+    "term2": "situation",
+    "value": 7.85,
+    "stddev": 1.31
+  },
+  {
+    "term1": "opinion",
+    "term2": "choice",
+    "value": 5.43,
+    "stddev": 1.5
+  },
+  {
+    "term1": "rhythm",
+    "term2": "melody",
+    "value": 6.12,
+    "stddev": 1.27
+  },
+  {
+    "term1": "gut",
+    "term2": "nerve",
+    "value": 4.93,
+    "stddev": 1.65
+  },
+  {
+    "term1": "day",
+    "term2": "dawn",
+    "value": 5.47,
+    "stddev": 1.45
+  },
+  {
+    "term1": "cattle",
+    "term2": "beef",
+    "value": 7.03,
+    "stddev": 1.53
+  },
+  {
+    "term1": "doctor",
+    "term2": "professor",
+    "value": 4.65,
+    "stddev": 1.19
+  },
+  {
+    "term1": "arm",
+    "term2": "vein",
+    "value": 3.65,
+    "stddev": 1.62
+  },
+  {
+    "term1": "room",
+    "term2": "bath",
+    "value": 3.33,
+    "stddev": 0.49
+  },
+  {
+    "term1": "corporation",
+    "term2": "business",
+    "value": 9.02,
+    "stddev": 1.44
+  },
+  {
+    "term1": "fun",
+    "term2": "football",
+    "value": 1.97,
+    "stddev": 1.43
+  },
+  {
+    "term1": "hill",
+    "term2": "cliff",
+    "value": 4.28,
+    "stddev": 1.26
+  },
+  {
+    "term1": "bone",
+    "term2": "ankle",
+    "value": 3.82,
+    "stddev": 0.69
+  },
+  {
+    "term1": "apple",
+    "term2": "candy",
+    "value": 2.08,
+    "stddev": 0.75
+  },
+  {
+    "term1": "helper",
+    "term2": "maid",
+    "value": 5.58,
+    "stddev": 0.44
+  },
+  {
+    "term1": "leader",
+    "term2": "manager",
+    "value": 7.27,
+    "stddev": 1.43
+  },
+  {
+    "term1": "lemon",
+    "term2": "tea",
+    "value": 1.6,
+    "stddev": 1.33
+  },
+  {
+    "term1": "bee",
+    "term2": "ant",
+    "value": 2.78,
+    "stddev": 1.04
+  },
+  {
+    "term1": "basketball",
+    "term2": "baseball",
+    "value": 4.92,
+    "stddev": 0.93
+  },
+  {
+    "term1": "rice",
+    "term2": "bean",
+    "value": 2.72,
+    "stddev": 1.27
+  },
+  {
+    "term1": "bed",
+    "term2": "furniture",
+    "value": 6.08,
+    "stddev": 0.84
+  },
+  {
+    "term1": "emotion",
+    "term2": "passion",
+    "value": 7.72,
+    "stddev": 1.3
+  },
+  {
+    "term1": "anarchy",
+    "term2": "chaos",
+    "value": 7.93,
+    "stddev": 1.35
+  },
+  {
+    "term1": "crime",
+    "term2": "violation",
+    "value": 7.12,
+    "stddev": 0.87
+  },
+  {
+    "term1": "machine",
+    "term2": "engine",
+    "value": 5.58,
+    "stddev": 1.95
+  },
+  {
+    "term1": "beach",
+    "term2": "sea",
+    "value": 4.68,
+    "stddev": 1.08
+  },
+  {
+    "term1": "alley",
+    "term2": "bowl",
+    "value": 1.53,
+    "stddev": 0.51
+  },
+  {
+    "term1": "jar",
+    "term2": "bottle",
+    "value": 7.83,
+    "stddev": 1.44
+  },
+  {
+    "term1": "strength",
+    "term2": "capability",
+    "value": 5.28,
+    "stddev": 1.33
+  },
+  {
+    "term1": "seed",
+    "term2": "mustard",
+    "value": 3.48,
+    "stddev": 0.59
+  },
+  {
+    "term1": "guitar",
+    "term2": "drum",
+    "value": 3.78,
+    "stddev": 1.72
+  },
+  {
+    "term1": "opinion",
+    "term2": "idea",
+    "value": 5.7,
+    "stddev": 1.29
+  },
+  {
+    "term1": "north",
+    "term2": "west",
+    "value": 3.63,
+    "stddev": 1.6
+  },
+  {
+    "term1": "diet",
+    "term2": "salad",
+    "value": 2.98,
+    "stddev": 1.6
+  },
+  {
+    "term1": "mother",
+    "term2": "wife",
+    "value": 3.02,
+    "stddev": 1.62
+  },
+  {
+    "term1": "dad",
+    "term2": "mother",
+    "value": 3.55,
+    "stddev": 1.44
+  },
+  {
+    "term1": "captain",
+    "term2": "sailor",
+    "value": 5,
+    "stddev": 1.43
+  },
+  {
+    "term1": "meter",
+    "term2": "yard",
+    "value": 5.6,
+    "stddev": 1.32
+  },
+  {
+    "term1": "beer",
+    "term2": "champagne",
+    "value": 4.45,
+    "stddev": 1.2
+  },
+  {
+    "term1": "motor",
+    "term2": "boat",
+    "value": 2.57,
+    "stddev": 1.45
+  },
+  {
+    "term1": "card",
+    "term2": "bridge",
+    "value": 1.97,
+    "stddev": 1.69
+  },
+  {
+    "term1": "science",
+    "term2": "psychology",
+    "value": 4.92,
+    "stddev": 1.91
+  },
+  {
+    "term1": "sinner",
+    "term2": "saint",
+    "value": 1.6,
+    "stddev": 1.39
+  },
+  {
+    "term1": "destruction",
+    "term2": "construction",
+    "value": 0.98,
+    "stddev": 1.69
+  },
+  {
+    "term1": "crowd",
+    "term2": "bunch",
+    "value": 7.42,
+    "stddev": 1.37
+  },
+  {
+    "term1": "beach",
+    "term2": "reef",
+    "value": 3.77,
+    "stddev": 1.85
+  },
+  {
+    "term1": "man",
+    "term2": "child",
+    "value": 4.13,
+    "stddev": 1.34
+  },
+  {
+    "term1": "bread",
+    "term2": "cheese",
+    "value": 1.95,
+    "stddev": 1.52
+  },
+  {
+    "term1": "champion",
+    "term2": "winner",
+    "value": 8.73,
+    "stddev": 1.15
+  },
+  {
+    "term1": "celebration",
+    "term2": "ceremony",
+    "value": 7.72,
+    "stddev": 0.61
+  },
+  {
+    "term1": "menu",
+    "term2": "order",
+    "value": 3.62,
+    "stddev": 1.42
+  },
+  {
+    "term1": "king",
+    "term2": "princess",
+    "value": 3.27,
+    "stddev": 1.7
+  },
+  {
+    "term1": "wealth",
+    "term2": "prestige",
+    "value": 6.07,
+    "stddev": 1.55
+  },
+  {
+    "term1": "endurance",
+    "term2": "strength",
+    "value": 6.58,
+    "stddev": 0.59
+  },
+  {
+    "term1": "danger",
+    "term2": "threat",
+    "value": 8.78,
+    "stddev": 1.56
+  },
+  {
+    "term1": "god",
+    "term2": "priest",
+    "value": 4.5,
+    "stddev": 1.2
+  },
+  {
+    "term1": "men",
+    "term2": "fraternity",
+    "value": 3.13,
+    "stddev": 1.11
+  },
+  {
+    "term1": "buddy",
+    "term2": "companion",
+    "value": 8.65,
+    "stddev": 1.64
+  },
+  {
+    "term1": "teacher",
+    "term2": "helper",
+    "value": 4.28,
+    "stddev": 1.65
+  },
+  {
+    "term1": "body",
+    "term2": "stomach",
+    "value": 3.93,
+    "stddev": 1.15
+  },
+  {
+    "term1": "tongue",
+    "term2": "throat",
+    "value": 3.1,
+    "stddev": 1.31
+  },
+  {
+    "term1": "house",
+    "term2": "carpet",
+    "value": 1.38,
+    "stddev": 1.44
+  },
+  {
+    "term1": "intelligence",
+    "term2": "skill",
+    "value": 5.35,
+    "stddev": 1.29
+  },
+  {
+    "term1": "journey",
+    "term2": "conquest",
+    "value": 4.72,
+    "stddev": 1.12
+  },
+  {
+    "term1": "god",
+    "term2": "prey",
+    "value": 1.23,
+    "stddev": 1.73
+  },
+  {
+    "term1": "brother",
+    "term2": "soul",
+    "value": 0.97,
+    "stddev": 1.18
+  },
+  {
+    "term1": "adversary",
+    "term2": "opponent",
+    "value": 9.05,
+    "stddev": 1.4
+  },
+  {
+    "term1": "death",
+    "term2": "catastrophe",
+    "value": 4.13,
+    "stddev": 1.46
+  },
+  {
+    "term1": "monster",
+    "term2": "demon",
+    "value": 6.95,
+    "stddev": 1.5
+  },
+  {
+    "term1": "day",
+    "term2": "morning",
+    "value": 4.87,
+    "stddev": 1.95
+  },
+  {
+    "term1": "man",
+    "term2": "victor",
+    "value": 1.9,
+    "stddev": 1.67
+  },
+  {
+    "term1": "friend",
+    "term2": "guy",
+    "value": 3.88,
+    "stddev": 1.49
+  },
+  {
+    "term1": "song",
+    "term2": "story",
+    "value": 3.97,
+    "stddev": 1.27
+  },
+  {
+    "term1": "ray",
+    "term2": "sunshine",
+    "value": 6.83,
+    "stddev": 1.55
+  },
+  {
+    "term1": "guy",
+    "term2": "stud",
+    "value": 5.83,
+    "stddev": 1.7
+  },
+  {
+    "term1": "chicken",
+    "term2": "rice",
+    "value": 1.43,
+    "stddev": 1.47
+  },
+  {
+    "term1": "box",
+    "term2": "elevator",
+    "value": 1.32,
+    "stddev": 1.28
+  },
+  {
+    "term1": "butter",
+    "term2": "potato",
+    "value": 1.22,
+    "stddev": 1.19
+  },
+  {
+    "term1": "apartment",
+    "term2": "furniture",
+    "value": 1.28,
+    "stddev": 1.72
+  },
+  {
+    "term1": "lake",
+    "term2": "swamp",
+    "value": 4.92,
+    "stddev": 1.6
+  },
+  {
+    "term1": "salad",
+    "term2": "vinegar",
+    "value": 1.13,
+    "stddev": 1.65
+  },
+  {
+    "term1": "flower",
+    "term2": "bulb",
+    "value": 4.48,
+    "stddev": 1.27
+  },
+  {
+    "term1": "cloud",
+    "term2": "mist",
+    "value": 6.67,
+    "stddev": 1.43
+  },
+  {
+    "term1": "driver",
+    "term2": "pilot",
+    "value": 6.28,
+    "stddev": 1.52
+  },
+  {
+    "term1": "sugar",
+    "term2": "honey",
+    "value": 5.13,
+    "stddev": 1.07
+  },
+  {
+    "term1": "body",
+    "term2": "shoulder",
+    "value": 2.88,
+    "stddev": 1.47
+  },
+  {
+    "term1": "idea",
+    "term2": "image",
+    "value": 3.55,
+    "stddev": 1.47
+  },
+  {
+    "term1": "father",
+    "term2": "brother",
+    "value": 4.2,
+    "stddev": 1.28
+  },
+  {
+    "term1": "moon",
+    "term2": "planet",
+    "value": 5.87,
+    "stddev": 1.57
+  },
+  {
+    "term1": "ball",
+    "term2": "costume",
+    "value": 2.32,
+    "stddev": 1.02
+  },
+  {
+    "term1": "rail",
+    "term2": "fence",
+    "value": 5.22,
+    "stddev": 1.17
+  },
+  {
+    "term1": "room",
+    "term2": "bed",
+    "value": 2.35,
+    "stddev": 1.31
+  },
+  {
+    "term1": "flower",
+    "term2": "bush",
+    "value": 4.25,
+    "stddev": 1.66
+  },
+  {
+    "term1": "bone",
+    "term2": "knee",
+    "value": 4.17,
+    "stddev": 1.64
+  },
+  {
+    "term1": "arm",
+    "term2": "knee",
+    "value": 2.75,
+    "stddev": 0.59
+  },
+  {
+    "term1": "bottom",
+    "term2": "side",
+    "value": 2.63,
+    "stddev": 1.51
+  },
+  {
+    "term1": "vessel",
+    "term2": "vein",
+    "value": 5.15,
+    "stddev": 1.55
+  },
+  {
+    "term1": "cat",
+    "term2": "rabbit",
+    "value": 2.37,
+    "stddev": 1.67
+  },
+  {
+    "term1": "meat",
+    "term2": "sandwich",
+    "value": 2.35,
+    "stddev": 1.69
+  },
+  {
+    "term1": "belief",
+    "term2": "concept",
+    "value": 5.08,
+    "stddev": 1.44
+  },
+  {
+    "term1": "intelligence",
+    "term2": "insight",
+    "value": 5.9,
+    "stddev": 1.59
+  },
+  {
+    "term1": "attention",
+    "term2": "interest",
+    "value": 7.22,
+    "stddev": 1.21
+  },
+  {
+    "term1": "attitude",
+    "term2": "confidence",
+    "value": 4.35,
+    "stddev": 1.22
+  },
+  {
+    "term1": "right",
+    "term2": "justice",
+    "value": 7.05,
+    "stddev": 1.52
+  },
+  {
+    "term1": "argument",
+    "term2": "agreement",
+    "value": 1.45,
+    "stddev": 1.36
+  },
+  {
+    "term1": "depth",
+    "term2": "magnitude",
+    "value": 6.12,
+    "stddev": 1.64
+  },
+  {
+    "term1": "medium",
+    "term2": "news",
+    "value": 3.65,
+    "stddev": 1.3
+  },
+  {
+    "term1": "winner",
+    "term2": "candidate",
+    "value": 2.78,
+    "stddev": 1.29
+  },
+  {
+    "term1": "birthday",
+    "term2": "date",
+    "value": 5.08,
+    "stddev": 1.2
+  },
+  {
+    "term1": "fee",
+    "term2": "payment",
+    "value": 7.15,
+    "stddev": 1.56
+  },
+  {
+    "term1": "bible",
+    "term2": "hymn",
+    "value": 5.15,
+    "stddev": 1.08
+  },
+  {
+    "term1": "exit",
+    "term2": "doorway",
+    "value": 5.5,
+    "stddev": 1.73
+  },
+  {
+    "term1": "man",
+    "term2": "sentry",
+    "value": 3.25,
+    "stddev": 1.22
+  },
+  {
+    "term1": "aisle",
+    "term2": "hall",
+    "value": 6.35,
+    "stddev": 0.96
+  },
+  {
+    "term1": "whiskey",
+    "term2": "gin",
+    "value": 6.28,
+    "stddev": 1.14
+  },
+  {
+    "term1": "blood",
+    "term2": "marrow",
+    "value": 3.4,
+    "stddev": 1.17
+  },
+  {
+    "term1": "oil",
+    "term2": "mink",
+    "value": 1.23,
+    "stddev": 1.53
+  },
+  {
+    "term1": "floor",
+    "term2": "deck",
+    "value": 5.55,
+    "stddev": 1.06
+  },
+  {
+    "term1": "roof",
+    "term2": "floor",
+    "value": 2.62,
+    "stddev": 1.66
+  },
+  {
+    "term1": "door",
+    "term2": "floor",
+    "value": 1.67,
+    "stddev": 0.39
+  },
+  {
+    "term1": "shoulder",
+    "term2": "head",
+    "value": 3.42,
+    "stddev": 1.14
+  },
+  {
+    "term1": "wagon",
+    "term2": "carriage",
+    "value": 7.7,
+    "stddev": 1.84
+  },
+  {
+    "term1": "car",
+    "term2": "carriage",
+    "value": 5.13,
+    "stddev": 1.2
+  },
+  {
+    "term1": "elbow",
+    "term2": "ankle",
+    "value": 3.13,
+    "stddev": 1.48
+  },
+  {
+    "term1": "wealth",
+    "term2": "fame",
+    "value": 4.02,
+    "stddev": 1.1
+  },
+  {
+    "term1": "sorrow",
+    "term2": "shame",
+    "value": 4.77,
+    "stddev": 1.52
+  },
+  {
+    "term1": "administration",
+    "term2": "management",
+    "value": 7.25,
+    "stddev": 1.67
+  },
+  {
+    "term1": "communication",
+    "term2": "conversation",
+    "value": 8.02,
+    "stddev": 0.88
+  },
+  {
+    "term1": "pollution",
+    "term2": "atmosphere",
+    "value": 4.25,
+    "stddev": 0.98
+  },
+  {
+    "term1": "anatomy",
+    "term2": "biology",
+    "value": 5.33,
+    "stddev": 1.37
+  },
+  {
+    "term1": "college",
+    "term2": "profession",
+    "value": 3.12,
+    "stddev": 1.41
+  },
+  {
+    "term1": "book",
+    "term2": "topic",
+    "value": 2.07,
+    "stddev": 1.22
+  },
+  {
+    "term1": "formula",
+    "term2": "equation",
+    "value": 7.95,
+    "stddev": 0.56
+  },
+  {
+    "term1": "book",
+    "term2": "information",
+    "value": 5,
+    "stddev": 1.13
+  },
+  {
+    "term1": "boy",
+    "term2": "partner",
+    "value": 1.9,
+    "stddev": 1.54
+  },
+  {
+    "term1": "sky",
+    "term2": "universe",
+    "value": 4.68,
+    "stddev": 1.39
+  },
+  {
+    "term1": "population",
+    "term2": "people",
+    "value": 7.68,
+    "stddev": 0.8
+  },
+  {
+    "term1": "college",
+    "term2": "class",
+    "value": 4.13,
+    "stddev": 1.16
+  },
+  {
+    "term1": "chief",
+    "term2": "mayor",
+    "value": 4.85,
+    "stddev": 1.25
+  },
+  {
+    "term1": "rabbi",
+    "term2": "minister",
+    "value": 7.62,
+    "stddev": 1.35
+  },
+  {
+    "term1": "meter",
+    "term2": "inch",
+    "value": 5.08,
+    "stddev": 1.19
+  },
+  {
+    "term1": "polyester",
+    "term2": "cotton",
+    "value": 5.63,
+    "stddev": 1.53
+  },
+  {
+    "term1": "lawyer",
+    "term2": "banker",
+    "value": 1.88,
+    "stddev": 1.18
+  },
+  {
+    "term1": "violin",
+    "term2": "instrument",
+    "value": 6.58,
+    "stddev": 1.39
+  },
+  {
+    "term1": "camp",
+    "term2": "cabin",
+    "value": 4.2,
+    "stddev": 1.2
+  },
+  {
+    "term1": "pot",
+    "term2": "appliance",
+    "value": 2.53,
+    "stddev": 1.26
+  },
+  {
+    "term1": "linen",
+    "term2": "fabric",
+    "value": 7.47,
+    "stddev": 1.26
+  },
+  {
+    "term1": "whiskey",
+    "term2": "champagne",
+    "value": 5.33,
+    "stddev": 1.29
+  },
+  {
+    "term1": "girl",
+    "term2": "child",
+    "value": 5.38,
+    "stddev": 1.21
+  },
+  {
+    "term1": "cottage",
+    "term2": "cabin",
+    "value": 7.72,
+    "stddev": 1.47
+  },
+  {
+    "term1": "bird",
+    "term2": "hen",
+    "value": 7.03,
+    "stddev": 1.43
+  },
+  {
+    "term1": "racket",
+    "term2": "noise",
+    "value": 8.1,
+    "stddev": 1.49
+  },
+  {
+    "term1": "sunset",
+    "term2": "evening",
+    "value": 5.98,
+    "stddev": 1.35
+  },
+  {
+    "term1": "drizzle",
+    "term2": "rain",
+    "value": 9.17,
+    "stddev": 0.39
+  },
+  {
+    "term1": "adult",
+    "term2": "baby",
+    "value": 2.22,
+    "stddev": 0.39
+  },
+  {
+    "term1": "charcoal",
+    "term2": "coal",
+    "value": 7.63,
+    "stddev": 1.43
+  },
+  {
+    "term1": "body",
+    "term2": "spine",
+    "value": 4.78,
+    "stddev": 1.22
+  },
+  {
+    "term1": "head",
+    "term2": "nail",
+    "value": 2.47,
+    "stddev": 1.4
+  },
+  {
+    "term1": "log",
+    "term2": "timber",
+    "value": 8.05,
+    "stddev": 1.12
+  },
+  {
+    "term1": "spoon",
+    "term2": "cup",
+    "value": 2.02,
+    "stddev": 0.9
+  },
+  {
+    "term1": "body",
+    "term2": "nerve",
+    "value": 3.13,
+    "stddev": 1.12
+  },
+  {
+    "term1": "man",
+    "term2": "husband",
+    "value": 5.32,
+    "stddev": 1.71
+  },
+  {
+    "term1": "bone",
+    "term2": "neck",
+    "value": 2.53,
+    "stddev": 1.05
+  },
+  {
+    "term1": "frustration",
+    "term2": "anger",
+    "value": 6.5,
+    "stddev": 0.39
+  },
+  {
+    "term1": "river",
+    "term2": "sea",
+    "value": 5.72,
+    "stddev": 0.39
+  },
+  {
+    "term1": "task",
+    "term2": "job",
+    "value": 8.87,
+    "stddev": 1.75
+  },
+  {
+    "term1": "club",
+    "term2": "society",
+    "value": 5.23,
+    "stddev": 1.59
+  },
+  {
+    "term1": "reflection",
+    "term2": "image",
+    "value": 7.27,
+    "stddev": 1.06
+  },
+  {
+    "term1": "prince",
+    "term2": "king",
+    "value": 5.92,
+    "stddev": 1.05
+  },
+  {
+    "term1": "snow",
+    "term2": "weather",
+    "value": 5.48,
+    "stddev": 1.36
+  },
+  {
+    "term1": "people",
+    "term2": "party",
+    "value": 2.2,
+    "stddev": 1.42
+  },
+  {
+    "term1": "boy",
+    "term2": "brother",
+    "value": 6.67,
+    "stddev": 1.58
+  },
+  {
+    "term1": "root",
+    "term2": "grass",
+    "value": 3.55,
+    "stddev": 1.35
+  },
+  {
+    "term1": "brow",
+    "term2": "eye",
+    "value": 3.82,
+    "stddev": 1.41
+  },
+  {
+    "term1": "money",
+    "term2": "pearl",
+    "value": 2.1,
+    "stddev": 1.94
+  },
+  {
+    "term1": "money",
+    "term2": "diamond",
+    "value": 3.42,
+    "stddev": 1.37
+  },
+  {
+    "term1": "vehicle",
+    "term2": "bus",
+    "value": 6.47,
+    "stddev": 1.38
+  },
+  {
+    "term1": "cab",
+    "term2": "bus",
+    "value": 5.6,
+    "stddev": 1.64
+  },
+  {
+    "term1": "house",
+    "term2": "barn",
+    "value": 4.33,
+    "stddev": 1.6
+  },
+  {
+    "term1": "finger",
+    "term2": "palm",
+    "value": 3.33,
+    "stddev": 1.5
+  },
+  {
+    "term1": "car",
+    "term2": "bridge",
+    "value": 0.95,
+    "stddev": 1.2
+  },
+  {
+    "term1": "effort",
+    "term2": "difficulty",
+    "value": 4.45,
+    "stddev": 1.22
+  },
+  {
+    "term1": "fact",
+    "term2": "insight",
+    "value": 4.77,
+    "stddev": 1.11
+  },
+  {
+    "term1": "job",
+    "term2": "management",
+    "value": 3.97,
+    "stddev": 1.33
+  },
+  {
+    "term1": "cancer",
+    "term2": "sickness",
+    "value": 7.93,
+    "stddev": 1.57
+  },
+  {
+    "term1": "word",
+    "term2": "newspaper",
+    "value": 2.47,
+    "stddev": 0.94
+  },
+  {
+    "term1": "composer",
+    "term2": "writer",
+    "value": 6.58,
+    "stddev": 0.8
+  },
+  {
+    "term1": "actor",
+    "term2": "singer",
+    "value": 4.52,
+    "stddev": 1.26
+  },
+  {
+    "term1": "shelter",
+    "term2": "hut",
+    "value": 6.47,
+    "stddev": 1.59
+  },
+  {
+    "term1": "bathroom",
+    "term2": "kitchen",
+    "value": 3.1,
+    "stddev": 1.22
+  },
+  {
+    "term1": "cabin",
+    "term2": "hut",
+    "value": 6.53,
+    "stddev": 1.37
+  },
+  {
+    "term1": "door",
+    "term2": "kitchen",
+    "value": 1.67,
+    "stddev": 0.44
+  },
+  {
+    "term1": "value",
+    "term2": "belief",
+    "value": 7.07,
+    "stddev": 0.95
+  },
+  {
+    "term1": "wisdom",
+    "term2": "intelligence",
+    "value": 7.47,
+    "stddev": 1.33
+  },
+  {
+    "term1": "ignorance",
+    "term2": "intelligence",
+    "value": 1.5,
+    "stddev": 1.3
+  },
+  {
+    "term1": "happiness",
+    "term2": "luck",
+    "value": 2.38,
+    "stddev": 1.2
+  },
+  {
+    "term1": "idea",
+    "term2": "scheme",
+    "value": 6.75,
+    "stddev": 1.47
+  },
+  {
+    "term1": "mood",
+    "term2": "emotion",
+    "value": 8.12,
+    "stddev": 1.64
+  },
+  {
+    "term1": "happiness",
+    "term2": "peace",
+    "value": 6.03,
+    "stddev": 1.35
+  },
+  {
+    "term1": "despair",
+    "term2": "misery",
+    "value": 7.22,
+    "stddev": 1.06
+  },
+  {
+    "term1": "logic",
+    "term2": "arithmetic",
+    "value": 3.97,
+    "stddev": 1.81
+  },
+  {
+    "term1": "denial",
+    "term2": "confession",
+    "value": 1.03,
+    "stddev": 1.64
+  },
+  {
+    "term1": "argument",
+    "term2": "criticism",
+    "value": 5.08,
+    "stddev": 1.07
+  },
+  {
+    "term1": "aggression",
+    "term2": "hostility",
+    "value": 8.48,
+    "stddev": 0.44
+  },
+  {
+    "term1": "hysteria",
+    "term2": "confusion",
+    "value": 6.33,
+    "stddev": 0.44
+  },
+  {
+    "term1": "chemistry",
+    "term2": "theory",
+    "value": 3.17,
+    "stddev": 1.4
+  },
+  {
+    "term1": "trial",
+    "term2": "verdict",
+    "value": 3.33,
+    "stddev": 1.18
+  },
+  {
+    "term1": "comfort",
+    "term2": "safety",
+    "value": 5.8,
+    "stddev": 1.21
+  },
+  {
+    "term1": "confidence",
+    "term2": "self",
+    "value": 3.12,
+    "stddev": 1.24
+  },
+  {
+    "term1": "vision",
+    "term2": "perception",
+    "value": 6.88,
+    "stddev": 1.31
+  },
+  {
+    "term1": "era",
+    "term2": "decade",
+    "value": 5.4,
+    "stddev": 1.02
+  },
+  {
+    "term1": "biography",
+    "term2": "fiction",
+    "value": 1.38,
+    "stddev": 1.24
+  },
+  {
+    "term1": "discussion",
+    "term2": "argument",
+    "value": 5.48,
+    "stddev": 1.43
+  },
+  {
+    "term1": "code",
+    "term2": "symbol",
+    "value": 6.03,
+    "stddev": 1.67
+  },
+  {
+    "term1": "danger",
+    "term2": "disease",
+    "value": 3,
+    "stddev": 0.44
+  },
+  {
+    "term1": "accident",
+    "term2": "catastrophe",
+    "value": 5.9,
+    "stddev": 1.63
+  },
+  {
+    "term1": "journey",
+    "term2": "trip",
+    "value": 8.88,
+    "stddev": 1.14
+  },
+  {
+    "term1": "activity",
+    "term2": "movement",
+    "value": 7.15,
+    "stddev": 1.1
+  },
+  {
+    "term1": "gossip",
+    "term2": "news",
+    "value": 5.22,
+    "stddev": 1.21
+  },
+  {
+    "term1": "father",
+    "term2": "god",
+    "value": 3.57,
+    "stddev": 1.31
+  },
+  {
+    "term1": "action",
+    "term2": "course",
+    "value": 5.45,
+    "stddev": 1.75
+  },
+  {
+    "term1": "fever",
+    "term2": "illness",
+    "value": 7.65,
+    "stddev": 1.54
+  },
+  {
+    "term1": "aviation",
+    "term2": "flight",
+    "value": 8.18,
+    "stddev": 1.83
+  },
+  {
+    "term1": "game",
+    "term2": "action",
+    "value": 4.85,
+    "stddev": 1.12
+  },
+  {
+    "term1": "molecule",
+    "term2": "air",
+    "value": 3.05,
+    "stddev": 1.84
+  },
+  {
+    "term1": "home",
+    "term2": "state",
+    "value": 2.58,
+    "stddev": 1.6
+  },
+  {
+    "term1": "word",
+    "term2": "literature",
+    "value": 4.77,
+    "stddev": 0.59
+  },
+  {
+    "term1": "adult",
+    "term2": "guardian",
+    "value": 6.9,
+    "stddev": 1.19
+  },
+  {
+    "term1": "newspaper",
+    "term2": "information",
+    "value": 5.65,
+    "stddev": 1.31
+  },
+  {
+    "term1": "communication",
+    "term2": "television",
+    "value": 5.6,
+    "stddev": 1.27
+  },
+  {
+    "term1": "cousin",
+    "term2": "uncle",
+    "value": 4.63,
+    "stddev": 1.84
+  },
+  {
+    "term1": "author",
+    "term2": "reader",
+    "value": 1.6,
+    "stddev": 1.47
+  },
+  {
+    "term1": "guy",
+    "term2": "partner",
+    "value": 3.57,
+    "stddev": 1.24
+  },
+  {
+    "term1": "area",
+    "term2": "corner",
+    "value": 2.07,
+    "stddev": 1.41
+  },
+  {
+    "term1": "ballad",
+    "term2": "song",
+    "value": 7.53,
+    "stddev": 0.84
+  },
+  {
+    "term1": "wall",
+    "term2": "decoration",
+    "value": 2.62,
+    "stddev": 0.89
+  },
+  {
+    "term1": "word",
+    "term2": "page",
+    "value": 2.92,
+    "stddev": 0.99
+  },
+  {
+    "term1": "nurse",
+    "term2": "scientist",
+    "value": 2.08,
+    "stddev": 1.06
+  },
+  {
+    "term1": "politician",
+    "term2": "president",
+    "value": 7.38,
+    "stddev": 1.05
+  },
+  {
+    "term1": "president",
+    "term2": "mayor",
+    "value": 5.68,
+    "stddev": 1.4
+  },
+  {
+    "term1": "book",
+    "term2": "essay",
+    "value": 4.72,
+    "stddev": 1.3
+  },
+  {
+    "term1": "man",
+    "term2": "warrior",
+    "value": 4.72,
+    "stddev": 1.03
+  },
+  {
+    "term1": "article",
+    "term2": "journal",
+    "value": 6.18,
+    "stddev": 1.45
+  },
+  {
+    "term1": "breakfast",
+    "term2": "supper",
+    "value": 4.4,
+    "stddev": 1.47
+  },
+  {
+    "term1": "crowd",
+    "term2": "parade",
+    "value": 3.93,
+    "stddev": 1.05
+  },
+  {
+    "term1": "aisle",
+    "term2": "hallway",
+    "value": 6.75,
+    "stddev": 1.36
+  },
+  {
+    "term1": "teacher",
+    "term2": "rabbi",
+    "value": 4.37,
+    "stddev": 1.12
+  },
+  {
+    "term1": "hip",
+    "term2": "lip",
+    "value": 1.43,
+    "stddev": 1.45
+  },
+  {
+    "term1": "book",
+    "term2": "article",
+    "value": 5.43,
+    "stddev": 0.95
+  },
+  {
+    "term1": "room",
+    "term2": "cell",
+    "value": 4.58,
+    "stddev": 1.28
+  },
+  {
+    "term1": "box",
+    "term2": "booth",
+    "value": 3.8,
+    "stddev": 1.38
+  },
+  {
+    "term1": "daughter",
+    "term2": "kid",
+    "value": 4.17,
+    "stddev": 1.24
+  },
+  {
+    "term1": "limb",
+    "term2": "leg",
+    "value": 6.9,
+    "stddev": 1.23
+  },
+  {
+    "term1": "liver",
+    "term2": "lung",
+    "value": 2.7,
+    "stddev": 1.38
+  },
+  {
+    "term1": "classroom",
+    "term2": "hallway",
+    "value": 2,
+    "stddev": 1.23
+  },
+  {
+    "term1": "mountain",
+    "term2": "ledge",
+    "value": 3.73,
+    "stddev": 1.21
+  },
+  {
+    "term1": "car",
+    "term2": "elevator",
+    "value": 1.03,
+    "stddev": 1.19
+  },
+  {
+    "term1": "bed",
+    "term2": "couch",
+    "value": 3.42,
+    "stddev": 1.85
+  },
+  {
+    "term1": "clothes",
+    "term2": "button",
+    "value": 2.3,
+    "stddev": 1.44
+  },
+  {
+    "term1": "clothes",
+    "term2": "coat",
+    "value": 5.35,
+    "stddev": 1.37
+  },
+  {
+    "term1": "kidney",
+    "term2": "organ",
+    "value": 6.17,
+    "stddev": 0.95
+  },
+  {
+    "term1": "apple",
+    "term2": "sauce",
+    "value": 1.43,
+    "stddev": 2.11
+  },
+  {
+    "term1": "chicken",
+    "term2": "steak",
+    "value": 3.73,
+    "stddev": 1.39
+  },
+  {
+    "term1": "car",
+    "term2": "hose",
+    "value": 0.87,
+    "stddev": 0.78
+  },
+  {
+    "term1": "tobacco",
+    "term2": "cigarette",
+    "value": 7.5,
+    "stddev": 1.49
+  },
+  {
+    "term1": "student",
+    "term2": "professor",
+    "value": 1.95,
+    "stddev": 1.13
+  },
+  {
+    "term1": "baby",
+    "term2": "daughter",
+    "value": 5,
+    "stddev": 1.29
+  },
+  {
+    "term1": "pipe",
+    "term2": "cigar",
+    "value": 6.03,
+    "stddev": 1.01
+  },
+  {
+    "term1": "milk",
+    "term2": "juice",
+    "value": 4.05,
+    "stddev": 1.46
+  },
+  {
+    "term1": "box",
+    "term2": "cigar",
+    "value": 1.25,
+    "stddev": 1.89
+  },
+  {
+    "term1": "apartment",
+    "term2": "hotel",
+    "value": 3.33,
+    "stddev": 1.18
+  },
+  {
+    "term1": "cup",
+    "term2": "cone",
+    "value": 3.17,
+    "stddev": 1.13
+  },
+  {
+    "term1": "horse",
+    "term2": "ox",
+    "value": 3.02,
+    "stddev": 1.18
+  },
+  {
+    "term1": "throat",
+    "term2": "nose",
+    "value": 2.8,
+    "stddev": 1.12
+  },
+  {
+    "term1": "bone",
+    "term2": "teeth",
+    "value": 4.17,
+    "stddev": 1.92
+  },
+  {
+    "term1": "bone",
+    "term2": "elbow",
+    "value": 3.78,
+    "stddev": 1.58
+  },
+  {
+    "term1": "bacon",
+    "term2": "bean",
+    "value": 1.22,
+    "stddev": 0.92
+  },
+  {
+    "term1": "cup",
+    "term2": "jar",
+    "value": 5.13,
+    "stddev": 1.17
+  },
+  {
+    "term1": "proof",
+    "term2": "fact",
+    "value": 7.3,
+    "stddev": 1.7
+  },
+  {
+    "term1": "appointment",
+    "term2": "engagement",
+    "value": 6.75,
+    "stddev": 1.59
+  },
+  {
+    "term1": "birthday",
+    "term2": "year",
+    "value": 1.67,
+    "stddev": 1.69
+  },
+  {
+    "term1": "word",
+    "term2": "clue",
+    "value": 2.53,
+    "stddev": 1.65
+  },
+  {
+    "term1": "author",
+    "term2": "creator",
+    "value": 8.02,
+    "stddev": 1.5
+  },
+  {
+    "term1": "atom",
+    "term2": "carbon",
+    "value": 3.1,
+    "stddev": 0.93
+  },
+  {
+    "term1": "archbishop",
+    "term2": "bishop",
+    "value": 7.05,
+    "stddev": 1.59
+  },
+  {
+    "term1": "letter",
+    "term2": "paragraph",
+    "value": 4,
+    "stddev": 1.12
+  },
+  {
+    "term1": "page",
+    "term2": "paragraph",
+    "value": 3.03,
+    "stddev": 1.37
+  },
+  {
+    "term1": "steeple",
+    "term2": "chapel",
+    "value": 7.08,
+    "stddev": 1.03
+  },
+  {
+    "term1": "muscle",
+    "term2": "bone",
+    "value": 3.65,
+    "stddev": 1.68
+  },
+  {
+    "term1": "muscle",
+    "term2": "tongue",
+    "value": 5,
+    "stddev": 1.65
+  },
+  {
+    "term1": "boy",
+    "term2": "soldier",
+    "value": 2.15,
+    "stddev": 1.51
+  },
+  {
+    "term1": "belly",
+    "term2": "abdomen",
+    "value": 8.13,
+    "stddev": 1.53
+  },
+  {
+    "term1": "guy",
+    "term2": "girl",
+    "value": 3.33,
+    "stddev": 1.9
+  },
+  {
+    "term1": "bed",
+    "term2": "chair",
+    "value": 3.5,
+    "stddev": 1.26
+  },
+  {
+    "term1": "clothes",
+    "term2": "jacket",
+    "value": 5.15,
+    "stddev": 0.74
+  },
+  {
+    "term1": "gun",
+    "term2": "knife",
+    "value": 3.65,
+    "stddev": 1.03
+  },
+  {
+    "term1": "tin",
+    "term2": "metal",
+    "value": 5.63,
+    "stddev": 1.15
+  },
+  {
+    "term1": "bottle",
+    "term2": "container",
+    "value": 7.93,
+    "stddev": 1.38
+  },
+  {
+    "term1": "hen",
+    "term2": "turkey",
+    "value": 6.13,
+    "stddev": 1.6
+  },
+  {
+    "term1": "meat",
+    "term2": "bread",
+    "value": 1.67,
+    "stddev": 1.62
+  },
+  {
+    "term1": "arm",
+    "term2": "bone",
+    "value": 3.83,
+    "stddev": 1.94
+  },
+  {
+    "term1": "neck",
+    "term2": "spine",
+    "value": 5.32,
+    "stddev": 1.16
+  },
+  {
+    "term1": "apple",
+    "term2": "lemon",
+    "value": 4.05,
+    "stddev": 1.58
+  },
+  {
+    "term1": "agony",
+    "term2": "grief",
+    "value": 7.63,
+    "stddev": 1.94
+  },
+  {
+    "term1": "assignment",
+    "term2": "task",
+    "value": 8.7,
+    "stddev": 1.37
+  },
+  {
+    "term1": "night",
+    "term2": "dawn",
+    "value": 2.95,
+    "stddev": 1.53
+  },
+  {
+    "term1": "dinner",
+    "term2": "soup",
+    "value": 3.72,
+    "stddev": 1.89
+  },
+  {
+    "term1": "calf",
+    "term2": "bull",
+    "value": 4.93,
+    "stddev": 1.67
+  },
+  {
+    "term1": "snow",
+    "term2": "storm",
+    "value": 4.8,
+    "stddev": 0.88
+  },
+  {
+    "term1": "nail",
+    "term2": "hand",
+    "value": 3.42,
+    "stddev": 1.14
+  },
+  {
+    "term1": "dog",
+    "term2": "horse",
+    "value": 2.38,
+    "stddev": 1.39
+  },
+  {
+    "term1": "arm",
+    "term2": "neck",
+    "value": 1.58,
+    "stddev": 0.72
+  },
+  {
+    "term1": "ball",
+    "term2": "glove",
+    "value": 1.75,
+    "stddev": 1.27
+  },
+  {
+    "term1": "flu",
+    "term2": "fever",
+    "value": 6.08,
+    "stddev": 1.58
+  },
+  {
+    "term1": "fee",
+    "term2": "salary",
+    "value": 3.72,
+    "stddev": 1.26
+  },
+  {
+    "term1": "nerve",
+    "term2": "brain",
+    "value": 3.88,
+    "stddev": 1.74
+  },
+  {
+    "term1": "beast",
+    "term2": "animal",
+    "value": 7.83,
+    "stddev": 1.64
+  },
+  {
+    "term1": "dinner",
+    "term2": "chicken",
+    "value": 2.85,
+    "stddev": 1.5
+  },
+  {
+    "term1": "girl",
+    "term2": "maid",
+    "value": 2.93,
+    "stddev": 0.9
+  },
+  {
+    "term1": "child",
+    "term2": "boy",
+    "value": 5.75,
+    "stddev": 1.82
+  },
+  {
+    "term1": "alcohol",
+    "term2": "wine",
+    "value": 7.42,
+    "stddev": 1.53
+  },
+  {
+    "term1": "nose",
+    "term2": "mouth",
+    "value": 3.73,
+    "stddev": 1.5
+  },
+  {
+    "term1": "street",
+    "term2": "car",
+    "value": 2.38,
+    "stddev": 1.16
+  },
+  {
+    "term1": "bell",
+    "term2": "door",
+    "value": 2.2,
+    "stddev": 1.46
+  },
+  {
+    "term1": "box",
+    "term2": "hat",
+    "value": 1.3,
+    "stddev": 1.15
+  },
+  {
+    "term1": "belief",
+    "term2": "impression",
+    "value": 5.95,
+    "stddev": 0.72
+  },
+  {
+    "term1": "bias",
+    "term2": "opinion",
+    "value": 5.6,
+    "stddev": 1.16
+  },
+  {
+    "term1": "attention",
+    "term2": "awareness",
+    "value": 8.73,
+    "stddev": 1.64
+  },
+  {
+    "term1": "anger",
+    "term2": "mood",
+    "value": 4.1,
+    "stddev": 1.87
+  },
+  {
+    "term1": "elegance",
+    "term2": "style",
+    "value": 5.72,
+    "stddev": 1.76
+  },
+  {
+    "term1": "beauty",
+    "term2": "age",
+    "value": 1.58,
+    "stddev": 1.54
+  },
+  {
+    "term1": "book",
+    "term2": "theme",
+    "value": 2.58,
+    "stddev": 0.81
+  },
+  {
+    "term1": "friend",
+    "term2": "mother",
+    "value": 2.53,
+    "stddev": 1.54
+  },
+  {
+    "term1": "vitamin",
+    "term2": "iron",
+    "value": 5.55,
+    "stddev": 1.14
+  },
+  {
+    "term1": "car",
+    "term2": "factory",
+    "value": 2.75,
+    "stddev": 1.43
+  },
+  {
+    "term1": "pact",
+    "term2": "condition",
+    "value": 2.45,
+    "stddev": 1.59
+  },
+  {
+    "term1": "chapter",
+    "term2": "choice",
+    "value": 0.48,
+    "stddev": 0.86
+  },
+  {
+    "term1": "arithmetic",
+    "term2": "rhythm",
+    "value": 2.35,
+    "stddev": 2.08
+  },
+  {
+    "term1": "winner",
+    "term2": "presence",
+    "value": 1.08,
+    "stddev": 1.12
+  },
+  {
+    "term1": "belief",
+    "term2": "flower",
+    "value": 0.4,
+    "stddev": 1.19
+  },
+  {
+    "term1": "winner",
+    "term2": "goal",
+    "value": 3.23,
+    "stddev": 1.67
+  },
+  {
+    "term1": "trick",
+    "term2": "size",
+    "value": 0.48,
+    "stddev": 0.59
+  },
+  {
+    "term1": "choice",
+    "term2": "vein",
+    "value": 0.98,
+    "stddev": 1.11
+  },
+  {
+    "term1": "hymn",
+    "term2": "conquest",
+    "value": 0.68,
+    "stddev": 0.88
+  },
+  {
+    "term1": "endurance",
+    "term2": "band",
+    "value": 0.4,
+    "stddev": 0.44
+  },
+  {
+    "term1": "jail",
+    "term2": "choice",
+    "value": 1.08,
+    "stddev": 1.08
+  },
+  {
+    "term1": "condition",
+    "term2": "boy",
+    "value": 0.48,
+    "stddev": 0.8
+  },
+  {
+    "term1": "flower",
+    "term2": "endurance",
+    "value": 0.4,
+    "stddev": 1.7
+  },
+  {
+    "term1": "hole",
+    "term2": "agreement",
+    "value": 0.3,
+    "stddev": 1.72
+  },
+  {
+    "term1": "doctor",
+    "term2": "temper",
+    "value": 0.48,
+    "stddev": 1.44
+  },
+  {
+    "term1": "fraternity",
+    "term2": "door",
+    "value": 0.68,
+    "stddev": 0.94
+  },
+  {
+    "term1": "task",
+    "term2": "woman",
+    "value": 0.68,
+    "stddev": 0.34
+  },
+  {
+    "term1": "fraternity",
+    "term2": "baseball",
+    "value": 0.88,
+    "stddev": 0.98
+  },
+  {
+    "term1": "cent",
+    "term2": "size",
+    "value": 0.4,
+    "stddev": 1.24
+  },
+  {
+    "term1": "presence",
+    "term2": "door",
+    "value": 0.48,
+    "stddev": 0.83
+  },
+  {
+    "term1": "mouse",
+    "term2": "management",
+    "value": 0.48,
+    "stddev": 1.59
+  },
+  {
+    "term1": "task",
+    "term2": "highway",
+    "value": 0.48,
+    "stddev": 1.34
+  },
+  {
+    "term1": "liquor",
+    "term2": "century",
+    "value": 0.4,
+    "stddev": 1.31
+  },
+  {
+    "term1": "task",
+    "term2": "straw",
+    "value": 0.68,
+    "stddev": 1.53
+  },
+  {
+    "term1": "island",
+    "term2": "task",
+    "value": 0.3,
+    "stddev": 0.96
+  },
+  {
+    "term1": "night",
+    "term2": "chapter",
+    "value": 0.48,
+    "stddev": 0.92
+  },
+  {
+    "term1": "pollution",
+    "term2": "president",
+    "value": 0.68,
+    "stddev": 1.6
+  },
+  {
+    "term1": "gun",
+    "term2": "trick",
+    "value": 0.48,
+    "stddev": 1.41
+  },
+  {
+    "term1": "bath",
+    "term2": "trick",
+    "value": 0.58,
+    "stddev": 1.28
+  },
+  {
+    "term1": "diet",
+    "term2": "apple",
+    "value": 1.18,
+    "stddev": 1.56
+  },
+  {
+    "term1": "cent",
+    "term2": "wife",
+    "value": 0.58,
+    "stddev": 1.7
+  },
+  {
+    "term1": "chapter",
+    "term2": "tail",
+    "value": 0.3,
+    "stddev": 1.57
+  },
+  {
+    "term1": "course",
+    "term2": "stomach",
+    "value": 0.58,
+    "stddev": 0.87
+  },
+  {
+    "term1": "hymn",
+    "term2": "straw",
+    "value": 0.4,
+    "stddev": 1.64
+  },
+  {
+    "term1": "dentist",
+    "term2": "colonel",
+    "value": 0.4,
+    "stddev": 1.7
+  },
+  {
+    "term1": "wife",
+    "term2": "straw",
+    "value": 0.4,
+    "stddev": 1.53
+  },
+  {
+    "term1": "hole",
+    "term2": "wife",
+    "value": 0.68,
+    "stddev": 1.18
+  },
+  {
+    "term1": "pupil",
+    "term2": "president",
+    "value": 0.78,
+    "stddev": 1.28
+  },
+  {
+    "term1": "bath",
+    "term2": "wife",
+    "value": 0.48,
+    "stddev": 1.42
+  },
+  {
+    "term1": "people",
+    "term2": "cent",
+    "value": 0.48,
+    "stddev": 1.61
+  },
+  {
+    "term1": "formula",
+    "term2": "log",
+    "value": 1.77,
+    "stddev": 1.51
+  },
+  {
+    "term1": "woman",
+    "term2": "fur",
+    "value": 0.58,
+    "stddev": 0.99
+  },
+  {
+    "term1": "apple",
+    "term2": "sunshine",
+    "value": 0.58,
+    "stddev": 1.2
+  },
+  {
+    "term1": "gun",
+    "term2": "dawn",
+    "value": 1.18,
+    "stddev": 1.57
+  },
+  {
+    "term1": "meal",
+    "term2": "waist",
+    "value": 0.98,
+    "stddev": 1.58
+  },
+  {
+    "term1": "camera",
+    "term2": "president",
+    "value": 0.48,
+    "stddev": 1.56
+  },
+  {
+    "term1": "liquor",
+    "term2": "band",
+    "value": 0.68,
+    "stddev": 0.91
+  },
+  {
+    "term1": "stomach",
+    "term2": "vein",
+    "value": 2.35,
+    "stddev": 1.2
+  },
+  {
+    "term1": "gun",
+    "term2": "fur",
+    "value": 0.3,
+    "stddev": 1.8
+  },
+  {
+    "term1": "couch",
+    "term2": "baseball",
+    "value": 0.88,
+    "stddev": 1.32
+  },
+  {
+    "term1": "worker",
+    "term2": "camera",
+    "value": 0.68,
+    "stddev": 1.21
+  },
+  {
+    "term1": "deck",
+    "term2": "mouse",
+    "value": 0.48,
+    "stddev": 1.48
+  },
+  {
+    "term1": "rice",
+    "term2": "boy",
+    "value": 0.4,
+    "stddev": 1.72
+  },
+  {
+    "term1": "people",
+    "term2": "gun",
+    "value": 0.68,
+    "stddev": 1.47
+  },
+  {
+    "term1": "cliff",
+    "term2": "tail",
+    "value": 0.3,
+    "stddev": 1.57
+  },
+  {
+    "term1": "ankle",
+    "term2": "window",
+    "value": 0.3,
+    "stddev": 1.8
+  },
+  {
+    "term1": "princess",
+    "term2": "island",
+    "value": 0.3,
+    "stddev": 1.36
+  },
+  {
+    "term1": "container",
+    "term2": "mouse",
+    "value": 0.3,
+    "stddev": 0.95
+  },
+  {
+    "term1": "wagon",
+    "term2": "container",
+    "value": 2.65,
+    "stddev": 0.85
+  },
+  {
+    "term1": "people",
+    "term2": "balloon",
+    "value": 0.48,
+    "stddev": 1.96
+  },
+  {
+    "term1": "dollar",
+    "term2": "people",
+    "value": 0.4,
+    "stddev": 1.42
+  },
+  {
+    "term1": "bath",
+    "term2": "balloon",
+    "value": 0.4,
+    "stddev": 1.41
+  },
+  {
+    "term1": "stomach",
+    "term2": "bedroom",
+    "value": 0.4,
+    "stddev": 0.97
+  },
+  {
+    "term1": "bicycle",
+    "term2": "bedroom",
+    "value": 0.4,
+    "stddev": 1.47
+  },
+  {
+    "term1": "log",
+    "term2": "bath",
+    "value": 0.4,
+    "stddev": 1.63
+  },
+  {
+    "term1": "bowl",
+    "term2": "tail",
+    "value": 0.48,
+    "stddev": 1
+  },
+  {
+    "term1": "go",
+    "term2": "come",
+    "value": 2.42,
+    "stddev": 1.51
+  },
+  {
+    "term1": "take",
+    "term2": "steal",
+    "value": 6.18,
+    "stddev": 1.69
+  },
+  {
+    "term1": "listen",
+    "term2": "hear",
+    "value": 8.17,
+    "stddev": 1.72
+  },
+  {
+    "term1": "think",
+    "term2": "rationalize",
+    "value": 8.25,
+    "stddev": 1.13
+  },
+  {
+    "term1": "occur",
+    "term2": "happen",
+    "value": 9.32,
+    "stddev": 1.34
+  },
+  {
+    "term1": "vanish",
+    "term2": "disappear",
+    "value": 9.8,
+    "stddev": 0.46
+  },
+  {
+    "term1": "multiply",
+    "term2": "divide",
+    "value": 1.75,
+    "stddev": 1.32
+  },
+  {
+    "term1": "plead",
+    "term2": "beg",
+    "value": 9.08,
+    "stddev": 1.26
+  },
+  {
+    "term1": "begin",
+    "term2": "originate",
+    "value": 8.2,
+    "stddev": 0.75
+  },
+  {
+    "term1": "protect",
+    "term2": "defend",
+    "value": 9.13,
+    "stddev": 1.29
+  },
+  {
+    "term1": "kill",
+    "term2": "destroy",
+    "value": 5.9,
+    "stddev": 1.93
+  },
+  {
+    "term1": "create",
+    "term2": "make",
+    "value": 8.72,
+    "stddev": 1.14
+  },
+  {
+    "term1": "accept",
+    "term2": "reject",
+    "value": 0.83,
+    "stddev": 1.28
+  },
+  {
+    "term1": "ignore",
+    "term2": "avoid",
+    "value": 6.87,
+    "stddev": 1.22
+  },
+  {
+    "term1": "carry",
+    "term2": "bring",
+    "value": 5.8,
+    "stddev": 1.24
+  },
+  {
+    "term1": "leave",
+    "term2": "enter",
+    "value": 0.95,
+    "stddev": 1.91
+  },
+  {
+    "term1": "choose",
+    "term2": "elect",
+    "value": 7.62,
+    "stddev": 1.14
+  },
+  {
+    "term1": "lose",
+    "term2": "fail",
+    "value": 7.33,
+    "stddev": 1.79
+  },
+  {
+    "term1": "encourage",
+    "term2": "discourage",
+    "value": 1.58,
+    "stddev": 1.55
+  },
+  {
+    "term1": "achieve",
+    "term2": "accomplish",
+    "value": 8.57,
+    "stddev": 0.94
+  },
+  {
+    "term1": "make",
+    "term2": "construct",
+    "value": 8.33,
+    "stddev": 0.85
+  },
+  {
+    "term1": "listen",
+    "term2": "obey",
+    "value": 4.93,
+    "stddev": 1.33
+  },
+  {
+    "term1": "inform",
+    "term2": "notify",
+    "value": 9.25,
+    "stddev": 0.44
+  },
+  {
+    "term1": "receive",
+    "term2": "give",
+    "value": 1.47,
+    "stddev": 1.19
+  },
+  {
+    "term1": "borrow",
+    "term2": "beg",
+    "value": 2.62,
+    "stddev": 1.89
+  },
+  {
+    "term1": "take",
+    "term2": "obtain",
+    "value": 7.1,
+    "stddev": 1.01
+  },
+  {
+    "term1": "advise",
+    "term2": "recommend",
+    "value": 8.1,
+    "stddev": 1.6
+  },
+  {
+    "term1": "imitate",
+    "term2": "portray",
+    "value": 6.75,
+    "stddev": 1.13
+  },
+  {
+    "term1": "win",
+    "term2": "succeed",
+    "value": 7.9,
+    "stddev": 1.83
+  },
+  {
+    "term1": "think",
+    "term2": "decide",
+    "value": 5.13,
+    "stddev": 1.4
+  },
+  {
+    "term1": "greet",
+    "term2": "meet",
+    "value": 6.17,
+    "stddev": 1.73
+  },
+  {
+    "term1": "agree",
+    "term2": "argue",
+    "value": 0.77,
+    "stddev": 1.68
+  },
+  {
+    "term1": "enjoy",
+    "term2": "entertain",
+    "value": 5.92,
+    "stddev": 1.27
+  },
+  {
+    "term1": "destroy",
+    "term2": "make",
+    "value": 1.6,
+    "stddev": 1.72
+  },
+  {
+    "term1": "save",
+    "term2": "protect",
+    "value": 6.58,
+    "stddev": 0.44
+  },
+  {
+    "term1": "give",
+    "term2": "lend",
+    "value": 7.22,
+    "stddev": 0.93
+  },
+  {
+    "term1": "understand",
+    "term2": "know",
+    "value": 7.47,
+    "stddev": 1.26
+  },
+  {
+    "term1": "take",
+    "term2": "receive",
+    "value": 5.08,
+    "stddev": 0.48
+  },
+  {
+    "term1": "accept",
+    "term2": "acknowledge",
+    "value": 6.88,
+    "stddev": 1.63
+  },
+  {
+    "term1": "decide",
+    "term2": "choose",
+    "value": 8.87,
+    "stddev": 1.26
+  },
+  {
+    "term1": "accept",
+    "term2": "believe",
+    "value": 6.75,
+    "stddev": 1.61
+  },
+  {
+    "term1": "keep",
+    "term2": "possess",
+    "value": 8.27,
+    "stddev": 0.8
+  },
+  {
+    "term1": "roam",
+    "term2": "wander",
+    "value": 8.83,
+    "stddev": 0.89
+  },
+  {
+    "term1": "succeed",
+    "term2": "fail",
+    "value": 0.83,
+    "stddev": 1.44
+  },
+  {
+    "term1": "spend",
+    "term2": "save",
+    "value": 0.55,
+    "stddev": 1.06
+  },
+  {
+    "term1": "leave",
+    "term2": "go",
+    "value": 7.63,
+    "stddev": 1.49
+  },
+  {
+    "term1": "come",
+    "term2": "attend",
+    "value": 8.1,
+    "stddev": 1.6
+  },
+  {
+    "term1": "know",
+    "term2": "believe",
+    "value": 5.5,
+    "stddev": 1.18
+  },
+  {
+    "term1": "gather",
+    "term2": "meet",
+    "value": 7.3,
+    "stddev": 0.59
+  },
+  {
+    "term1": "make",
+    "term2": "earn",
+    "value": 7.62,
+    "stddev": 1.92
+  },
+  {
+    "term1": "forget",
+    "term2": "ignore",
+    "value": 3.07,
+    "stddev": 1.25
+  },
+  {
+    "term1": "multiply",
+    "term2": "add",
+    "value": 2.7,
+    "stddev": 1.8
+  },
+  {
+    "term1": "shrink",
+    "term2": "grow",
+    "value": 0.23,
+    "stddev": 1.2
+  },
+  {
+    "term1": "arrive",
+    "term2": "leave",
+    "value": 1.33,
+    "stddev": 1.48
+  },
+  {
+    "term1": "succeed",
+    "term2": "try",
+    "value": 3.98,
+    "stddev": 1.35
+  },
+  {
+    "term1": "accept",
+    "term2": "deny",
+    "value": 1.75,
+    "stddev": 1.41
+  },
+  {
+    "term1": "arrive",
+    "term2": "come",
+    "value": 7.05,
+    "stddev": 1.56
+  },
+  {
+    "term1": "agree",
+    "term2": "differ",
+    "value": 1.05,
+    "stddev": 1.53
+  },
+  {
+    "term1": "send",
+    "term2": "receive",
+    "value": 1.08,
+    "stddev": 1.53
+  },
+  {
+    "term1": "win",
+    "term2": "dominate",
+    "value": 5.68,
+    "stddev": 1.74
+  },
+  {
+    "term1": "add",
+    "term2": "divide",
+    "value": 2.3,
+    "stddev": 1.25
+  },
+  {
+    "term1": "kill",
+    "term2": "choke",
+    "value": 4.92,
+    "stddev": 1.48
+  },
+  {
+    "term1": "acquire",
+    "term2": "get",
+    "value": 8.82,
+    "stddev": 0.94
+  },
+  {
+    "term1": "participate",
+    "term2": "join",
+    "value": 7.7,
+    "stddev": 1.69
+  },
+  {
+    "term1": "leave",
+    "term2": "remain",
+    "value": 2.53,
+    "stddev": 1.36
+  },
+  {
+    "term1": "go",
+    "term2": "enter",
+    "value": 4,
+    "stddev": 1.43
+  },
+  {
+    "term1": "take",
+    "term2": "carry",
+    "value": 5.23,
+    "stddev": 0.44
+  },
+  {
+    "term1": "forget",
+    "term2": "learn",
+    "value": 1.18,
+    "stddev": 1.65
+  },
+  {
+    "term1": "appoint",
+    "term2": "elect",
+    "value": 8.17,
+    "stddev": 1.51
+  },
+  {
+    "term1": "engage",
+    "term2": "marry",
+    "value": 5.43,
+    "stddev": 1.12
+  },
+  {
+    "term1": "ask",
+    "term2": "pray",
+    "value": 3.72,
+    "stddev": 1.63
+  },
+  {
+    "term1": "go",
+    "term2": "send",
+    "value": 3.75,
+    "stddev": 0.77
+  },
+  {
+    "term1": "take",
+    "term2": "deliver",
+    "value": 4.37,
+    "stddev": 1.16
+  },
+  {
+    "term1": "speak",
+    "term2": "hear",
+    "value": 3.02,
+    "stddev": 0.76
+  },
+  {
+    "term1": "analyze",
+    "term2": "evaluate",
+    "value": 8.03,
+    "stddev": 0.49
+  },
+  {
+    "term1": "argue",
+    "term2": "rationalize",
+    "value": 4.2,
+    "stddev": 1.21
+  },
+  {
+    "term1": "lose",
+    "term2": "keep",
+    "value": 1.05,
+    "stddev": 1.57
+  },
+  {
+    "term1": "compare",
+    "term2": "analyze",
+    "value": 8.1,
+    "stddev": 0.84
+  },
+  {
+    "term1": "disorganize",
+    "term2": "organize",
+    "value": 1.45,
+    "stddev": 1.3
+  },
+  {
+    "term1": "go",
+    "term2": "allow",
+    "value": 3.62,
+    "stddev": 1.53
+  },
+  {
+    "term1": "take",
+    "term2": "possess",
+    "value": 7.2,
+    "stddev": 1.14
+  },
+  {
+    "term1": "learn",
+    "term2": "listen",
+    "value": 3.88,
+    "stddev": 1.65
+  },
+  {
+    "term1": "destroy",
+    "term2": "construct",
+    "value": 0.92,
+    "stddev": 1.78
+  },
+  {
+    "term1": "create",
+    "term2": "build",
+    "value": 8.48,
+    "stddev": 1.14
+  },
+  {
+    "term1": "steal",
+    "term2": "buy",
+    "value": 1.13,
+    "stddev": 0.95
+  },
+  {
+    "term1": "kill",
+    "term2": "hang",
+    "value": 4.45,
+    "stddev": 1.43
+  },
+  {
+    "term1": "forget",
+    "term2": "know",
+    "value": 0.92,
+    "stddev": 1.6
+  },
+  {
+    "term1": "create",
+    "term2": "imagine",
+    "value": 5.13,
+    "stddev": 1.7
+  },
+  {
+    "term1": "do",
+    "term2": "happen",
+    "value": 4.23,
+    "stddev": 1.02
+  },
+  {
+    "term1": "win",
+    "term2": "accomplish",
+    "value": 7.85,
+    "stddev": 0.8
+  },
+  {
+    "term1": "give",
+    "term2": "deny",
+    "value": 1.43,
+    "stddev": 1.36
+  },
+  {
+    "term1": "deserve",
+    "term2": "earn",
+    "value": 5.8,
+    "stddev": 0.62
+  },
+  {
+    "term1": "get",
+    "term2": "put",
+    "value": 1.98,
+    "stddev": 1.33
+  },
+  {
+    "term1": "locate",
+    "term2": "find",
+    "value": 8.73,
+    "stddev": 1.54
+  },
+  {
+    "term1": "appear",
+    "term2": "attend",
+    "value": 6.28,
+    "stddev": 1.47
+  },
+  {
+    "term1": "know",
+    "term2": "comprehend",
+    "value": 7.63,
+    "stddev": 1.39
+  },
+  {
+    "term1": "pretend",
+    "term2": "imagine",
+    "value": 8.47,
+    "stddev": 1.63
+  },
+  {
+    "term1": "satisfy",
+    "term2": "please",
+    "value": 7.67,
+    "stddev": 1.74
+  },
+  {
+    "term1": "cherish",
+    "term2": "keep",
+    "value": 4.85,
+    "stddev": 1.78
+  },
+  {
+    "term1": "argue",
+    "term2": "differ",
+    "value": 5.15,
+    "stddev": 1.22
+  },
+  {
+    "term1": "overcome",
+    "term2": "dominate",
+    "value": 6.25,
+    "stddev": 1.58
+  },
+  {
+    "term1": "behave",
+    "term2": "obey",
+    "value": 7.3,
+    "stddev": 1.24
+  },
+  {
+    "term1": "cooperate",
+    "term2": "participate",
+    "value": 6.43,
+    "stddev": 1.5
+  },
+  {
+    "term1": "achieve",
+    "term2": "try",
+    "value": 4.42,
+    "stddev": 1.14
+  },
+  {
+    "term1": "fail",
+    "term2": "discourage",
+    "value": 3.33,
+    "stddev": 1.2
+  },
+  {
+    "term1": "begin",
+    "term2": "quit",
+    "value": 1.28,
+    "stddev": 1.53
+  },
+  {
+    "term1": "say",
+    "term2": "participate",
+    "value": 3.82,
+    "stddev": 1.3
+  },
+  {
+    "term1": "come",
+    "term2": "bring",
+    "value": 2.42,
+    "stddev": 1.03
+  },
+  {
+    "term1": "declare",
+    "term2": "announce",
+    "value": 9.08,
+    "stddev": 1.56
+  },
+  {
+    "term1": "read",
+    "term2": "comprehend",
+    "value": 4.7,
+    "stddev": 1.75
+  },
+  {
+    "term1": "take",
+    "term2": "leave",
+    "value": 2.47,
+    "stddev": 0.8
+  },
+  {
+    "term1": "proclaim",
+    "term2": "announce",
+    "value": 8.18,
+    "stddev": 1.58
+  },
+  {
+    "term1": "acquire",
+    "term2": "obtain",
+    "value": 8.57,
+    "stddev": 1.96
+  },
+  {
+    "term1": "conclude",
+    "term2": "decide",
+    "value": 7.75,
+    "stddev": 1.17
+  },
+  {
+    "term1": "please",
+    "term2": "plead",
+    "value": 2.98,
+    "stddev": 1.18
+  },
+  {
+    "term1": "argue",
+    "term2": "prove",
+    "value": 4.83,
+    "stddev": 0.62
+  },
+  {
+    "term1": "ask",
+    "term2": "plead",
+    "value": 6.47,
+    "stddev": 1.62
+  },
+  {
+    "term1": "find",
+    "term2": "disappear",
+    "value": 0.77,
+    "stddev": 1.04
+  },
+  {
+    "term1": "inspect",
+    "term2": "examine",
+    "value": 8.75,
+    "stddev": 1.39
+  },
+  {
+    "term1": "verify",
+    "term2": "justify",
+    "value": 4.08,
+    "stddev": 1.11
+  },
+  {
+    "term1": "assume",
+    "term2": "predict",
+    "value": 4.85,
+    "stddev": 1.02
+  },
+  {
+    "term1": "learn",
+    "term2": "evaluate",
+    "value": 4.17,
+    "stddev": 0.88
+  },
+  {
+    "term1": "argue",
+    "term2": "justify",
+    "value": 5,
+    "stddev": 1.13
+  },
+  {
+    "term1": "make",
+    "term2": "become",
+    "value": 4.77,
+    "stddev": 0.82
+  },
+  {
+    "term1": "discover",
+    "term2": "originate",
+    "value": 4.83,
+    "stddev": 1.33
+  },
+  {
+    "term1": "achieve",
+    "term2": "succeed",
+    "value": 7.5,
+    "stddev": 1.29
+  },
+  {
+    "term1": "give",
+    "term2": "put",
+    "value": 3.65,
+    "stddev": 1.47
+  },
+  {
+    "term1": "understand",
+    "term2": "listen",
+    "value": 4.68,
+    "stddev": 1.66
+  },
+  {
+    "term1": "expand",
+    "term2": "grow",
+    "value": 8.27,
+    "stddev": 1.28
+  },
+  {
+    "term1": "borrow",
+    "term2": "sell",
+    "value": 1.73,
+    "stddev": 1.21
+  },
+  {
+    "term1": "keep",
+    "term2": "protect",
+    "value": 5.4,
+    "stddev": 1.26
+  },
+  {
+    "term1": "explain",
+    "term2": "prove",
+    "value": 4.1,
+    "stddev": 1.29
+  },
+  {
+    "term1": "assume",
+    "term2": "pretend",
+    "value": 3.72,
+    "stddev": 1.15
+  },
+  {
+    "term1": "agree",
+    "term2": "please",
+    "value": 4.13,
+    "stddev": 1.7
+  },
+  {
+    "term1": "forgive",
+    "term2": "forget",
+    "value": 3.92,
+    "stddev": 1.5
+  },
+  {
+    "term1": "clarify",
+    "term2": "explain",
+    "value": 8.33,
+    "stddev": 1.74
+  },
+  {
+    "term1": "understand",
+    "term2": "forgive",
+    "value": 4.87,
+    "stddev": 1.32
+  },
+  {
+    "term1": "remind",
+    "term2": "forget",
+    "value": 0.87,
+    "stddev": 1.56
+  },
+  {
+    "term1": "get",
+    "term2": "remain",
+    "value": 1.6,
+    "stddev": 1.68
+  },
+  {
+    "term1": "realize",
+    "term2": "discover",
+    "value": 7.47,
+    "stddev": 0.59
+  },
+  {
+    "term1": "require",
+    "term2": "inquire",
+    "value": 1.82,
+    "stddev": 1.06
+  },
+  {
+    "term1": "ignore",
+    "term2": "ask",
+    "value": 1.07,
+    "stddev": 1.27
+  },
+  {
+    "term1": "think",
+    "term2": "inquire",
+    "value": 4.77,
+    "stddev": 1.23
+  },
+  {
+    "term1": "reject",
+    "term2": "avoid",
+    "value": 4.78,
+    "stddev": 1.36
+  },
+  {
+    "term1": "argue",
+    "term2": "persuade",
+    "value": 6.23,
+    "stddev": 1.7
+  },
+  {
+    "term1": "pursue",
+    "term2": "persuade",
+    "value": 3.17,
+    "stddev": 1.39
+  },
+  {
+    "term1": "accept",
+    "term2": "forgive",
+    "value": 3.73,
+    "stddev": 1.75
+  },
+  {
+    "term1": "do",
+    "term2": "quit",
+    "value": 1.17,
+    "stddev": 1.81
+  },
+  {
+    "term1": "investigate",
+    "term2": "examine",
+    "value": 8.1,
+    "stddev": 1.31
+  },
+  {
+    "term1": "discuss",
+    "term2": "explain",
+    "value": 6.67,
+    "stddev": 1.53
+  },
+  {
+    "term1": "owe",
+    "term2": "lend",
+    "value": 2.32,
+    "stddev": 0.82
+  },
+  {
+    "term1": "explore",
+    "term2": "discover",
+    "value": 8.48,
+    "stddev": 1.33
+  },
+  {
+    "term1": "complain",
+    "term2": "argue",
+    "value": 4.8,
+    "stddev": 0.9
+  },
+  {
+    "term1": "withdraw",
+    "term2": "reject",
+    "value": 6.38,
+    "stddev": 1.97
+  },
+  {
+    "term1": "keep",
+    "term2": "borrow",
+    "value": 2.25,
+    "stddev": 1.29
+  },
+  {
+    "term1": "beg",
+    "term2": "ask",
+    "value": 6,
+    "stddev": 1.58
+  },
+  {
+    "term1": "arrange",
+    "term2": "organize",
+    "value": 8.27,
+    "stddev": 1.1
+  },
+  {
+    "term1": "reduce",
+    "term2": "shrink",
+    "value": 8.02,
+    "stddev": 1.82
+  },
+  {
+    "term1": "speak",
+    "term2": "acknowledge",
+    "value": 4.67,
+    "stddev": 1.47
+  },
+  {
+    "term1": "give",
+    "term2": "borrow",
+    "value": 2.22,
+    "stddev": 1.63
+  },
+  {
+    "term1": "kill",
+    "term2": "defend",
+    "value": 2.63,
+    "stddev": 0.85
+  },
+  {
+    "term1": "disappear",
+    "term2": "shrink",
+    "value": 5.8,
+    "stddev": 1
+  },
+  {
+    "term1": "deliver",
+    "term2": "carry",
+    "value": 3.88,
+    "stddev": 1.44
+  },
+  {
+    "term1": "breathe",
+    "term2": "choke",
+    "value": 1.37,
+    "stddev": 2.02
+  },
+  {
+    "term1": "acknowledge",
+    "term2": "notify",
+    "value": 5.3,
+    "stddev": 0.62
+  },
+  {
+    "term1": "become",
+    "term2": "seem",
+    "value": 2.63,
+    "stddev": 1.79
+  },
+  {
+    "term1": "pretend",
+    "term2": "seem",
+    "value": 4.68,
+    "stddev": 1.63
+  },
+  {
+    "term1": "accomplish",
+    "term2": "become",
+    "value": 4,
+    "stddev": 0.85
+  },
+  {
+    "term1": "contemplate",
+    "term2": "think",
+    "value": 8.82,
+    "stddev": 1.59
+  },
+  {
+    "term1": "determine",
+    "term2": "predict",
+    "value": 5.8,
+    "stddev": 1.37
+  },
+  {
+    "term1": "please",
+    "term2": "entertain",
+    "value": 5,
+    "stddev": 0.71
+  },
+  {
+    "term1": "remain",
+    "term2": "retain",
+    "value": 5.75,
+    "stddev": 1.12
+  },
+  {
+    "term1": "pretend",
+    "term2": "portray",
+    "value": 7.03,
+    "stddev": 1.64
+  },
+  {
+    "term1": "forget",
+    "term2": "retain",
+    "value": 0.63,
+    "stddev": 1.68
+  },
+  {
+    "term1": "want",
+    "term2": "choose",
+    "value": 4.78,
+    "stddev": 1.56
+  },
+  {
+    "term1": "lose",
+    "term2": "get",
+    "value": 0.77,
+    "stddev": 1.33
+  },
+  {
+    "term1": "try",
+    "term2": "think",
+    "value": 2.62,
+    "stddev": 1.45
+  },
+  {
+    "term1": "become",
+    "term2": "appear",
+    "value": 4.77,
+    "stddev": 1.51
+  },
+  {
+    "term1": "leave",
+    "term2": "ignore",
+    "value": 4.42,
+    "stddev": 1.33
+  },
+  {
+    "term1": "accept",
+    "term2": "recommend",
+    "value": 2.75,
+    "stddev": 1.01
+  },
+  {
+    "term1": "leave",
+    "term2": "wander",
+    "value": 3.57,
+    "stddev": 1.33
+  },
+  {
+    "term1": "keep",
+    "term2": "give",
+    "value": 1.05,
+    "stddev": 1.03
+  },
+  {
+    "term1": "give",
+    "term2": "allow",
+    "value": 5.15,
+    "stddev": 1.32
+  },
+  {
+    "term1": "bring",
+    "term2": "send",
+    "value": 2.97,
+    "stddev": 0.88
+  },
+  {
+    "term1": "absorb",
+    "term2": "learn",
+    "value": 5.48,
+    "stddev": 1.16
+  },
+  {
+    "term1": "acquire",
+    "term2": "find",
+    "value": 6.38,
+    "stddev": 1.74
+  },
+  {
+    "term1": "leave",
+    "term2": "appear",
+    "value": 0.97,
+    "stddev": 1.45
+  },
+  {
+    "term1": "create",
+    "term2": "destroy",
+    "value": 0.63,
+    "stddev": 1.1
+  },
+  {
+    "term1": "begin",
+    "term2": "go",
+    "value": 7.42,
+    "stddev": 1.24
+  },
+  {
+    "term1": "get",
+    "term2": "buy",
+    "value": 5.08,
+    "stddev": 1.02
+  },
+  {
+    "term1": "collect",
+    "term2": "save",
+    "value": 6.67,
+    "stddev": 0.44
+  },
+  {
+    "term1": "replace",
+    "term2": "restore",
+    "value": 5.73,
+    "stddev": 1.08
+  },
+  {
+    "term1": "join",
+    "term2": "add",
+    "value": 8.1,
+    "stddev": 0.88
+  },
+  {
+    "term1": "join",
+    "term2": "marry",
+    "value": 5.35,
+    "stddev": 1.41
+  },
+  {
+    "term1": "accept",
+    "term2": "deliver",
+    "value": 1.58,
+    "stddev": 1.37
+  },
+  {
+    "term1": "attach",
+    "term2": "join",
+    "value": 7.75,
+    "stddev": 0.94
+  },
+  {
+    "term1": "put",
+    "term2": "hang",
+    "value": 3,
+    "stddev": 1.49
+  },
+  {
+    "term1": "go",
+    "term2": "sell",
+    "value": 0.97,
+    "stddev": 0.9
+  },
+  {
+    "term1": "communicate",
+    "term2": "pray",
+    "value": 3.55,
+    "stddev": 1.38
+  },
+  {
+    "term1": "give",
+    "term2": "steal",
+    "value": 0.5,
+    "stddev": 0.62
+  },
+  {
+    "term1": "add",
+    "term2": "build",
+    "value": 4.92,
+    "stddev": 1.1
+  },
+  {
+    "term1": "bring",
+    "term2": "restore",
+    "value": 2.62,
+    "stddev": 0.74
+  },
+  {
+    "term1": "comprehend",
+    "term2": "satisfy",
+    "value": 2.55,
+    "stddev": 1
+  },
+  {
+    "term1": "portray",
+    "term2": "decide",
+    "value": 1.18,
+    "stddev": 1.37
+  },
+  {
+    "term1": "organize",
+    "term2": "become",
+    "value": 1.77,
+    "stddev": 1.86
+  },
+  {
+    "term1": "give",
+    "term2": "know",
+    "value": 0.88,
+    "stddev": 1.12
+  },
+  {
+    "term1": "say",
+    "term2": "verify",
+    "value": 4.9,
+    "stddev": 0.65
+  },
+  {
+    "term1": "cooperate",
+    "term2": "join",
+    "value": 5.18,
+    "stddev": 0.36
+  },
+  {
+    "term1": "arrange",
+    "term2": "require",
+    "value": 0.98,
+    "stddev": 1.72
+  },
+  {
+    "term1": "borrow",
+    "term2": "want",
+    "value": 1.77,
+    "stddev": 1.22
+  },
+  {
+    "term1": "investigate",
+    "term2": "pursue",
+    "value": 7.15,
+    "stddev": 0.56
+  },
+  {
+    "term1": "ignore",
+    "term2": "explore",
+    "value": 0.4,
+    "stddev": 1.19
+  },
+  {
+    "term1": "bring",
+    "term2": "complain",
+    "value": 0.98,
+    "stddev": 1.57
+  },
+  {
+    "term1": "enter",
+    "term2": "owe",
+    "value": 0.68,
+    "stddev": 1.67
+  },
+  {
+    "term1": "portray",
+    "term2": "notify",
+    "value": 0.78,
+    "stddev": 1.17
+  },
+  {
+    "term1": "remind",
+    "term2": "sell",
+    "value": 0.4,
+    "stddev": 1.61
+  },
+  {
+    "term1": "absorb",
+    "term2": "possess",
+    "value": 5,
+    "stddev": 1.15
+  },
+  {
+    "term1": "join",
+    "term2": "acquire",
+    "value": 2.85,
+    "stddev": 0.99
+  },
+  {
+    "term1": "send",
+    "term2": "attend",
+    "value": 1.67,
+    "stddev": 1.44
+  },
+  {
+    "term1": "gather",
+    "term2": "attend",
+    "value": 4.8,
+    "stddev": 1.97
+  },
+  {
+    "term1": "absorb",
+    "term2": "withdraw",
+    "value": 2.97,
+    "stddev": 1.75
+  },
+  {
+    "term1": "attend",
+    "term2": "arrive",
+    "value": 6.08,
+    "stddev": 1.18
+  }
+]

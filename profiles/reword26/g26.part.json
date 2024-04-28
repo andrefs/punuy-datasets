@@ -1,0 +1,132 @@
+[
+  {
+    "term1": "Android",
+    "term2": "Linux",
+    "value": 0.615
+  },
+  {
+    "term1": "Bob Dylan",
+    "term2": "Beat Generation",
+    "value": 0.307
+  },
+  {
+    "term1": "Amsterdam",
+    "term2": "Venice",
+    "value": 0.894
+  },
+  {
+    "term1": "California",
+    "term2": "Computer Science",
+    "value": 0.503
+  },
+  {
+    "term1": "China",
+    "term2": "Japan",
+    "value": 0.709
+  },
+  {
+    "term1": "Computer Science",
+    "term2": "Music",
+    "value": 0.193
+  },
+  {
+    "term1": "Turing",
+    "term2": "Computer Science",
+    "value": 1.0
+  },
+  {
+    "term1": "Gandhi",
+    "term2": "Peace",
+    "value": 0.559
+  },
+  {
+    "term1": "Google",
+    "term2": "IBM",
+    "value": 0.782
+  },
+  {
+    "term1": "HTC",
+    "term2": "Nokia",
+    "value": 0.972
+  },
+  {
+    "term1": "Italy",
+    "term2": "Pasta",
+    "value": 0.726
+  },
+  {
+    "term1": "Maradona",
+    "term2": "Pele",
+    "value": 0.849
+  },
+  {
+    "term1": "Maradona",
+    "term2": "Music",
+    "value": 0.0
+  },
+  {
+    "term1": "Windows",
+    "term2": "Redmond",
+    "value": 0.447
+  },
+  {
+    "term1": "New York",
+    "term2": "Paris",
+    "value": 0.503
+  },
+  {
+    "term1": "Pink Floyd",
+    "term2": "Eclipse",
+    "value": 0.279
+  },
+  {
+    "term1": "Radiohead",
+    "term2": "The Beatles",
+    "value": 0.553
+  },
+  {
+    "term1": "Rock",
+    "term2": "Blues",
+    "value": 0.391
+  },
+  {
+    "term1": "Bill Clinton",
+    "term2": "Obama",
+    "value": 0.447
+  },
+  {
+    "term1": "Semantic Web",
+    "term2": "World Wide Web",
+    "value": 0.642
+  },
+  {
+    "term1": "Stanley Kubrick",
+    "term2": "David Lynch",
+    "value": 0.698
+  },
+  {
+    "term1": "The Big Bang Theory",
+    "term2": "California",
+    "value": 0.363
+  },
+  {
+    "term1": "Turing",
+    "term2": "Biology",
+    "value": 0.243
+  },
+  {
+    "term1": "Turkey",
+    "term2": "Europe",
+    "value": 0.363
+  },
+  {
+    "term1": "United States",
+    "term2": "Europe",
+    "value": 0.335
+  },
+  {
+    "term1": "Vienna",
+    "term2": "Danube",
+    "value": 0.257
+  }
+]

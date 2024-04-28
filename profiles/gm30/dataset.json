@@ -1,0 +1,46 @@
+{
+  "id": "gm30",
+  "metadata": {
+    "name": "Gracia and Mena (2008)",
+    "urls": [],
+    "papers": [
+      {
+        "title": "Web-Based Measure of Semantic Relatedness",
+        "url": "https://oa.upm.es/6549/1/Web-based_Measure.pdf"
+      }
+    ],
+    "date": "2008",
+    "description": "",
+    "downloadUrls": [],
+    "languages": [
+      "en"
+    ],
+    "domain": "general",
+    "measureTypes": [
+      "relatedness"
+    ]
+  },
+  "partitions": [
+    {
+      "id": "main",
+      "measureType": "relatedness",
+      "scale": {
+        "value": {
+          "max": 4.0,
+          "min": 0.0
+        }
+      },
+      "metrics": {
+        "annotators": {
+          "total": 30,
+          "minEachPair": null
+        },
+        "interAgreement": {
+          "pearson": null,
+          "spearman": null
+        }
+      }
+    }
+  ],
+  "originalInstructions": ""
+}

@@ -1,0 +1,54 @@
+{
+  "id": "gtrd",
+  "metadata": {
+    "name": "GTRD",
+    "urls": [
+      "https://github.com/czgbjy/GTRD"
+    ],
+    "papers": [
+      {
+        "title": "An Approach to Measuring Semantic Relatedness of Geographic Terminologies Using a Thesaurus and Lexical Database Sources",
+        "url": "https://pdfs.semanticscholar.org/f8f1/b82386147b6a9142b2cff2dc662a3e614d80.pdf"
+      }
+    ],
+    "date": "2018",
+    "description": "",
+    "downloadUrls": [
+      "https://github.com/czgbjy/GTRD/tree/master/Geo-Terminology%20Relatedness%20Dataset"
+    ],
+    "languages": [
+      "en"
+    ],
+    "domain": "geographical",
+    "measureTypes": [
+      "relatedness"
+    ]
+  },
+  "partitions": [
+    {
+      "id": "main",
+      "measureType": "relatedness",
+      "scale": {
+        "value": {
+          "max": 1,
+          "min": 0
+        },
+        "values": {
+          "max": 4,
+          "min": 0
+        }
+      },
+      "metrics": {
+        "annotators": {
+          "total": 41,
+          "minEachPair": 41
+        },
+        "interAgreement": {
+          "pearson": 0.86,
+          "spearman": 0.858
+        }
+      }
+    }
+  ],
+  "originalInstructions": ""
+}

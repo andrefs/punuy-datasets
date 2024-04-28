@@ -1,0 +1,67 @@
+{
+  "id": "word19k",
+  "metadata": {
+    "name": "Wikipedia Oriented Relatedness Dataset",
+    "urls": [
+      "https://developer.ibm.com/exchanges/data/all/wikipedia-oriented-relatedness/"
+    ],
+    "papers": [
+      {
+        "title": "Semantic Relatedness of Wikipedia Concepts – Benchmark Data and a Working Solution",
+        "url": "https://aclanthology.org/L18-1408.pdf"
+      }
+    ],
+    "date": "2018",
+    "description": "The Wikipedia Oriented Relatedness Dataset, or WORD, is a new type of concept relatedness dataset, composed of 19,276 pairs of Wikipedia concepts. This is the first human annotated dataset of Wikipedia concepts, whose purpose is twofold. On the one hand, it can serve as a benchmark for evaluating concept-relatedness methods. On the other hand, it can be used as supervised data for developing new models for concept relatedness prediction. Among the advantages of this dataset compared to its term-relatedness counterparts, are its built-in disambiguation solution, and its richness with meaningful multiword terms.",
+    "downloadUrls": [
+      "https://dax-cdn.cdn.appdomain.cloud/dax-wikipedia-oriented-relatedness/1.0.2/wikipedia-oriented-relatedness.tar.gz"
+    ],
+    "measureTypes": ["relatedness"],
+    "languages": ["en"],
+    "domain": "general",
+    "tags": ["mturk"]
+  },
+  "partitions": [
+    {
+      "id": "train",
+      "measureType": "relatedness",
+      "scale": {
+        "value": {
+          "max": 1,
+          "min": 0
+        }
+      },
+      "metrics": {
+        "annotators": {
+          "total": 247,
+          "minEachPair": 8
+        },
+        "interAgreement": {
+          "pearson": null,
+          "spearman": null
+        }
+      }
+    },
+    {
+      "id": "test",
+      "measureType": "relatedness",
+      "scale": {
+        "value": {
+          "max": 1,
+          "min": 0
+        }
+      },
+      "metrics": {
+        "annotators": {
+          "total": 247,
+          "minEachPair": 8
+        },
+        "interAgreement": {
+          "pearson": null,
+          "spearman": null
+        }
+      }
+    }
+  ],
+  "originalInstructions": "In this task you will be presented with two links to Wikipedia articles. You should mark “yes” if the concepts described by the articles are related to each other, and “no” otherwise.\n\nRules:\n\n1. You should mark “yes” if and only if you believe there is an immediate associative connection between the concepts described by the two articles.\n2. Your answer should be based only on the meaning of the concept as it described in the article. For example, the links \"https://en.wikipedia.org/wiki/Jaguar_Cars\" and \"https://en.wikipedia.org/wiki/Cat\" should probably be marked as unrelated, while \"https://en.wikipedia.org/wiki/Jaguar\" and  \"https://en.wikipedia.org/wiki/Cat\" should be marked as related.\n3. Wikipedia concepts with negative association to each other, should typically be considered related. For example, \"https://en.wikipedia.org/wiki/Religion\" should probably be marked as related to \"https://en.wikipedia.org/wiki/Atheism\"."
+}

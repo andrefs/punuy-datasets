@@ -1,0 +1,70 @@
+{
+  "id": "zie55",
+  "metadata": {
+    "name": "Ziegler et al. (2006)",
+    "urls": [],
+    "papers": [
+      {
+        "title": "Automatic Computation of Semantic Proximity Using Taxonomic Knowledge",
+        "url": "https://web.archive.org/web/20070824183036id_/http://www.informatik.uni-freiburg.de/~ksimon/papers/CIKM-06-Proximity.pdf"
+      }
+    ],
+    "date": "2006",
+    "description": "",
+    "languages": [
+      "en"
+    ],
+    "domain": "general",
+    "downloadUrls": [
+      "https://web.archive.org/web/20070824183036id_/http://www.informatik.uni-freiburg.de/~ksimon/papers/CIKM-06-Proximity.pdf"
+    ],
+    "measureTypes": [
+      "relatedness"
+    ],
+    "tags": [
+      "entities"
+    ]
+  },
+  "partitions": [
+    {
+      "id": "B0",
+      "measureType": "relatedness",
+      "scale": {
+        "value": {
+          "min": 0,
+          "max": 5
+        }
+      },
+      "metrics": {
+        "annotators": {
+          "total": 23,
+          "minEachPair": 23
+        },
+        "interAgreement": {
+          "pearson": 0.7027,
+          "spearman": null
+        }
+      }
+    },
+    {
+      "id": "B1",
+      "measureType": "relatedness",
+      "scale": {
+        "value": {
+          "min": 0,
+          "max": 4
+        }
+      },
+      "metrics": {
+        "annotators": {
+          "total": 51,
+          "minEachPair": 51
+        },
+        "interAgreement": {
+          "pearson": 0.7091,
+          "spearman": null
+        }
+      }
+    }
+  ]
+}

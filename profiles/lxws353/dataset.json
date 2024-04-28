@@ -1,0 +1,50 @@
+{
+  "id": "lxws353",
+  "metadata": {
+    "name": "LX-WordSim-353",
+    "urls": [
+      "https://portulanclarin.net/repository/browse/lx-wordsim-353/c4e08b72e6dd11e6a2aa782bcb074135a5ac38ba70a14fb3adbd5782b21dacb0/"
+    ],
+    "papers": [
+      {
+        "title": "LX-LR4DistSemEval: a collection of language resources for the evaluation of distributional semantic models of Portuguese ",
+        "url": "https://www.grupocole.org/cole/library/ps/QueCarRodGarSilCorRenPerCamBra2017a.pdf"
+      }
+    ],
+    "date": "2017",
+    "description": "The LX-WordSim-353 was created from WordSim-353 (Agirre et al., 2009). As the name suggests, this data set contains 353 pairs of words. Both words in each pair can have different morphosyntactic categories. The data set is made of nouns, adjectives, verbs and named entities, and has no multiwords.\nThe LX-WordSim-353 was the outcome of a) the translation of WordSim-353 into Portuguese and b) the annotation of that list with the classification established by Agirre, et al. (2009). The translation process followed the same procedures as the translation of the data sets in the sections above: two translators translated the same data and a third expert adjudicated when there were mismatches.",
+    "downloadUrls": [
+      "https://portulanclarin.net/repository/browse/lx-wordsim-353/c4e08b72e6dd11e6a2aa782bcb074135a5ac38ba70a14fb3adbd5782b21dacb0/"
+    ],
+    "languages": [
+      "pt"
+    ],
+    "domain": "general",
+    "measureTypes": [
+      "relatedness"
+    ]
+  },
+  "partitions": [
+    {
+      "id": "main",
+      "measureType": "relatedness",
+      "scale": {
+        "value": {
+          "max": 10,
+          "min": 0
+        }
+      },
+      "metrics": {
+        "annotators": {
+          "total": null,
+          "minEachPair": null
+        },
+        "interAgreement": {
+          "pearson": null,
+          "spearman": null
+        }
+      }
+    }
+  ],
+  "originalInstructions": ""
+}

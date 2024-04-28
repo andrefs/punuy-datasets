@@ -2,14 +2,22 @@
   "compilerOptions": {
     "target": "es2016",
     "outDir": "dist",
-    "lib": ["ES2017", "DOM"],
+    "lib": [
+      "ES2017",
+      "DOM"
+    ],
     "module": "nodenext",
     "resolveJsonModule": true,
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
     "strict": true,
-    "baseUrl": ".",
+    "baseUrl": "./",
+    "declaration": true,
+    "sourceMap": true,
     "skipLibCheck": true
   },
-  "include": ["src/**/*.ts", "profiles/*.json"]
+  "include": [
+    "src",
+    "profiles/*.json"
+  ]
 }

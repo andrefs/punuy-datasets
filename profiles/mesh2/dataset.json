@@ -1,0 +1,51 @@
+{
+  "id": "mesh2",
+  "metadata": {
+    "name": "MeSH2",
+    "urls": [
+      "https://www.intelligence.tuc.gr/similarity/datasets.php",
+      "https://www.intelligence.tuc.gr/similarity/datasets/MeSHDataset.pdf"
+    ],
+    "papers": [
+      {
+        "title": "Design and Evaluation of Semantic Similarity Measures for Concepts Stemming from the Same or Different Ontologies",
+        "url": "https://users.uop.gr/~praftop/papers/pdf/wms06-PVHR.pdf"
+      }
+    ],
+    "date": "2006",
+    "description": "",
+    "downloadUrls": [
+      "https://www.intelligence.tuc.gr/similarity/datasets/MeSHDataset.pdf"
+    ],
+    "languages": [
+      "en"
+    ],
+    "domain": "biomedical",
+    "measureTypes": [
+      "similarity"
+    ]
+  },
+  "partitions": [
+    {
+      "id": "main",
+      "measureType": "similarity",
+      "scale": {
+        "value": {
+          "min": 0,
+          "max": 1
+        }
+      },
+      "metrics": {
+        "annotators": {
+          "total": 8,
+          "minEachPair": 8
+        },
+        "interAgreement": {
+          "pearson": null,
+          "spearman": null
+        }
+      }
+    }
+  ],
+  "originalInstructions": ""
+}

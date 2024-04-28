@@ -1,0 +1,86 @@
+{
+  "id": "simverb3500",
+  "metadata": {
+    "name": "SimVerb-3500",
+    "urls": [
+      "https://www.repository.cam.ac.uk/items/8a568201-0fa4-4e54-81b1-f920102492ea"
+    ],
+    "papers": [
+      {
+        "title": "SimVerb-3500: A Large-Scale Evaluation Set of Verb Similarity",
+        "url": "https://aclanthology.org/D16-1235.pdf"
+      }
+    ],
+    "date": "2016",
+    "description": "SimVerb-3500 is a gold standard evaluation resource for semantic similarity of verbs.\n\nWe provide 3500 verb pairs with ratings on a scale 0-10. Here are some examples: to reply / to respond - 9.79; to participate / to join - 5.64; to stay / to leave - 0.17;\n\nSimVerb-3500 covers all normed verb types from the USF free-association database, and provides at least three examples for every VerbNet class.",
+    "downloadUrls": [
+      "https://www.repository.cam.ac.uk/bitstreams/8b6bfa68-4256-4e2d-9d06-628748b2daea/download"
+    ],
+    "languages": ["en"],
+    "domain": "general",
+    "measureTypes": ["similarity"]
+  },
+  "partitions": [
+    {
+      "id": "dev",
+      "measureType": "similarity",
+      "scale": {
+        "value": {
+          "max": 10,
+          "min": 0
+        }
+      },
+      "metrics": {
+        "annotators": {
+          "total": 11,
+          "minEachPair": 10
+        },
+        "interAgreement": {
+          "pearson": null,
+          "spearman": null
+        }
+      }
+    },
+    {
+      "id": "test",
+      "measureType": "similarity",
+      "scale": {
+        "value": {
+          "max": 10,
+          "min": 0
+        }
+      },
+      "metrics": {
+        "annotators": {
+          "total": 11,
+          "minEachPair": 10
+        },
+        "interAgreement": {
+          "pearson": null,
+          "spearman": null
+        }
+      }
+    },
+    {
+      "id": "all",
+      "measureType": "similarity",
+      "scale": {
+        "value": {
+          "max": 10,
+          "min": 0
+        }
+      },
+      "metrics": {
+        "annotators": {
+          "total": 11,
+          "minEachPair": 10
+        },
+        "interAgreement": {
+          "pearson": null,
+          "spearman": 0.84
+        }
+      }
+    }
+  ],
+  "originalInstructions": ""
+}

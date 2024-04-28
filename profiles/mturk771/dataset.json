@@ -1,0 +1,58 @@
+{
+  "id": "mturk771",
+  "metadata": {
+    "name": "MTurk771",
+    "urls": [
+      "http://www2.mta.ac.il/~gideon/datasets/mturk_771.html"
+    ],
+    "papers": [
+      {
+        "title": "Large-scale learning of word relatedness with constraints",
+        "url": "https://www-ai.cs.tu-dortmund.de/LEHRE/FACHPROJEKT/WS1213/WordCorrelations.pdf"
+      }
+    ],
+    "date": "2012",
+    "description": "The set contains 771 word pairs along with their mean realtedness scores. The scores were collected on Amazon Mechanical Turk. At least 20 ratings were collected for each word pair, where each judgement task consisted of a batch of 50 word pairs. Ratings were collected on a 1-5 scale, where 5 stands for 'highly related' and 1 stands for 'not related'. In order to discard poor quality work, each batch contained 10 trap word pairs with known extreme relatedness values, serving as binary indicators. A batch that failed on more than one of the binary indicators was discarded. This guarantees an over 98% probability for detecting random workers (e.g., bots). The relatedness value of each word pair was taken as the mean score given by the workers.",
+    "downloadUrls": [
+      "http://www2.mta.ac.il/~gideon/datasets/MTURK-771-RAW.csv",
+      "http://www2.mta.ac.il/~gideon/datasets/MTURK-771.csv"
+    ],
+    "measureTypes": [
+      "relatedness"
+    ],
+    "domain": "general",
+    "languages": [
+      "en"
+    ],
+    "tags": [
+      "mturk"
+    ]
+  },
+  "partitions": [
+    {
+      "id": "mturk",
+      "measureType": "relatedness",
+      "scale": {
+        "value": {
+          "min": 1,
+          "max": 5
+        },
+        "values": {
+          "min": 1,
+          "max": 5
+        }
+      },
+      "metrics": {
+        "annotators": {
+          "total": 115,
+          "minEachPair": 20
+        },
+        "interAgreement": {
+          "pearson": 0.8957,
+          "spearman": null
+        }
+      }
+    }
+  ],
+  "originalInstructions": ""
+}

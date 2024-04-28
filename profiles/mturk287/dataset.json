@@ -1,0 +1,53 @@
+{
+  "id": "mt287",
+  "metadata": {
+    "name": "MT287",
+    "urls": [
+      "http://www.kiraradinsky.com/Datasets.html"
+    ],
+    "papers": [
+      {
+        "title": "A Word at a Time: Computing Word Relatedness using Temporal Semantic Analysis",
+        "url": "http://www.kiraradinsky.com/files/Radinsky-TemporalSemantics.pdf"
+      }
+    ],
+    "date": "2011",
+    "description": "Human labeled examples of word semantic relatedness. The data pairs were generated using an algorithm as described in the paper by [K. Radinsky, E. Agichtein, E. Gabrilovich, S. Markovitch.]. Each pair of words was evaluated by 10 people on a scale of 1-5.",
+    "downloadUrls": [
+      "http://www.kiraradinsky.com/files/Mtruk.csv"
+    ],
+    "measureTypes": [
+      "relatedness"
+    ],
+    "languages": [
+      "en"
+    ],
+    "domain": "general",
+    "tags": [
+      "mturk"
+    ]
+  },
+  "partitions": [
+    {
+      "id": "mturk",
+      "measureType": "relatedness",
+      "scale": {
+        "value": {
+          "min": 1,
+          "max": 5
+        }
+      },
+      "metrics": {
+        "annotators": {
+          "total": 30,
+          "minEachPair": 10
+        },
+        "interAgreement": {
+          "pearson": null,
+          "spearman": null
+        }
+      }
+    }
+  ],
+  "originalInstructions": ""
+}

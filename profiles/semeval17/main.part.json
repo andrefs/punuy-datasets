@@ -1,0 +1,2502 @@
+[
+  {
+    "term1": "Joule",
+    "term2": "spacecraft",
+    "value": 0.58
+  },
+  {
+    "term1": "Promised Land",
+    "term2": "Baku",
+    "value": 0.42
+  },
+  {
+    "term1": "car",
+    "term2": "bicycle",
+    "value": 2.83
+  },
+  {
+    "term1": "polyhedron",
+    "term2": "actor",
+    "value": 0
+  },
+  {
+    "term1": "multiple sclerosis",
+    "term2": "MS",
+    "value": 3.92
+  },
+  {
+    "term1": "fault",
+    "term2": "system",
+    "value": 0.58
+  },
+  {
+    "term1": "weapon",
+    "term2": "helmet",
+    "value": 1.83
+  },
+  {
+    "term1": "screenwriter",
+    "term2": "television",
+    "value": 1.67
+  },
+  {
+    "term1": "United Nations",
+    "term2": "Ban Ki-moon",
+    "value": 2.5
+  },
+  {
+    "term1": "Si-o-seh pol",
+    "term2": "Mathematical Bridge",
+    "value": 3
+  },
+  {
+    "term1": "basilica",
+    "term2": "mosaic",
+    "value": 1.5
+  },
+  {
+    "term1": "watercolor painting",
+    "term2": "brush",
+    "value": 2
+  },
+  {
+    "term1": "democracy",
+    "term2": "monarchy",
+    "value": 2.67
+  },
+  {
+    "term1": "Gauss",
+    "term2": "scientist",
+    "value": 3
+  },
+  {
+    "term1": "tuberculosis",
+    "term2": "LED",
+    "value": 0
+  },
+  {
+    "term1": "self-driving car",
+    "term2": "autonomous car",
+    "value": 4
+  },
+  {
+    "term1": "apocalypse",
+    "term2": "fire",
+    "value": 1.25
+  },
+  {
+    "term1": "speed",
+    "term2": "post",
+    "value": 0.25
+  },
+  {
+    "term1": "PlayStation",
+    "term2": "Wii",
+    "value": 3.25
+  },
+  {
+    "term1": "laptop",
+    "term2": "notebook",
+    "value": 4
+  },
+  {
+    "term1": "Harry Potter",
+    "term2": "wizard",
+    "value": 3
+  },
+  {
+    "term1": "snowboard",
+    "term2": "skiing",
+    "value": 3.17
+  },
+  {
+    "term1": "pointer",
+    "term2": "slide",
+    "value": 1.33
+  },
+  {
+    "term1": "sensor",
+    "term2": "radiator",
+    "value": 1.25
+  },
+  {
+    "term1": "hit",
+    "term2": "frame",
+    "value": 0.42
+  },
+  {
+    "term1": "theory",
+    "term2": "hypothesis",
+    "value": 3.83
+  },
+  {
+    "term1": "Wall Street",
+    "term2": "financial market",
+    "value": 2.92
+  },
+  {
+    "term1": "Darwin",
+    "term2": "evolution",
+    "value": 2.58
+  },
+  {
+    "term1": "actor",
+    "term2": "actress",
+    "value": 3.42
+  },
+  {
+    "term1": "film",
+    "term2": "theatre",
+    "value": 2.25
+  },
+  {
+    "term1": "national anthem",
+    "term2": "patriotism",
+    "value": 2.42
+  },
+  {
+    "term1": "screen",
+    "term2": "monitor",
+    "value": 3.92
+  },
+  {
+    "term1": "dairy",
+    "term2": "honey",
+    "value": 0.83
+  },
+  {
+    "term1": "Mount Everest",
+    "term2": "Chomolungma",
+    "value": 3.92
+  },
+  {
+    "term1": "tug of war",
+    "term2": "Snakes and Ladders",
+    "value": 2.33
+  },
+  {
+    "term1": "pesticide",
+    "term2": "pest",
+    "value": 1.83
+  },
+  {
+    "term1": "policeman",
+    "term2": "politician",
+    "value": 2.17
+  },
+  {
+    "term1": "neuropsychology",
+    "term2": "parapsychology",
+    "value": 3.17
+  },
+  {
+    "term1": "battery",
+    "term2": "energy",
+    "value": 2.83
+  },
+  {
+    "term1": "Legion of Honour",
+    "term2": "stationery",
+    "value": 0
+  },
+  {
+    "term1": "Spider-Man",
+    "term2": "street",
+    "value": 0.5
+  },
+  {
+    "term1": "peninsula",
+    "term2": "island",
+    "value": 3
+  },
+  {
+    "term1": "equator",
+    "term2": "Ecuador",
+    "value": 1.17
+  },
+  {
+    "term1": "chart",
+    "term2": "graph",
+    "value": 3.83
+  },
+  {
+    "term1": "simulation",
+    "term2": "robotics",
+    "value": 1.42
+  },
+  {
+    "term1": "Nike",
+    "term2": "Adidas",
+    "value": 3.17
+  },
+  {
+    "term1": "society",
+    "term2": "culture",
+    "value": 2.67
+  },
+  {
+    "term1": "strategy game",
+    "term2": "strategy",
+    "value": 2
+  },
+  {
+    "term1": "church",
+    "term2": "cathedral",
+    "value": 3.58
+  },
+  {
+    "term1": "translator",
+    "term2": "foreigner",
+    "value": 1.42
+  },
+  {
+    "term1": "biotope",
+    "term2": "biology",
+    "value": 1.92
+  },
+  {
+    "term1": "magma",
+    "term2": "volcano",
+    "value": 2.25
+  },
+  {
+    "term1": "brainstorming",
+    "term2": "telescope",
+    "value": 0
+  },
+  {
+    "term1": "level",
+    "term2": "score",
+    "value": 2.67
+  },
+  {
+    "term1": "penny",
+    "term2": "bargain",
+    "value": 1.42
+  },
+  {
+    "term1": "political party",
+    "term2": "association",
+    "value": 2.08
+  },
+  {
+    "term1": "tsunami",
+    "term2": "sea",
+    "value": 2
+  },
+  {
+    "term1": "ostrich",
+    "term2": "orchard",
+    "value": 0.42
+  },
+  {
+    "term1": "cinnamon",
+    "term2": "candy",
+    "value": 1.75
+  },
+  {
+    "term1": "broom",
+    "term2": "dust",
+    "value": 1.83
+  },
+  {
+    "term1": "galaxy",
+    "term2": "astronomer",
+    "value": 1.42
+  },
+  {
+    "term1": "juice",
+    "term2": "milkshake",
+    "value": 3.17
+  },
+  {
+    "term1": "window blind",
+    "term2": "curtain",
+    "value": 3.25
+  },
+  {
+    "term1": "criminal",
+    "term2": "offender",
+    "value": 3.5
+  },
+  {
+    "term1": "pancreatic cancer",
+    "term2": "chemotherapy",
+    "value": 1.83
+  },
+  {
+    "term1": "past",
+    "term2": "antecedent",
+    "value": 2.75
+  },
+  {
+    "term1": "United Nations",
+    "term2": "European Parliament",
+    "value": 2.75
+  },
+  {
+    "term1": "song",
+    "term2": "performer",
+    "value": 1.83
+  },
+  {
+    "term1": "gun",
+    "term2": "notebook",
+    "value": 0
+  },
+  {
+    "term1": "acetylcholine",
+    "term2": "iris",
+    "value": 0.58
+  },
+  {
+    "term1": "alphabet",
+    "term2": "pen",
+    "value": 0.58
+  },
+  {
+    "term1": "chorus",
+    "term2": "singer",
+    "value": 2.67
+  },
+  {
+    "term1": "wood",
+    "term2": "blanket",
+    "value": 0.5
+  },
+  {
+    "term1": "soldier",
+    "term2": "peace",
+    "value": 1.25
+  },
+  {
+    "term1": "English",
+    "term2": "American",
+    "value": 3.33
+  },
+  {
+    "term1": "lizard",
+    "term2": "crocodile",
+    "value": 3.25
+  },
+  {
+    "term1": "money",
+    "term2": "cash",
+    "value": 3.42
+  },
+  {
+    "term1": "Paul the Octopus",
+    "term2": "octopus",
+    "value": 3.5
+  },
+  {
+    "term1": "calendar",
+    "term2": "holiday",
+    "value": 2.08
+  },
+  {
+    "term1": "base",
+    "term2": "chemical substance",
+    "value": 3
+  },
+  {
+    "term1": "government",
+    "term2": "lizard",
+    "value": 0
+  },
+  {
+    "term1": "JPY",
+    "term2": "money laundering",
+    "value": 1.58
+  },
+  {
+    "term1": "DeepMind",
+    "term2": "Google DeepMind",
+    "value": 3.92
+  },
+  {
+    "term1": "chess",
+    "term2": "check",
+    "value": 1.67
+  },
+  {
+    "term1": "sonnet",
+    "term2": "beauty",
+    "value": 1.33
+  },
+  {
+    "term1": "worker",
+    "term2": "office",
+    "value": 1.75
+  },
+  {
+    "term1": "currency",
+    "term2": "exchange",
+    "value": 1.67
+  },
+  {
+    "term1": "polyester",
+    "term2": "cotton",
+    "value": 3.08
+  },
+  {
+    "term1": "tribunal",
+    "term2": "justice",
+    "value": 2.5
+  },
+  {
+    "term1": "tail",
+    "term2": "rear",
+    "value": 3.25
+  },
+  {
+    "term1": "accident",
+    "term2": "book",
+    "value": 0
+  },
+  {
+    "term1": "squall",
+    "term2": "wind",
+    "value": 2.75
+  },
+  {
+    "term1": "piano",
+    "term2": "harmony",
+    "value": 1.58
+  },
+  {
+    "term1": "sultan",
+    "term2": "ministry",
+    "value": 1.5
+  },
+  {
+    "term1": "desert",
+    "term2": "dune",
+    "value": 2.42
+  },
+  {
+    "term1": "multiplication",
+    "term2": "division",
+    "value": 2.67
+  },
+  {
+    "term1": "virus",
+    "term2": "blood",
+    "value": 1.58
+  },
+  {
+    "term1": "ice age",
+    "term2": "statute",
+    "value": 0
+  },
+  {
+    "term1": "sword",
+    "term2": "environment",
+    "value": 0
+  },
+  {
+    "term1": "elementary school",
+    "term2": "pen",
+    "value": 1.5
+  },
+  {
+    "term1": "cricket",
+    "term2": "supporter",
+    "value": 1.67
+  },
+  {
+    "term1": "sculpture",
+    "term2": "statue",
+    "value": 3.83
+  },
+  {
+    "term1": "web browser",
+    "term2": "Mozilla Firefox",
+    "value": 3.58
+  },
+  {
+    "term1": "Fox Terrier",
+    "term2": "Canon",
+    "value": 0
+  },
+  {
+    "term1": "HSBC",
+    "term2": "Britain",
+    "value": 1.67
+  },
+  {
+    "term1": "Bible",
+    "term2": "Gospel",
+    "value": 3.08
+  },
+  {
+    "term1": "dress",
+    "term2": "dance",
+    "value": 1
+  },
+  {
+    "term1": "array",
+    "term2": "list",
+    "value": 3.92
+  },
+  {
+    "term1": "cell",
+    "term2": "lock-up",
+    "value": 3.5
+  },
+  {
+    "term1": "essay",
+    "term2": "homework",
+    "value": 2.5
+  },
+  {
+    "term1": "computer",
+    "term2": "machine",
+    "value": 3.33
+  },
+  {
+    "term1": "panda",
+    "term2": "polar bear",
+    "value": 3.25
+  },
+  {
+    "term1": "neurosis",
+    "term2": "mind",
+    "value": 1.75
+  },
+  {
+    "term1": "campaign",
+    "term2": "monkey",
+    "value": 0
+  },
+  {
+    "term1": "Faraday constant",
+    "term2": "rucksack",
+    "value": 0
+  },
+  {
+    "term1": "palace",
+    "term2": "skyscraper",
+    "value": 2.33
+  },
+  {
+    "term1": "helicopter",
+    "term2": "plane",
+    "value": 3
+  },
+  {
+    "term1": "University of Cambridge",
+    "term2": "Oxford University",
+    "value": 3.25
+  },
+  {
+    "term1": "flag",
+    "term2": "pole",
+    "value": 1.42
+  },
+  {
+    "term1": "window",
+    "term2": "roof",
+    "value": 2.33
+  },
+  {
+    "term1": "card game",
+    "term2": "frisbee",
+    "value": 2.5
+  },
+  {
+    "term1": "malware",
+    "term2": "worm",
+    "value": 3.42
+  },
+  {
+    "term1": "planet",
+    "term2": "star",
+    "value": 2.58
+  },
+  {
+    "term1": "runner",
+    "term2": "athlete",
+    "value": 3.42
+  },
+  {
+    "term1": "caliber",
+    "term2": "umbrella",
+    "value": 0
+  },
+  {
+    "term1": "WiFi",
+    "term2": "WikiLeaks",
+    "value": 0.5
+  },
+  {
+    "term1": "drought",
+    "term2": "water",
+    "value": 2
+  },
+  {
+    "term1": "airport",
+    "term2": "piece",
+    "value": 0.08
+  },
+  {
+    "term1": "orchestra",
+    "term2": "band",
+    "value": 3.42
+  },
+  {
+    "term1": "mojito",
+    "term2": "mohito",
+    "value": 4
+  },
+  {
+    "term1": "syllabus",
+    "term2": "exam",
+    "value": 2.42
+  },
+  {
+    "term1": "theorem",
+    "term2": "theory",
+    "value": 2.42
+  },
+  {
+    "term1": "yo-yo",
+    "term2": "toy",
+    "value": 3
+  },
+  {
+    "term1": "blizzard",
+    "term2": "rain",
+    "value": 2.58
+  },
+  {
+    "term1": "historian",
+    "term2": "historiographer",
+    "value": 3.58
+  },
+  {
+    "term1": "Siemens",
+    "term2": "electric train",
+    "value": 1.75
+  },
+  {
+    "term1": "century",
+    "term2": "year",
+    "value": 2.83
+  },
+  {
+    "term1": "alloy",
+    "term2": "steel",
+    "value": 3.5
+  },
+  {
+    "term1": "magistrate",
+    "term2": "judge",
+    "value": 3.58
+  },
+  {
+    "term1": "chaos",
+    "term2": "class",
+    "value": 0.17
+  },
+  {
+    "term1": "distance education",
+    "term2": "internet",
+    "value": 1.75
+  },
+  {
+    "term1": "sand",
+    "term2": "foot",
+    "value": 0.42
+  },
+  {
+    "term1": "IMF",
+    "term2": "Deutsche Bank",
+    "value": 2.83
+  },
+  {
+    "term1": "Guardian",
+    "term2": "Times",
+    "value": 3.17
+  },
+  {
+    "term1": "silkworm",
+    "term2": "Silk Road",
+    "value": 0.58
+  },
+  {
+    "term1": "freedom",
+    "term2": "oasis",
+    "value": 0.58
+  },
+  {
+    "term1": "cytoplasm",
+    "term2": "digit",
+    "value": 0.67
+  },
+  {
+    "term1": "protestant",
+    "term2": "christian",
+    "value": 3.5
+  },
+  {
+    "term1": "Leonardo da Vinci",
+    "term2": "The Last Supper",
+    "value": 2.33
+  },
+  {
+    "term1": "map",
+    "term2": "square",
+    "value": 1
+  },
+  {
+    "term1": "parliament",
+    "term2": "congress",
+    "value": 3.5
+  },
+  {
+    "term1": "fundraising",
+    "term2": "development",
+    "value": 1.17
+  },
+  {
+    "term1": "pathology",
+    "term2": "hematology",
+    "value": 3.08
+  },
+  {
+    "term1": "valley",
+    "term2": "depression",
+    "value": 2
+  },
+  {
+    "term1": "telescope",
+    "term2": "chair",
+    "value": 0.25
+  },
+  {
+    "term1": "heavy metal",
+    "term2": "stage",
+    "value": 1.42
+  },
+  {
+    "term1": "globalism",
+    "term2": "visa",
+    "value": 1.5
+  },
+  {
+    "term1": "bat",
+    "term2": "vampire",
+    "value": 2.33
+  },
+  {
+    "term1": "deputy",
+    "term2": "officer",
+    "value": 2.83
+  },
+  {
+    "term1": "electricity",
+    "term2": "case",
+    "value": 0.42
+  },
+  {
+    "term1": "alien",
+    "term2": "outlander",
+    "value": 3.67
+  },
+  {
+    "term1": "button",
+    "term2": "sewing machine",
+    "value": 1.42
+  },
+  {
+    "term1": "wizard",
+    "term2": "cable",
+    "value": 0
+  },
+  {
+    "term1": "philosopher",
+    "term2": "racing",
+    "value": 0
+  },
+  {
+    "term1": "popcorn",
+    "term2": "cinema",
+    "value": 1.5
+  },
+  {
+    "term1": "agriculture",
+    "term2": "plant",
+    "value": 2.25
+  },
+  {
+    "term1": "poet",
+    "term2": "journalist",
+    "value": 2.33
+  },
+  {
+    "term1": "weather",
+    "term2": "wave",
+    "value": 0.83
+  },
+  {
+    "term1": "civilization",
+    "term2": "lifestyle",
+    "value": 1.5
+  },
+  {
+    "term1": "snow",
+    "term2": "ice",
+    "value": 2.75
+  },
+  {
+    "term1": "World War II",
+    "term2": "Beethoven",
+    "value": 0.08
+  },
+  {
+    "term1": "motherboard",
+    "term2": "mainboard",
+    "value": 4
+  },
+  {
+    "term1": "club",
+    "term2": "mark",
+    "value": 0.33
+  },
+  {
+    "term1": "Alexander the Great",
+    "term2": "conqueror",
+    "value": 2.92
+  },
+  {
+    "term1": "app",
+    "term2": "galaxy",
+    "value": 0.42
+  },
+  {
+    "term1": "cloud computing",
+    "term2": "rain",
+    "value": 0
+  },
+  {
+    "term1": "television",
+    "term2": "actor",
+    "value": 1.58
+  },
+  {
+    "term1": "delta",
+    "term2": "sea",
+    "value": 2.42
+  },
+  {
+    "term1": "yarn",
+    "term2": "thread",
+    "value": 3.92
+  },
+  {
+    "term1": "pedestrian crossing",
+    "term2": "person",
+    "value": 1.42
+  },
+  {
+    "term1": "protein",
+    "term2": "handle",
+    "value": 0
+  },
+  {
+    "term1": "U2",
+    "term2": "Ronaldo",
+    "value": 0.42
+  },
+  {
+    "term1": "Apple",
+    "term2": "iPhone",
+    "value": 2.58
+  },
+  {
+    "term1": "peppermint",
+    "term2": "gum",
+    "value": 1.83
+  },
+  {
+    "term1": "poster",
+    "term2": "paper",
+    "value": 2.83
+  },
+  {
+    "term1": "UNICEF",
+    "term2": "root",
+    "value": 0
+  },
+  {
+    "term1": "xenophobia",
+    "term2": "racism",
+    "value": 3.42
+  },
+  {
+    "term1": "Woody Allen",
+    "term2": "lens",
+    "value": 0.33
+  },
+  {
+    "term1": "lamp",
+    "term2": "genie",
+    "value": 2.08
+  },
+  {
+    "term1": "navy",
+    "term2": "island",
+    "value": 0.92
+  },
+  {
+    "term1": "wall",
+    "term2": "castle",
+    "value": 2
+  },
+  {
+    "term1": "dinosaur",
+    "term2": "elephant",
+    "value": 2.33
+  },
+  {
+    "term1": "clock tower",
+    "term2": "stone",
+    "value": 0.67
+  },
+  {
+    "term1": "Middle East",
+    "term2": "Euphrates",
+    "value": 1.5
+  },
+  {
+    "term1": "meadow",
+    "term2": "grassland",
+    "value": 3.58
+  },
+  {
+    "term1": "guitar",
+    "term2": "violin",
+    "value": 3.17
+  },
+  {
+    "term1": "diplomacy",
+    "term2": "negotiation",
+    "value": 2.67
+  },
+  {
+    "term1": "gravity",
+    "term2": "meteor",
+    "value": 0.75
+  },
+  {
+    "term1": "IQ",
+    "term2": "Mensa",
+    "value": 1.83
+  },
+  {
+    "term1": "Union Jack",
+    "term2": "flag",
+    "value": 3.17
+  },
+  {
+    "term1": "earthquake",
+    "term2": "tremor",
+    "value": 3.92
+  },
+  {
+    "term1": "asset",
+    "term2": "stock",
+    "value": 2.75
+  },
+  {
+    "term1": "Hebrew",
+    "term2": "Jerusalem",
+    "value": 1.75
+  },
+  {
+    "term1": "overcast",
+    "term2": "forecast",
+    "value": 1.92
+  },
+  {
+    "term1": "dictionary",
+    "term2": "encyclopedia",
+    "value": 2.83
+  },
+  {
+    "term1": "mint",
+    "term2": "museum",
+    "value": 1
+  },
+  {
+    "term1": "chair",
+    "term2": "stool",
+    "value": 3.08
+  },
+  {
+    "term1": "Spanish",
+    "term2": "moisture",
+    "value": 0
+  },
+  {
+    "term1": "can",
+    "term2": "bottle",
+    "value": 3.5
+  },
+  {
+    "term1": "fly",
+    "term2": "ant",
+    "value": 2.92
+  },
+  {
+    "term1": "myth",
+    "term2": "satire",
+    "value": 1.92
+  },
+  {
+    "term1": "city center",
+    "term2": "bus",
+    "value": 0.75
+  },
+  {
+    "term1": "tail",
+    "term2": "Boeing 747-200",
+    "value": 1.92
+  },
+  {
+    "term1": "artwork",
+    "term2": "artist",
+    "value": 2.33
+  },
+  {
+    "term1": "NATO",
+    "term2": "alliance",
+    "value": 3
+  },
+  {
+    "term1": "king",
+    "term2": "ruler",
+    "value": 3.67
+  },
+  {
+    "term1": "rhythm",
+    "term2": "cadence",
+    "value": 3.58
+  },
+  {
+    "term1": "Alexander Fleming",
+    "term2": "Penicillin",
+    "value": 2.5
+  },
+  {
+    "term1": "flute",
+    "term2": "music",
+    "value": 2.08
+  },
+  {
+    "term1": "gray heron",
+    "term2": "lake",
+    "value": 1.33
+  },
+  {
+    "term1": "viscosity",
+    "term2": "splash",
+    "value": 1.92
+  },
+  {
+    "term1": "hardware",
+    "term2": "case",
+    "value": 1.67
+  },
+  {
+    "term1": "ring",
+    "term2": "engagement",
+    "value": 1.25
+  },
+  {
+    "term1": "Latin",
+    "term2": "German",
+    "value": 2.92
+  },
+  {
+    "term1": "working class",
+    "term2": "plant",
+    "value": 1.75
+  },
+  {
+    "term1": "Shakespeare",
+    "term2": "Dickens",
+    "value": 3
+  },
+  {
+    "term1": "paper money",
+    "term2": "priest",
+    "value": 0
+  },
+  {
+    "term1": "tool",
+    "term2": "job",
+    "value": 1.08
+  },
+  {
+    "term1": "pygmy hog",
+    "term2": "suidae",
+    "value": 3.42
+  },
+  {
+    "term1": "suffrage",
+    "term2": "exit",
+    "value": 0.08
+  },
+  {
+    "term1": "star",
+    "term2": "brightness",
+    "value": 1.58
+  },
+  {
+    "term1": "trout",
+    "term2": "guitar",
+    "value": 0
+  },
+  {
+    "term1": "dollar",
+    "term2": "millionaire",
+    "value": 1.75
+  },
+  {
+    "term1": "digit",
+    "term2": "number",
+    "value": 3.92
+  },
+  {
+    "term1": "gale",
+    "term2": "blanket",
+    "value": 0.42
+  },
+  {
+    "term1": "Obama",
+    "term2": "Clinton",
+    "value": 3.08
+  },
+  {
+    "term1": "supporting character",
+    "term2": "movie",
+    "value": 1.67
+  },
+  {
+    "term1": "Juventus",
+    "term2": "Bayern Munich",
+    "value": 3
+  },
+  {
+    "term1": "climate change",
+    "term2": "precipitation",
+    "value": 1.58
+  },
+  {
+    "term1": "AI",
+    "term2": "battery",
+    "value": 0.42
+  },
+  {
+    "term1": "masterpiece",
+    "term2": "Mona Lisa",
+    "value": 2.67
+  },
+  {
+    "term1": "crime",
+    "term2": "attack",
+    "value": 2.75
+  },
+  {
+    "term1": "coronation",
+    "term2": "water",
+    "value": 0
+  },
+  {
+    "term1": "vocalist",
+    "term2": "staff",
+    "value": 1.75
+  },
+  {
+    "term1": "playoff",
+    "term2": "basketball",
+    "value": 1.67
+  },
+  {
+    "term1": "armed forces",
+    "term2": "defence",
+    "value": 2.33
+  },
+  {
+    "term1": "lake",
+    "term2": "cloud",
+    "value": 0.83
+  },
+  {
+    "term1": "monastery",
+    "term2": "shower",
+    "value": 0.08
+  },
+  {
+    "term1": "mother tongue",
+    "term2": "language",
+    "value": 3.17
+  },
+  {
+    "term1": "harbor",
+    "term2": "wrapper",
+    "value": 0.08
+  },
+  {
+    "term1": "demon",
+    "term2": "angel",
+    "value": 2.67
+  },
+  {
+    "term1": "cryptogram",
+    "term2": "symbol",
+    "value": 2.33
+  },
+  {
+    "term1": "campus",
+    "term2": "university",
+    "value": 2.92
+  },
+  {
+    "term1": "freedom",
+    "term2": "liberty",
+    "value": 4
+  },
+  {
+    "term1": "typhoon",
+    "term2": "cyclone",
+    "value": 3.83
+  },
+  {
+    "term1": "handbook",
+    "term2": "guidebook",
+    "value": 3.92
+  },
+  {
+    "term1": "Ebola",
+    "term2": "Ebola virus",
+    "value": 4
+  },
+  {
+    "term1": "princess",
+    "term2": "biscuit",
+    "value": 0.08
+  },
+  {
+    "term1": "train",
+    "term2": "tram",
+    "value": 3.5
+  },
+  {
+    "term1": "ecosystem",
+    "term2": "economy",
+    "value": 0.92
+  },
+  {
+    "term1": "queen regnant",
+    "term2": "chess queen",
+    "value": 0.92
+  },
+  {
+    "term1": "gold",
+    "term2": "zinc",
+    "value": 3
+  },
+  {
+    "term1": "cursor",
+    "term2": "chips",
+    "value": 0.25
+  },
+  {
+    "term1": "Amazon",
+    "term2": "forest",
+    "value": 3.08
+  },
+  {
+    "term1": "tennis",
+    "term2": "statistics",
+    "value": 0.58
+  },
+  {
+    "term1": "Bolzano",
+    "term2": "theorem",
+    "value": 2.25
+  },
+  {
+    "term1": "altitude",
+    "term2": "conversion",
+    "value": 0.08
+  },
+  {
+    "term1": "boat",
+    "term2": "tree",
+    "value": 0.25
+  },
+  {
+    "term1": "throne",
+    "term2": "sword",
+    "value": 1
+  },
+  {
+    "term1": "cotton",
+    "term2": "sweater",
+    "value": 1.83
+  },
+  {
+    "term1": "cherry",
+    "term2": "strawberry",
+    "value": 3
+  },
+  {
+    "term1": "Islam",
+    "term2": "Quran",
+    "value": 2.5
+  },
+  {
+    "term1": "Neanderthal",
+    "term2": "sport",
+    "value": 0
+  },
+  {
+    "term1": "nepotism",
+    "term2": "king",
+    "value": 1.42
+  },
+  {
+    "term1": "character",
+    "term2": "person",
+    "value": 2.67
+  },
+  {
+    "term1": "tank",
+    "term2": "car",
+    "value": 2.33
+  },
+  {
+    "term1": "Mercury",
+    "term2": "Jupiter",
+    "value": 3.17
+  },
+  {
+    "term1": "bronchitis",
+    "term2": "acetaminophen",
+    "value": 1.67
+  },
+  {
+    "term1": "blood",
+    "term2": "body",
+    "value": 2
+  },
+  {
+    "term1": "islamophobia",
+    "term2": "ISIS",
+    "value": 1.92
+  },
+  {
+    "term1": "crochet",
+    "term2": "uniform",
+    "value": 1.17
+  },
+  {
+    "term1": "Hadoop",
+    "term2": "touchscreen",
+    "value": 0.67
+  },
+  {
+    "term1": "fossil fuel",
+    "term2": "fossil",
+    "value": 2.08
+  },
+  {
+    "term1": "mutant",
+    "term2": "sociobiology",
+    "value": 0.75
+  },
+  {
+    "term1": "sister",
+    "term2": "brother",
+    "value": 2.67
+  },
+  {
+    "term1": "pencil",
+    "term2": "story",
+    "value": 1.08
+  },
+  {
+    "term1": "eczema",
+    "term2": "dermatitis",
+    "value": 4
+  },
+  {
+    "term1": "emperor",
+    "term2": "governor",
+    "value": 3.67
+  },
+  {
+    "term1": "crown",
+    "term2": "key",
+    "value": 0.25
+  },
+  {
+    "term1": "algebra",
+    "term2": "operation",
+    "value": 1.67
+  },
+  {
+    "term1": "piston",
+    "term2": "engine",
+    "value": 2.33
+  },
+  {
+    "term1": "scholarship",
+    "term2": "tuition",
+    "value": 2.42
+  },
+  {
+    "term1": "book",
+    "term2": "manuscript",
+    "value": 3.17
+  },
+  {
+    "term1": "lantana",
+    "term2": "snapdragon",
+    "value": 3
+  },
+  {
+    "term1": "black hole",
+    "term2": "vacuum",
+    "value": 2.33
+  },
+  {
+    "term1": "Persian Empire",
+    "term2": "Cyrus",
+    "value": 1.83
+  },
+  {
+    "term1": "editorial",
+    "term2": "news",
+    "value": 2.42
+  },
+  {
+    "term1": "decoration",
+    "term2": "envelope",
+    "value": 0.08
+  },
+  {
+    "term1": "whale shark",
+    "term2": "lobster",
+    "value": 2.25
+  },
+  {
+    "term1": "corn",
+    "term2": "maize",
+    "value": 4
+  },
+  {
+    "term1": "bipolar disorder",
+    "term2": "problem",
+    "value": 2.25
+  },
+  {
+    "term1": "acid",
+    "term2": "base",
+    "value": 2.67
+  },
+  {
+    "term1": "absolute zero",
+    "term2": "vapor",
+    "value": 1.42
+  },
+  {
+    "term1": "Green Revolution",
+    "term2": "paint",
+    "value": 0
+  },
+  {
+    "term1": "operating system",
+    "term2": "deep learning",
+    "value": 1.5
+  },
+  {
+    "term1": "International Mathematical Olympiad",
+    "term2": "theory",
+    "value": 1
+  },
+  {
+    "term1": "El Niño",
+    "term2": "equator",
+    "value": 0.83
+  },
+  {
+    "term1": "badge",
+    "term2": "glass",
+    "value": 0
+  },
+  {
+    "term1": "mansion",
+    "term2": "sculptor",
+    "value": 1
+  },
+  {
+    "term1": "atmosphere",
+    "term2": "ozone",
+    "value": 2.58
+  },
+  {
+    "term1": "shield",
+    "term2": "buckler",
+    "value": 3.67
+  },
+  {
+    "term1": "coin",
+    "term2": "payment",
+    "value": 1.75
+  },
+  {
+    "term1": "oat",
+    "term2": "field",
+    "value": 1.17
+  },
+  {
+    "term1": "monk",
+    "term2": "cross",
+    "value": 0.33
+  },
+  {
+    "term1": "gunboat",
+    "term2": "coast",
+    "value": 1.42
+  },
+  {
+    "term1": "rock",
+    "term2": "mine",
+    "value": 1.75
+  },
+  {
+    "term1": "legend",
+    "term2": "moral",
+    "value": 1
+  },
+  {
+    "term1": "champion",
+    "term2": "winner",
+    "value": 3.75
+  },
+  {
+    "term1": "dice",
+    "term2": "cube",
+    "value": 3
+  },
+  {
+    "term1": "topology",
+    "term2": "structure",
+    "value": 1.83
+  },
+  {
+    "term1": "chapel",
+    "term2": "cable",
+    "value": 0.25
+  },
+  {
+    "term1": "cash flow",
+    "term2": "river",
+    "value": 0
+  },
+  {
+    "term1": "serial killer",
+    "term2": "murderer",
+    "value": 3.5
+  },
+  {
+    "term1": "matrix",
+    "term2": "molecule",
+    "value": 0
+  },
+  {
+    "term1": "fashion",
+    "term2": "style",
+    "value": 3.17
+  },
+  {
+    "term1": "vexillology",
+    "term2": "flag",
+    "value": 2.33
+  },
+  {
+    "term1": "Maastricht Treaty",
+    "term2": "Europe",
+    "value": 2.17
+  },
+  {
+    "term1": "geyser",
+    "term2": "spring",
+    "value": 3.25
+  },
+  {
+    "term1": "sucrose",
+    "term2": "carbohydrate",
+    "value": 3.58
+  },
+  {
+    "term1": "beach",
+    "term2": "coast",
+    "value": 3.83
+  },
+  {
+    "term1": "stock market",
+    "term2": "stock exchange",
+    "value": 3.25
+  },
+  {
+    "term1": "tradition",
+    "term2": "handicraft",
+    "value": 1.58
+  },
+  {
+    "term1": "novel",
+    "term2": "writer",
+    "value": 1.92
+  },
+  {
+    "term1": "sandwich",
+    "term2": "Subway",
+    "value": 1.75
+  },
+  {
+    "term1": "acoustics",
+    "term2": "sound",
+    "value": 2.67
+  },
+  {
+    "term1": "fencing",
+    "term2": "gymnastics",
+    "value": 2.33
+  },
+  {
+    "term1": "writer",
+    "term2": "gift",
+    "value": 0
+  },
+  {
+    "term1": "woodland",
+    "term2": "Tiger Woods",
+    "value": 0.08
+  },
+  {
+    "term1": "cloud",
+    "term2": "window",
+    "value": 0.67
+  },
+  {
+    "term1": "JPEG",
+    "term2": "PDF",
+    "value": 3.08
+  },
+  {
+    "term1": "director",
+    "term2": "boss",
+    "value": 3.33
+  },
+  {
+    "term1": "tax",
+    "term2": "Brexit",
+    "value": 1.17
+  },
+  {
+    "term1": "pollination",
+    "term2": "stamen",
+    "value": 2.42
+  },
+  {
+    "term1": "videogame",
+    "term2": "pc game",
+    "value": 3.33
+  },
+  {
+    "term1": "treatment",
+    "term2": "surgical operation",
+    "value": 2.33
+  },
+  {
+    "term1": "paddy",
+    "term2": "potato",
+    "value": 2.67
+  },
+  {
+    "term1": "note-taking",
+    "term2": "assignment",
+    "value": 1.83
+  },
+  {
+    "term1": "fox",
+    "term2": "blood cell",
+    "value": 0.33
+  },
+  {
+    "term1": "sodium chloride",
+    "term2": "salt",
+    "value": 3.92
+  },
+  {
+    "term1": "income",
+    "term2": "quality of life",
+    "value": 2.17
+  },
+  {
+    "term1": "will",
+    "term2": "intention",
+    "value": 3.5
+  },
+  {
+    "term1": "compass",
+    "term2": "elephant",
+    "value": 0.17
+  },
+  {
+    "term1": "sequel",
+    "term2": "camera",
+    "value": 1
+  },
+  {
+    "term1": "movie",
+    "term2": "film",
+    "value": 3.92
+  },
+  {
+    "term1": "sergeant",
+    "term2": "gun",
+    "value": 1.75
+  },
+  {
+    "term1": "mill",
+    "term2": "seed",
+    "value": 0.75
+  },
+  {
+    "term1": "ice cream",
+    "term2": "breakfast",
+    "value": 1.17
+  },
+  {
+    "term1": "key",
+    "term2": "lock",
+    "value": 2.33
+  },
+  {
+    "term1": "cellphone",
+    "term2": "telephone",
+    "value": 3.92
+  },
+  {
+    "term1": "kindergarten",
+    "term2": "preschool",
+    "value": 3.75
+  },
+  {
+    "term1": "Western world",
+    "term2": "Western Union",
+    "value": 0.42
+  },
+  {
+    "term1": "seedling",
+    "term2": "leaf",
+    "value": 2.25
+  },
+  {
+    "term1": "rain",
+    "term2": "hail",
+    "value": 3.08
+  },
+  {
+    "term1": "happiness",
+    "term2": "sadness",
+    "value": 2.33
+  },
+  {
+    "term1": "silkworm",
+    "term2": "caterpillar",
+    "value": 3.33
+  },
+  {
+    "term1": "surfing",
+    "term2": "water sport",
+    "value": 3
+  },
+  {
+    "term1": "car",
+    "term2": "truck",
+    "value": 3.17
+  },
+  {
+    "term1": "food",
+    "term2": "program",
+    "value": 0.25
+  },
+  {
+    "term1": "graphic novel",
+    "term2": "comic book",
+    "value": 3.42
+  },
+  {
+    "term1": "snake",
+    "term2": "lizard",
+    "value": 3.08
+  },
+  {
+    "term1": "pineapple",
+    "term2": "smartphone",
+    "value": 0
+  },
+  {
+    "term1": "wallpaper",
+    "term2": "background",
+    "value": 3.42
+  },
+  {
+    "term1": "Celsius",
+    "term2": "Microsoft",
+    "value": 0.08
+  },
+  {
+    "term1": "combine",
+    "term2": "sugarcane",
+    "value": 0.75
+  },
+  {
+    "term1": "jeans",
+    "term2": "woman",
+    "value": 0.75
+  },
+  {
+    "term1": "matrix",
+    "term2": "vector",
+    "value": 2.83
+  },
+  {
+    "term1": "carbon dioxide",
+    "term2": "CO2",
+    "value": 4
+  },
+  {
+    "term1": "coach",
+    "term2": "player",
+    "value": 2.5
+  },
+  {
+    "term1": "stone",
+    "term2": "wood",
+    "value": 2.33
+  },
+  {
+    "term1": "charger",
+    "term2": "disk",
+    "value": 1.08
+  },
+  {
+    "term1": "manuscript",
+    "term2": "article",
+    "value": 3.5
+  },
+  {
+    "term1": "Gmail",
+    "term2": "Yahoo",
+    "value": 2.42
+  },
+  {
+    "term1": "capacitor",
+    "term2": "diode",
+    "value": 3.17
+  },
+  {
+    "term1": "corruption",
+    "term2": "fraud",
+    "value": 3.17
+  },
+  {
+    "term1": "Coca-Cola",
+    "term2": "Coke",
+    "value": 3.92
+  },
+  {
+    "term1": "Plato",
+    "term2": "Aristotle",
+    "value": 3.17
+  },
+  {
+    "term1": "Cold War",
+    "term2": "Soviet Union",
+    "value": 2.58
+  },
+  {
+    "term1": "nozzle",
+    "term2": "fluid",
+    "value": 2
+  },
+  {
+    "term1": "phonology",
+    "term2": "screen",
+    "value": 0
+  },
+  {
+    "term1": "Zara",
+    "term2": "leggings",
+    "value": 1.67
+  },
+  {
+    "term1": "football",
+    "term2": "soccer",
+    "value": 4
+  },
+  {
+    "term1": "germ",
+    "term2": "pathogen",
+    "value": 3.92
+  },
+  {
+    "term1": "republic",
+    "term2": "duke",
+    "value": 1.17
+  },
+  {
+    "term1": "ball",
+    "term2": "sphere",
+    "value": 3
+  },
+  {
+    "term1": "Mozart",
+    "term2": "Star Wars",
+    "value": 0
+  },
+  {
+    "term1": "mask",
+    "term2": "party",
+    "value": 1.33
+  },
+  {
+    "term1": "Grand Theft Auto",
+    "term2": "GTA",
+    "value": 4
+  },
+  {
+    "term1": "highway",
+    "term2": "road",
+    "value": 3.42
+  },
+  {
+    "term1": "chain reaction",
+    "term2": "thermodynamics",
+    "value": 2
+  },
+  {
+    "term1": "illustration",
+    "term2": "blister",
+    "value": 0
+  },
+  {
+    "term1": "anthropology",
+    "term2": "archaeology",
+    "value": 2.92
+  },
+  {
+    "term1": "Dell",
+    "term2": "Dingle",
+    "value": 0
+  },
+  {
+    "term1": "juice",
+    "term2": "spoon",
+    "value": 0.25
+  },
+  {
+    "term1": "Pfizer",
+    "term2": "drug",
+    "value": 2.5
+  },
+  {
+    "term1": "truck",
+    "term2": "parcel",
+    "value": 0.67
+  },
+  {
+    "term1": "receptor",
+    "term2": "protein molecule",
+    "value": 2.75
+  },
+  {
+    "term1": "Google Drive",
+    "term2": "driver",
+    "value": 0
+  },
+  {
+    "term1": "billionaire",
+    "term2": "homeless",
+    "value": 1.67
+  },
+  {
+    "term1": "episode",
+    "term2": "chapter",
+    "value": 2.83
+  },
+  {
+    "term1": "infinity",
+    "term2": "zero",
+    "value": 2.33
+  },
+  {
+    "term1": "servant",
+    "term2": "slave",
+    "value": 3.42
+  },
+  {
+    "term1": "suffix",
+    "term2": "affix",
+    "value": 3.33
+  },
+  {
+    "term1": "global warming",
+    "term2": "heat",
+    "value": 2.42
+  },
+  {
+    "term1": "growth hormone",
+    "term2": "somatotropin",
+    "value": 3.92
+  },
+  {
+    "term1": "sky",
+    "term2": "dream",
+    "value": 0.83
+  },
+  {
+    "term1": "bid price",
+    "term2": "London",
+    "value": 0.42
+  },
+  {
+    "term1": "fertilizer",
+    "term2": "growth",
+    "value": 1.67
+  },
+  {
+    "term1": "hashtag",
+    "term2": "topic",
+    "value": 2.5
+  },
+  {
+    "term1": "Orion",
+    "term2": "constellation",
+    "value": 3.17
+  },
+  {
+    "term1": "Nietzsche",
+    "term2": "Chelsea",
+    "value": 0.17
+  },
+  {
+    "term1": "mutual respect",
+    "term2": "competition",
+    "value": 1.5
+  },
+  {
+    "term1": "branch",
+    "term2": "arm",
+    "value": 3
+  },
+  {
+    "term1": "victim",
+    "term2": "phone",
+    "value": 0.08
+  },
+  {
+    "term1": "standard deviation",
+    "term2": "accumulation",
+    "value": 0.5
+  },
+  {
+    "term1": "avalanche",
+    "term2": "snow",
+    "value": 2.08
+  },
+  {
+    "term1": "teacher",
+    "term2": "student",
+    "value": 2
+  },
+  {
+    "term1": "cattle",
+    "term2": "yogurt",
+    "value": 1.5
+  },
+  {
+    "term1": "sexism",
+    "term2": "gender discrimination",
+    "value": 3.92
+  },
+  {
+    "term1": "South Pole",
+    "term2": "dance",
+    "value": 0
+  },
+  {
+    "term1": "prosecutor",
+    "term2": "lawyer",
+    "value": 3.33
+  },
+  {
+    "term1": "racket",
+    "term2": "ball",
+    "value": 2.5
+  },
+  {
+    "term1": "bank loan",
+    "term2": "debt",
+    "value": 3.25
+  },
+  {
+    "term1": "perspective",
+    "term2": "distance",
+    "value": 1.58
+  },
+  {
+    "term1": "Federer",
+    "term2": "Dylan",
+    "value": 0.5
+  },
+  {
+    "term1": "lawyer",
+    "term2": "gallery",
+    "value": 0.33
+  },
+  {
+    "term1": "life expectancy",
+    "term2": "statistical measure",
+    "value": 2.67
+  },
+  {
+    "term1": "cell membrane",
+    "term2": "provirus",
+    "value": 1.83
+  },
+  {
+    "term1": "European Union",
+    "term2": "Moscow",
+    "value": 2
+  },
+  {
+    "term1": "world",
+    "term2": "Asia",
+    "value": 2.17
+  },
+  {
+    "term1": "Paint",
+    "term2": "Photoshop",
+    "value": 3.17
+  },
+  {
+    "term1": "senate",
+    "term2": "constitution",
+    "value": 1.83
+  },
+  {
+    "term1": "parsley",
+    "term2": "muffin",
+    "value": 1
+  },
+  {
+    "term1": "mind",
+    "term2": "brain",
+    "value": 3.83
+  },
+  {
+    "term1": "Mercedes",
+    "term2": "Opel",
+    "value": 3.17
+  },
+  {
+    "term1": "hammer",
+    "term2": "teeth",
+    "value": 0
+  },
+  {
+    "term1": "Renaissance",
+    "term2": "Renascence",
+    "value": 4
+  },
+  {
+    "term1": "skirt",
+    "term2": "watch",
+    "value": 1
+  },
+  {
+    "term1": "opera",
+    "term2": "cinema",
+    "value": 2.75
+  },
+  {
+    "term1": "teacher",
+    "term2": "instructor",
+    "value": 3.83
+  },
+  {
+    "term1": "Sun",
+    "term2": "cable",
+    "value": 0.08
+  },
+  {
+    "term1": "recession",
+    "term2": "GDP",
+    "value": 2
+  },
+  {
+    "term1": "Caesar",
+    "term2": "Julius Caesar",
+    "value": 3.92
+  },
+  {
+    "term1": "patient",
+    "term2": "session",
+    "value": 0.67
+  },
+  {
+    "term1": "behaviourism",
+    "term2": "therapy",
+    "value": 2.17
+  },
+  {
+    "term1": "emperor",
+    "term2": "constitution",
+    "value": 1.25
+  },
+  {
+    "term1": "mathematician",
+    "term2": "show",
+    "value": 0.08
+  },
+  {
+    "term1": "entropy",
+    "term2": "information",
+    "value": 1.75
+  },
+  {
+    "term1": "rosewater",
+    "term2": "rose oil",
+    "value": 3.17
+  },
+  {
+    "term1": "citrus fruit",
+    "term2": "grapefruit",
+    "value": 3.5
+  },
+  {
+    "term1": "Queen Victoria",
+    "term2": "England",
+    "value": 1.75
+  },
+  {
+    "term1": "Olympic Games",
+    "term2": "spirit",
+    "value": 0.83
+  },
+  {
+    "term1": "bishop",
+    "term2": "muslim",
+    "value": 1.67
+  },
+  {
+    "term1": "man",
+    "term2": "suspect",
+    "value": 1
+  },
+  {
+    "term1": "meteorite",
+    "term2": "Earth",
+    "value": 1.83
+  },
+  {
+    "term1": "symbol",
+    "term2": "sign",
+    "value": 3.42
+  },
+  {
+    "term1": "anthropology",
+    "term2": "New York",
+    "value": 0.08
+  },
+  {
+    "term1": "sunset",
+    "term2": "table",
+    "value": 0
+  },
+  {
+    "term1": "town",
+    "term2": "city",
+    "value": 3.75
+  },
+  {
+    "term1": "jacket",
+    "term2": "mineral water",
+    "value": 0
+  },
+  {
+    "term1": "nature",
+    "term2": "flora",
+    "value": 3
+  },
+  {
+    "term1": "subroutine",
+    "term2": "compiler",
+    "value": 2.67
+  },
+  {
+    "term1": "Hamadan",
+    "term2": "Rome",
+    "value": 2.58
+  },
+  {
+    "term1": "umbrella",
+    "term2": "heater",
+    "value": 0.17
+  },
+  {
+    "term1": "honor",
+    "term2": "esteem",
+    "value": 3.25
+  },
+  {
+    "term1": "insignia",
+    "term2": "dignity",
+    "value": 0.58
+  },
+  {
+    "term1": "KFC",
+    "term2": "McDonald's",
+    "value": 3.17
+  },
+  {
+    "term1": "joystick",
+    "term2": "radar",
+    "value": 0.67
+  },
+  {
+    "term1": "basmati",
+    "term2": "jasmine rice",
+    "value": 3.58
+  },
+  {
+    "term1": "medal",
+    "term2": "trainers",
+    "value": 0.42
+  },
+  {
+    "term1": "law",
+    "term2": "swimming pool",
+    "value": 0.08
+  },
+  {
+    "term1": "source",
+    "term2": "box",
+    "value": 0
+  },
+  {
+    "term1": "theatre",
+    "term2": "battery",
+    "value": 0
+  },
+  {
+    "term1": "flora",
+    "term2": "web browser",
+    "value": 0
+  },
+  {
+    "term1": "shirt",
+    "term2": "cardigan",
+    "value": 3.25
+  },
+  {
+    "term1": "poem",
+    "term2": "rhythm",
+    "value": 1.42
+  },
+  {
+    "term1": "prophet",
+    "term2": "priest",
+    "value": 2.58
+  },
+  {
+    "term1": "Oscars",
+    "term2": "stadium",
+    "value": 0.08
+  },
+  {
+    "term1": "backgammon",
+    "term2": "Go",
+    "value": 3.25
+  },
+  {
+    "term1": "butterfly",
+    "term2": "rose",
+    "value": 1.25
+  },
+  {
+    "term1": "fence",
+    "term2": "jumping",
+    "value": 1.58
+  },
+  {
+    "term1": "nihilism",
+    "term2": "film",
+    "value": 0.17
+  },
+  {
+    "term1": "asteroid",
+    "term2": "star",
+    "value": 2.25
+  },
+  {
+    "term1": "riot",
+    "term2": "drawing",
+    "value": 0.08
+  },
+  {
+    "term1": "underwear",
+    "term2": "body",
+    "value": 1.25
+  },
+  {
+    "term1": "Boeing",
+    "term2": "plane",
+    "value": 2.83
+  },
+  {
+    "term1": "cameo",
+    "term2": "performance",
+    "value": 2.42
+  },
+  {
+    "term1": "semester",
+    "term2": "term",
+    "value": 3.83
+  },
+  {
+    "term1": "orange",
+    "term2": "citrus",
+    "value": 3
+  },
+  {
+    "term1": "glacier",
+    "term2": "global warming",
+    "value": 1.58
+  },
+  {
+    "term1": "tunnel",
+    "term2": "path",
+    "value": 2
+  }
+]

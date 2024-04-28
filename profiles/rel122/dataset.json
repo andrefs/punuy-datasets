@@ -1,0 +1,51 @@
+{
+  "id": "rel122",
+  "metadata": {
+    "name": "Rel-122",
+    "urls": [
+      "https://www.cs.ucf.edu/~seansz/rel-122/"
+    ],
+    "papers": [
+      {
+        "title": " A New Set of Norms for Semantic Relatedness Measures",
+        "url": "https://www.cs.ucf.edu/~seansz/publications/acl2013-szumlanski.pdf"
+      }
+    ],
+    "date": "2013",
+    "description": "",
+    "downloadUrls": [
+      "https://www.cs.ucf.edu/~seansz/rel-122/rel122-norms.txt",
+      "https://www.cs.ucf.edu/~seansz/rel-122/rel122-norms.pdf"
+    ],
+    "languages": [
+      "en"
+    ],
+    "domain": "general",
+    "measureTypes": [
+      "relatedness"
+    ]
+  },
+  "partitions": [
+    {
+      "id": "main",
+      "measureType": "relatedness",
+      "scale": {
+        "value": {
+          "max": 4,
+          "min": 0
+        }
+      },
+      "metrics": {
+        "annotators": {
+          "total": 73,
+          "minEachPair": 20
+        },
+        "interAgreement": {
+          "pearson": 0.769,
+          "spearman": null
+        }
+      }
+    }
+  ],
+  "originalInstructions": ""
+}

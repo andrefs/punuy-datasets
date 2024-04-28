@@ -1,4 +1,4 @@
-**/bg100k.json
-**/tr9856.json
+**/bg100k/*.part.json
+**/tr9856/*.part.json
 .gitignore
 

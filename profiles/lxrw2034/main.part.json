@@ -1,0 +1,10172 @@
+[
+  {
+    "term1": "salpico",
+    "term2": "esguicho",
+    "value": 8.75
+  },
+  {
+    "term1": "sem data",
+    "term2": "não datável",
+    "value": 6.25
+  },
+  {
+    "term1": "rodeios",
+    "term2": "batida",
+    "value": 0.5
+  },
+  {
+    "term1": "rodeios",
+    "term2": "refluxo",
+    "value": 0
+  },
+  {
+    "term1": "desalojar",
+    "term2": "privar",
+    "value": 6.25
+  },
+  {
+    "term1": "provincialismo",
+    "term2": "tacanhez",
+    "value": 2.5
+  },
+  {
+    "term1": "provincialismo",
+    "term2": "parcialidade",
+    "value": 2
+  },
+  {
+    "term1": "instrumentalidade",
+    "term2": "departamento",
+    "value": 1
+  },
+  {
+    "term1": "instrumentalidade",
+    "term2": "utilidade",
+    "value": 3.25
+  },
+  {
+    "term1": "envolvimento",
+    "term2": "ação",
+    "value": 3
+  },
+  {
+    "term1": "envolvimento",
+    "term2": "implicação",
+    "value": 3.25
+  },
+  {
+    "term1": "eclesiástico",
+    "term2": "clérigo",
+    "value": 7
+  },
+  {
+    "term1": "brigadeiro",
+    "term2": "general",
+    "value": 5
+  },
+  {
+    "term1": "carbónico",
+    "term2": "químico",
+    "value": 5.25
+  },
+  {
+    "term1": "carbónico",
+    "term2": "papel",
+    "value": 1.75
+  },
+  {
+    "term1": "aspirar",
+    "term2": "pronunciar",
+    "value": 1.5
+  },
+  {
+    "term1": "aspirar",
+    "term2": "remover",
+    "value": 4
+  },
+  {
+    "term1": "monotipo",
+    "term2": "máquina",
+    "value": 4.75
+  },
+  {
+    "term1": "desproporcionado",
+    "term2": "incomensurável",
+    "value": 6.25
+  },
+  {
+    "term1": "fogueiras",
+    "term2": "fogo",
+    "value": 5.5
+  },
+  {
+    "term1": "consciência",
+    "term2": "conhecimento",
+    "value": 5.75
+  },
+  {
+    "term1": "urbanizar",
+    "term2": "mudar",
+    "value": 1.5
+  },
+  {
+    "term1": "imperfeição",
+    "term2": "estado",
+    "value": 1.5
+  },
+  {
+    "term1": "avaliação",
+    "term2": "taxa",
+    "value": 5
+  },
+  {
+    "term1": "avaliação",
+    "term2": "análise",
+    "value": 6
+  },
+  {
+    "term1": "incubar",
+    "term2": "procriar",
+    "value": 7.25
+  },
+  {
+    "term1": "incubar",
+    "term2": "desenvolver",
+    "value": 6.75
+  },
+  {
+    "term1": "principado",
+    "term2": "domínio",
+    "value": 4.25
+  },
+  {
+    "term1": "vicário",
+    "term2": "anormal",
+    "value": 0.25
+  },
+  {
+    "term1": "substituto",
+    "term2": "secundário",
+    "value": 2.75
+  },
+  {
+    "term1": "deselegante",
+    "term2": "embaraçoso",
+    "value": 6.25
+  },
+  {
+    "term1": "cego",
+    "term2": "daltónico",
+    "value": 3.75
+  },
+  {
+    "term1": "socializar",
+    "term2": "educar",
+    "value": 4.5
+  },
+  {
+    "term1": "socializar",
+    "term2": "swing",
+    "value": 1.5
+  },
+  {
+    "term1": "diagonais",
+    "term2": "linha",
+    "value": 5.5
+  },
+  {
+    "term1": "diagonais",
+    "term2": "heterossexual",
+    "value": 0.25
+  },
+  {
+    "term1": "aclimatar",
+    "term2": "adaptar",
+    "value": 5.75
+  },
+  {
+    "term1": "desobediente",
+    "term2": "rebelde",
+    "value": 8.5
+  },
+  {
+    "term1": "desobediente",
+    "term2": "desafiante",
+    "value": 5.25
+  },
+  {
+    "term1": "subdividindo",
+    "term2": "subdividir",
+    "value": 9.5
+  },
+  {
+    "term1": "subdividindo",
+    "term2": "separar",
+    "value": 7.75
+  },
+  {
+    "term1": "antifeminismo",
+    "term2": "sexismo",
+    "value": 7.25
+  },
+  {
+    "term1": "circuncidar",
+    "term2": "cortar",
+    "value": 6.5
+  },
+  {
+    "term1": "circuncidar",
+    "term2": "remover",
+    "value": 5.75
+  },
+  {
+    "term1": "excomungar",
+    "term2": "expulsar",
+    "value": 7.25
+  },
+  {
+    "term1": "alcançado",
+    "term2": "terminado",
+    "value": 6
+  },
+  {
+    "term1": "agressor",
+    "term2": "malfeitor",
+    "value": 8.25
+  },
+  {
+    "term1": "desrespeitado",
+    "term2": "discordar",
+    "value": 2.75
+  },
+  {
+    "term1": "desrespeitado",
+    "term2": "transgredir",
+    "value": 5
+  },
+  {
+    "term1": "temperar",
+    "term2": "mudar",
+    "value": 1.25
+  },
+  {
+    "term1": "disparatar",
+    "term2": "tagarelar",
+    "value": 4.25
+  },
+  {
+    "term1": "repavimentar",
+    "term2": "cobrir",
+    "value": 3.75
+  },
+  {
+    "term1": "repavimentar",
+    "term2": "superfície",
+    "value": 3.25
+  },
+  {
+    "term1": "amizades",
+    "term2": "fraternidade",
+    "value": 6.75
+  },
+  {
+    "term1": "comovente",
+    "term2": "emotivo",
+    "value": 6.5
+  },
+  {
+    "term1": "eleitor",
+    "term2": "votante",
+    "value": 7.5
+  },
+  {
+    "term1": "intencionalidade",
+    "term2": "pretendido",
+    "value": 5
+  },
+  {
+    "term1": "vulgarismo",
+    "term2": "profanação",
+    "value": 2.75
+  },
+  {
+    "term1": "vulgarismo",
+    "term2": "deselegância",
+    "value": 4.25
+  },
+  {
+    "term1": "sem escrita",
+    "term2": "analfabeto",
+    "value": 6.5
+  },
+  {
+    "term1": "sem escrita",
+    "term2": "incivilizado",
+    "value": 3
+  },
+  {
+    "term1": "repetir",
+    "term2": "ouvir",
+    "value": 0.5
+  },
+  {
+    "term1": "vagabundos",
+    "term2": "programa",
+    "value": 0.25
+  },
+  {
+    "term1": "vagabundos",
+    "term2": "nómada",
+    "value": 4
+  },
+  {
+    "term1": "marginalizar",
+    "term2": "interagir",
+    "value": 1.5
+  },
+  {
+    "term1": "hiperligação",
+    "term2": "ligação",
+    "value": 7
+  },
+  {
+    "term1": "empossado",
+    "term2": "admitir",
+    "value": 4.5
+  },
+  {
+    "term1": "empossado",
+    "term2": "instalar",
+    "value": 2.25
+  },
+  {
+    "term1": "enganar",
+    "term2": "capturar",
+    "value": 3.5
+  },
+  {
+    "term1": "enganar",
+    "term2": "iludir",
+    "value": 8.75
+  },
+  {
+    "term1": "aliviado",
+    "term2": "consolar",
+    "value": 5.25
+  },
+  {
+    "term1": "aliviado",
+    "term2": "ajudar",
+    "value": 2.5
+  },
+  {
+    "term1": "radiadores",
+    "term2": "início",
+    "value": 0.25
+  },
+  {
+    "term1": "radiadores",
+    "term2": "sistema",
+    "value": 2.75
+  },
+  {
+    "term1": "pós-modernismo",
+    "term2": "género",
+    "value": 2.75
+  },
+  {
+    "term1": "escavações",
+    "term2": "local",
+    "value": 2.5
+  },
+  {
+    "term1": "escavações",
+    "term2": "extracção",
+    "value": 3.5
+  },
+  {
+    "term1": "confortável",
+    "term2": "acolhedor",
+    "value": 8.75
+  },
+  {
+    "term1": "sem penas",
+    "term2": "implume",
+    "value": 9
+  },
+  {
+    "term1": "sem penas",
+    "term2": "depenado",
+    "value": 8.25
+  },
+  {
+    "term1": "atribuído",
+    "term2": "regimento",
+    "value": 1.5
+  },
+  {
+    "term1": "atribuído",
+    "term2": "permitir",
+    "value": 2.75
+  },
+  {
+    "term1": "ouvintes",
+    "term2": "espião",
+    "value": 2.5
+  },
+  {
+    "term1": "não anunciado",
+    "term2": "inesperado",
+    "value": 7.5
+  },
+  {
+    "term1": "incapacidades",
+    "term2": "insuficiência",
+    "value": 5.5
+  },
+  {
+    "term1": "incapacidades",
+    "term2": "incompreensão",
+    "value": 2.75
+  },
+  {
+    "term1": "monoculturas",
+    "term2": "cultura",
+    "value": 5.5
+  },
+  {
+    "term1": "tricolor",
+    "term2": "bandeira",
+    "value": 2.5
+  },
+  {
+    "term1": "omnipotência",
+    "term2": "estado",
+    "value": 4.25
+  },
+  {
+    "term1": "misturar",
+    "term2": "mudar",
+    "value": 2
+  },
+  {
+    "term1": "calcificar",
+    "term2": "endurecer",
+    "value": 2
+  },
+  {
+    "term1": "calcificar",
+    "term2": "mudar",
+    "value": 2.25
+  },
+  {
+    "term1": "deserdação",
+    "term2": "descontinuição",
+    "value": 2.5
+  },
+  {
+    "term1": "entrelaçado",
+    "term2": "entrançar",
+    "value": 8.25
+  },
+  {
+    "term1": "cessão",
+    "term2": "renúncia",
+    "value": 4.5
+  },
+  {
+    "term1": "anão",
+    "term2": "pequeno",
+    "value": 6.5
+  },
+  {
+    "term1": "avaliação",
+    "term2": "taxa",
+    "value": 2.75
+  },
+  {
+    "term1": "avaliação",
+    "term2": "classificação",
+    "value": 8.75
+  },
+  {
+    "term1": "receitas",
+    "term2": "medicamento",
+    "value": 5
+  },
+  {
+    "term1": "prescrições",
+    "term2": "direção",
+    "value": 2.25
+  },
+  {
+    "term1": "antipsicótico",
+    "term2": "lítio",
+    "value": 2.75
+  },
+  {
+    "term1": "circunferencial",
+    "term2": "periférico",
+    "value": 4.25
+  },
+  {
+    "term1": "galos",
+    "term2": "frango",
+    "value": 6.75
+  },
+  {
+    "term1": "não-público",
+    "term2": "privado",
+    "value": 9.25
+  },
+  {
+    "term1": "cantar à tirolesa",
+    "term2": "cantar",
+    "value": 5.25
+  },
+  {
+    "term1": "canto tirolês",
+    "term2": "canto",
+    "value": 5.25
+  },
+  {
+    "term1": "autoerótico",
+    "term2": "sensual",
+    "value": 2.75
+  },
+  {
+    "term1": "uníssonos",
+    "term2": "acordo",
+    "value": 4.5
+  },
+  {
+    "term1": "uníssonos",
+    "term2": "concordância",
+    "value": 6
+  },
+  {
+    "term1": "desmontado",
+    "term2": "destruir",
+    "value": 2.75
+  },
+  {
+    "term1": "pré-adolescentes",
+    "term2": "juvenis",
+    "value": 6.25
+  },
+  {
+    "term1": "inacessível",
+    "term2": "intransitável",
+    "value": 6.25
+  },
+  {
+    "term1": "monograma",
+    "term2": "símbolo",
+    "value": 5.5
+  },
+  {
+    "term1": "opalescência",
+    "term2": "luminosidade",
+    "value": 2
+  },
+  {
+    "term1": "estrogénico",
+    "term2": "hormona",
+    "value": 6
+  },
+  {
+    "term1": "enganador",
+    "term2": "batida",
+    "value": 0.25
+  },
+  {
+    "term1": "consubstancial",
+    "term2": "considerável",
+    "value": 3.5
+  },
+  {
+    "term1": "coeducação",
+    "term2": "educação",
+    "value": 5.25
+  },
+  {
+    "term1": "canónico",
+    "term2": "padrão",
+    "value": 7.5
+  },
+  {
+    "term1": "galvânico",
+    "term2": "excitante",
+    "value": 7.5
+  },
+  {
+    "term1": "nomeado",
+    "term2": "nomear",
+    "value": 6.5
+  },
+  {
+    "term1": "nomeado",
+    "term2": "escolher",
+    "value": 6.5
+  },
+  {
+    "term1": "excedência",
+    "term2": "probabilidade",
+    "value": 0.75
+  },
+  {
+    "term1": "confiar",
+    "term2": "consignar",
+    "value": 5.75
+  },
+  {
+    "term1": "confidenciar",
+    "term2": "desembrulhar",
+    "value": 1.75
+  },
+  {
+    "term1": "estabelecido",
+    "term2": "iniciar",
+    "value": 0.5
+  },
+  {
+    "term1": "condescender",
+    "term2": "agir",
+    "value": 2.25
+  },
+  {
+    "term1": "triciclo",
+    "term2": "tuk-tuk",
+    "value": 6.75
+  },
+  {
+    "term1": "libertado",
+    "term2": "difundido",
+    "value": 3.25
+  },
+  {
+    "term1": "pós-modernista",
+    "term2": "artista",
+    "value": 3.25
+  },
+  {
+    "term1": "camponês",
+    "term2": "rústico",
+    "value": 7
+  },
+  {
+    "term1": "ruralista",
+    "term2": "defensor",
+    "value": 1.5
+  },
+  {
+    "term1": "ilusionistas",
+    "term2": "feiticeira",
+    "value": 6.5
+  },
+  {
+    "term1": "detestável",
+    "term2": "ofensivo",
+    "value": 4.5
+  },
+  {
+    "term1": "detestável",
+    "term2": "odioso",
+    "value": 8.75
+  },
+  {
+    "term1": "comparando",
+    "term2": "comparar",
+    "value": 8.75
+  },
+  {
+    "term1": "comparando",
+    "term2": "empregar analogia",
+    "value": 7.25
+  },
+  {
+    "term1": "comerciantes",
+    "term2": "vender",
+    "value": 5
+  },
+  {
+    "term1": "montanha-russa",
+    "term2": "rolamento",
+    "value": 2.25
+  },
+  {
+    "term1": "ninharia",
+    "term2": "pagamento",
+    "value": 3
+  },
+  {
+    "term1": "desalmado",
+    "term2": "insensível",
+    "value": 7.5
+  },
+  {
+    "term1": "hipermercado",
+    "term2": "supermercado",
+    "value": 6
+  },
+  {
+    "term1": "confluente",
+    "term2": "ramo",
+    "value": 2.25
+  },
+  {
+    "term1": "confluente",
+    "term2": "convergente",
+    "value": 9.25
+  },
+  {
+    "term1": "antecâmaras",
+    "term2": "edifício",
+    "value": 4.25
+  },
+  {
+    "term1": "raciocício",
+    "term2": "deduzir",
+    "value": 6.5
+  },
+  {
+    "term1": "raciocício",
+    "term2": "argumentar novamente",
+    "value": 4
+  },
+  {
+    "term1": "convocações",
+    "term2": "página",
+    "value": 1.25
+  },
+  {
+    "term1": "convocações",
+    "term2": "exigir",
+    "value": 2.25
+  },
+  {
+    "term1": "predestinado",
+    "term2": "predeterminado",
+    "value": 7
+  },
+  {
+    "term1": "antecâmara",
+    "term2": "sala",
+    "value": 5
+  },
+  {
+    "term1": "concavidade",
+    "term2": "forma",
+    "value": 5.5
+  },
+  {
+    "term1": "concavidade",
+    "term2": "encaixe",
+    "value": 2
+  },
+  {
+    "term1": "abrir o fecho",
+    "term2": "desatar",
+    "value": 6.5
+  },
+  {
+    "term1": "colherada",
+    "term2": "conteúdo",
+    "value": 2.75
+  },
+  {
+    "term1": "divisível",
+    "term2": "divisível",
+    "value": 10
+  },
+  {
+    "term1": "hipersensível",
+    "term2": "suscetível",
+    "value": 5.75
+  },
+  {
+    "term1": "impureza",
+    "term2": "adulteração",
+    "value": 4.75
+  },
+  {
+    "term1": "impureza",
+    "term2": "desperdício",
+    "value": 2.75
+  },
+  {
+    "term1": "inscrever",
+    "term2": "gravar",
+    "value": 7.5
+  },
+  {
+    "term1": "virginais",
+    "term2": "cravo",
+    "value": 4.75
+  },
+  {
+    "term1": "hipertextos",
+    "term2": "base de dados",
+    "value": 4.5
+  },
+  {
+    "term1": "heranças",
+    "term2": "aquisição",
+    "value": 3.75
+  },
+  {
+    "term1": "infecioso",
+    "term2": "sético",
+    "value": 7
+  },
+  {
+    "term1": "infecioso",
+    "term2": "contagioso",
+    "value": 8.25
+  },
+  {
+    "term1": "identificado",
+    "term2": "localizar",
+    "value": 5.5
+  },
+  {
+    "term1": "capitalizado",
+    "term2": "lucro",
+    "value": 5.5
+  },
+  {
+    "term1": "capitalizado",
+    "term2": "fornecimento",
+    "value": 2.25
+  },
+  {
+    "term1": "refazer",
+    "term2": "regressar",
+    "value": 3.75
+  },
+  {
+    "term1": "morte",
+    "term2": "qualidade",
+    "value": 0.5
+  },
+  {
+    "term1": "morte",
+    "term2": "inelasticidade",
+    "value": 3.5
+  },
+  {
+    "term1": "conformismo",
+    "term2": "legalismo",
+    "value": 2.25
+  },
+  {
+    "term1": "tripés",
+    "term2": "tripé",
+    "value": 9.75
+  },
+  {
+    "term1": "duradouramente",
+    "term2": "desgaste",
+    "value": 0.25
+  },
+  {
+    "term1": "duradouramente",
+    "term2": "povoar",
+    "value": 0.5
+  },
+  {
+    "term1": "inesperado",
+    "term2": "imprevisto",
+    "value": 8.75
+  },
+  {
+    "term1": "interligar",
+    "term2": "intercomunicar",
+    "value": 6.25
+  },
+  {
+    "term1": "interligar",
+    "term2": "conectar",
+    "value": 7.75
+  },
+  {
+    "term1": "golpear na cabeça",
+    "term2": "matar",
+    "value": 5.25
+  },
+  {
+    "term1": "golpear na cabeça",
+    "term2": "bater",
+    "value": 6.25
+  },
+  {
+    "term1": "monociclos",
+    "term2": "roda",
+    "value": 3.5
+  },
+  {
+    "term1": "monociclos",
+    "term2": "bicicleta",
+    "value": 3.5
+  },
+  {
+    "term1": "conservantes",
+    "term2": "cozinhar",
+    "value": 2
+  },
+  {
+    "term1": "defensores",
+    "term2": "trabalhador",
+    "value": 1
+  },
+  {
+    "term1": "auto-enxertos",
+    "term2": "enxerto",
+    "value": 6.5
+  },
+  {
+    "term1": "retardar",
+    "term2": "desacelerar",
+    "value": 8.25
+  },
+  {
+    "term1": "retardar",
+    "term2": "ficar",
+    "value": 2.75
+  },
+  {
+    "term1": "subfamília",
+    "term2": "grupo",
+    "value": 5.25
+  },
+  {
+    "term1": "incrustar",
+    "term2": "camada",
+    "value": 2.5
+  },
+  {
+    "term1": "incrustar",
+    "term2": "decorar",
+    "value": 2
+  },
+  {
+    "term1": "áptero",
+    "term2": "não-voante",
+    "value": 5.75
+  },
+  {
+    "term1": "intraespecífico",
+    "term2": "interespécie",
+    "value": 4.75
+  },
+  {
+    "term1": "encapsulado",
+    "term2": "penetrar",
+    "value": 1.5
+  },
+  {
+    "term1": "encapsulado",
+    "term2": "escavar",
+    "value": 2.25
+  },
+  {
+    "term1": "supressor",
+    "term2": "gene",
+    "value": 0.5
+  },
+  {
+    "term1": "supressor",
+    "term2": "retardador",
+    "value": 4.75
+  },
+  {
+    "term1": "expor",
+    "term2": "elaborar",
+    "value": 4.75
+  },
+  {
+    "term1": "expor",
+    "term2": "pormenorizar",
+    "value": 5
+  },
+  {
+    "term1": "ativo",
+    "term2": "energético",
+    "value": 8.25
+  },
+  {
+    "term1": "vivificante",
+    "term2": "revigorante",
+    "value": 8
+  },
+  {
+    "term1": "abastado",
+    "term2": "rico",
+    "value": 9.5
+  },
+  {
+    "term1": "agitado",
+    "term2": "importante",
+    "value": 3.75
+  },
+  {
+    "term1": "Agitado",
+    "term2": "vivo",
+    "value": 4.25
+  },
+  {
+    "term1": "sem ponta",
+    "term2": "opaco",
+    "value": 3
+  },
+  {
+    "term1": "apalhaçado",
+    "term2": "humorístico",
+    "value": 7
+  },
+  {
+    "term1": "inquisidor",
+    "term2": "mil",
+    "value": 0.25
+  },
+  {
+    "term1": "inquisidor",
+    "term2": "inquiridor",
+    "value": 8.5
+  },
+  {
+    "term1": "extrovertido",
+    "term2": "comunicativo",
+    "value": 7.5
+  },
+  {
+    "term1": "finalidade",
+    "term2": "conclusivo",
+    "value": 4.5
+  },
+  {
+    "term1": "gibberish",
+    "term2": "holandês",
+    "value": 5.25
+  },
+  {
+    "term1": "campeonato",
+    "term2": "posição",
+    "value": 4
+  },
+  {
+    "term1": "campeonato",
+    "term2": "concurso",
+    "value": 6.75
+  },
+  {
+    "term1": "indelicado",
+    "term2": "indecente",
+    "value": 5
+  },
+  {
+    "term1": "indelicado",
+    "term2": "insípido",
+    "value": 1.5
+  },
+  {
+    "term1": "xecado",
+    "term2": "domínio",
+    "value": 5
+  },
+  {
+    "term1": "voador",
+    "term2": "voar",
+    "value": 4.5
+  },
+  {
+    "term1": "voador",
+    "term2": "disparar",
+    "value": 1.75
+  },
+  {
+    "term1": "atraso",
+    "term2": "idiotice",
+    "value": 3.25
+  },
+  {
+    "term1": "descontínuo",
+    "term2": "disjunto",
+    "value": 3
+  },
+  {
+    "term1": "depreciar",
+    "term2": "desvalorizar",
+    "value": 8.75
+  },
+  {
+    "term1": "flatulência",
+    "term2": "físico",
+    "value": 2
+  },
+  {
+    "term1": "venenoso",
+    "term2": "tóxico",
+    "value": 8.5
+  },
+  {
+    "term1": "venenoso",
+    "term2": "malicioso",
+    "value": 7.75
+  },
+  {
+    "term1": "encoberto",
+    "term2": "envolver",
+    "value": 5.25
+  },
+  {
+    "term1": "em vão",
+    "term2": "ineficaz",
+    "value": 7.25
+  },
+  {
+    "term1": "desvio",
+    "term2": "deserção",
+    "value": 2.25
+  },
+  {
+    "term1": "capitação",
+    "term2": "taxar",
+    "value": 4.25
+  },
+  {
+    "term1": "denominar",
+    "term2": "etiqueta",
+    "value": 4.5
+  },
+  {
+    "term1": "iliberal",
+    "term2": "limitado",
+    "value": 4.25
+  },
+  {
+    "term1": "periódico",
+    "term2": "noturno",
+    "value": 2.75
+  },
+  {
+    "term1": "periódico",
+    "term2": "publicação",
+    "value": 4
+  },
+  {
+    "term1": "destilado",
+    "term2": "líquido",
+    "value": 4
+  },
+  {
+    "term1": "regressar",
+    "term2": "devolver",
+    "value": 5.75
+  },
+  {
+    "term1": "ditadura",
+    "term2": "estado",
+    "value": 4.5
+  },
+  {
+    "term1": "desfavorecer",
+    "term2": "preconceito",
+    "value": 4.75
+  },
+  {
+    "term1": "pós-glacial",
+    "term2": "frio",
+    "value": 3
+  },
+  {
+    "term1": "enobrecido",
+    "term2": "honra",
+    "value": 4
+  },
+  {
+    "term1": "anticiclones",
+    "term2": "alto",
+    "value": 1.75
+  },
+  {
+    "term1": "cilíndrico",
+    "term2": "arredondado",
+    "value": 8
+  },
+  {
+    "term1": "não-político",
+    "term2": "apolítico",
+    "value": 9.5
+  },
+  {
+    "term1": "circunferência",
+    "term2": "tamanho",
+    "value": 3
+  },
+  {
+    "term1": "reposicionamentos",
+    "term2": "mover",
+    "value": 5.25
+  },
+  {
+    "term1": "reposicionamentos",
+    "term2": "reduzir",
+    "value": 2.5
+  },
+  {
+    "term1": "biblioteconomia",
+    "term2": "posição",
+    "value": 1.75
+  },
+  {
+    "term1": "condutivo",
+    "term2": "semicondutor",
+    "value": 4
+  },
+  {
+    "term1": "saltar",
+    "term2": "pular",
+    "value": 9
+  },
+  {
+    "term1": "saltou",
+    "term2": "saltar",
+    "value": 9.5
+  },
+  {
+    "term1": "solicitação",
+    "term2": "pedido",
+    "value": 9.25
+  },
+  {
+    "term1": "convertível",
+    "term2": "carro",
+    "value": 3.5
+  },
+  {
+    "term1": "convertível",
+    "term2": "segurança",
+    "value": 1
+  },
+  {
+    "term1": "constitutivo",
+    "term2": "essencial",
+    "value": 3.25
+  },
+  {
+    "term1": "crianças em idade pré-escolar",
+    "term2": "criança",
+    "value": 6
+  },
+  {
+    "term1": "irritadíssimo",
+    "term2": "zangado",
+    "value": 8.25
+  },
+  {
+    "term1": "irritadíssimo",
+    "term2": "tempestuoso",
+    "value": 8
+  },
+  {
+    "term1": "profanar",
+    "term2": "danificar",
+    "value": 6.5
+  },
+  {
+    "term1": "profanar",
+    "term2": "lugar",
+    "value": 2
+  },
+  {
+    "term1": "desejo ardente",
+    "term2": "desejo",
+    "value": 7.5
+  },
+  {
+    "term1": "desejo ardente",
+    "term2": "desejo forte",
+    "value": 8.5
+  },
+  {
+    "term1": "circum-navegar",
+    "term2": "círculo",
+    "value": 3.75
+  },
+  {
+    "term1": "criticidade",
+    "term2": "conjuntura",
+    "value": 3.25
+  },
+  {
+    "term1": "criticidade",
+    "term2": "urgência",
+    "value": 4
+  },
+  {
+    "term1": "desconfiado",
+    "term2": "desconfiado",
+    "value": 9.75
+  },
+  {
+    "term1": "pressupor",
+    "term2": "implicar",
+    "value": 7.5
+  },
+  {
+    "term1": "pressupor",
+    "term2": "premissa",
+    "value": 5.5
+  },
+  {
+    "term1": "prefeitura",
+    "term2": "posição",
+    "value": 2.25
+  },
+  {
+    "term1": "companheirismo",
+    "term2": "amizade",
+    "value": 6.75
+  },
+  {
+    "term1": "primatas",
+    "term2": "padre",
+    "value": 1.25
+  },
+  {
+    "term1": "omnipotente",
+    "term2": "poderoso",
+    "value": 7
+  },
+  {
+    "term1": "caixas de correio",
+    "term2": "caixa postal",
+    "value": 8.75
+  },
+  {
+    "term1": "adorável",
+    "term2": "desejável",
+    "value": 6.5
+  },
+  {
+    "term1": "anteceder",
+    "term2": "calendarizar",
+    "value": 4
+  },
+  {
+    "term1": "beneficiado",
+    "term2": "ajudar",
+    "value": 4
+  },
+  {
+    "term1": "beneficiado",
+    "term2": "obter",
+    "value": 4.75
+  },
+  {
+    "term1": "contrastivo",
+    "term2": "diferente",
+    "value": 7.5
+  },
+  {
+    "term1": "contrastivo",
+    "term2": "antónimo",
+    "value": 6
+  },
+  {
+    "term1": "estagiar",
+    "term2": "trabalhar",
+    "value": 4.75
+  },
+  {
+    "term1": "internado",
+    "term2": "confinar",
+    "value": 4.75
+  },
+  {
+    "term1": "clamoroso",
+    "term2": "barulhento",
+    "value": 6
+  },
+  {
+    "term1": "baixeza",
+    "term2": "indignidade",
+    "value": 5.5
+  },
+  {
+    "term1": "fazer uma serenata",
+    "term2": "actuar",
+    "value": 3.5
+  },
+  {
+    "term1": "jogar snooker",
+    "term2": "jogar",
+    "value": 4.25
+  },
+  {
+    "term1": "ludibriado",
+    "term2": "enganar",
+    "value": 6.25
+  },
+  {
+    "term1": "imensurável",
+    "term2": "incalculável",
+    "value": 8.5
+  },
+  {
+    "term1": "imensurável",
+    "term2": "ilimitável",
+    "value": 6
+  },
+  {
+    "term1": "invasões",
+    "term2": "incursão",
+    "value": 6.25
+  },
+  {
+    "term1": "invasões",
+    "term2": "entrada",
+    "value": 4
+  },
+  {
+    "term1": "desregular",
+    "term2": "libertação",
+    "value": 3.5
+  },
+  {
+    "term1": "desregular",
+    "term2": "isentar",
+    "value": 3.25
+  },
+  {
+    "term1": "aceitável",
+    "term2": "satisfatório",
+    "value": 6.75
+  },
+  {
+    "term1": "aceitável",
+    "term2": "padrão",
+    "value": 1.75
+  },
+  {
+    "term1": "sentenciado",
+    "term2": "declarar",
+    "value": 4
+  },
+  {
+    "term1": "guincho",
+    "term2": "gritar",
+    "value": 6.75
+  },
+  {
+    "term1": "guincho",
+    "term2": "chorar",
+    "value": 5.75
+  },
+  {
+    "term1": "inviável",
+    "term2": "morto",
+    "value": 5
+  },
+  {
+    "term1": "forrado",
+    "term2": "capa",
+    "value": 4.25
+  },
+  {
+    "term1": "territoriais",
+    "term2": "soldado",
+    "value": 3.75
+  },
+  {
+    "term1": "territoriais",
+    "term2": "guarda",
+    "value": 3.5
+  },
+  {
+    "term1": "divulgar",
+    "term2": "contar",
+    "value": 7.25
+  },
+  {
+    "term1": "reencenar",
+    "term2": "recriar",
+    "value": 5.25
+  },
+  {
+    "term1": "restabelecer",
+    "term2": "ordenar",
+    "value": 4.25
+  },
+  {
+    "term1": "interestelar",
+    "term2": "principal",
+    "value": 1
+  },
+  {
+    "term1": "espalhado",
+    "term2": "separar",
+    "value": 5.75
+  },
+  {
+    "term1": "transmigrar",
+    "term2": "imigrar",
+    "value": 5
+  },
+  {
+    "term1": "transmigrar",
+    "term2": "nascer",
+    "value": 1.75
+  },
+  {
+    "term1": "associações",
+    "term2": "sulista",
+    "value": 1.25
+  },
+  {
+    "term1": "associações",
+    "term2": "sociável",
+    "value": 1.75
+  },
+  {
+    "term1": "almirantado",
+    "term2": "departamento",
+    "value": 3
+  },
+  {
+    "term1": "almirantado",
+    "term2": "posição",
+    "value": 4
+  },
+  {
+    "term1": "autobiógrafo",
+    "term2": "biógrafo",
+    "value": 5.75
+  },
+  {
+    "term1": "planeadores",
+    "term2": "conspirador",
+    "value": 6.25
+  },
+  {
+    "term1": "agendas",
+    "term2": "bloco de notas",
+    "value": 5.75
+  },
+  {
+    "term1": "suplemento",
+    "term2": "constituir",
+    "value": 0.75
+  },
+  {
+    "term1": "suplemento",
+    "term2": "alavancagem",
+    "value": 1.75
+  },
+  {
+    "term1": "entra em combustão",
+    "term2": "explodir",
+    "value": 4
+  },
+  {
+    "term1": "arde",
+    "term2": "em chamas",
+    "value": 6.25
+  },
+  {
+    "term1": "clareza",
+    "term2": "inteligência",
+    "value": 7.25
+  },
+  {
+    "term1": "luminosidade",
+    "term2": "brilho",
+    "value": 8.25
+  },
+  {
+    "term1": "produtivo",
+    "term2": "juntos",
+    "value": 0.5
+  },
+  {
+    "term1": "reservar",
+    "term2": "atribuir",
+    "value": 2.75
+  },
+  {
+    "term1": "guardar",
+    "term2": "reter",
+    "value": 6.75
+  },
+  {
+    "term1": "incansável",
+    "term2": "constante",
+    "value": 3.5
+  },
+  {
+    "term1": "incansável",
+    "term2": "energético",
+    "value": 7.25
+  },
+  {
+    "term1": "pré-escolar",
+    "term2": "criança",
+    "value": 5
+  },
+  {
+    "term1": "embaladoras",
+    "term2": "máquina",
+    "value": 3.25
+  },
+  {
+    "term1": "embaladoras",
+    "term2": "operário",
+    "value": 3
+  },
+  {
+    "term1": "boa vontade",
+    "term2": "sinceridade",
+    "value": 4.5
+  },
+  {
+    "term1": "inaceitável",
+    "term2": "insatisfatório",
+    "value": 5.25
+  },
+  {
+    "term1": "inaceitável",
+    "term2": "indesejável",
+    "value": 3.75
+  },
+  {
+    "term1": "sem sentido",
+    "term2": "inútil",
+    "value": 8
+  },
+  {
+    "term1": "réplicas",
+    "term2": "reprodução",
+    "value": 8.25
+  },
+  {
+    "term1": "réplicas",
+    "term2": "procedimento",
+    "value": 3
+  },
+  {
+    "term1": "novos julgamentos",
+    "term2": "julgamento",
+    "value": 6.25
+  },
+  {
+    "term1": "vendedores",
+    "term2": "vender",
+    "value": 5.25
+  },
+  {
+    "term1": "fantasista",
+    "term2": "criador",
+    "value": 3.75
+  },
+  {
+    "term1": "interligações",
+    "term2": "intercomunicar",
+    "value": 5
+  },
+  {
+    "term1": "interligações",
+    "term2": "conectar",
+    "value": 4.75
+  },
+  {
+    "term1": "negativamente",
+    "term2": "desfavorável",
+    "value": 5.25
+  },
+  {
+    "term1": "rejeita",
+    "term2": "repugnância",
+    "value": 6
+  },
+  {
+    "term1": "repele",
+    "term2": "lutar",
+    "value": 3.25
+  },
+  {
+    "term1": "humanidade",
+    "term2": "qualidade",
+    "value": 2.5
+  },
+  {
+    "term1": "autofoco",
+    "term2": "ótico",
+    "value": 3.75
+  },
+  {
+    "term1": "por outro lado",
+    "term2": "entrevista",
+    "value": 1.5
+  },
+  {
+    "term1": "inversamente",
+    "term2": "proposição",
+    "value": 1.5
+  },
+  {
+    "term1": "incessante",
+    "term2": "contínuo",
+    "value": 8.75
+  },
+  {
+    "term1": "hibridizar",
+    "term2": "procriar",
+    "value": 3
+  },
+  {
+    "term1": "anticancerígeno",
+    "term2": "cérebro",
+    "value": 2.25
+  },
+  {
+    "term1": "paralelismo",
+    "term2": "similaridade",
+    "value": 7.25
+  },
+  {
+    "term1": "visão",
+    "term2": "vista",
+    "value": 7.75
+  },
+  {
+    "term1": "batalhas navais",
+    "term2": "couraçado",
+    "value": 3.5
+  },
+  {
+    "term1": "subártico",
+    "term2": "polar",
+    "value": 5.5
+  },
+  {
+    "term1": "subártico",
+    "term2": "galocha",
+    "value": 2.75
+  },
+  {
+    "term1": "sofrimento",
+    "term2": "ego",
+    "value": 3.75
+  },
+  {
+    "term1": "incompreensível",
+    "term2": "indiscernível",
+    "value": 7
+  },
+  {
+    "term1": "arrependido",
+    "term2": "penitente",
+    "value": 8.25
+  },
+  {
+    "term1": "monoplano",
+    "term2": "avião",
+    "value": 6
+  },
+  {
+    "term1": "tornar íngreme",
+    "term2": "mudar",
+    "value": 3.25
+  },
+  {
+    "term1": "transfundir",
+    "term2": "respirar",
+    "value": 0.25
+  },
+  {
+    "term1": "transvasar",
+    "term2": "verter",
+    "value": 7
+  },
+  {
+    "term1": "hiperextensão",
+    "term2": "extensão",
+    "value": 5.5
+  },
+  {
+    "term1": "surpreendentes",
+    "term2": "surpresa",
+    "value": 4.75
+  },
+  {
+    "term1": "surpreendentes",
+    "term2": "desnortear",
+    "value": 2.25
+  },
+  {
+    "term1": "deteriorado",
+    "term2": "mudar",
+    "value": 3
+  },
+  {
+    "term1": "hilaridade",
+    "term2": "alegria",
+    "value": 7.25
+  },
+  {
+    "term1": "aparecimento",
+    "term2": "aparição",
+    "value": 8.5
+  },
+  {
+    "term1": "transmissível",
+    "term2": "infecioso",
+    "value": 6.5
+  },
+  {
+    "term1": "transmissível",
+    "term2": "hereditário",
+    "value": 5.5
+  },
+  {
+    "term1": "de trigo",
+    "term2": "fonte",
+    "value": 1.75
+  },
+  {
+    "term1": "fascinar",
+    "term2": "encantar",
+    "value": 7.75
+  },
+  {
+    "term1": "magnetizar",
+    "term2": "mudar",
+    "value": 0.5
+  },
+  {
+    "term1": "militarizar",
+    "term2": "mudar",
+    "value": 1.5
+  },
+  {
+    "term1": "cauteloso",
+    "term2": "prudente",
+    "value": 8.75
+  },
+  {
+    "term1": "deslocar",
+    "term2": "transferir",
+    "value": 6.25
+  },
+  {
+    "term1": "macroevolução",
+    "term2": "evolução",
+    "value": 6
+  },
+  {
+    "term1": "rodeado",
+    "term2": "ataque",
+    "value": 2.25
+  },
+  {
+    "term1": "evitado",
+    "term2": "ultrapassar",
+    "value": 3
+  },
+  {
+    "term1": "adventismo",
+    "term2": "cristianismo",
+    "value": 5.25
+  },
+  {
+    "term1": "respiradouro",
+    "term2": "submarino",
+    "value": 3
+  },
+  {
+    "term1": "pausa",
+    "term2": "descanso",
+    "value": 6.5
+  },
+  {
+    "term1": "desenganado",
+    "term2": "informar",
+    "value": 2.25
+  },
+  {
+    "term1": "infringir",
+    "term2": "negar",
+    "value": 0.75
+  },
+  {
+    "term1": "infringir",
+    "term2": "transgredir",
+    "value": 9
+  },
+  {
+    "term1": "transdutores",
+    "term2": "aparelho",
+    "value": 4.75
+  },
+  {
+    "term1": "islandês",
+    "term2": "escandinavo",
+    "value": 4.25
+  },
+  {
+    "term1": "incerteza",
+    "term2": "especulação",
+    "value": 5
+  },
+  {
+    "term1": "desprende",
+    "term2": "desimpedir",
+    "value": 7.25
+  },
+  {
+    "term1": "analgésicos",
+    "term2": "cloridrato",
+    "value": 3
+  },
+  {
+    "term1": "associativo",
+    "term2": "legião",
+    "value": 1.75
+  },
+  {
+    "term1": "associativo",
+    "term2": "filiação",
+    "value": 5.5
+  },
+  {
+    "term1": "exuberância",
+    "term2": "abundância",
+    "value": 6.75
+  },
+  {
+    "term1": "férias",
+    "term2": "passar",
+    "value": 3.5
+  },
+  {
+    "term1": "escolhe",
+    "term2": "comparar",
+    "value": 2.75
+  },
+  {
+    "term1": "escolhe",
+    "term2": "decidir",
+    "value": 7
+  },
+  {
+    "term1": "enunciado",
+    "term2": "declarar",
+    "value": 5.5
+  },
+  {
+    "term1": "copatrocinar",
+    "term2": "patrocinador",
+    "value": 6
+  },
+  {
+    "term1": "impedido",
+    "term2": "obstruir",
+    "value": 7.75
+  },
+  {
+    "term1": "impedido",
+    "term2": "obstruir",
+    "value": 7.25
+  },
+  {
+    "term1": "irremovível",
+    "term2": "efetivado",
+    "value": 3.5
+  },
+  {
+    "term1": "estranhos",
+    "term2": "pessoa",
+    "value": 3.75
+  },
+  {
+    "term1": "utilitarismo",
+    "term2": "doutrina",
+    "value": 4.75
+  },
+  {
+    "term1": "propaganda",
+    "term2": "bajulação",
+    "value": 4
+  },
+  {
+    "term1": "não-cidadãos",
+    "term2": "viajante",
+    "value": 1.25
+  },
+  {
+    "term1": "monsenhor",
+    "term2": "padre",
+    "value": 7
+  },
+  {
+    "term1": "referido",
+    "term2": "aplicar",
+    "value": 0.75
+  },
+  {
+    "term1": "referido",
+    "term2": "lembrar",
+    "value": 3.25
+  },
+  {
+    "term1": "macrocósmico",
+    "term2": "largo",
+    "value": 4
+  },
+  {
+    "term1": "funcionalidade",
+    "term2": "praticidade",
+    "value": 5.25
+  },
+  {
+    "term1": "colheradas",
+    "term2": "conteúdo cheio",
+    "value": 4
+  },
+  {
+    "term1": "posto de instrutor",
+    "term2": "posição",
+    "value": 2.75
+  },
+  {
+    "term1": "aprovado",
+    "term2": "autorizar",
+    "value": 7
+  },
+  {
+    "term1": "aprovado",
+    "term2": "carimbo",
+    "value": 4.25
+  },
+  {
+    "term1": "gravadores",
+    "term2": "caixa",
+    "value": 3
+  },
+  {
+    "term1": "magistrados",
+    "term2": "oficial",
+    "value": 5
+  },
+  {
+    "term1": "chefia",
+    "term2": "posição",
+    "value": 4
+  },
+  {
+    "term1": "credenciais",
+    "term2": "documento",
+    "value": 5
+  },
+  {
+    "term1": "credenciais",
+    "term2": "certificado",
+    "value": 4.75
+  },
+  {
+    "term1": "enunciar",
+    "term2": "declarar",
+    "value": 6.5
+  },
+  {
+    "term1": "enunciar",
+    "term2": "circundar",
+    "value": 1
+  },
+  {
+    "term1": "caramelizar",
+    "term2": "converter",
+    "value": 2
+  },
+  {
+    "term1": "coassina",
+    "term2": "validar",
+    "value": 4.25
+  },
+  {
+    "term1": "coassina",
+    "term2": "endossar",
+    "value": 4.5
+  },
+  {
+    "term1": "deformidade",
+    "term2": "aparência",
+    "value": 3.5
+  },
+  {
+    "term1": "responsável",
+    "term2": "causador",
+    "value": 7
+  },
+  {
+    "term1": "incontestável",
+    "term2": "inegável",
+    "value": 7.75
+  },
+  {
+    "term1": "reexaminar",
+    "term2": "avaliar",
+    "value": 5.75
+  },
+  {
+    "term1": "colonizar",
+    "term2": "povoar",
+    "value": 8.25
+  },
+  {
+    "term1": "assistir",
+    "term2": "ajudar",
+    "value": 7.5
+  },
+  {
+    "term1": "religioso",
+    "term2": "pessoa",
+    "value": 3.5
+  },
+  {
+    "term1": "sancionado",
+    "term2": "empossar",
+    "value": 2.5
+  },
+  {
+    "term1": "sancionado",
+    "term2": "costas",
+    "value": 3
+  },
+  {
+    "term1": "sugestionável",
+    "term2": "suscetível",
+    "value": 5
+  },
+  {
+    "term1": "aquecimento",
+    "term2": "proteção",
+    "value": 3.25
+  },
+  {
+    "term1": "aquecimento",
+    "term2": "calor",
+    "value": 4.75
+  },
+  {
+    "term1": "relaciona",
+    "term2": "focar",
+    "value": 0.5
+  },
+  {
+    "term1": "relaciona",
+    "term2": "lembrar",
+    "value": 2.75
+  },
+  {
+    "term1": "cardinalidade",
+    "term2": "número",
+    "value": 3.25
+  },
+  {
+    "term1": "rotacional",
+    "term2": "transformação",
+    "value": 1
+  },
+  {
+    "term1": "rotacional",
+    "term2": "circunvolução",
+    "value": 4.5
+  },
+  {
+    "term1": "totalitarismo",
+    "term2": "político",
+    "value": 3.5
+  },
+  {
+    "term1": "irracionalidade",
+    "term2": "insanidade",
+    "value": 5.5
+  },
+  {
+    "term1": "absorção",
+    "term2": "densidade",
+    "value": 2.75
+  },
+  {
+    "term1": "intracerebral",
+    "term2": "emocional",
+    "value": 2.5
+  },
+  {
+    "term1": "disjunto",
+    "term2": "separar",
+    "value": 7.5
+  },
+  {
+    "term1": "intramuscular",
+    "term2": "poderoso",
+    "value": 1.25
+  },
+  {
+    "term1": "ameaça",
+    "term2": "perigo",
+    "value": 8
+  },
+  {
+    "term1": "decomposição",
+    "term2": "fragmentação",
+    "value": 6.5
+  },
+  {
+    "term1": "decomposição",
+    "term2": "álgebra",
+    "value": 3
+  },
+  {
+    "term1": "autobiografias",
+    "term2": "memória",
+    "value": 5.25
+  },
+  {
+    "term1": "sem caráter",
+    "term2": "ordinário",
+    "value": 7.75
+  },
+  {
+    "term1": "dissidentes",
+    "term2": "consciencioso",
+    "value": 2
+  },
+  {
+    "term1": "subespécie",
+    "term2": "grupo",
+    "value": 5.75
+  },
+  {
+    "term1": "irreproduzível",
+    "term2": "irrepetível",
+    "value": 7.75
+  },
+  {
+    "term1": "coassinado",
+    "term2": "validar",
+    "value": 5.25
+  },
+  {
+    "term1": "coassinado",
+    "term2": "endossar",
+    "value": 3.75
+  },
+  {
+    "term1": "embelezamento",
+    "term2": "expansão",
+    "value": 1
+  },
+  {
+    "term1": "enciclopédico",
+    "term2": "compreensível",
+    "value": 3
+  },
+  {
+    "term1": "imprescindível",
+    "term2": "crucial",
+    "value": 7.25
+  },
+  {
+    "term1": "indispensável",
+    "term2": "necessário",
+    "value": 8
+  },
+  {
+    "term1": "fraturas",
+    "term2": "destruir",
+    "value": 2.5
+  },
+  {
+    "term1": "fraturas",
+    "term2": "corromper",
+    "value": 2
+  },
+  {
+    "term1": "armar cilada",
+    "term2": "caçar",
+    "value": 4.5
+  },
+  {
+    "term1": "engana",
+    "term2": "ludibriar",
+    "value": 8
+  },
+  {
+    "term1": "anamorfose",
+    "term2": "evolução",
+    "value": 2.25
+  },
+  {
+    "term1": "anamorfose",
+    "term2": "cópia",
+    "value": 2
+  },
+  {
+    "term1": "dispersivo",
+    "term2": "distributivo",
+    "value": 2
+  },
+  {
+    "term1": "alisar",
+    "term2": "polir",
+    "value": 6
+  },
+  {
+    "term1": "intérprete",
+    "term2": "pessoa",
+    "value": 3.5
+  },
+  {
+    "term1": "intérprete",
+    "term2": "simbolista",
+    "value": 1.75
+  },
+  {
+    "term1": "prados",
+    "term2": "pastagem",
+    "value": 7.75
+  },
+  {
+    "term1": "obtenção",
+    "term2": "aquisição",
+    "value": 8
+  },
+  {
+    "term1": "não-profissional",
+    "term2": "leigo",
+    "value": 3.25
+  },
+  {
+    "term1": "presenças",
+    "term2": "frequência",
+    "value": 5.75
+  },
+  {
+    "term1": "presenças",
+    "term2": "aparência",
+    "value": 2.75
+  },
+  {
+    "term1": "prorrogação",
+    "term2": "continuidade",
+    "value": 4.75
+  },
+  {
+    "term1": "transbordado",
+    "term2": "transferir",
+    "value": 4
+  },
+  {
+    "term1": "apanhado",
+    "term2": "capturar",
+    "value": 6.25
+  },
+  {
+    "term1": "apanhado",
+    "term2": "ludibriar",
+    "value": 5.5
+  },
+  {
+    "term1": "exclamar",
+    "term2": "chamar",
+    "value": 4.5
+  },
+  {
+    "term1": "exclamar",
+    "term2": "declarar",
+    "value": 5
+  },
+  {
+    "term1": "razoável",
+    "term2": "satisfatório",
+    "value": 6.5
+  },
+  {
+    "term1": "transitável",
+    "term2": "negociável",
+    "value": 5.5
+  },
+  {
+    "term1": "indetetável",
+    "term2": "invisível",
+    "value": 7
+  },
+  {
+    "term1": "indetetável",
+    "term2": "impercetível",
+    "value": 8
+  },
+  {
+    "term1": "suportável",
+    "term2": "tolerável",
+    "value": 8
+  },
+  {
+    "term1": "suposto",
+    "term2": "especular",
+    "value": 4.5
+  },
+  {
+    "term1": "suposto",
+    "term2": "suspeitar",
+    "value": 4.25
+  },
+  {
+    "term1": "transacionar",
+    "term2": "banco",
+    "value": 3.25
+  },
+  {
+    "term1": "sobrevivente",
+    "term2": "pessoa",
+    "value": 3
+  },
+  {
+    "term1": "aumentar",
+    "term2": "crescer",
+    "value": 7
+  },
+  {
+    "term1": "aumentar",
+    "term2": "subir",
+    "value": 6.75
+  },
+  {
+    "term1": "fabricar",
+    "term2": "fazer",
+    "value": 8
+  },
+  {
+    "term1": "inventar",
+    "term2": "pensar",
+    "value": 5.5
+  },
+  {
+    "term1": "parceria",
+    "term2": "parceiro",
+    "value": 4.25
+  },
+  {
+    "term1": "parceria",
+    "term2": "relacionamento",
+    "value": 4
+  },
+  {
+    "term1": "microrganismo",
+    "term2": "organismo",
+    "value": 5.75
+  },
+  {
+    "term1": "impossibilidades",
+    "term2": "intangibilidade",
+    "value": 5.5
+  },
+  {
+    "term1": "reprimir",
+    "term2": "suprimir",
+    "value": 7.25
+  },
+  {
+    "term1": "dimensional",
+    "term2": "multidimensional",
+    "value": 6.25
+  },
+  {
+    "term1": "desempenho",
+    "term2": "universo",
+    "value": 0.5
+  },
+  {
+    "term1": "atuação",
+    "term2": "musical",
+    "value": 4.5
+  },
+  {
+    "term1": "feudalismo",
+    "term2": "organização",
+    "value": 3.5
+  },
+  {
+    "term1": "behaviorista",
+    "term2": "psicólogo",
+    "value": 3.75
+  },
+  {
+    "term1": "interjeição",
+    "term2": "pausa",
+    "value": 1.5
+  },
+  {
+    "term1": "interjeição",
+    "term2": "exclamação",
+    "value": 7.75
+  },
+  {
+    "term1": "consequências",
+    "term2": "posição",
+    "value": 1.25
+  },
+  {
+    "term1": "consequências",
+    "term2": "resultado",
+    "value": 6.75
+  },
+  {
+    "term1": "crianças no pré-escolar",
+    "term2": "criança",
+    "value": 5.25
+  },
+  {
+    "term1": "roupa interior",
+    "term2": "vestuário",
+    "value": 3.5
+  },
+  {
+    "term1": "supervisor de redatores",
+    "term2": "editor",
+    "value": 5
+  },
+  {
+    "term1": "padronizar",
+    "term2": "regular",
+    "value": 6.75
+  },
+  {
+    "term1": "padronizar",
+    "term2": "medir",
+    "value": 3.75
+  },
+  {
+    "term1": "vencedores",
+    "term2": "zurzidor",
+    "value": 4.25
+  },
+  {
+    "term1": "persuasões",
+    "term2": "campanha eleitoral",
+    "value": 3
+  },
+  {
+    "term1": "persuasões",
+    "term2": "crença",
+    "value": 2.5
+  },
+  {
+    "term1": "conformações",
+    "term2": "equilíbrio",
+    "value": 0.5
+  },
+  {
+    "term1": "conformações",
+    "term2": "curvatura",
+    "value": 3.75
+  },
+  {
+    "term1": "seriedade",
+    "term2": "maldade",
+    "value": 2.5
+  },
+  {
+    "term1": "seriedade",
+    "term2": "gravidade",
+    "value": 6
+  },
+  {
+    "term1": "metabolismo",
+    "term2": "orgânico",
+    "value": 3.75
+  },
+  {
+    "term1": "reimpressões",
+    "term2": "reproduzir",
+    "value": 6
+  },
+  {
+    "term1": "reedições",
+    "term2": "publicação",
+    "value": 5.25
+  },
+  {
+    "term1": "replicação",
+    "term2": "procedimento",
+    "value": 4.25
+  },
+  {
+    "term1": "duplicação",
+    "term2": "cópia",
+    "value": 6.75
+  },
+  {
+    "term1": "assalto",
+    "term2": "roubo",
+    "value": 7
+  },
+  {
+    "term1": "sequestro",
+    "term2": "capturar",
+    "value": 6.25
+  },
+  {
+    "term1": "reaquisições",
+    "term2": "comprar",
+    "value": 5.5
+  },
+  {
+    "term1": "compadecido",
+    "term2": "sentir",
+    "value": 3.5
+  },
+  {
+    "term1": "inadequado",
+    "term2": "impróprio",
+    "value": 8.25
+  },
+  {
+    "term1": "inadequado",
+    "term2": "irrelevante",
+    "value": 5.5
+  },
+  {
+    "term1": "vitorioso",
+    "term2": "bem-sucedido",
+    "value": 7.5
+  },
+  {
+    "term1": "vitorioso",
+    "term2": "invicto",
+    "value": 7.25
+  },
+  {
+    "term1": "ligado",
+    "term2": "unir",
+    "value": 7
+  },
+  {
+    "term1": "esfomeado",
+    "term2": "glutão",
+    "value": 6.25
+  },
+  {
+    "term1": "esfomeado",
+    "term2": "faminto",
+    "value": 9.5
+  },
+  {
+    "term1": "inversões",
+    "term2": "anormalidade",
+    "value": 2.5
+  },
+  {
+    "term1": "inversões",
+    "term2": "fenómeno",
+    "value": 1.75
+  },
+  {
+    "term1": "saboroso",
+    "term2": "saboroso",
+    "value": 9.75
+  },
+  {
+    "term1": "vastidão",
+    "term2": "amplitude",
+    "value": 6.5
+  },
+  {
+    "term1": "evidentemente",
+    "term2": "óbvio",
+    "value": 8.25
+  },
+  {
+    "term1": "evidentemente",
+    "term2": "perceptível",
+    "value": 5.75
+  },
+  {
+    "term1": "ressegurado",
+    "term2": "segurar",
+    "value": 5.5
+  },
+  {
+    "term1": "rudeza",
+    "term2": "selvagem",
+    "value": 3.75
+  },
+  {
+    "term1": "rudeza",
+    "term2": "indelicadeza",
+    "value": 8.25
+  },
+  {
+    "term1": "inicializar",
+    "term2": "dividir",
+    "value": 1
+  },
+  {
+    "term1": "inicializar",
+    "term2": "determinar",
+    "value": 2.25
+  },
+  {
+    "term1": "exigência",
+    "term2": "dever",
+    "value": 5.5
+  },
+  {
+    "term1": "necessidade",
+    "term2": "coisa",
+    "value": 2
+  },
+  {
+    "term1": "contorcionistas",
+    "term2": "acrobata",
+    "value": 5.5
+  },
+  {
+    "term1": "disenteria",
+    "term2": "diarreia",
+    "value": 5.25
+  },
+  {
+    "term1": "oclusão",
+    "term2": "trombose",
+    "value": 4.5
+  },
+  {
+    "term1": "ator",
+    "term2": "ator",
+    "value": 7
+  },
+  {
+    "term1": "ulcerar",
+    "term2": "afetar",
+    "value": 5.5
+  },
+  {
+    "term1": "ulcerar",
+    "term2": "mudar",
+    "value": 1.75
+  },
+  {
+    "term1": "exemplificar",
+    "term2": "incorporar",
+    "value": 3.5
+  },
+  {
+    "term1": "exemplificar",
+    "term2": "elaborar",
+    "value": 3.5
+  },
+  {
+    "term1": "artista",
+    "term2": "animador",
+    "value": 4.25
+  },
+  {
+    "term1": "macroeconomistas",
+    "term2": "economista",
+    "value": 5
+  },
+  {
+    "term1": "exploratório",
+    "term2": "consuntivo",
+    "value": 3.75
+  },
+  {
+    "term1": "leitorado",
+    "term2": "cargo",
+    "value": 3.75
+  },
+  {
+    "term1": "automatizar",
+    "term2": "mudar",
+    "value": 2
+  },
+  {
+    "term1": "incorruptível",
+    "term2": "incorrupto",
+    "value": 7.5
+  },
+  {
+    "term1": "exacerbado",
+    "term2": "raiva",
+    "value": 4.75
+  },
+  {
+    "term1": "exacerbado",
+    "term2": "inflamar",
+    "value": 4.75
+  },
+  {
+    "term1": "continuamente",
+    "term2": "intacto",
+    "value": 4.25
+  },
+  {
+    "term1": "cruzados",
+    "term2": "guerreiro",
+    "value": 4.75
+  },
+  {
+    "term1": "cruzados",
+    "term2": "insurgente",
+    "value": 2
+  },
+  {
+    "term1": "formações",
+    "term2": "voo",
+    "value": 2.75
+  },
+  {
+    "term1": "criações",
+    "term2": "arquivo",
+    "value": 2.75
+  },
+  {
+    "term1": "dádivas",
+    "term2": "oferta",
+    "value": 7.5
+  },
+  {
+    "term1": "dádivas",
+    "term2": "dom",
+    "value": 5.25
+  },
+  {
+    "term1": "firme",
+    "term2": "confiável",
+    "value": 5.75
+  },
+  {
+    "term1": "metódico",
+    "term2": "direto",
+    "value": 4.25
+  },
+  {
+    "term1": "impassivelmente",
+    "term2": "voz",
+    "value": 0.75
+  },
+  {
+    "term1": "paradoxal",
+    "term2": "inexplicável",
+    "value": 4.25
+  },
+  {
+    "term1": "enganoso",
+    "term2": "desonesto",
+    "value": 8.25
+  },
+  {
+    "term1": "comissões",
+    "term2": "equipar",
+    "value": 3
+  },
+  {
+    "term1": "encomendas",
+    "term2": "encomenda",
+    "value": 6.5
+  },
+  {
+    "term1": "desocupado",
+    "term2": "ocioso",
+    "value": 7
+  },
+  {
+    "term1": "invendível",
+    "term2": "não-comerciável",
+    "value": 7.75
+  },
+  {
+    "term1": "hipersensibilidade",
+    "term2": "sensibilidade",
+    "value": 6
+  },
+  {
+    "term1": "curiosidade",
+    "term2": "bisbilhotice",
+    "value": 6.5
+  },
+  {
+    "term1": "monogramas",
+    "term2": "símbolo",
+    "value": 6.25
+  },
+  {
+    "term1": "admitir",
+    "term2": "confessar",
+    "value": 8
+  },
+  {
+    "term1": "deflorar",
+    "term2": "desfigurar",
+    "value": 4.5
+  },
+  {
+    "term1": "inovação",
+    "term2": "originalidade",
+    "value": 7.75
+  },
+  {
+    "term1": "impulsão",
+    "term2": "força",
+    "value": 4.25
+  },
+  {
+    "term1": "impulsão",
+    "term2": "impulso",
+    "value": 5.5
+  },
+  {
+    "term1": "unissexual",
+    "term2": "sexual",
+    "value": 4.75
+  },
+  {
+    "term1": "anarquista",
+    "term2": "radical",
+    "value": 3.75
+  },
+  {
+    "term1": "circuncisão",
+    "term2": "banquete",
+    "value": 1.75
+  },
+  {
+    "term1": "colunável",
+    "term2": "pessoa",
+    "value": 3.5
+  },
+  {
+    "term1": "reorganizações",
+    "term2": "reordenação",
+    "value": 7.75
+  },
+  {
+    "term1": "insaciável",
+    "term2": "insatisfeito",
+    "value": 6.75
+  },
+  {
+    "term1": "inter-relacionado",
+    "term2": "inter-relacionar",
+    "value": 6
+  },
+  {
+    "term1": "relacionado",
+    "term2": "associar",
+    "value": 6.5
+  },
+  {
+    "term1": "sintético",
+    "term2": "lógico",
+    "value": 2.75
+  },
+  {
+    "term1": "sepultamento",
+    "term2": "funeral",
+    "value": 5
+  },
+  {
+    "term1": "raptado",
+    "term2": "raptar",
+    "value": 6.5
+  },
+  {
+    "term1": "ruidoso",
+    "term2": "engraçado",
+    "value": 3
+  },
+  {
+    "term1": "barulhento",
+    "term2": "ruidoso",
+    "value": 9
+  },
+  {
+    "term1": "discipulado",
+    "term2": "posição",
+    "value": 3.5
+  },
+  {
+    "term1": "vaporizar",
+    "term2": "evaporar",
+    "value": 6
+  },
+  {
+    "term1": "vaporizar",
+    "term2": "mudar",
+    "value": 3
+  },
+  {
+    "term1": "comemorar",
+    "term2": "relembrar",
+    "value": 5.25
+  },
+  {
+    "term1": "comemorar",
+    "term2": "endereçar",
+    "value": 2.75
+  },
+  {
+    "term1": "personificar",
+    "term2": "incorporar",
+    "value": 6.5
+  },
+  {
+    "term1": "simbolizar",
+    "term2": "tipificar",
+    "value": 5.5
+  },
+  {
+    "term1": "consanguinidade",
+    "term2": "acasalamento",
+    "value": 2
+  },
+  {
+    "term1": "brandura",
+    "term2": "suavidade",
+    "value": 5.25
+  },
+  {
+    "term1": "clemência",
+    "term2": "misericórdia",
+    "value": 6.75
+  },
+  {
+    "term1": "anteposto",
+    "term2": "colocado",
+    "value": 4.25
+  },
+  {
+    "term1": "profético",
+    "term2": "preditivo",
+    "value": 7.5
+  },
+  {
+    "term1": "distante",
+    "term2": "inacessível",
+    "value": 5.25
+  },
+  {
+    "term1": "procurador",
+    "term2": "agente",
+    "value": 5.5
+  },
+  {
+    "term1": "excitações",
+    "term2": "excitação",
+    "value": 9
+  },
+  {
+    "term1": "excitações",
+    "term2": "febre",
+    "value": 3.25
+  },
+  {
+    "term1": "imprudente",
+    "term2": "irrefletido",
+    "value": 6.75
+  },
+  {
+    "term1": "mentira",
+    "term2": "declaração",
+    "value": 3.25
+  },
+  {
+    "term1": "prevaricação",
+    "term2": "transgressão",
+    "value": 6.75
+  },
+  {
+    "term1": "patrocinadores",
+    "term2": "empresário",
+    "value": 1.5
+  },
+  {
+    "term1": "apoiantes",
+    "term2": "força",
+    "value": 2.5
+  },
+  {
+    "term1": "pontuar",
+    "term2": "citar",
+    "value": 2.5
+  },
+  {
+    "term1": "pontuar",
+    "term2": "ponto",
+    "value": 5.75
+  },
+  {
+    "term1": "translocação",
+    "term2": "orgânico",
+    "value": 2.25
+  },
+  {
+    "term1": "translocação",
+    "term2": "procedimento",
+    "value": 2.75
+  },
+  {
+    "term1": "deformar",
+    "term2": "mudar",
+    "value": 4.25
+  },
+  {
+    "term1": "deformar",
+    "term2": "transformar",
+    "value": 4.75
+  },
+  {
+    "term1": "funções",
+    "term2": "atribuível",
+    "value": 3.25
+  },
+  {
+    "term1": "apregoador",
+    "term2": "pregoeiro",
+    "value": 6.5
+  },
+  {
+    "term1": "expelir",
+    "term2": "fazer",
+    "value": 1.25
+  },
+  {
+    "term1": "concertos",
+    "term2": "concerto",
+    "value": 9
+  },
+  {
+    "term1": "reformismo",
+    "term2": "doutrina",
+    "value": 4.75
+  },
+  {
+    "term1": "humedecer",
+    "term2": "regar (com molho)",
+    "value": 5.25
+  },
+  {
+    "term1": "humedecer",
+    "term2": "borrifar",
+    "value": 4.75
+  },
+  {
+    "term1": "inflamação",
+    "term2": "campo",
+    "value": 0.5
+  },
+  {
+    "term1": "mistura",
+    "term2": "misturar",
+    "value": 7.5
+  },
+  {
+    "term1": "coleta",
+    "term2": "esponja",
+    "value": 0.75
+  },
+  {
+    "term1": "coleta",
+    "term2": "armazenar",
+    "value": 4.5
+  },
+  {
+    "term1": "respeitante a",
+    "term2": "envolver",
+    "value": 3.75
+  },
+  {
+    "term1": "desviantemente",
+    "term2": "indireto",
+    "value": 2.75
+  },
+  {
+    "term1": "desonestamente",
+    "term2": "desleal",
+    "value": 5.75
+  },
+  {
+    "term1": "admissão",
+    "term2": "certo",
+    "value": 2.5
+  },
+  {
+    "term1": "representar",
+    "term2": "improvisar",
+    "value": 5.5
+  },
+  {
+    "term1": "realizar",
+    "term2": "igreja",
+    "value": 1.75
+  },
+  {
+    "term1": "fingidores",
+    "term2": "impostor",
+    "value": 5.5
+  },
+  {
+    "term1": "tombado",
+    "term2": "empurrar",
+    "value": 3.75
+  },
+  {
+    "term1": "caído",
+    "term2": "sobre",
+    "value": 2.25
+  },
+  {
+    "term1": "inconsciente",
+    "term2": "inconsciente",
+    "value": 8.75
+  },
+  {
+    "term1": "inconsciente",
+    "term2": "inanimado",
+    "value": 8
+  },
+  {
+    "term1": "insignificante",
+    "term2": "vão",
+    "value": 4.5
+  },
+  {
+    "term1": "imóvel",
+    "term2": "estático",
+    "value": 9
+  },
+  {
+    "term1": "desbloquear",
+    "term2": "jogar",
+    "value": 2.5
+  },
+  {
+    "term1": "desbloquear",
+    "term2": "desimpedir",
+    "value": 5.75
+  },
+  {
+    "term1": "ritmo",
+    "term2": "ritmo alegre",
+    "value": 5.75
+  },
+  {
+    "term1": "significâncias",
+    "term2": "significado",
+    "value": 6.5
+  },
+  {
+    "term1": "acanhado",
+    "term2": "dócil",
+    "value": 2.5
+  },
+  {
+    "term1": "acanhado",
+    "term2": "envergonhado",
+    "value": 7.25
+  },
+  {
+    "term1": "imensamente",
+    "term2": "grande",
+    "value": 5.25
+  },
+  {
+    "term1": "eruptivo",
+    "term2": "ativo",
+    "value": 5.75
+  },
+  {
+    "term1": "eruptivo",
+    "term2": "aquoso",
+    "value": 1.25
+  },
+  {
+    "term1": "travestismo",
+    "term2": "prática",
+    "value": 2.75
+  },
+  {
+    "term1": "monárquico",
+    "term2": "monarquista",
+    "value": 7.75
+  },
+  {
+    "term1": "insultuoso",
+    "term2": "prejudicial",
+    "value": 4.5
+  },
+  {
+    "term1": "cómodas",
+    "term2": "gavetas",
+    "value": 5
+  },
+  {
+    "term1": "cómodas",
+    "term2": "peça fixa",
+    "value": 3
+  },
+  {
+    "term1": "recrutar",
+    "term2": "alistar",
+    "value": 5
+  },
+  {
+    "term1": "despovoar",
+    "term2": "diminuir",
+    "value": 4
+  },
+  {
+    "term1": "direcional",
+    "term2": "líder",
+    "value": 3.5
+  },
+  {
+    "term1": "suspeitar",
+    "term2": "duvidar",
+    "value": 6.75
+  },
+  {
+    "term1": "duvidar",
+    "term2": "incrédulo",
+    "value": 6.25
+  },
+  {
+    "term1": "hipervelocidade",
+    "term2": "velocidade",
+    "value": 6
+  },
+  {
+    "term1": "interdisciplinar",
+    "term2": "rigoroso",
+    "value": 1
+  },
+  {
+    "term1": "não verbalmente",
+    "term2": "numérico",
+    "value": 0.75
+  },
+  {
+    "term1": "pressurizar",
+    "term2": "mudar",
+    "value": 1.75
+  },
+  {
+    "term1": "medidas",
+    "term2": "viscosimetria",
+    "value": 4.75
+  },
+  {
+    "term1": "não funcional",
+    "term2": "degradado",
+    "value": 5
+  },
+  {
+    "term1": "mais forte",
+    "term2": "intenso",
+    "value": 5.25
+  },
+  {
+    "term1": "desmiolado",
+    "term2": "pouco inteligente",
+    "value": 7.5
+  },
+  {
+    "term1": "marinar",
+    "term2": "embeber",
+    "value": 6.25
+  },
+  {
+    "term1": "cargueiro",
+    "term2": "carga",
+    "value": 4.75
+  },
+  {
+    "term1": "aterrorizar",
+    "term2": "coagir",
+    "value": 4
+  },
+  {
+    "term1": "aterrorizar",
+    "term2": "assustar",
+    "value": 7.5
+  },
+  {
+    "term1": "devoto",
+    "term2": "religioso",
+    "value": 7.5
+  },
+  {
+    "term1": "dádiva",
+    "term2": "oferta",
+    "value": 7.5
+  },
+  {
+    "term1": "dádiva",
+    "term2": "prenda",
+    "value": 5.5
+  },
+  {
+    "term1": "diagonal",
+    "term2": "linha",
+    "value": 4
+  },
+  {
+    "term1": "diagonal",
+    "term2": "heterossexual",
+    "value": 0.75
+  },
+  {
+    "term1": "círculo",
+    "term2": "boémio",
+    "value": 3
+  },
+  {
+    "term1": "desconfortável",
+    "term2": "sem conforto",
+    "value": 9.25
+  },
+  {
+    "term1": "desconfortável",
+    "term2": "inquietante",
+    "value": 6.75
+  },
+  {
+    "term1": "hiperligações",
+    "term2": "ligação",
+    "value": 5.75
+  },
+  {
+    "term1": "terapêutico",
+    "term2": "acústico",
+    "value": 2.5
+  },
+  {
+    "term1": "terapêutico",
+    "term2": "saudável",
+    "value": 4.25
+  },
+  {
+    "term1": "depreciar",
+    "term2": "rebaixar",
+    "value": 6.5
+  },
+  {
+    "term1": "inteligência",
+    "term2": "astúcia",
+    "value": 6.75
+  },
+  {
+    "term1": "inteligência",
+    "term2": "agência",
+    "value": 4.25
+  },
+  {
+    "term1": "cinicamente",
+    "term2": "desconfiado",
+    "value": 3.5
+  },
+  {
+    "term1": "autopiloto",
+    "term2": "inconsciência",
+    "value": 3.5
+  },
+  {
+    "term1": "ordenar",
+    "term2": "proibir",
+    "value": 4.75
+  },
+  {
+    "term1": "ordenar",
+    "term2": "comando",
+    "value": 4
+  },
+  {
+    "term1": "reeleições",
+    "term2": "eleição",
+    "value": 5.5
+  },
+  {
+    "term1": "marés",
+    "term2": "boia",
+    "value": 2.75
+  },
+  {
+    "term1": "marés",
+    "term2": "maré baixa",
+    "value": 5.5
+  },
+  {
+    "term1": "transmigrado",
+    "term2": "imigrar",
+    "value": 5.25
+  },
+  {
+    "term1": "inviável",
+    "term2": "impossível",
+    "value": 6
+  },
+  {
+    "term1": "rimador",
+    "term2": "escritor",
+    "value": 5
+  },
+  {
+    "term1": "germânico",
+    "term2": "escandinavo",
+    "value": 4.25
+  },
+  {
+    "term1": "anticancro",
+    "term2": "pessoa",
+    "value": 1.5
+  },
+  {
+    "term1": "vadeação",
+    "term2": "travessia",
+    "value": 3.75
+  },
+  {
+    "term1": "vadeação",
+    "term2": "profundo",
+    "value": 1.5
+  },
+  {
+    "term1": "imperturbável",
+    "term2": "sereno",
+    "value": 7.5
+  },
+  {
+    "term1": "covariante",
+    "term2": "variável",
+    "value": 4
+  },
+  {
+    "term1": "posposição",
+    "term2": "posição",
+    "value": 4
+  },
+  {
+    "term1": "salpicado",
+    "term2": "coberto",
+    "value": 3.5
+  },
+  {
+    "term1": "vistoso",
+    "term2": "ostentoso",
+    "value": 7.25
+  },
+  {
+    "term1": "germinação",
+    "term2": "germinar",
+    "value": 6.25
+  },
+  {
+    "term1": "brotar",
+    "term2": "crescer",
+    "value": 5.5
+  },
+  {
+    "term1": "entrelaçado",
+    "term2": "ponto",
+    "value": 3.25
+  },
+  {
+    "term1": "entrelaçado",
+    "term2": "grinalda",
+    "value": 3.25
+  },
+  {
+    "term1": "hipertexto",
+    "term2": "texto",
+    "value": 5.5
+  },
+  {
+    "term1": "exprimível",
+    "term2": "representável",
+    "value": 4.75
+  },
+  {
+    "term1": "monociclista",
+    "term2": "ciclista",
+    "value": 5.25
+  },
+  {
+    "term1": "espacialidade",
+    "term2": "propriedade",
+    "value": 3.75
+  },
+  {
+    "term1": "acústico",
+    "term2": "remédio",
+    "value": 2.5
+  },
+  {
+    "term1": "pressões",
+    "term2": "problema",
+    "value": 5
+  },
+  {
+    "term1": "pressões",
+    "term2": "tortura",
+    "value": 3.25
+  },
+  {
+    "term1": "resistência",
+    "term2": "divisor",
+    "value": 2.25
+  },
+  {
+    "term1": "pastorado",
+    "term2": "posição",
+    "value": 3.5
+  },
+  {
+    "term1": "vivamente",
+    "term2": "colorido",
+    "value": 4.25
+  },
+  {
+    "term1": "lubrificar",
+    "term2": "mudar",
+    "value": 1.25
+  },
+  {
+    "term1": "lubrificar",
+    "term2": "encher",
+    "value": 2
+  },
+  {
+    "term1": "hilariantemente",
+    "term2": "humorado",
+    "value": 4.25
+  },
+  {
+    "term1": "intercessão",
+    "term2": "oração",
+    "value": 3.25
+  },
+  {
+    "term1": "evangelismo",
+    "term2": "revivalismo",
+    "value": 3.5
+  },
+  {
+    "term1": "solteiro",
+    "term2": "por casar",
+    "value": 8.25
+  },
+  {
+    "term1": "globalizar",
+    "term2": "alargar",
+    "value": 5.5
+  },
+  {
+    "term1": "cofator",
+    "term2": "composto",
+    "value": 3
+  },
+  {
+    "term1": "estimulado",
+    "term2": "animar",
+    "value": 4.25
+  },
+  {
+    "term1": "estimulado",
+    "term2": "mudar",
+    "value": 1.25
+  },
+  {
+    "term1": "registo",
+    "term2": "registar",
+    "value": 5.5
+  },
+  {
+    "term1": "irrealizável",
+    "term2": "impossível",
+    "value": 6.25
+  },
+  {
+    "term1": "dissociações",
+    "term2": "compartimentação",
+    "value": 4.25
+  },
+  {
+    "term1": "dissociações",
+    "term2": "separação",
+    "value": 7.25
+  },
+  {
+    "term1": "cólica",
+    "term2": "mordidela",
+    "value": 2.75
+  },
+  {
+    "term1": "reclamar",
+    "term2": "queixar-se",
+    "value": 7.5
+  },
+  {
+    "term1": "aquietar",
+    "term2": "silenciar",
+    "value": 6.5
+  },
+  {
+    "term1": "aquietar",
+    "term2": "acalmar",
+    "value": 5
+  },
+  {
+    "term1": "transfigurar",
+    "term2": "mudar",
+    "value": 4.75
+  },
+  {
+    "term1": "escassez",
+    "term2": "raridade",
+    "value": 5
+  },
+  {
+    "term1": "corroer",
+    "term2": "degradar-se",
+    "value": 4.25
+  },
+  {
+    "term1": "corrosão",
+    "term2": "corroer",
+    "value": 5.5
+  },
+  {
+    "term1": "assustadoramente",
+    "term2": "pânico",
+    "value": 4.5
+  },
+  {
+    "term1": "copiloto",
+    "term2": "piloto",
+    "value": 5.75
+  },
+  {
+    "term1": "analisado",
+    "term2": "sintetizar",
+    "value": 4.75
+  },
+  {
+    "term1": "analisado",
+    "term2": "pesquisa",
+    "value": 5
+  },
+  {
+    "term1": "partos",
+    "term2": "gravidez",
+    "value": 5.5
+  },
+  {
+    "term1": "reclusão",
+    "term2": "restrição",
+    "value": 5.5
+  },
+  {
+    "term1": "orgulhoso",
+    "term2": "exultante",
+    "value": 5
+  },
+  {
+    "term1": "orgulhoso",
+    "term2": "orgulhoso",
+    "value": 6.75
+  },
+  {
+    "term1": "cómodas",
+    "term2": "gavetas",
+    "value": 5
+  },
+  {
+    "term1": "cómodas",
+    "term2": "assento",
+    "value": 2.25
+  },
+  {
+    "term1": "fluidez",
+    "term2": "finura",
+    "value": 3
+  },
+  {
+    "term1": "fluidez",
+    "term2": "mutabilidade",
+    "value": 5
+  },
+  {
+    "term1": "internacionalizar",
+    "term2": "controlo",
+    "value": 1.5
+  },
+  {
+    "term1": "internacionalizar",
+    "term2": "mudar",
+    "value": 1.75
+  },
+  {
+    "term1": "academicismo",
+    "term2": "tradicionalismo",
+    "value": 4.25
+  },
+  {
+    "term1": "violentamente",
+    "term2": "vigoroso",
+    "value": 4
+  },
+  {
+    "term1": "turbulentamente",
+    "term2": "desordeiramente",
+    "value": 5.25
+  },
+  {
+    "term1": "efetuado",
+    "term2": "realizar",
+    "value": 5.25
+  },
+  {
+    "term1": "efetuado",
+    "term2": "obter",
+    "value": 2.5
+  },
+  {
+    "term1": "subtítulo",
+    "term2": "título",
+    "value": 5.75
+  },
+  {
+    "term1": "zumbido",
+    "term2": "som",
+    "value": 5.75
+  },
+  {
+    "term1": "independências",
+    "term2": "independente",
+    "value": 5.5
+  },
+  {
+    "term1": "independências",
+    "term2": "vitória",
+    "value": 3.5
+  },
+  {
+    "term1": "condutância",
+    "term2": "elétrico",
+    "value": 5.5
+  },
+  {
+    "term1": "descontrolado",
+    "term2": "desenfreado",
+    "value": 7.25
+  },
+  {
+    "term1": "seletivamente",
+    "term2": "exclusivo",
+    "value": 5
+  },
+  {
+    "term1": "seletivamente",
+    "term2": "discriminadamente",
+    "value": 5.75
+  },
+  {
+    "term1": "realizações",
+    "term2": "satisfação",
+    "value": 6.25
+  },
+  {
+    "term1": "realizações",
+    "term2": "realização pessoal",
+    "value": 5.75
+  },
+  {
+    "term1": "premeditação",
+    "term2": "planeamento",
+    "value": 6.5
+  },
+  {
+    "term1": "administração",
+    "term2": "posição",
+    "value": 3.75
+  },
+  {
+    "term1": "residir",
+    "term2": "povoar",
+    "value": 4.5
+  },
+  {
+    "term1": "residir",
+    "term2": "ficar",
+    "value": 5
+  },
+  {
+    "term1": "coeficiente",
+    "term2": "eu",
+    "value": 2.25
+  },
+  {
+    "term1": "algebrista",
+    "term2": "matemático",
+    "value": 6
+  },
+  {
+    "term1": "afogamentos",
+    "term2": "extinguir",
+    "value": 3.75
+  },
+  {
+    "term1": "afogamentos",
+    "term2": "cobrir",
+    "value": 3.75
+  },
+  {
+    "term1": "acampar",
+    "term2": "povoar",
+    "value": 2.75
+  },
+  {
+    "term1": "prostático",
+    "term2": "criticismo",
+    "value": 1.25
+  },
+  {
+    "term1": "prostático",
+    "term2": "rádio",
+    "value": 0.75
+  },
+  {
+    "term1": "transgredir",
+    "term2": "voar",
+    "value": 0.75
+  },
+  {
+    "term1": "transgredir",
+    "term2": "observar",
+    "value": 0.75
+  },
+  {
+    "term1": "remeter",
+    "term2": "transferir",
+    "value": 5.25
+  },
+  {
+    "term1": "orientar",
+    "term2": "reorientar",
+    "value": 6
+  },
+  {
+    "term1": "carimbo",
+    "term2": "marcador",
+    "value": 5.5
+  },
+  {
+    "term1": "carimbo",
+    "term2": "selo",
+    "value": 5.5
+  },
+  {
+    "term1": "instituição",
+    "term2": "organização",
+    "value": 7.75
+  },
+  {
+    "term1": "estabelecimento",
+    "term2": "começo",
+    "value": 3.25
+  },
+  {
+    "term1": "recitante",
+    "term2": "solista",
+    "value": 6
+  },
+  {
+    "term1": "institucionalizar",
+    "term2": "hospitalizar",
+    "value": 6.5
+  },
+  {
+    "term1": "verbalizar",
+    "term2": "entusiasmar-se",
+    "value": 2
+  },
+  {
+    "term1": "verbalizar",
+    "term2": "falar",
+    "value": 8.5
+  },
+  {
+    "term1": "apresentadores",
+    "term2": "comunicador",
+    "value": 4.25
+  },
+  {
+    "term1": "apresentadores",
+    "term2": "representante",
+    "value": 6
+  },
+  {
+    "term1": "reprimir",
+    "term2": "suprimir",
+    "value": 6.25
+  },
+  {
+    "term1": "reprimir",
+    "term2": "oprimir",
+    "value": 8
+  },
+  {
+    "term1": "premissas",
+    "term2": "pressupor",
+    "value": 5.25
+  },
+  {
+    "term1": "premissas",
+    "term2": "premissa",
+    "value": 9.75
+  },
+  {
+    "term1": "ultrapassar",
+    "term2": "superar",
+    "value": 8
+  },
+  {
+    "term1": "jardins",
+    "term2": "lavatório",
+    "value": 0.5
+  },
+  {
+    "term1": "jardins",
+    "term2": "cuidar",
+    "value": 2.75
+  },
+  {
+    "term1": "fosfato",
+    "term2": "bebida",
+    "value": 1.5
+  },
+  {
+    "term1": "fosfato",
+    "term2": "sódio",
+    "value": 4.75
+  },
+  {
+    "term1": "dirigível",
+    "term2": "comércio",
+    "value": 1
+  },
+  {
+    "term1": "tripulante",
+    "term2": "marinheiro",
+    "value": 5.75
+  },
+  {
+    "term1": "contagiosamente",
+    "term2": "úlcera",
+    "value": 2.75
+  },
+  {
+    "term1": "subaquático",
+    "term2": "submarino",
+    "value": 5.5
+  },
+  {
+    "term1": "extensível",
+    "term2": "comprido",
+    "value": 5.75
+  },
+  {
+    "term1": "refresco",
+    "term2": "bebida",
+    "value": 6
+  },
+  {
+    "term1": "honorário suplementar",
+    "term2": "legal",
+    "value": 3.25
+  },
+  {
+    "term1": "adequado",
+    "term2": "oportuno",
+    "value": 5.75
+  },
+  {
+    "term1": "moderador",
+    "term2": "posição",
+    "value": 3.75
+  },
+  {
+    "term1": "modéstia",
+    "term2": "timidez",
+    "value": 5
+  },
+  {
+    "term1": "prejulgar",
+    "term2": "avaliar",
+    "value": 4.75
+  },
+  {
+    "term1": "sem estrada",
+    "term2": "inacessível",
+    "value": 5.25
+  },
+  {
+    "term1": "objetificando",
+    "term2": "mudar",
+    "value": 1.75
+  },
+  {
+    "term1": "explicou",
+    "term2": "clarificar",
+    "value": 6.25
+  },
+  {
+    "term1": "explicou",
+    "term2": "premissa",
+    "value": 3.5
+  },
+  {
+    "term1": "incumprimento",
+    "term2": "negligência",
+    "value": 5.25
+  },
+  {
+    "term1": "acústica",
+    "term2": "tratamento",
+    "value": 2.5
+  },
+  {
+    "term1": "acústica",
+    "term2": "física",
+    "value": 3.5
+  },
+  {
+    "term1": "amarelado",
+    "term2": "cromático",
+    "value": 4.25
+  },
+  {
+    "term1": "calculador",
+    "term2": "estaticista",
+    "value": 4
+  },
+  {
+    "term1": "tabela com operações aritméticas",
+    "term2": "manual",
+    "value": 4
+  },
+  {
+    "term1": "consciente",
+    "term2": "cuidadoso",
+    "value": 5.75
+  },
+  {
+    "term1": "ascendido",
+    "term2": "fazer",
+    "value": 1.25
+  },
+  {
+    "term1": "ascendido",
+    "term2": "trabalhar",
+    "value": 1.5
+  },
+  {
+    "term1": "vegetacional",
+    "term2": "crescimento",
+    "value": 3.25
+  },
+  {
+    "term1": "vegetacional",
+    "term2": "floresta",
+    "value": 4.25
+  },
+  {
+    "term1": "desfavorável",
+    "term2": "adverso",
+    "value": 8.25
+  },
+  {
+    "term1": "desfavorável",
+    "term2": "discriminatório",
+    "value": 4.5
+  },
+  {
+    "term1": "vocalismo",
+    "term2": "voz",
+    "value": 5.5
+  },
+  {
+    "term1": "vocalismo",
+    "term2": "sistema",
+    "value": 2.75
+  },
+  {
+    "term1": "continência",
+    "term2": "autodisciplina",
+    "value": 4.5
+  },
+  {
+    "term1": "desmedido",
+    "term2": "excessivo",
+    "value": 7.5
+  },
+  {
+    "term1": "estágios",
+    "term2": "posição",
+    "value": 3.75
+  },
+  {
+    "term1": "para além da lua",
+    "term2": "celestial",
+    "value": 3.25
+  },
+  {
+    "term1": "idealidade",
+    "term2": "qualidade",
+    "value": 3.25
+  },
+  {
+    "term1": "importância",
+    "term2": "memorável",
+    "value": 5
+  },
+  {
+    "term1": "importância",
+    "term2": "primazia",
+    "value": 4.25
+  },
+  {
+    "term1": "agitadamente",
+    "term2": "mexer",
+    "value": 4.75
+  },
+  {
+    "term1": "discordantemente",
+    "term2": "conflito",
+    "value": 5.5
+  },
+  {
+    "term1": "afetivo",
+    "term2": "emocional",
+    "value": 6
+  },
+  {
+    "term1": "redescoberta",
+    "term2": "descoberta",
+    "value": 5.75
+  },
+  {
+    "term1": "microfósseis",
+    "term2": "fóssil",
+    "value": 6
+  },
+  {
+    "term1": "desconhecimento",
+    "term2": "ignorância",
+    "value": 8
+  },
+  {
+    "term1": "desconhecimento",
+    "term2": "desinformado",
+    "value": 7.25
+  },
+  {
+    "term1": "comando",
+    "term2": "posição",
+    "value": 5.25
+  },
+  {
+    "term1": "autoimunidade",
+    "term2": "autoimune",
+    "value": 6
+  },
+  {
+    "term1": "desprotegido",
+    "term2": "vulnerável",
+    "value": 6.5
+  },
+  {
+    "term1": "recolhido",
+    "term2": "tirar",
+    "value": 3.75
+  },
+  {
+    "term1": "recolhido",
+    "term2": "curral",
+    "value": 2
+  },
+  {
+    "term1": "isolado",
+    "term2": "isolar",
+    "value": 7
+  },
+  {
+    "term1": "ceramista",
+    "term2": "artesão",
+    "value": 5.25
+  },
+  {
+    "term1": "quantidade de uma colher",
+    "term2": "quantidade de um recipiente",
+    "value": 5.25
+  },
+  {
+    "term1": "migratório",
+    "term2": "emigração",
+    "value": 4.5
+  },
+  {
+    "term1": "migratório",
+    "term2": "pessoas",
+    "value": 1.25
+  },
+  {
+    "term1": "novidade",
+    "term2": "novidade",
+    "value": 7.25
+  },
+  {
+    "term1": "circunscreve",
+    "term2": "contentar",
+    "value": 2.5
+  },
+  {
+    "term1": "à deriva",
+    "term2": "sem sentido",
+    "value": 6.5
+  },
+  {
+    "term1": "internacional",
+    "term2": "estrangeiro",
+    "value": 5.25
+  },
+  {
+    "term1": "arquitetar",
+    "term2": "conspirar",
+    "value": 6.75
+  },
+  {
+    "term1": "planear",
+    "term2": "fazer",
+    "value": 4.5
+  },
+  {
+    "term1": "indiscutível",
+    "term2": "incontestável",
+    "value": 7
+  },
+  {
+    "term1": "substitui",
+    "term2": "antecipar",
+    "value": 1.5
+  },
+  {
+    "term1": "indiferença",
+    "term2": "crueldade",
+    "value": 4.75
+  },
+  {
+    "term1": "indiferença",
+    "term2": "despreocupação",
+    "value": 6.25
+  },
+  {
+    "term1": "reformas",
+    "term2": "religioso",
+    "value": 2.75
+  },
+  {
+    "term1": "procriado",
+    "term2": "fazer",
+    "value": 3.5
+  },
+  {
+    "term1": "incentivo",
+    "term2": "motivação",
+    "value": 6.25
+  },
+  {
+    "term1": "induzimento",
+    "term2": "causar",
+    "value": 3.5
+  },
+  {
+    "term1": "santificar",
+    "term2": "lustrar",
+    "value": 3.75
+  },
+  {
+    "term1": "santificar",
+    "term2": "declarar",
+    "value": 3
+  },
+  {
+    "term1": "eficácia",
+    "term2": "potente",
+    "value": 4.75
+  },
+  {
+    "term1": "retardador",
+    "term2": "químico",
+    "value": 2.75
+  },
+  {
+    "term1": "opressor",
+    "term2": "nazi",
+    "value": 5.25
+  },
+  {
+    "term1": "impreciso",
+    "term2": "inexato",
+    "value": 8.25
+  },
+  {
+    "term1": "proclamador",
+    "term2": "aclamar",
+    "value": 3.5
+  },
+  {
+    "term1": "proclamador",
+    "term2": "contar",
+    "value": 3.5
+  },
+  {
+    "term1": "adocicado",
+    "term2": "doce",
+    "value": 6.25
+  },
+  {
+    "term1": "inútil",
+    "term2": "improdutivo",
+    "value": 6
+  },
+  {
+    "term1": "seguidor",
+    "term2": "seguir",
+    "value": 5.5
+  },
+  {
+    "term1": "seguidor",
+    "term2": "crente",
+    "value": 4.75
+  },
+  {
+    "term1": "travessias",
+    "term2": "viajar",
+    "value": 5.25
+  },
+  {
+    "term1": "travessias",
+    "term2": "esquiar",
+    "value": 3
+  },
+  {
+    "term1": "pedidos",
+    "term2": "convite",
+    "value": 5
+  },
+  {
+    "term1": "buraco para poste",
+    "term2": "buraco",
+    "value": 5.25
+  },
+  {
+    "term1": "não iluminado",
+    "term2": "escuro",
+    "value": 7.75
+  },
+  {
+    "term1": "consignar",
+    "term2": "abandonar",
+    "value": 2.25
+  },
+  {
+    "term1": "consignar",
+    "term2": "confiar",
+    "value": 6
+  },
+  {
+    "term1": "comprável",
+    "term2": "disponível",
+    "value": 4.75
+  },
+  {
+    "term1": "subornável",
+    "term2": "corrupto",
+    "value": 4.5
+  },
+  {
+    "term1": "abandono",
+    "term2": "ausência",
+    "value": 4.25
+  },
+  {
+    "term1": "peste",
+    "term2": "praga",
+    "value": 7.5
+  },
+  {
+    "term1": "peste",
+    "term2": "doença",
+    "value": 5.5
+  },
+  {
+    "term1": "fatidicamente",
+    "term2": "divindade",
+    "value": 2.25
+  },
+  {
+    "term1": "estranhamente",
+    "term2": "sobrenatural",
+    "value": 2.75
+  },
+  {
+    "term1": "antagonista",
+    "term2": "pessoa",
+    "value": 3.25
+  },
+  {
+    "term1": "antagonista",
+    "term2": "músculo",
+    "value": 4
+  },
+  {
+    "term1": "puritanismo",
+    "term2": "severidade",
+    "value": 3
+  },
+  {
+    "term1": "sem lucro",
+    "term2": "sem recompensa",
+    "value": 4.75
+  },
+  {
+    "term1": "personalizar",
+    "term2": "produzir",
+    "value": 3.5
+  },
+  {
+    "term1": "personalizar",
+    "term2": "mudar",
+    "value": 3.75
+  },
+  {
+    "term1": "insurrecional",
+    "term2": "conflito",
+    "value": 3.75
+  },
+  {
+    "term1": "álgebras",
+    "term2": "vetor",
+    "value": 3.25
+  },
+  {
+    "term1": "monotonia",
+    "term2": "constância",
+    "value": 3.75
+  },
+  {
+    "term1": "monotonia",
+    "term2": "invariabilidade",
+    "value": 5.5
+  },
+  {
+    "term1": "subarrendar",
+    "term2": "arrendar",
+    "value": 5
+  },
+  {
+    "term1": "principado",
+    "term2": "domínio",
+    "value": 4.5
+  },
+  {
+    "term1": "classe",
+    "term2": "posição",
+    "value": 4.5
+  },
+  {
+    "term1": "desinibido",
+    "term2": "franco",
+    "value": 5.5
+  },
+  {
+    "term1": "alferes",
+    "term2": "tenente",
+    "value": 5.25
+  },
+  {
+    "term1": "absorver",
+    "term2": "assimilar",
+    "value": 5.75
+  },
+  {
+    "term1": "absorver",
+    "term2": "aprender",
+    "value": 5.5
+  },
+  {
+    "term1": "conflagração",
+    "term2": "fogo",
+    "value": 5.75
+  },
+  {
+    "term1": "condescendente",
+    "term2": "ato",
+    "value": 3.5
+  },
+  {
+    "term1": "putrefações",
+    "term2": "apodrecimento",
+    "value": 6.5
+  },
+  {
+    "term1": "decomposições",
+    "term2": "álgebra",
+    "value": 2.75
+  },
+  {
+    "term1": "obstrutivo",
+    "term2": "preventivo",
+    "value": 2.75
+  },
+  {
+    "term1": "inteligências",
+    "term2": "cérebro",
+    "value": 4
+  },
+  {
+    "term1": "inteligências",
+    "term2": "exército",
+    "value": 3.25
+  },
+  {
+    "term1": "falta de retidão",
+    "term2": "característica",
+    "value": 4
+  },
+  {
+    "term1": "põe em perigo",
+    "term2": "existir",
+    "value": 2.25
+  },
+  {
+    "term1": "habilidade",
+    "term2": "domínio",
+    "value": 4
+  },
+  {
+    "term1": "inabordável",
+    "term2": "inadmissível",
+    "value": 3.75
+  },
+  {
+    "term1": "baixinho",
+    "term2": "baixo",
+    "value": 7.25
+  },
+  {
+    "term1": "desertores",
+    "term2": "desistente",
+    "value": 6
+  },
+  {
+    "term1": "engenharia",
+    "term2": "projeto",
+    "value": 3
+  },
+  {
+    "term1": "engenharia",
+    "term2": "plano",
+    "value": 2.75
+  },
+  {
+    "term1": "provisoriamente",
+    "term2": "condicional",
+    "value": 2.5
+  },
+  {
+    "term1": "subordinação",
+    "term2": "relação",
+    "value": 3.25
+  },
+  {
+    "term1": "subordinação",
+    "term2": "dependência",
+    "value": 5
+  },
+  {
+    "term1": "cofundador",
+    "term2": "fundador",
+    "value": 6
+  },
+  {
+    "term1": "sociedade",
+    "term2": "associação",
+    "value": 5.75
+  },
+  {
+    "term1": "filiação",
+    "term2": "relacionamento",
+    "value": 4.75
+  },
+  {
+    "term1": "bordados",
+    "term2": "tapeçaria",
+    "value": 5.25
+  },
+  {
+    "term1": "adornos",
+    "term2": "alargamento",
+    "value": 1.5
+  },
+  {
+    "term1": "americanizar",
+    "term2": "mudar",
+    "value": 2.25
+  },
+  {
+    "term1": "tutela",
+    "term2": "posição",
+    "value": 3
+  },
+  {
+    "term1": "unilateralista",
+    "term2": "defensor",
+    "value": 3.25
+  },
+  {
+    "term1": "fora do padrão",
+    "term2": "medida",
+    "value": 2
+  },
+  {
+    "term1": "caldeira",
+    "term2": "aquecedor",
+    "value": 6
+  },
+  {
+    "term1": "evacuado",
+    "term2": "mover",
+    "value": 3.25
+  },
+  {
+    "term1": "esvaziado",
+    "term2": "vazio",
+    "value": 5
+  },
+  {
+    "term1": "procedimento",
+    "term2": "programa",
+    "value": 3.5
+  },
+  {
+    "term1": "Bretanha",
+    "term2": "França",
+    "value": 4.75
+  },
+  {
+    "term1": "feitos",
+    "term2": "realização",
+    "value": 6.5
+  },
+  {
+    "term1": "desempenhos",
+    "term2": "equitação",
+    "value": 2.5
+  },
+  {
+    "term1": "superar",
+    "term2": "berrar",
+    "value": 2.5
+  },
+  {
+    "term1": "microcircuito",
+    "term2": "chip",
+    "value": 4.5
+  },
+  {
+    "term1": "vorazmente",
+    "term2": "glutão",
+    "value": 3.75
+  },
+  {
+    "term1": "vorazmente",
+    "term2": "ávido",
+    "value": 3.5
+  },
+  {
+    "term1": "intramolecular",
+    "term2": "molar",
+    "value": 0.5
+  },
+  {
+    "term1": "hospitalizar",
+    "term2": "internar",
+    "value": 6.25
+  },
+  {
+    "term1": "distinguir",
+    "term2": "discriminar",
+    "value": 6
+  },
+  {
+    "term1": "distinguir",
+    "term2": "sexo",
+    "value": 2.5
+  },
+  {
+    "term1": "reprodutivo",
+    "term2": "fértil",
+    "value": 5.25
+  },
+  {
+    "term1": "dourado",
+    "term2": "revestir",
+    "value": 2.5
+  },
+  {
+    "term1": "favorável",
+    "term2": "lisonjeiro",
+    "value": 3.25
+  },
+  {
+    "term1": "procriação",
+    "term2": "geração",
+    "value": 5.75
+  },
+  {
+    "term1": "prorrogações",
+    "term2": "adiamento",
+    "value": 8.75
+  },
+  {
+    "term1": "prorrogações",
+    "term2": "extensão",
+    "value": 6.5
+  },
+  {
+    "term1": "detetável",
+    "term2": "percetível",
+    "value": 8
+  },
+  {
+    "term1": "detetável",
+    "term2": "visível",
+    "value": 8
+  },
+  {
+    "term1": "contraceção",
+    "term2": "controlo",
+    "value": 4.75
+  },
+  {
+    "term1": "exuberância",
+    "term2": "abundância",
+    "value": 6.25
+  },
+  {
+    "term1": "enfurecer",
+    "term2": "raiva",
+    "value": 5.5
+  },
+  {
+    "term1": "incensar",
+    "term2": "odorizar",
+    "value": 6.5
+  },
+  {
+    "term1": "proibido",
+    "term2": "ilegal",
+    "value": 7.5
+  },
+  {
+    "term1": "bordadores",
+    "term2": "bordadeira",
+    "value": 7.5
+  },
+  {
+    "term1": "bombardeado",
+    "term2": "ataque",
+    "value": 4.25
+  },
+  {
+    "term1": "desfavor político",
+    "term2": "desfavor",
+    "value": 5
+  },
+  {
+    "term1": "selva",
+    "term2": "mato",
+    "value": 6.25
+  },
+  {
+    "term1": "decapitado",
+    "term2": "guilhotina",
+    "value": 5.25
+  },
+  {
+    "term1": "decapitado",
+    "term2": "sem cabeça",
+    "value": 6.75
+  },
+  {
+    "term1": "microflora",
+    "term2": "micro-organismo",
+    "value": 6
+  },
+  {
+    "term1": "aprovação",
+    "term2": "bênção",
+    "value": 5.5
+  },
+  {
+    "term1": "aceitação",
+    "term2": "reconhecimento",
+    "value": 5.5
+  },
+  {
+    "term1": "desafortunado",
+    "term2": "prisioneiro",
+    "value": 3.25
+  },
+  {
+    "term1": "desafortunado",
+    "term2": "preto",
+    "value": 0.25
+  },
+  {
+    "term1": "refutado",
+    "term2": "contrapor",
+    "value": 4.75
+  },
+  {
+    "term1": "refutado",
+    "term2": "contestar",
+    "value": 6
+  },
+  {
+    "term1": "verdejante",
+    "term2": "descolorar",
+    "value": 1.75
+  },
+  {
+    "term1": "verdejante",
+    "term2": "esmeralda",
+    "value": 5.25
+  },
+  {
+    "term1": "importâncias",
+    "term2": "reputação",
+    "value": 3
+  },
+  {
+    "term1": "importâncias",
+    "term2": "negócio",
+    "value": 4.75
+  },
+  {
+    "term1": "autoimune",
+    "term2": "portador",
+    "value": 2
+  },
+  {
+    "term1": "autoimune",
+    "term2": "livre de",
+    "value": 5.75
+  },
+  {
+    "term1": "circum-navegações",
+    "term2": "viajar",
+    "value": 5.75
+  },
+  {
+    "term1": "inter-relação",
+    "term2": "psicodinâmica",
+    "value": 2.5
+  },
+  {
+    "term1": "monoatómico",
+    "term2": "pequeno",
+    "value": 5
+  },
+  {
+    "term1": "monoatómico",
+    "term2": "termonuclear",
+    "value": 3
+  },
+  {
+    "term1": "indefinível",
+    "term2": "indefinido",
+    "value": 6
+  },
+  {
+    "term1": "catalogado",
+    "term2": "pôr por ordem",
+    "value": 5.25
+  },
+  {
+    "term1": "catalogado",
+    "term2": "classificado",
+    "value": 6
+  },
+  {
+    "term1": "heterossexismo",
+    "term2": "discriminação",
+    "value": 7
+  },
+  {
+    "term1": "infligido",
+    "term2": "intrometer",
+    "value": 4.5
+  },
+  {
+    "term1": "pregação",
+    "term2": "evangelizar",
+    "value": 5.75
+  },
+  {
+    "term1": "pregação",
+    "term2": "pregar",
+    "value": 6.75
+  },
+  {
+    "term1": "renovador",
+    "term2": "benfeitor",
+    "value": 3
+  },
+  {
+    "term1": "suplemento",
+    "term2": "acessório",
+    "value": 6
+  },
+  {
+    "term1": "puritanismo",
+    "term2": "modéstia",
+    "value": 2.75
+  },
+  {
+    "term1": "combustado",
+    "term2": "queimar",
+    "value": 6
+  },
+  {
+    "term1": "sussurrar",
+    "term2": "som",
+    "value": 5.75
+  },
+  {
+    "term1": "intersetado",
+    "term2": "alcançar",
+    "value": 5
+  },
+  {
+    "term1": "inabalavelmente",
+    "term2": "hesitar",
+    "value": 0.5
+  },
+  {
+    "term1": "interlíngua",
+    "term2": "língua",
+    "value": 6
+  },
+  {
+    "term1": "bandeira nacional francesa",
+    "term2": "bandeira",
+    "value": 6
+  },
+  {
+    "term1": "ficticiamente",
+    "term2": "irreal",
+    "value": 7.25
+  },
+  {
+    "term1": "ficticiamente",
+    "term2": "contrafeito",
+    "value": 3.5
+  },
+  {
+    "term1": "lânguido",
+    "term2": "enfraquecer",
+    "value": 5.75
+  },
+  {
+    "term1": "galope",
+    "term2": "correr",
+    "value": 6.25
+  },
+  {
+    "term1": "sulfúrico",
+    "term2": "processo",
+    "value": 1.75
+  },
+  {
+    "term1": "sulfúrico",
+    "term2": "sulfureto",
+    "value": 4.25
+  },
+  {
+    "term1": "trilateral",
+    "term2": "recíproco",
+    "value": 2.5
+  },
+  {
+    "term1": "trilateral",
+    "term2": "isósceles",
+    "value": 5.25
+  },
+  {
+    "term1": "delimitações",
+    "term2": "propriedade",
+    "value": 3.25
+  },
+  {
+    "term1": "gestão",
+    "term2": "administração",
+    "value": 6.75
+  },
+  {
+    "term1": "gestão",
+    "term2": "finanças",
+    "value": 5.75
+  },
+  {
+    "term1": "microficha",
+    "term2": "microfilme",
+    "value": 5
+  },
+  {
+    "term1": "medicar",
+    "term2": "impregnar",
+    "value": 2.75
+  },
+  {
+    "term1": "medicar",
+    "term2": "tratar",
+    "value": 5.25
+  },
+  {
+    "term1": "subgrupo",
+    "term2": "grupo",
+    "value": 6.5
+  },
+  {
+    "term1": "subgrupo",
+    "term2": "bancada",
+    "value": 3.25
+  },
+  {
+    "term1": "normalizar",
+    "term2": "normalizar",
+    "value": 9.5
+  },
+  {
+    "term1": "irreligioso",
+    "term2": "não-observador",
+    "value": 5.25
+  },
+  {
+    "term1": "calunioso",
+    "term2": "prejudicial",
+    "value": 5.25
+  },
+  {
+    "term1": "microbiólogo",
+    "term2": "virologista",
+    "value": 5.5
+  },
+  {
+    "term1": "evitar",
+    "term2": "derrotar",
+    "value": 2.25
+  },
+  {
+    "term1": "rodear",
+    "term2": "atacar",
+    "value": 4.5
+  },
+  {
+    "term1": "revolucionar",
+    "term2": "doutrinar",
+    "value": 3
+  },
+  {
+    "term1": "revolucionar",
+    "term2": "mudar",
+    "value": 5.25
+  },
+  {
+    "term1": "distinto",
+    "term2": "separado",
+    "value": 5.5
+  },
+  {
+    "term1": "protuberância",
+    "term2": "obstáculo",
+    "value": 5
+  },
+  {
+    "term1": "protuberância",
+    "term2": "forma",
+    "value": 3.5
+  },
+  {
+    "term1": "feitiço",
+    "term2": "feitiçaria",
+    "value": 6.25
+  },
+  {
+    "term1": "localidade",
+    "term2": "cenário",
+    "value": 3.5
+  },
+  {
+    "term1": "desdenhoso",
+    "term2": "desrespeitoso",
+    "value": 6.25
+  },
+  {
+    "term1": "novo enterro",
+    "term2": "enterro",
+    "value": 6.5
+  },
+  {
+    "term1": "sem caminho",
+    "term2": "inacessível",
+    "value": 6.25
+  },
+  {
+    "term1": "amotinado",
+    "term2": "rebelar",
+    "value": 6.25
+  },
+  {
+    "term1": "imprevisto",
+    "term2": "inesperado",
+    "value": 8
+  },
+  {
+    "term1": "helicoidal",
+    "term2": "enrolado",
+    "value": 4.5
+  },
+  {
+    "term1": "carbonatar",
+    "term2": "processo",
+    "value": 2.75
+  },
+  {
+    "term1": "carbonatar",
+    "term2": "mudar",
+    "value": 2.25
+  },
+  {
+    "term1": "distúrbios",
+    "term2": "magnético",
+    "value": 1
+  },
+  {
+    "term1": "distúrbios",
+    "term2": "agitação",
+    "value": 6.25
+  },
+  {
+    "term1": "macarthismo",
+    "term2": "caça às bruxas",
+    "value": 4.75
+  },
+  {
+    "term1": "titilado",
+    "term2": "agradar",
+    "value": 4.25
+  },
+  {
+    "term1": "titilado",
+    "term2": "coceira",
+    "value": 5.25
+  },
+  {
+    "term1": "fetichismo",
+    "term2": "crença",
+    "value": 4
+  },
+  {
+    "term1": "indiferentemente",
+    "term2": "desinteressado",
+    "value": 6
+  },
+  {
+    "term1": "indiferentemente",
+    "term2": "despreocupado",
+    "value": 5.25
+  },
+  {
+    "term1": "malandrice",
+    "term2": "espírito travesso",
+    "value": 6.25
+  },
+  {
+    "term1": "paralelizar",
+    "term2": "colocar",
+    "value": 2.75
+  },
+  {
+    "term1": "fracionar",
+    "term2": "separar",
+    "value": 6.25
+  },
+  {
+    "term1": "presidência",
+    "term2": "posição",
+    "value": 4
+  },
+  {
+    "term1": "completude",
+    "term2": "limite",
+    "value": 3.25
+  },
+  {
+    "term1": "berrar",
+    "term2": "gritar",
+    "value": 7.5
+  },
+  {
+    "term1": "destruidores",
+    "term2": "aniquilador",
+    "value": 7.5
+  },
+  {
+    "term1": "contratorpedeiro",
+    "term2": "navio de guerra",
+    "value": 6.25
+  },
+  {
+    "term1": "reconsagrado",
+    "term2": "oferecer",
+    "value": 3.5
+  },
+  {
+    "term1": "seguramente",
+    "term2": "assegurar",
+    "value": 5.25
+  },
+  {
+    "term1": "inconvertível",
+    "term2": "incomutável",
+    "value": 5
+  },
+  {
+    "term1": "insatisfatório",
+    "term2": "descontente",
+    "value": 4.75
+  },
+  {
+    "term1": "semeador",
+    "term2": "pessoa",
+    "value": 3.25
+  },
+  {
+    "term1": "semeadora",
+    "term2": "mecânico",
+    "value": 4
+  },
+  {
+    "term1": "prospetor",
+    "term2": "garimpeiro",
+    "value": 5.75
+  },
+  {
+    "term1": "liderança",
+    "term2": "leme",
+    "value": 5.25
+  },
+  {
+    "term1": "liderança",
+    "term2": "elevado",
+    "value": 4.75
+  },
+  {
+    "term1": "assassinado",
+    "term2": "matar",
+    "value": 7.25
+  },
+  {
+    "term1": "assassinado",
+    "term2": "difamar",
+    "value": 2.75
+  },
+  {
+    "term1": "considerável",
+    "term2": "significante",
+    "value": 6.75
+  },
+  {
+    "term1": "cautelosamente",
+    "term2": "pastor",
+    "value": 2.5
+  },
+  {
+    "term1": "protetoramente",
+    "term2": "patrulha",
+    "value": 3.5
+  },
+  {
+    "term1": "acessível",
+    "term2": "alcançável",
+    "value": 7.75
+  },
+  {
+    "term1": "acessível",
+    "term2": "compreensível",
+    "value": 5.75
+  },
+  {
+    "term1": "interconetividade",
+    "term2": "conexão",
+    "value": 6.25
+  },
+  {
+    "term1": "autoplastia",
+    "term2": "enxerto",
+    "value": 5
+  },
+  {
+    "term1": "antagonizar",
+    "term2": "perturbar",
+    "value": 4.75
+  },
+  {
+    "term1": "antagonizar",
+    "term2": "agir",
+    "value": 4.25
+  },
+  {
+    "term1": "brando",
+    "term2": "calmo",
+    "value": 7.75
+  },
+  {
+    "term1": "desconfiado",
+    "term2": "cínico",
+    "value": 4.75
+  },
+  {
+    "term1": "democratizar",
+    "term2": "mudança",
+    "value": 3
+  },
+  {
+    "term1": "timidez",
+    "term2": "reservado",
+    "value": 6
+  },
+  {
+    "term1": "impiedosamente",
+    "term2": "apático",
+    "value": 3.25
+  },
+  {
+    "term1": "sensualista",
+    "term2": "epicurista",
+    "value": 3.25
+  },
+  {
+    "term1": "concordância",
+    "term2": "consenso",
+    "value": 7
+  },
+  {
+    "term1": "concordância",
+    "term2": "ordem",
+    "value": 4
+  },
+  {
+    "term1": "promíscuo",
+    "term2": "impuro",
+    "value": 5
+  },
+  {
+    "term1": "promíscuo",
+    "term2": "indiscriminado",
+    "value": 3.5
+  },
+  {
+    "term1": "animadamente",
+    "term2": "emoção",
+    "value": 4.75
+  },
+  {
+    "term1": "animadamente",
+    "term2": "excitar",
+    "value": 5.5
+  },
+  {
+    "term1": "carreirismo",
+    "term2": "praticar",
+    "value": 2.75
+  },
+  {
+    "term1": "remontar",
+    "term2": "voltar",
+    "value": 5.25
+  },
+  {
+    "term1": "internacionalidade",
+    "term2": "escopo",
+    "value": 3.25
+  },
+  {
+    "term1": "consultivo",
+    "term2": "aviso",
+    "value": 5
+  },
+  {
+    "term1": "consultivo",
+    "term2": "informativo",
+    "value": 5.25
+  },
+  {
+    "term1": "enunciar",
+    "term2": "declarar",
+    "value": 6.75
+  },
+  {
+    "term1": "prosperar",
+    "term2": "fortalecer",
+    "value": 5.75
+  },
+  {
+    "term1": "assistência",
+    "term2": "facilitação",
+    "value": 5.5
+  },
+  {
+    "term1": "erros",
+    "term2": "transgredir",
+    "value": 4.5
+  },
+  {
+    "term1": "combustar",
+    "term2": "explodir",
+    "value": 5.5
+  },
+  {
+    "term1": "combustar",
+    "term2": "arder",
+    "value": 8.25
+  },
+  {
+    "term1": "excitação",
+    "term2": "excitação",
+    "value": 8
+  },
+  {
+    "term1": "excitação",
+    "term2": "excitante",
+    "value": 6.5
+  },
+  {
+    "term1": "chantageado",
+    "term2": "extorquir",
+    "value": 5.25
+  },
+  {
+    "term1": "evitar",
+    "term2": "trapacear",
+    "value": 2.25
+  },
+  {
+    "term1": "beliche",
+    "term2": "cama",
+    "value": 4.75
+  },
+  {
+    "term1": "trabalhador",
+    "term2": "contratar",
+    "value": 4.5
+  },
+  {
+    "term1": "reitoria",
+    "term2": "posição",
+    "value": 3
+  },
+  {
+    "term1": "deliberado",
+    "term2": "intencionar",
+    "value": 5
+  },
+  {
+    "term1": "planeado",
+    "term2": "mental",
+    "value": 4.25
+  },
+  {
+    "term1": "comportamental",
+    "term2": "ação",
+    "value": 4.5
+  },
+  {
+    "term1": "comportamental",
+    "term2": "decência",
+    "value": 2.75
+  },
+  {
+    "term1": "defraudamento",
+    "term2": "burlar",
+    "value": 6.5
+  },
+  {
+    "term1": "procuradores",
+    "term2": "burocrata",
+    "value": 3
+  },
+  {
+    "term1": "procuradores",
+    "term2": "agente",
+    "value": 4.5
+  },
+  {
+    "term1": "ajudas",
+    "term2": "recurso",
+    "value": 3.75
+  },
+  {
+    "term1": "ajudas",
+    "term2": "recurso",
+    "value": 3.75
+  },
+  {
+    "term1": "sem divisão",
+    "term2": "liso",
+    "value": 3.25
+  },
+  {
+    "term1": "implantações",
+    "term2": "colocação",
+    "value": 4.25
+  },
+  {
+    "term1": "implantações",
+    "term2": "procedimento",
+    "value": 3.5
+  },
+  {
+    "term1": "progresso",
+    "term2": "navegante",
+    "value": 1
+  },
+  {
+    "term1": "progresso",
+    "term2": "encorajamento",
+    "value": 4.25
+  },
+  {
+    "term1": "translocação",
+    "term2": "transferir",
+    "value": 5.75
+  },
+  {
+    "term1": "coarguidos",
+    "term2": "corréu",
+    "value": 5.75
+  },
+  {
+    "term1": "monárquico",
+    "term2": "antidemocrático",
+    "value": 4.75
+  },
+  {
+    "term1": "traidor",
+    "term2": "desleal",
+    "value": 6.25
+  },
+  {
+    "term1": "soldados escoceses",
+    "term2": "soldado",
+    "value": 6
+  },
+  {
+    "term1": "escocês do norte",
+    "term2": "escocês",
+    "value": 7
+  },
+  {
+    "term1": "sintático",
+    "term2": "plano",
+    "value": 0.75
+  },
+  {
+    "term1": "reproduzível",
+    "term2": "duplicável",
+    "value": 6.75
+  },
+  {
+    "term1": "monopolista",
+    "term2": "pessoa",
+    "value": 3
+  },
+  {
+    "term1": "comportamento",
+    "term2": "maneira",
+    "value": 5.75
+  },
+  {
+    "term1": "telhadores",
+    "term2": "telhador",
+    "value": 6.25
+  },
+  {
+    "term1": "melhorar",
+    "term2": "aliviar",
+    "value": 5.75
+  },
+  {
+    "term1": "melhorar",
+    "term2": "melhoria",
+    "value": 5.5
+  },
+  {
+    "term1": "perito",
+    "term2": "investigador",
+    "value": 6.5
+  },
+  {
+    "term1": "condenando",
+    "term2": "condenar",
+    "value": 6.5
+  },
+  {
+    "term1": "pré-adolescente",
+    "term2": "jovem",
+    "value": 6.25
+  },
+  {
+    "term1": "representável",
+    "term2": "representacional",
+    "value": 6.5
+  },
+  {
+    "term1": "estoico",
+    "term2": "fleumático",
+    "value": 6.25
+  },
+  {
+    "term1": "dinástico",
+    "term2": "governante",
+    "value": 4.75
+  },
+  {
+    "term1": "hinduísmo",
+    "term2": "religião",
+    "value": 5.5
+  },
+  {
+    "term1": "pioneiro",
+    "term2": "guia",
+    "value": 2.5
+  },
+  {
+    "term1": "românico",
+    "term2": "italiano",
+    "value": 5
+  },
+  {
+    "term1": "sobreposto",
+    "term2": "colocar",
+    "value": 4.75
+  },
+  {
+    "term1": "sufocamento",
+    "term2": "matar",
+    "value": 5
+  },
+  {
+    "term1": "refinaria",
+    "term2": "planta",
+    "value": 4.5
+  },
+  {
+    "term1": "industrializar",
+    "term2": "mudança",
+    "value": 2.5
+  },
+  {
+    "term1": "inexpressivo",
+    "term2": "taciturno",
+    "value": 5.5
+  },
+  {
+    "term1": "censura",
+    "term2": "militar",
+    "value": 4
+  },
+  {
+    "term1": "censura",
+    "term2": "eliminação",
+    "value": 4.5
+  },
+  {
+    "term1": "tricolor",
+    "term2": "bandeira",
+    "value": 4.5
+  },
+  {
+    "term1": "tricolor",
+    "term2": "colorido",
+    "value": 6.25
+  },
+  {
+    "term1": "entrelaça",
+    "term2": "segurar",
+    "value": 2.75
+  },
+  {
+    "term1": "entrelaça",
+    "term2": "unir",
+    "value": 4.75
+  },
+  {
+    "term1": "personificar",
+    "term2": "encarnar",
+    "value": 8
+  },
+  {
+    "term1": "personificar",
+    "term2": "representar",
+    "value": 6.25
+  },
+  {
+    "term1": "imobilização",
+    "term2": "restrição",
+    "value": 5.75
+  },
+  {
+    "term1": "imobilização",
+    "term2": "preservação",
+    "value": 4.75
+  },
+  {
+    "term1": "subsequências",
+    "term2": "resultado",
+    "value": 3.75
+  },
+  {
+    "term1": "circuncisões",
+    "term2": "ritual",
+    "value": 4.25
+  },
+  {
+    "term1": "circuncisões",
+    "term2": "dia",
+    "value": 3
+  },
+  {
+    "term1": "bibliografias",
+    "term2": "lista",
+    "value": 4.25
+  },
+  {
+    "term1": "desnecessário",
+    "term2": "não essencial",
+    "value": 7.5
+  },
+  {
+    "term1": "réplicas",
+    "term2": "resposta",
+    "value": 7.25
+  },
+  {
+    "term1": "tréplicas",
+    "term2": "alegação",
+    "value": 3.75
+  },
+  {
+    "term1": "luxuosidade",
+    "term2": "dispêndio",
+    "value": 5.25
+  },
+  {
+    "term1": "acronímico",
+    "term2": "forma",
+    "value": 3
+  },
+  {
+    "term1": "descoordenação",
+    "term2": "inabilidade",
+    "value": 4.5
+  },
+  {
+    "term1": "provisório",
+    "term2": "condicional",
+    "value": 4.25
+  },
+  {
+    "term1": "desatento",
+    "term2": "descuidado",
+    "value": 6
+  },
+  {
+    "term1": "promotor",
+    "term2": "encorajador",
+    "value": 6.25
+  },
+  {
+    "term1": "acusado",
+    "term2": "acusação",
+    "value": 5.75
+  },
+  {
+    "term1": "asfáltico",
+    "term2": "pavimentação",
+    "value": 4.5
+  },
+  {
+    "term1": "asfáltico",
+    "term2": "pavimentar",
+    "value": 4.5
+  },
+  {
+    "term1": "encolhido",
+    "term2": "curvar-se",
+    "value": 6
+  },
+  {
+    "term1": "encolhido",
+    "term2": "curvar-se",
+    "value": 5
+  },
+  {
+    "term1": "mimicado",
+    "term2": "imitar",
+    "value": 7
+  },
+  {
+    "term1": "protestantismo",
+    "term2": "fundamentalismo",
+    "value": 3
+  },
+  {
+    "term1": "atuação",
+    "term2": "peça",
+    "value": 6
+  },
+  {
+    "term1": "recuperado",
+    "term2": "localizar",
+    "value": 3.5
+  },
+  {
+    "term1": "recuperado",
+    "term2": "obter",
+    "value": 5
+  },
+  {
+    "term1": "monocultura",
+    "term2": "cultura",
+    "value": 6
+  },
+  {
+    "term1": "emulsificação",
+    "term2": "mudança",
+    "value": 2.75
+  },
+  {
+    "term1": "cavalheiresco",
+    "term2": "passado",
+    "value": 3.25
+  },
+  {
+    "term1": "cavalheiresco",
+    "term2": "cortês",
+    "value": 5.25
+  },
+  {
+    "term1": "monogénese",
+    "term2": "reprodução",
+    "value": 4.5
+  },
+  {
+    "term1": "entrelaçar",
+    "term2": "segurar",
+    "value": 2.75
+  },
+  {
+    "term1": "comunista",
+    "term2": "socialista",
+    "value": 5
+  },
+  {
+    "term1": "comunista",
+    "term2": "político",
+    "value": 4.5
+  },
+  {
+    "term1": "extraterrestres",
+    "term2": "animal",
+    "value": 0.5
+  },
+  {
+    "term1": "brônquio",
+    "term2": "tubo",
+    "value": 3.5
+  },
+  {
+    "term1": "contrários",
+    "term2": "oposição",
+    "value": 5.75
+  },
+  {
+    "term1": "ametistas",
+    "term2": "cristalino",
+    "value": 4
+  },
+  {
+    "term1": "viajantes",
+    "term2": "estrangeiro",
+    "value": 4.5
+  },
+  {
+    "term1": "reunidos",
+    "term2": "reunir",
+    "value": 7
+  },
+  {
+    "term1": "reunidos",
+    "term2": "convocar",
+    "value": 5.25
+  },
+  {
+    "term1": "curadoria",
+    "term2": "posição",
+    "value": 3
+  },
+  {
+    "term1": "curadoria",
+    "term2": "distrito",
+    "value": 3.5
+  },
+  {
+    "term1": "suspeição",
+    "term2": "desconfiança",
+    "value": 7.5
+  },
+  {
+    "term1": "feminizado",
+    "term2": "mudança",
+    "value": 2.75
+  },
+  {
+    "term1": "proliferado",
+    "term2": "crescer",
+    "value": 6.5
+  },
+  {
+    "term1": "apanhar cogumelos",
+    "term2": "colher",
+    "value": 5.5
+  },
+  {
+    "term1": "vingativamente",
+    "term2": "implacável",
+    "value": 5.25
+  },
+  {
+    "term1": "vingativamente",
+    "term2": "malicioso",
+    "value": 5
+  },
+  {
+    "term1": "acastelado",
+    "term2": "mover",
+    "value": 1.5
+  },
+  {
+    "term1": "acastelado",
+    "term2": "fantasia",
+    "value": 4
+  },
+  {
+    "term1": "cintilante",
+    "term2": "brilhante",
+    "value": 7.25
+  },
+  {
+    "term1": "navio-farol",
+    "term2": "navio",
+    "value": 6.5
+  },
+  {
+    "term1": "erotismo",
+    "term2": "excitação",
+    "value": 4.25
+  },
+  {
+    "term1": "erotismo",
+    "term2": "desejo",
+    "value": 4.75
+  },
+  {
+    "term1": "cesarismo",
+    "term2": "autocracia",
+    "value": 6.25
+  },
+  {
+    "term1": "ano escolar",
+    "term2": "trimestre",
+    "value": 3.5
+  },
+  {
+    "term1": "sessões",
+    "term2": "sessão",
+    "value": 6
+  },
+  {
+    "term1": "fashion",
+    "term2": "moderno",
+    "value": 8
+  },
+  {
+    "term1": "arreliadoramente",
+    "term2": "atormentar",
+    "value": 3.75
+  },
+  {
+    "term1": "arreliadoramente",
+    "term2": "provocar",
+    "value": 4.25
+  },
+  {
+    "term1": "cozinhar no microondas",
+    "term2": "cozinhar",
+    "value": 6.25
+  },
+  {
+    "term1": "transversal",
+    "term2": "transversalmente",
+    "value": 5.75
+  },
+  {
+    "term1": "gerência",
+    "term2": "posição",
+    "value": 3.25
+  },
+  {
+    "term1": "metodicamente",
+    "term2": "agir",
+    "value": 3.75
+  },
+  {
+    "term1": "metodicamente",
+    "term2": "know-how",
+    "value": 2.75
+  },
+  {
+    "term1": "excitações",
+    "term2": "febre",
+    "value": 3.75
+  },
+  {
+    "term1": "excitações",
+    "term2": "êxtase",
+    "value": 6.25
+  },
+  {
+    "term1": "cristianizar",
+    "term2": "converter",
+    "value": 6
+  },
+  {
+    "term1": "monárquico",
+    "term2": "antidemocrático",
+    "value": 5.25
+  },
+  {
+    "term1": "monárquico",
+    "term2": "nobre",
+    "value": 5.75
+  },
+  {
+    "term1": "colaboradores",
+    "term2": "cônjuge",
+    "value": 4.25
+  },
+  {
+    "term1": "circunscrito",
+    "term2": "restringir",
+    "value": 6.5
+  },
+  {
+    "term1": "delimitado",
+    "term2": "delinear",
+    "value": 5.5
+  },
+  {
+    "term1": "atualmente",
+    "term2": "corrente",
+    "value": 4.75
+  },
+  {
+    "term1": "localmente",
+    "term2": "local",
+    "value": 5.5
+  },
+  {
+    "term1": "evangelístico",
+    "term2": "entusiástico",
+    "value": 3
+  },
+  {
+    "term1": "sentimentalismo",
+    "term2": "emocional",
+    "value": 5
+  },
+  {
+    "term1": "diferenças",
+    "term2": "diferença",
+    "value": 6.75
+  },
+  {
+    "term1": "diferenças",
+    "term2": "variação",
+    "value": 6.5
+  },
+  {
+    "term1": "alucinante",
+    "term2": "doente",
+    "value": 3.75
+  },
+  {
+    "term1": "alucinante",
+    "term2": "perceber",
+    "value": 1.75
+  },
+  {
+    "term1": "Liverpool",
+    "term2": "Inglaterra",
+    "value": 4.5
+  },
+  {
+    "term1": "descodificar",
+    "term2": "decifrar",
+    "value": 6.75
+  },
+  {
+    "term1": "acariciado",
+    "term2": "tocar",
+    "value": 6.25
+  },
+  {
+    "term1": "órfão de mãe",
+    "term2": "orfão",
+    "value": 6
+  },
+  {
+    "term1": "impermanente",
+    "term2": "improvisado",
+    "value": 1.75
+  },
+  {
+    "term1": "contrabandos",
+    "term2": "mercadoria",
+    "value": 4.75
+  },
+  {
+    "term1": "astronáutico",
+    "term2": "astronauta",
+    "value": 6
+  },
+  {
+    "term1": "escrutínio",
+    "term2": "olhar",
+    "value": 5
+  },
+  {
+    "term1": "descolorir",
+    "term2": "branquear",
+    "value": 6
+  },
+  {
+    "term1": "liquidação",
+    "term2": "processo",
+    "value": 4
+  },
+  {
+    "term1": "desforras",
+    "term2": "repetir",
+    "value": 3.75
+  },
+  {
+    "term1": "escandalizar",
+    "term2": "indignar",
+    "value": 6.25
+  },
+  {
+    "term1": "resumir",
+    "term2": "condensar",
+    "value": 7.5
+  },
+  {
+    "term1": "erudição",
+    "term2": "letras",
+    "value": 4.25
+  },
+  {
+    "term1": "bolsa de estudos",
+    "term2": "prémio",
+    "value": 5
+  },
+  {
+    "term1": "transmissor",
+    "term2": "comunicador",
+    "value": 5.75
+  },
+  {
+    "term1": "transmissor",
+    "term2": "portador",
+    "value": 5.5
+  },
+  {
+    "term1": "autocarros",
+    "term2": "escola",
+    "value": 2.75
+  },
+  {
+    "term1": "desmaterializado",
+    "term2": "desaparecer",
+    "value": 4.75
+  },
+  {
+    "term1": "predadores",
+    "term2": "atacante",
+    "value": 5.75
+  },
+  {
+    "term1": "predadores",
+    "term2": "carnívoro",
+    "value": 5
+  },
+  {
+    "term1": "ampliador",
+    "term2": "equipamento",
+    "value": 4
+  },
+  {
+    "term1": "reposicionado",
+    "term2": "abaixo",
+    "value": 3.5
+  },
+  {
+    "term1": "reposicionado",
+    "term2": "rebaixar",
+    "value": 2.75
+  },
+  {
+    "term1": "equivalência",
+    "term2": "empate",
+    "value": 5
+  },
+  {
+    "term1": "localizar",
+    "term2": "ficar",
+    "value": 3
+  },
+  {
+    "term1": "localizar",
+    "term2": "situar",
+    "value": 8.25
+  },
+  {
+    "term1": "envolvido",
+    "term2": "casulo",
+    "value": 4.5
+  },
+  {
+    "term1": "acessível",
+    "term2": "compreensível",
+    "value": 5
+  },
+  {
+    "term1": "animalidade",
+    "term2": "natureza",
+    "value": 4.5
+  },
+  {
+    "term1": "entrelaçado",
+    "term2": "trança",
+    "value": 5
+  },
+  {
+    "term1": "devorar",
+    "term2": "comer",
+    "value": 6
+  },
+  {
+    "term1": "manifestantes",
+    "term2": "piquete",
+    "value": 7
+  },
+  {
+    "term1": "manifestantes",
+    "term2": "inconformista",
+    "value": 6.25
+  },
+  {
+    "term1": "fãs",
+    "term2": "entusiasta",
+    "value": 4.5
+  },
+  {
+    "term1": "limpo",
+    "term2": "sujo",
+    "value": 0
+  },
+  {
+    "term1": "inócuo",
+    "term2": "inofensivo",
+    "value": 8
+  },
+  {
+    "term1": "fisicamente",
+    "term2": "material",
+    "value": 5.5
+  },
+  {
+    "term1": "fisicamente",
+    "term2": "corpóreo",
+    "value": 6
+  },
+  {
+    "term1": "incerimonioso",
+    "term2": "informal",
+    "value": 7.75
+  },
+  {
+    "term1": "incerimonioso",
+    "term2": "indelicado",
+    "value": 1.75
+  },
+  {
+    "term1": "códigos postais",
+    "term2": "código",
+    "value": 6.25
+  },
+  {
+    "term1": "autossugestão",
+    "term2": "autoaperfeiçoamento",
+    "value": 4
+  },
+  {
+    "term1": "contornar",
+    "term2": "superar",
+    "value": 4.25
+  },
+  {
+    "term1": "envolver",
+    "term2": "refluxo",
+    "value": 1.25
+  },
+  {
+    "term1": "homoerótico",
+    "term2": "homossexual",
+    "value": 5.25
+  },
+  {
+    "term1": "indesejável",
+    "term2": "indesejado",
+    "value": 6.25
+  },
+  {
+    "term1": "adaptável",
+    "term2": "acomodável",
+    "value": 5.75
+  },
+  {
+    "term1": "silvicultor",
+    "term2": "agricultor",
+    "value": 4.75
+  },
+  {
+    "term1": "cintilar",
+    "term2": "tremeluzir",
+    "value": 6.75
+  },
+  {
+    "term1": "tricloreto",
+    "term2": "cloreto",
+    "value": 6.5
+  },
+  {
+    "term1": "preconceito",
+    "term2": "opinião",
+    "value": 4.75
+  },
+  {
+    "term1": "preconceito",
+    "term2": "homofobia",
+    "value": 6.25
+  },
+  {
+    "term1": "franjas",
+    "term2": "decorar",
+    "value": 5
+  },
+  {
+    "term1": "bordas",
+    "term2": "rodear",
+    "value": 4.25
+  },
+  {
+    "term1": "pastoreado",
+    "term2": "guardar",
+    "value": 4.5
+  },
+  {
+    "term1": "pastoreado",
+    "term2": "vigiar",
+    "value": 5
+  },
+  {
+    "term1": "realeza",
+    "term2": "posição",
+    "value": 3.5
+  },
+  {
+    "term1": "evacuação",
+    "term2": "matéria",
+    "value": 2.5
+  },
+  {
+    "term1": "excreção",
+    "term2": "defecação",
+    "value": 6.25
+  },
+  {
+    "term1": "criativamente",
+    "term2": "criativo",
+    "value": 5.25
+  },
+  {
+    "term1": "herdeiro",
+    "term2": "herdeira",
+    "value": 8
+  },
+  {
+    "term1": "conspicuidade",
+    "term2": "audácia",
+    "value": 2.75
+  },
+  {
+    "term1": "preconceitos",
+    "term2": "opinião",
+    "value": 4.75
+  },
+  {
+    "term1": "preconceitos",
+    "term2": "experimentador",
+    "value": 1.5
+  },
+  {
+    "term1": "tumultuosamente",
+    "term2": "tumulto",
+    "value": 4.25
+  },
+  {
+    "term1": "ruidosamente",
+    "term2": "barulho",
+    "value": 6.25
+  },
+  {
+    "term1": "brilhos",
+    "term2": "lantejoula",
+    "value": 4.25
+  },
+  {
+    "term1": "brilhos",
+    "term2": "luminosidade",
+    "value": 4.5
+  },
+  {
+    "term1": "assexuado",
+    "term2": "assexual",
+    "value": 7
+  },
+  {
+    "term1": "assexuado",
+    "term2": "não sensual",
+    "value": 2.75
+  },
+  {
+    "term1": "soletradores",
+    "term2": "escritor",
+    "value": 3.75
+  },
+  {
+    "term1": "cartilha",
+    "term2": "manual básico",
+    "value": 5.75
+  },
+  {
+    "term1": "orquestrações",
+    "term2": "musical",
+    "value": 5.25
+  },
+  {
+    "term1": "orquestrações",
+    "term2": "arranjos",
+    "value": 5.25
+  },
+  {
+    "term1": "bordador",
+    "term2": "costureiro",
+    "value": 6.25
+  },
+  {
+    "term1": "excitação",
+    "term2": "desejo",
+    "value": 7
+  },
+  {
+    "term1": "despoletar",
+    "term2": "inflamação",
+    "value": 5.5
+  },
+  {
+    "term1": "extender",
+    "term2": "aumentar",
+    "value": 7.5
+  },
+  {
+    "term1": "extender",
+    "term2": "alcance",
+    "value": 5.5
+  },
+  {
+    "term1": "execuções",
+    "term2": "imposição",
+    "value": 5
+  },
+  {
+    "term1": "conetividade",
+    "term2": "ponte",
+    "value": 4.75
+  },
+  {
+    "term1": "tingir de preto",
+    "term2": "descolorar",
+    "value": 1.5
+  },
+  {
+    "term1": "denegrir",
+    "term2": "difamar",
+    "value": 8
+  },
+  {
+    "term1": "galvanizar",
+    "term2": "revestir",
+    "value": 5
+  },
+  {
+    "term1": "galvanizar",
+    "term2": "chocar",
+    "value": 3.5
+  },
+  {
+    "term1": "armar",
+    "term2": "mudar",
+    "value": 1.75
+  },
+  {
+    "term1": "triste",
+    "term2": "doloroso",
+    "value": 6.25
+  },
+  {
+    "term1": "pós-datado",
+    "term2": "seguir",
+    "value": 3.75
+  },
+  {
+    "term1": "antipsicóticos",
+    "term2": "clozapina",
+    "value": 5.5
+  },
+  {
+    "term1": "convocação",
+    "term2": "reunião",
+    "value": 6
+  },
+  {
+    "term1": "convocação",
+    "term2": "assembleia",
+    "value": 5
+  },
+  {
+    "term1": "intenção",
+    "term2": "sentido",
+    "value": 6.5
+  },
+  {
+    "term1": "empregado",
+    "term2": "navio",
+    "value": 1.75
+  },
+  {
+    "term1": "empregado",
+    "term2": "dar",
+    "value": 1.75
+  },
+  {
+    "term1": "suscetível",
+    "term2": "impressionável",
+    "value": 6.75
+  },
+  {
+    "term1": "sensível",
+    "term2": "alérgico",
+    "value": 4.75
+  },
+  {
+    "term1": "alarmismo",
+    "term2": "aviso",
+    "value": 4.75
+  },
+  {
+    "term1": "canonizar",
+    "term2": "declarar",
+    "value": 5
+  },
+  {
+    "term1": "canonizar",
+    "term2": "louvar",
+    "value": 6.25
+  },
+  {
+    "term1": "embutir",
+    "term2": "encaixar",
+    "value": 6.75
+  },
+  {
+    "term1": "estrangeiro",
+    "term2": "transalpino",
+    "value": 3.25
+  },
+  {
+    "term1": "estrangeiro",
+    "term2": "gringo",
+    "value": 7.5
+  },
+  {
+    "term1": "anestesias",
+    "term2": "droga",
+    "value": 5
+  },
+  {
+    "term1": "dissocia",
+    "term2": "separar",
+    "value": 8
+  },
+  {
+    "term1": "enunciação",
+    "term2": "comunicação",
+    "value": 6
+  },
+  {
+    "term1": "mitigado",
+    "term2": "aliviado",
+    "value": 7
+  },
+  {
+    "term1": "mitigado",
+    "term2": "desculpar-se",
+    "value": 2.75
+  },
+  {
+    "term1": "não consolidado",
+    "term2": "solto",
+    "value": 7
+  },
+  {
+    "term1": "ucranianos",
+    "term2": "eslavo",
+    "value": 5.25
+  },
+  {
+    "term1": "hipocrisia",
+    "term2": "fingimento",
+    "value": 7.75
+  },
+  {
+    "term1": "remodelação",
+    "term2": "melhoria",
+    "value": 6
+  },
+  {
+    "term1": "entrelaçamento",
+    "term2": "cru",
+    "value": 0.25
+  },
+  {
+    "term1": "objetificar",
+    "term2": "mudar",
+    "value": 0.75
+  },
+  {
+    "term1": "crocância",
+    "term2": "frescura",
+    "value": 4.75
+  },
+  {
+    "term1": "magicamente",
+    "term2": "sobrenatural",
+    "value": 4.5
+  },
+  {
+    "term1": "filantropia",
+    "term2": "auxílio",
+    "value": 5.25
+  },
+  {
+    "term1": "lavadores",
+    "term2": "trabalhador",
+    "value": 4.75
+  },
+  {
+    "term1": "máquinas de lavar",
+    "term2": "fechar",
+    "value": 1
+  },
+  {
+    "term1": "carrancudo",
+    "term2": "descontente",
+    "value": 5
+  },
+  {
+    "term1": "carrancudo",
+    "term2": "cara feia",
+    "value": 6.5
+  },
+  {
+    "term1": "impedido",
+    "term2": "impedir",
+    "value": 6.5
+  },
+  {
+    "term1": "não nativo",
+    "term2": "estrangeiro",
+    "value": 6.75
+  },
+  {
+    "term1": "derrotista",
+    "term2": "pessimista",
+    "value": 7.25
+  },
+  {
+    "term1": "desolação",
+    "term2": "melancolia",
+    "value": 6
+  },
+  {
+    "term1": "nudez",
+    "term2": "despir-se",
+    "value": 6
+  },
+  {
+    "term1": "inexperiente",
+    "term2": "amador",
+    "value": 7.5
+  },
+  {
+    "term1": "planos",
+    "term2": "enredo",
+    "value": 5.25
+  },
+  {
+    "term1": "intenção",
+    "term2": "pretender",
+    "value": 7.25
+  },
+  {
+    "term1": "implicatório",
+    "term2": "sentido",
+    "value": 4.25
+  },
+  {
+    "term1": "concessão",
+    "term2": "doação",
+    "value": 6.75
+  },
+  {
+    "term1": "concordância",
+    "term2": "acordo",
+    "value": 7.5
+  },
+  {
+    "term1": "skater",
+    "term2": "skater",
+    "value": 10
+  },
+  {
+    "term1": "divertimentos",
+    "term2": "deleite",
+    "value": 7
+  },
+  {
+    "term1": "dividido",
+    "term2": "parágrafo",
+    "value": 3.75
+  },
+  {
+    "term1": "dividido",
+    "term2": "calcular",
+    "value": 4.5
+  },
+  {
+    "term1": "dissociável",
+    "term2": "divisível",
+    "value": 4
+  },
+  {
+    "term1": "reduzido",
+    "term2": "abreviado",
+    "value": 6.75
+  },
+  {
+    "term1": "reduzido",
+    "term2": "desperdiçar",
+    "value": 3
+  },
+  {
+    "term1": "ininteligível",
+    "term2": "incompreensível",
+    "value": 8.25
+  },
+  {
+    "term1": "ininteligível",
+    "term2": "indistinto",
+    "value": 6.25
+  },
+  {
+    "term1": "sílaba",
+    "term2": "palavra",
+    "value": 5.5
+  },
+  {
+    "term1": "governação",
+    "term2": "sociável",
+    "value": 3
+  },
+  {
+    "term1": "governação",
+    "term2": "governo",
+    "value": 6
+  },
+  {
+    "term1": "sem chuva",
+    "term2": "seco",
+    "value": 6.25
+  },
+  {
+    "term1": "cazaque",
+    "term2": "asiático",
+    "value": 4.25
+  },
+  {
+    "term1": "microssegundos",
+    "term2": "nanossegundo",
+    "value": 4.5
+  },
+  {
+    "term1": "vomitar",
+    "term2": "lançar sementes",
+    "value": 3
+  },
+  {
+    "term1": "discernimento",
+    "term2": "conhecimento",
+    "value": 5.75
+  },
+  {
+    "term1": "discernimento",
+    "term2": "discriminação",
+    "value": 4.75
+  },
+  {
+    "term1": "empregável",
+    "term2": "trabalhador",
+    "value": 4.5
+  },
+  {
+    "term1": "unívoco",
+    "term2": "absoluto",
+    "value": 4
+  },
+  {
+    "term1": "perturbar",
+    "term2": "afetar",
+    "value": 5.75
+  },
+  {
+    "term1": "perturbar",
+    "term2": "abalar",
+    "value": 6.25
+  },
+  {
+    "term1": "monociclo",
+    "term2": "bicicleta",
+    "value": 5
+  },
+  {
+    "term1": "suavidade",
+    "term2": "brandura",
+    "value": 8
+  },
+  {
+    "term1": "suavidade",
+    "term2": "maneira",
+    "value": 3.5
+  },
+  {
+    "term1": "civilizar",
+    "term2": "sofisticar",
+    "value": 6.75
+  },
+  {
+    "term1": "civilizar",
+    "term2": "mudar",
+    "value": 3.25
+  },
+  {
+    "term1": "valente",
+    "term2": "bravo",
+    "value": 8.5
+  },
+  {
+    "term1": "exportadores",
+    "term2": "empresário",
+    "value": 3.75
+  },
+  {
+    "term1": "inscrição",
+    "term2": "associação",
+    "value": 3.5
+  },
+  {
+    "term1": "inscrição",
+    "term2": "entrada",
+    "value": 4.25
+  },
+  {
+    "term1": "preaquecido",
+    "term2": "aquecer",
+    "value": 5.5
+  },
+  {
+    "term1": "bolsas de estudo",
+    "term2": "auxílio",
+    "value": 5.5
+  },
+  {
+    "term1": "bolsas de estudo",
+    "term2": "educação",
+    "value": 5.75
+  },
+  {
+    "term1": "fator de stress",
+    "term2": "agente",
+    "value": 4.5
+  },
+  {
+    "term1": "correspondência",
+    "term2": "escrever",
+    "value": 5
+  },
+  {
+    "term1": "harmonia",
+    "term2": "conformidade",
+    "value": 6.25
+  },
+  {
+    "term1": "interligar",
+    "term2": "conectar",
+    "value": 7.75
+  },
+  {
+    "term1": "principados",
+    "term2": "terra",
+    "value": 3.75
+  },
+  {
+    "term1": "principados",
+    "term2": "posição",
+    "value": 3.25
+  },
+  {
+    "term1": "extrapolações",
+    "term2": "estimativa",
+    "value": 5.5
+  },
+  {
+    "term1": "extrapolações",
+    "term2": "inferência",
+    "value": 5.25
+  },
+  {
+    "term1": "extraterritorial",
+    "term2": "territorial",
+    "value": 6
+  },
+  {
+    "term1": "caprichosamente",
+    "term2": "arbitrário",
+    "value": 1.5
+  },
+  {
+    "term1": "nobel",
+    "term2": "laureado",
+    "value": 6
+  },
+  {
+    "term1": "demitir-se",
+    "term2": "topo",
+    "value": 0.25
+  },
+  {
+    "term1": "renunciar",
+    "term2": "posto",
+    "value": 2
+  },
+  {
+    "term1": "irado",
+    "term2": "zangado",
+    "value": 8
+  },
+  {
+    "term1": "cowboys",
+    "term2": "artista",
+    "value": 3.5
+  },
+  {
+    "term1": "cowboys",
+    "term2": "fazenda",
+    "value": 5.5
+  },
+  {
+    "term1": "une",
+    "term2": "unir-se pelo casamento",
+    "value": 5.5
+  },
+  {
+    "term1": "une",
+    "term2": "ligação cruzada",
+    "value": 4.75
+  },
+  {
+    "term1": "predominância",
+    "term2": "evidência",
+    "value": 3
+  },
+  {
+    "term1": "predominância",
+    "term2": "dominância",
+    "value": 7
+  },
+  {
+    "term1": "brandir",
+    "term2": "expor",
+    "value": 2.25
+  },
+  {
+    "term1": "agitar",
+    "term2": "segurar",
+    "value": 2
+  },
+  {
+    "term1": "regionalismos",
+    "term2": "política",
+    "value": 2.5
+  },
+  {
+    "term1": "regionalismos",
+    "term2": "morada",
+    "value": 1.5
+  },
+  {
+    "term1": "extrassensorial",
+    "term2": "clarividente",
+    "value": 5.5
+  },
+  {
+    "term1": "microcomputadores",
+    "term2": "computador",
+    "value": 6
+  },
+  {
+    "term1": "subtropical",
+    "term2": "figurativo",
+    "value": 0.25
+  },
+  {
+    "term1": "subtropical",
+    "term2": "equatorial",
+    "value": 4.5
+  },
+  {
+    "term1": "imparcial",
+    "term2": "imparcial",
+    "value": 9.5
+  },
+  {
+    "term1": "imparcial",
+    "term2": "apartidário",
+    "value": 8.25
+  },
+  {
+    "term1": "aderência",
+    "term2": "cicatriz",
+    "value": 3.75
+  },
+  {
+    "term1": "resistivo",
+    "term2": "desafiante",
+    "value": 4.5
+  },
+  {
+    "term1": "homogéneo",
+    "term2": "homogeneizado",
+    "value": 5.25
+  },
+  {
+    "term1": "dependência",
+    "term2": "adição",
+    "value": 8.5
+  },
+  {
+    "term1": "dependência",
+    "term2": "desamparo",
+    "value": 2.25
+  },
+  {
+    "term1": "desinvestimento",
+    "term2": "retirada",
+    "value": 5.25
+  },
+  {
+    "term1": "cargueiro",
+    "term2": "navio",
+    "value": 5.75
+  },
+  {
+    "term1": "ingenuidade",
+    "term2": "simplicidade",
+    "value": 5.25
+  },
+  {
+    "term1": "transmutado",
+    "term2": "tornar-se",
+    "value": 5.75
+  },
+  {
+    "term1": "batista",
+    "term2": "protestante",
+    "value": 4.5
+  },
+  {
+    "term1": "fornecer",
+    "term2": "abastecer",
+    "value": 8
+  },
+  {
+    "term1": "secularista",
+    "term2": "defensor",
+    "value": 3
+  },
+  {
+    "term1": "demérito",
+    "term2": "nível",
+    "value": 3.5
+  },
+  {
+    "term1": "segundo casamento",
+    "term2": "casamento",
+    "value": 5.75
+  },
+  {
+    "term1": "interpretado",
+    "term2": "reinterpretar",
+    "value": 6
+  },
+  {
+    "term1": "interpretado",
+    "term2": "desconstruído",
+    "value": 3.75
+  },
+  {
+    "term1": "clericalismo",
+    "term2": "política",
+    "value": 3.5
+  },
+  {
+    "term1": "indecisão",
+    "term2": "dúvida",
+    "value": 7.75
+  },
+  {
+    "term1": "indecisão",
+    "term2": "volatilidade",
+    "value": 5.25
+  },
+  {
+    "term1": "transmuta",
+    "term2": "tornar-se",
+    "value": 6.25
+  },
+  {
+    "term1": "transmuta",
+    "term2": "trabalhar",
+    "value": 3.75
+  },
+  {
+    "term1": "futebolistas",
+    "term2": "jogador",
+    "value": 6
+  },
+  {
+    "term1": "excomungado",
+    "term2": "expulsar",
+    "value": 6
+  },
+  {
+    "term1": "contentores",
+    "term2": "carga",
+    "value": 5.25
+  },
+  {
+    "term1": "comutação",
+    "term2": "viajar",
+    "value": 2.75
+  },
+  {
+    "term1": "transmissor-recetor",
+    "term2": "aparelho",
+    "value": 4.25
+  },
+  {
+    "term1": "colaborador",
+    "term2": "cônjuge",
+    "value": 4.75
+  },
+  {
+    "term1": "sodomizado",
+    "term2": "copular",
+    "value": 5
+  },
+  {
+    "term1": "notável",
+    "term2": "extraordinário",
+    "value": 8.25
+  },
+  {
+    "term1": "notável",
+    "term2": "importante",
+    "value": 7.75
+  },
+  {
+    "term1": "complacência",
+    "term2": "graciosidade",
+    "value": 4
+  },
+  {
+    "term1": "elasticidade",
+    "term2": "flexibilidade",
+    "value": 8.25
+  },
+  {
+    "term1": "purgatório",
+    "term2": "situação",
+    "value": 2.75
+  },
+  {
+    "term1": "pré-histórico",
+    "term2": "passado",
+    "value": 5.25
+  },
+  {
+    "term1": "tecnologia",
+    "term2": "aeronáutico",
+    "value": 3.75
+  },
+  {
+    "term1": "tecnologia",
+    "term2": "ciência",
+    "value": 5.5
+  },
+  {
+    "term1": "transvasar",
+    "term2": "verter",
+    "value": 6.25
+  },
+  {
+    "term1": "transmitir",
+    "term2": "emprestar",
+    "value": 5.75
+  },
+  {
+    "term1": "prolapso",
+    "term2": "descender",
+    "value": 3.75
+  },
+  {
+    "term1": "entrevistar",
+    "term2": "sondar",
+    "value": 3.75
+  },
+  {
+    "term1": "entrevistar",
+    "term2": "sondar",
+    "value": 4.5
+  },
+  {
+    "term1": "verdura",
+    "term2": "profusão",
+    "value": 1.5
+  },
+  {
+    "term1": "inexperiência",
+    "term2": "amadurecimento",
+    "value": 0
+  },
+  {
+    "term1": "formalismos",
+    "term2": "filosófico",
+    "value": 3.75
+  },
+  {
+    "term1": "formalismos",
+    "term2": "imitação",
+    "value": 0.25
+  },
+  {
+    "term1": "interpenetrar",
+    "term2": "espiritualizar",
+    "value": 2.75
+  },
+  {
+    "term1": "agrava",
+    "term2": "inflamar",
+    "value": 6
+  },
+  {
+    "term1": "piora",
+    "term2": "cair",
+    "value": 3.5
+  },
+  {
+    "term1": "batedores",
+    "term2": "caçar",
+    "value": 4.75
+  },
+  {
+    "term1": "exigido",
+    "term2": "clamor",
+    "value": 2.75
+  },
+  {
+    "term1": "exigido",
+    "term2": "custar",
+    "value": 3.75
+  },
+  {
+    "term1": "inequívoco",
+    "term2": "não ambíguo",
+    "value": 8.5
+  },
+  {
+    "term1": "inequívoco",
+    "term2": "explícito",
+    "value": 7
+  },
+  {
+    "term1": "com a intenção de",
+    "term2": "objetivo",
+    "value": 7.25
+  },
+  {
+    "term1": "com a intenção de",
+    "term2": "plano",
+    "value": 5.75
+  },
+  {
+    "term1": "impedido",
+    "term2": "obstruir",
+    "value": 6
+  },
+  {
+    "term1": "perturbação",
+    "term2": "tempestade",
+    "value": 5
+  },
+  {
+    "term1": "perturbação",
+    "term2": "agitação",
+    "value": 7.5
+  },
+  {
+    "term1": "posto de ancião",
+    "term2": "posição",
+    "value": 3.25
+  },
+  {
+    "term1": "homofonia",
+    "term2": "pronúncia",
+    "value": 3.75
+  },
+  {
+    "term1": "homofonia",
+    "term2": "música",
+    "value": 2.75
+  },
+  {
+    "term1": "contrariamente",
+    "term2": "castanho",
+    "value": 0.25
+  },
+  {
+    "term1": "parcerias",
+    "term2": "relação",
+    "value": 4.75
+  },
+  {
+    "term1": "parcerias",
+    "term2": "sociedade",
+    "value": 4.5
+  },
+  {
+    "term1": "remove",
+    "term2": "esvaziar",
+    "value": 6.25
+  },
+  {
+    "term1": "remove",
+    "term2": "fora",
+    "value": 3.25
+  },
+  {
+    "term1": "derrapagem",
+    "term2": "derrapar",
+    "value": 5.5
+  },
+  {
+    "term1": "desportivo",
+    "term2": "divertido",
+    "value": 3
+  },
+  {
+    "term1": "assistência",
+    "term2": "cuidado",
+    "value": 5.75
+  },
+  {
+    "term1": "microvolts",
+    "term2": "potencial",
+    "value": 4
+  },
+  {
+    "term1": "asteroide",
+    "term2": "angular",
+    "value": 2.25
+  },
+  {
+    "term1": "asteroide",
+    "term2": "criança",
+    "value": 0.25
+  },
+  {
+    "term1": "exterminador",
+    "term2": "assassino",
+    "value": 7.5
+  },
+  {
+    "term1": "verbosidade",
+    "term2": "comunicabilidade",
+    "value": 5.5
+  },
+  {
+    "term1": "diferença",
+    "term2": "distinção",
+    "value": 8
+  },
+  {
+    "term1": "diferença",
+    "term2": "flexão",
+    "value": 2.25
+  },
+  {
+    "term1": "iniciativa",
+    "term2": "fortitude",
+    "value": 3.25
+  },
+  {
+    "term1": "compete",
+    "term2": "corrida",
+    "value": 5.5
+  },
+  {
+    "term1": "agendado",
+    "term2": "calendário",
+    "value": 5.25
+  },
+  {
+    "term1": "agendado",
+    "term2": "agenda",
+    "value": 5.5
+  },
+  {
+    "term1": "escondido",
+    "term2": "secreto",
+    "value": 6.5
+  },
+  {
+    "term1": "abstracionista",
+    "term2": "não representativo",
+    "value": 5.75
+  },
+  {
+    "term1": "abstracionista",
+    "term2": "pintor",
+    "value": 5.25
+  },
+  {
+    "term1": "negociável",
+    "term2": "vendável",
+    "value": 5.75
+  },
+  {
+    "term1": "exigido",
+    "term2": "necessitar",
+    "value": 4.75
+  },
+  {
+    "term1": "desenvolvimentos",
+    "term2": "progresso",
+    "value": 7.75
+  },
+  {
+    "term1": "sifões",
+    "term2": "extrair",
+    "value": 3.25
+  },
+  {
+    "term1": "sifões",
+    "term2": "tubo",
+    "value": 4.75
+  },
+  {
+    "term1": "orgânico",
+    "term2": "sistema",
+    "value": 3.5
+  },
+  {
+    "term1": "santificar",
+    "term2": "espiritualizar",
+    "value": 7
+  },
+  {
+    "term1": "fofura",
+    "term2": "beleza",
+    "value": 5.75
+  },
+  {
+    "term1": "ser útil",
+    "term2": "ajudar",
+    "value": 6.75
+  },
+  {
+    "term1": "cofatores",
+    "term2": "combinação",
+    "value": 2
+  },
+  {
+    "term1": "em combustão",
+    "term2": "em chamas",
+    "value": 8.5
+  },
+  {
+    "term1": "em combustão",
+    "term2": "mudar",
+    "value": 2
+  },
+  {
+    "term1": "acotevela",
+    "term2": "empurrar",
+    "value": 5
+  },
+  {
+    "term1": "pôr aos ombros",
+    "term2": "levantar",
+    "value": 4.25
+  },
+  {
+    "term1": "consoante",
+    "term2": "letra",
+    "value": 5.5
+  },
+  {
+    "term1": "auditivo",
+    "term2": "analisar",
+    "value": 2.25
+  },
+  {
+    "term1": "auditivo",
+    "term2": "aprender",
+    "value": 1.75
+  },
+  {
+    "term1": "clientes",
+    "term2": "caso",
+    "value": 2.75
+  },
+  {
+    "term1": "clientes",
+    "term2": "hóspede",
+    "value": 4
+  },
+  {
+    "term1": "interessante",
+    "term2": "fascinante",
+    "value": 7.25
+  },
+  {
+    "term1": "interessante",
+    "term2": "referir",
+    "value": 1.25
+  },
+  {
+    "term1": "exibido",
+    "term2": "ostentar",
+    "value": 6.25
+  },
+  {
+    "term1": "exibido",
+    "term2": "possuir",
+    "value": 2.5
+  },
+  {
+    "term1": "refaz",
+    "term2": "reformular",
+    "value": 8.25
+  },
+  {
+    "term1": "refaz",
+    "term2": "criação",
+    "value": 4.75
+  },
+  {
+    "term1": "florescência",
+    "term2": "crescimento",
+    "value": 7
+  },
+  {
+    "term1": "autopilotos",
+    "term2": "orientação",
+    "value": 3.25
+  },
+  {
+    "term1": "autopilotos",
+    "term2": "inconsciência",
+    "value": 3.25
+  },
+  {
+    "term1": "separatista",
+    "term2": "separatista",
+    "value": 10
+  },
+  {
+    "term1": "falsificador",
+    "term2": "impostor",
+    "value": 8.25
+  },
+  {
+    "term1": "algemas",
+    "term2": "algemar",
+    "value": 5.25
+  },
+  {
+    "term1": "microcircuitos",
+    "term2": "chip",
+    "value": 5
+  },
+  {
+    "term1": "desnecessário",
+    "term2": "inútil",
+    "value": 7.75
+  },
+  {
+    "term1": "cofundadores",
+    "term2": "fundador",
+    "value": 5.25
+  },
+  {
+    "term1": "especialidade",
+    "term2": "carreira",
+    "value": 4.75
+  },
+  {
+    "term1": "especialização",
+    "term2": "concentração",
+    "value": 4
+  },
+  {
+    "term1": "apocalíptico",
+    "term2": "profético",
+    "value": 3.75
+  },
+  {
+    "term1": "copilotos",
+    "term2": "piloto",
+    "value": 5.5
+  },
+  {
+    "term1": "repreensível",
+    "term2": "errado",
+    "value": 6.5
+  },
+  {
+    "term1": "envergonhado",
+    "term2": "chateado",
+    "value": 2.5
+  },
+  {
+    "term1": "disforme",
+    "term2": "informe",
+    "value": 6.75
+  },
+  {
+    "term1": "gabarola",
+    "term2": "orgulhoso",
+    "value": 6
+  },
+  {
+    "term1": "misturado",
+    "term2": "misturar",
+    "value": 6.75
+  },
+  {
+    "term1": "trióxido",
+    "term2": "óxido",
+    "value": 5.25
+  },
+  {
+    "term1": "pilhar",
+    "term2": "destruir",
+    "value": 5.25
+  },
+  {
+    "term1": "solteiros",
+    "term2": "viver",
+    "value": 2.25
+  },
+  {
+    "term1": "solteiros",
+    "term2": "homem",
+    "value": 3
+  },
+  {
+    "term1": "macroeconomista",
+    "term2": "economista",
+    "value": 5.25
+  },
+  {
+    "term1": "placidez",
+    "term2": "calma",
+    "value": 8.25
+  },
+  {
+    "term1": "placidez",
+    "term2": "serenidade",
+    "value": 8.5
+  },
+  {
+    "term1": "acessível",
+    "term2": "barato",
+    "value": 7.25
+  },
+  {
+    "term1": "forrado",
+    "term2": "cobrir",
+    "value": 5.25
+  },
+  {
+    "term1": "amizade",
+    "term2": "irmandade",
+    "value": 5.25
+  },
+  {
+    "term1": "praticável",
+    "term2": "prático",
+    "value": 4.5
+  },
+  {
+    "term1": "praticável",
+    "term2": "possível",
+    "value": 7
+  },
+  {
+    "term1": "proprietários",
+    "term2": "guerreiro",
+    "value": 0.5
+  },
+  {
+    "term1": "desembuchar",
+    "term2": "falar",
+    "value": 6.75
+  },
+  {
+    "term1": "confirmável",
+    "term2": "empírico",
+    "value": 3.25
+  },
+  {
+    "term1": "posicionadores",
+    "term2": "atuador",
+    "value": 4.5
+  },
+  {
+    "term1": "inadvertência",
+    "term2": "omissão",
+    "value": 3.25
+  },
+  {
+    "term1": "reavaliações",
+    "term2": "avaliação",
+    "value": 6
+  },
+  {
+    "term1": "recuperar",
+    "term2": "guardar",
+    "value": 3
+  },
+  {
+    "term1": "recuperar",
+    "term2": "obter",
+    "value": 5.75
+  },
+  {
+    "term1": "emissoras",
+    "term2": "disco",
+    "value": 2
+  },
+  {
+    "term1": "emissoras",
+    "term2": "mecânico",
+    "value": 2.5
+  },
+  {
+    "term1": "anexo",
+    "term2": "documento",
+    "value": 5.25
+  },
+  {
+    "term1": "anexo",
+    "term2": "inserção",
+    "value": 5.25
+  },
+  {
+    "term1": "regulamentar",
+    "term2": "decidir",
+    "value": 4.75
+  },
+  {
+    "term1": "regularizar",
+    "term2": "organizar",
+    "value": 6.5
+  },
+  {
+    "term1": "intercamada",
+    "term2": "camada",
+    "value": 5.5
+  },
+  {
+    "term1": "separado",
+    "term2": "livrar",
+    "value": 2.5
+  },
+  {
+    "term1": "entrevistar",
+    "term2": "conversar",
+    "value": 4.25
+  },
+  {
+    "term1": "empenhado",
+    "term2": "doar",
+    "value": 3.75
+  },
+  {
+    "term1": "empenhado",
+    "term2": "garantia",
+    "value": 5.5
+  },
+  {
+    "term1": "insidiosamente",
+    "term2": "perigoso",
+    "value": 3.75
+  },
+  {
+    "term1": "insidiosamente",
+    "term2": "sedutor",
+    "value": 2.75
+  },
+  {
+    "term1": "espírita",
+    "term2": "médium",
+    "value": 7.5
+  },
+  {
+    "term1": "micropénis",
+    "term2": "pénis",
+    "value": 6.25
+  },
+  {
+    "term1": "avião intercetor",
+    "term2": "avião de caça",
+    "value": 4.75
+  },
+  {
+    "term1": "arredores",
+    "term2": "contacto",
+    "value": 1.5
+  },
+  {
+    "term1": "arredores",
+    "term2": "abrigo",
+    "value": 1.5
+  },
+  {
+    "term1": "revisores",
+    "term2": "crítico",
+    "value": 6
+  },
+  {
+    "term1": "revisores",
+    "term2": "escritor",
+    "value": 5
+  },
+  {
+    "term1": "alegria",
+    "term2": "felicidade",
+    "value": 8.5
+  },
+  {
+    "term1": "seguido",
+    "term2": "perseguir",
+    "value": 5.75
+  },
+  {
+    "term1": "separar",
+    "term2": "privar",
+    "value": 5.75
+  },
+  {
+    "term1": "dissolvido",
+    "term2": "estado",
+    "value": 2.75
+  },
+  {
+    "term1": "dissolvido",
+    "term2": "integridade",
+    "value": 1.5
+  },
+  {
+    "term1": "populares",
+    "term2": "comum",
+    "value": 5.5
+  },
+  {
+    "term1": "de base",
+    "term2": "básico",
+    "value": 8
+  },
+  {
+    "term1": "carniceiros",
+    "term2": "qualificado",
+    "value": 2.5
+  },
+  {
+    "term1": "corruptivo",
+    "term2": "maléfico",
+    "value": 3.75
+  },
+  {
+    "term1": "autográfico",
+    "term2": "imagem",
+    "value": 3.25
+  },
+  {
+    "term1": "autográfico",
+    "term2": "escritor",
+    "value": 3.5
+  },
+  {
+    "term1": "predeterminar",
+    "term2": "preconceito",
+    "value": 4.5
+  },
+  {
+    "term1": "predeterminar",
+    "term2": "determinar",
+    "value": 6
+  },
+  {
+    "term1": "autoregulação",
+    "term2": "orgânico",
+    "value": 3
+  },
+  {
+    "term1": "encurvado",
+    "term2": "curvado",
+    "value": 6.5
+  },
+  {
+    "term1": "esfaquear",
+    "term2": "ferir",
+    "value": 5
+  },
+  {
+    "term1": "imigrar",
+    "term2": "movimentar-se",
+    "value": 5
+  },
+  {
+    "term1": "imigrar",
+    "term2": "migrar",
+    "value": 6.5
+  },
+  {
+    "term1": "notório",
+    "term2": "óbvio",
+    "value": 6.5
+  },
+  {
+    "term1": "detetável",
+    "term2": "percetível",
+    "value": 7.75
+  },
+  {
+    "term1": "sincrónico",
+    "term2": "sincronizado",
+    "value": 5.25
+  },
+  {
+    "term1": "exploradores",
+    "term2": "pessoa",
+    "value": 3
+  },
+  {
+    "term1": "circunstâncias",
+    "term2": "posse",
+    "value": 2.25
+  },
+  {
+    "term1": "circunstâncias",
+    "term2": "providência",
+    "value": 3
+  },
+  {
+    "term1": "exposição",
+    "term2": "premissa",
+    "value": 4.25
+  },
+  {
+    "term1": "dissonante",
+    "term2": "incongruente",
+    "value": 7
+  },
+  {
+    "term1": "rejeitou",
+    "term2": "negar",
+    "value": 7
+  },
+  {
+    "term1": "regularizar",
+    "term2": "nivelar",
+    "value": 7.5
+  },
+  {
+    "term1": "regularizar",
+    "term2": "decidir",
+    "value": 3.5
+  },
+  {
+    "term1": "possuidor",
+    "term2": "titular",
+    "value": 8
+  },
+  {
+    "term1": "consultivo",
+    "term2": "informativo",
+    "value": 6.5
+  },
+  {
+    "term1": "penoso",
+    "term2": "pesado",
+    "value": 7
+  },
+  {
+    "term1": "aconselhado",
+    "term2": "informar",
+    "value": 4.25
+  },
+  {
+    "term1": "aconselhado",
+    "term2": "discutir",
+    "value": 3.5
+  },
+  {
+    "term1": "depõe",
+    "term2": "destituir",
+    "value": 8.25
+  },
+  {
+    "term1": "depor",
+    "term2": "declarar",
+    "value": 7.75
+  },
+  {
+    "term1": "sem palavras",
+    "term2": "inexprimível",
+    "value": 4.5
+  },
+  {
+    "term1": "desmoralizar",
+    "term2": "rebaixar",
+    "value": 5.5
+  },
+  {
+    "term1": "musculatura",
+    "term2": "força",
+    "value": 5.75
+  },
+  {
+    "term1": "musculatura",
+    "term2": "condição",
+    "value": 4.25
+  },
+  {
+    "term1": "não especializado",
+    "term2": "generalizado",
+    "value": 6.75
+  },
+  {
+    "term1": "aparições",
+    "term2": "manifestação",
+    "value": 5
+  },
+  {
+    "term1": "desorganizado",
+    "term2": "randomizar",
+    "value": 3.25
+  },
+  {
+    "term1": "farejadores",
+    "term2": "pessoa",
+    "value": 2
+  },
+  {
+    "term1": "irritantemente",
+    "term2": "piorar",
+    "value": 2.25
+  },
+  {
+    "term1": "irritantemente",
+    "term2": "enervar-se",
+    "value": 3.5
+  },
+  {
+    "term1": "exigência",
+    "term2": "exigir",
+    "value": 4.75
+  },
+  {
+    "term1": "navegações",
+    "term2": "viajar",
+    "value": 5
+  },
+  {
+    "term1": "navegações",
+    "term2": "vaguear",
+    "value": 3.25
+  },
+  {
+    "term1": "opositor",
+    "term2": "dissidente",
+    "value": 6.75
+  },
+  {
+    "term1": "tampões",
+    "term2": "cobrir",
+    "value": 4.25
+  },
+  {
+    "term1": "sinótico",
+    "term2": "similar",
+    "value": 3.25
+  },
+  {
+    "term1": "dobra",
+    "term2": "orgânico",
+    "value": 1.75
+  },
+  {
+    "term1": "pequenito",
+    "term2": "pequeno",
+    "value": 7
+  },
+  {
+    "term1": "digitalizar",
+    "term2": "mudar",
+    "value": 1
+  },
+  {
+    "term1": "receções",
+    "term2": "chá",
+    "value": 3
+  },
+  {
+    "term1": "receções",
+    "term2": "saudação",
+    "value": 3.5
+  },
+  {
+    "term1": "corpulência",
+    "term2": "obesidade",
+    "value": 8
+  },
+  {
+    "term1": "desfigurar",
+    "term2": "cicatriz",
+    "value": 4
+  },
+  {
+    "term1": "renovações",
+    "term2": "melhoria",
+    "value": 5
+  },
+  {
+    "term1": "censuras",
+    "term2": "eliminação",
+    "value": 3.75
+  },
+  {
+    "term1": "censuras",
+    "term2": "censurar",
+    "value": 5
+  },
+  {
+    "term1": "depressor",
+    "term2": "nervo",
+    "value": 3.25
+  },
+  {
+    "term1": "depressor",
+    "term2": "músculo",
+    "value": 3.25
+  },
+  {
+    "term1": "mercearia",
+    "term2": "frutaria",
+    "value": 6.25
+  },
+  {
+    "term1": "fruteiro",
+    "term2": "vendedor",
+    "value": 6.25
+  },
+  {
+    "term1": "sindicalizar",
+    "term2": "inscrever",
+    "value": 3.75
+  },
+  {
+    "term1": "sindicalizar",
+    "term2": "aderir",
+    "value": 3.75
+  },
+  {
+    "term1": "malevolência",
+    "term2": "revanchismo",
+    "value": 4
+  },
+  {
+    "term1": "maldade",
+    "term2": "mal",
+    "value": 6.75
+  },
+  {
+    "term1": "sem precedente",
+    "term2": "novo",
+    "value": 6.5
+  },
+  {
+    "term1": "reclassificações",
+    "term2": "categorização",
+    "value": 5
+  },
+  {
+    "term1": "abraço",
+    "term2": "carinho",
+    "value": 6.5
+  },
+  {
+    "term1": "semiautomático",
+    "term2": "automático",
+    "value": 5.25
+  },
+  {
+    "term1": "abdutor",
+    "term2": "músculo",
+    "value": 5.25
+  },
+  {
+    "term1": "suspense",
+    "term2": "episódio",
+    "value": 3.5
+  },
+  {
+    "term1": "suspense",
+    "term2": "concurso",
+    "value": 3
+  },
+  {
+    "term1": "solenidade",
+    "term2": "seriedade",
+    "value": 7
+  },
+  {
+    "term1": "delimitado",
+    "term2": "determinar",
+    "value": 5.75
+  },
+  {
+    "term1": "moralista",
+    "term2": "picuinhas",
+    "value": 3.5
+  },
+  {
+    "term1": "inseguranças",
+    "term2": "insegurança",
+    "value": 6.75
+  },
+  {
+    "term1": "inseguranças",
+    "term2": "ansiedade",
+    "value": 5.5
+  },
+  {
+    "term1": "repetir",
+    "term2": "replicar",
+    "value": 6.75
+  },
+  {
+    "term1": "igrejas",
+    "term2": "realizar",
+    "value": 1.75
+  },
+  {
+    "term1": "descoberta",
+    "term2": "redescoberta",
+    "value": 5.5
+  },
+  {
+    "term1": "descoberta",
+    "term2": "revelação",
+    "value": 5.75
+  },
+  {
+    "term1": "submergir",
+    "term2": "cobrir",
+    "value": 5.75
+  },
+  {
+    "term1": "submergir",
+    "term2": "afundar",
+    "value": 6.25
+  },
+  {
+    "term1": "literalidade",
+    "term2": "concretude",
+    "value": 6
+  },
+  {
+    "term1": "reconhecimento",
+    "term2": "admissão",
+    "value": 3.25
+  },
+  {
+    "term1": "reconhecimento",
+    "term2": "aceitação",
+    "value": 6.5
+  },
+  {
+    "term1": "babygro",
+    "term2": "vestimenta",
+    "value": 5.75
+  },
+  {
+    "term1": "macacão",
+    "term2": "pessoa",
+    "value": 2.75
+  },
+  {
+    "term1": "envolvente",
+    "term2": "casulo",
+    "value": 4.75
+  },
+  {
+    "term1": "envolver",
+    "term2": "mudar",
+    "value": 1.75
+  },
+  {
+    "term1": "antifeminista",
+    "term2": "machista",
+    "value": 6.5
+  },
+  {
+    "term1": "omnisciência",
+    "term2": "sabedoria",
+    "value": 5.5
+  },
+  {
+    "term1": "surpreender",
+    "term2": "deslumbrar",
+    "value": 7
+  },
+  {
+    "term1": "circumpolar",
+    "term2": "polar",
+    "value": 5
+  },
+  {
+    "term1": "ascendência",
+    "term2": "predominância",
+    "value": 5.25
+  },
+  {
+    "term1": "acrobata",
+    "term2": "funâmbulo",
+    "value": 7
+  },
+  {
+    "term1": "precocemente",
+    "term2": "cedo",
+    "value": 7.25
+  },
+  {
+    "term1": "precocemente",
+    "term2": "inteligente",
+    "value": 3.75
+  },
+  {
+    "term1": "intenso",
+    "term2": "tenso",
+    "value": 4.25
+  },
+  {
+    "term1": "banido",
+    "term2": "expulsar",
+    "value": 6
+  },
+  {
+    "term1": "relocação",
+    "term2": "transporte",
+    "value": 5
+  },
+  {
+    "term1": "relocação",
+    "term2": "mudar",
+    "value": 5.25
+  },
+  {
+    "term1": "indexante",
+    "term2": "indexação cruzada",
+    "value": 4.5
+  },
+  {
+    "term1": "indexante",
+    "term2": "stock",
+    "value": 3.25
+  },
+  {
+    "term1": "fugir",
+    "term2": "escapar",
+    "value": 6
+  },
+  {
+    "term1": "codificado",
+    "term2": "código",
+    "value": 5
+  },
+  {
+    "term1": "batido com haste",
+    "term2": "atingir",
+    "value": 4.25
+  },
+  {
+    "term1": "hipermercados",
+    "term2": "supermercado",
+    "value": 6.5
+  },
+  {
+    "term1": "prejulgar",
+    "term2": "avaliar",
+    "value": 5.75
+  },
+  {
+    "term1": "genuinamente",
+    "term2": "sincero",
+    "value": 5.5
+  },
+  {
+    "term1": "genuinamente",
+    "term2": "atestado",
+    "value": 3.25
+  },
+  {
+    "term1": "descobertas",
+    "term2": "revelação",
+    "value": 5.5
+  },
+  {
+    "term1": "descobertas",
+    "term2": "autodescoberta",
+    "value": 6.25
+  },
+  {
+    "term1": "palestinianos",
+    "term2": "árabe",
+    "value": 5
+  },
+  {
+    "term1": "parasitário",
+    "term2": "dependente",
+    "value": 5
+  },
+  {
+    "term1": "interconectar",
+    "term2": "intercomunicar",
+    "value": 5.5
+  },
+  {
+    "term1": "interconectar",
+    "term2": "conectar",
+    "value": 6
+  },
+  {
+    "term1": "inclassificáveis",
+    "term2": "pessoa",
+    "value": 2.25
+  },
+  {
+    "term1": "amorfo",
+    "term2": "informe",
+    "value": 7.5
+  },
+  {
+    "term1": "amorfo",
+    "term2": "inorgânico",
+    "value": 4
+  },
+  {
+    "term1": "não criativo",
+    "term2": "estéril",
+    "value": 4.25
+  },
+  {
+    "term1": "estrangeiros",
+    "term2": "gringo",
+    "value": 7
+  },
+  {
+    "term1": "indiferente",
+    "term2": "impassível",
+    "value": 7.75
+  },
+  {
+    "term1": "indiferente",
+    "term2": "insensível",
+    "value": 7.75
+  },
+  {
+    "term1": "gravitado",
+    "term2": "mover",
+    "value": 2.75
+  },
+  {
+    "term1": "gravitado",
+    "term2": "tender",
+    "value": 2.75
+  },
+  {
+    "term1": "respeitável",
+    "term2": "conceituado",
+    "value": 8.25
+  },
+  {
+    "term1": "respeitável",
+    "term2": "digno",
+    "value": 7.5
+  },
+  {
+    "term1": "reproduzir",
+    "term2": "fotocopiar",
+    "value": 6.5
+  },
+  {
+    "term1": "reproduzir",
+    "term2": "propagar",
+    "value": 6.75
+  },
+  {
+    "term1": "schnauzer",
+    "term2": "gigante",
+    "value": 2.25
+  },
+  {
+    "term1": "estímulos",
+    "term2": "estimulação",
+    "value": 6
+  },
+  {
+    "term1": "astronómico",
+    "term2": "grande",
+    "value": 6.75
+  },
+  {
+    "term1": "microbalanço",
+    "term2": "balanço",
+    "value": 6.25
+  },
+  {
+    "term1": "acrescentado",
+    "term2": "adicionar",
+    "value": 6.25
+  },
+  {
+    "term1": "incontestado",
+    "term2": "incontroverso",
+    "value": 7
+  },
+  {
+    "term1": "sem amor",
+    "term2": "frio",
+    "value": 7
+  },
+  {
+    "term1": "sem amor",
+    "term2": "mal-amado",
+    "value": 7.5
+  },
+  {
+    "term1": "carimbos",
+    "term2": "marcador",
+    "value": 5.5
+  },
+  {
+    "term1": "carimbos",
+    "term2": "selo",
+    "value": 4.75
+  },
+  {
+    "term1": "apresentar",
+    "term2": "trazer",
+    "value": 2.75
+  },
+  {
+    "term1": "expor",
+    "term2": "argumentar",
+    "value": 4.5
+  },
+  {
+    "term1": "burlado",
+    "term2": "defraudar",
+    "value": 6.25
+  },
+  {
+    "term1": "procrastinado",
+    "term2": "preguiça",
+    "value": 5.25
+  },
+  {
+    "term1": "transmitido",
+    "term2": "manifestar",
+    "value": 3
+  },
+  {
+    "term1": "transvasado",
+    "term2": "vazar",
+    "value": 5.5
+  },
+  {
+    "term1": "trocar",
+    "term2": "mudar",
+    "value": 7.75
+  },
+  {
+    "term1": "intercâmbio",
+    "term2": "transação",
+    "value": 7.25
+  },
+  {
+    "term1": "antissubmarino",
+    "term2": "defensivo",
+    "value": 4.5
+  },
+  {
+    "term1": "desagrada",
+    "term2": "repelir",
+    "value": 6
+  },
+  {
+    "term1": "repreensível",
+    "term2": "desfavorável",
+    "value": 4
+  },
+  {
+    "term1": "independentemente",
+    "term2": "trabalhador",
+    "value": 4.25
+  },
+  {
+    "term1": "independentemente",
+    "term2": "individualista",
+    "value": 5.25
+  },
+  {
+    "term1": "extrajudicial",
+    "term2": "ilegal",
+    "value": 5
+  },
+  {
+    "term1": "exterminado",
+    "term2": "destruir",
+    "value": 7
+  },
+  {
+    "term1": "exterminado",
+    "term2": "matar",
+    "value": 6.5
+  },
+  {
+    "term1": "interceder",
+    "term2": "negociar",
+    "value": 4.75
+  },
+  {
+    "term1": "pós-data",
+    "term2": "seguir",
+    "value": 4.25
+  },
+  {
+    "term1": "pós-data",
+    "term2": "datar",
+    "value": 5.75
+  },
+  {
+    "term1": "comportar-se",
+    "term2": "acerca de",
+    "value": 0.25
+  },
+  {
+    "term1": "comportar-se",
+    "term2": "portar-se mal",
+    "value": 2.75
+  },
+  {
+    "term1": "touros gordos",
+    "term2": "animal",
+    "value": 5.25
+  },
+  {
+    "term1": "cerimonioso",
+    "term2": "formal",
+    "value": 7.25
+  },
+  {
+    "term1": "autoria",
+    "term2": "origem",
+    "value": 4.75
+  },
+  {
+    "term1": "abrandar",
+    "term2": "diminuir",
+    "value": 6.5
+  },
+  {
+    "term1": "afrouxar",
+    "term2": "enfraquecer",
+    "value": 6.75
+  },
+  {
+    "term1": "refrescar",
+    "term2": "regenerar",
+    "value": 5.5
+  },
+  {
+    "term1": "refrescar",
+    "term2": "lavar",
+    "value": 6.25
+  },
+  {
+    "term1": "observado",
+    "term2": "comentar",
+    "value": 3.25
+  },
+  {
+    "term1": "observado",
+    "term2": "descobrir",
+    "value": 3.75
+  },
+  {
+    "term1": "hidrolisado",
+    "term2": "mudar",
+    "value": 3
+  },
+  {
+    "term1": "ordena",
+    "term2": "dar instruções",
+    "value": 6.5
+  },
+  {
+    "term1": "substitutos",
+    "term2": "duplo",
+    "value": 7.75
+  },
+  {
+    "term1": "substituições",
+    "term2": "suplantação",
+    "value": 4.25
+  },
+  {
+    "term1": "bengali",
+    "term2": "étnico",
+    "value": 4.75
+  },
+  {
+    "term1": "transexual",
+    "term2": "pessoa",
+    "value": 4.75
+  },
+  {
+    "term1": "automatiza",
+    "term2": "mudar",
+    "value": 1.75
+  },
+  {
+    "term1": "amadorístico",
+    "term2": "pouco profissional",
+    "value": 7.25
+  },
+  {
+    "term1": "patrocínio",
+    "term2": "apoio",
+    "value": 6.25
+  },
+  {
+    "term1": "ejetor",
+    "term2": "pessoa",
+    "value": 3
+  },
+  {
+    "term1": "ejetor",
+    "term2": "mecanismo",
+    "value": 5.25
+  },
+  {
+    "term1": "refazer",
+    "term2": "reciclar",
+    "value": 6.25
+  },
+  {
+    "term1": "pré-instalado",
+    "term2": "produzir",
+    "value": 3.25
+  },
+  {
+    "term1": "fascinar",
+    "term2": "importar",
+    "value": 1.75
+  },
+  {
+    "term1": "fascinar",
+    "term2": "interessar",
+    "value": 6.5
+  },
+  {
+    "term1": "sem risco",
+    "term2": "seguro",
+    "value": 7
+  },
+  {
+    "term1": "incombustível",
+    "term2": "à prova de fogo",
+    "value": 8.25
+  },
+  {
+    "term1": "raridade",
+    "term2": "escassez",
+    "value": 6.75
+  },
+  {
+    "term1": "comprido",
+    "term2": "longo",
+    "value": 8
+  },
+  {
+    "term1": "senhorio",
+    "term2": "autoridade",
+    "value": 5.5
+  },
+  {
+    "term1": "senhorio",
+    "term2": "título",
+    "value": 4.25
+  },
+  {
+    "term1": "sanduíche",
+    "term2": "sandes",
+    "value": 6.5
+  },
+  {
+    "term1": "dente do siso",
+    "term2": "siso",
+    "value": 5.25
+  },
+  {
+    "term1": "algébrico",
+    "term2": "equações quadráticas",
+    "value": 4.5
+  },
+  {
+    "term1": "agradabilidade",
+    "term2": "simpatia",
+    "value": 7.5
+  },
+  {
+    "term1": "harmonia",
+    "term2": "compatibilidade",
+    "value": 5.25
+  },
+  {
+    "term1": "dividido",
+    "term2": "distribuir",
+    "value": 6
+  },
+  {
+    "term1": "gosto picante",
+    "term2": "sabor apimentado",
+    "value": 7.5
+  },
+  {
+    "term1": "gosto picante",
+    "term2": "qualidade",
+    "value": 3
+  },
+  {
+    "term1": "observar",
+    "term2": "notar",
+    "value": 6
+  },
+  {
+    "term1": "comentar",
+    "term2": "explicar",
+    "value": 4.75
+  },
+  {
+    "term1": "reprocessar",
+    "term2": "recuperar",
+    "value": 4
+  },
+  {
+    "term1": "empoleirar-se",
+    "term2": "fixar-se",
+    "value": 5.75
+  },
+  {
+    "term1": "pousar",
+    "term2": "sentar",
+    "value": 5.75
+  },
+  {
+    "term1": "imobilizar",
+    "term2": "bater",
+    "value": 4.5
+  },
+  {
+    "term1": "imobilizar",
+    "term2": "reter",
+    "value": 6.5
+  },
+  {
+    "term1": "prometido",
+    "term2": "declarar",
+    "value": 4
+  },
+  {
+    "term1": "empregos",
+    "term2": "estado",
+    "value": 2.75
+  },
+  {
+    "term1": "empregos",
+    "term2": "população",
+    "value": 2.5
+  },
+  {
+    "term1": "permutável",
+    "term2": "trocável",
+    "value": 5.75
+  },
+  {
+    "term1": "transferidores",
+    "term2": "delinear",
+    "value": 4
+  },
+  {
+    "term1": "religiosidade",
+    "term2": "devoção",
+    "value": 5.75
+  },
+  {
+    "term1": "religiosidade",
+    "term2": "consciência moral",
+    "value": 3
+  },
+  {
+    "term1": "combina",
+    "term2": "ajustar",
+    "value": 6.25
+  },
+  {
+    "term1": "combina",
+    "term2": "planear",
+    "value": 5.25
+  },
+  {
+    "term1": "buraco",
+    "term2": "buraco",
+    "value": 7.25
+  },
+  {
+    "term1": "habitável",
+    "term2": "habitável",
+    "value": 9.25
+  },
+  {
+    "term1": "sitiar",
+    "term2": "atacar",
+    "value": 6.5
+  },
+  {
+    "term1": "cercar",
+    "term2": "angustiar",
+    "value": 6.25
+  },
+  {
+    "term1": "indiferente",
+    "term2": "expressão",
+    "value": 2.75
+  },
+  {
+    "term1": "indiferente",
+    "term2": "estimar",
+    "value": 0.5
+  },
+  {
+    "term1": "assiduidade",
+    "term2": "frequência",
+    "value": 7
+  },
+  {
+    "term1": "comparência",
+    "term2": "presença",
+    "value": 7.25
+  },
+  {
+    "term1": "computador",
+    "term2": "especialista",
+    "value": 3.5
+  },
+  {
+    "term1": "computador",
+    "term2": "servidor",
+    "value": 5.25
+  },
+  {
+    "term1": "delimitar",
+    "term2": "guiar",
+    "value": 2.25
+  },
+  {
+    "term1": "subtender",
+    "term2": "sofrer",
+    "value": 0.25
+  },
+  {
+    "term1": "irrelevância",
+    "term2": "inaplicabilidade",
+    "value": 2.75
+  },
+  {
+    "term1": "desidratar",
+    "term2": "secar",
+    "value": 7
+  },
+  {
+    "term1": "dessecar",
+    "term2": "preservar",
+    "value": 4.25
+  },
+  {
+    "term1": "transformar",
+    "term2": "transubstanciar",
+    "value": 6
+  },
+  {
+    "term1": "transformar",
+    "term2": "mudar",
+    "value": 7.25
+  },
+  {
+    "term1": "prisioneiros",
+    "term2": "presos",
+    "value": 7.5
+  },
+  {
+    "term1": "copatrocinadores",
+    "term2": "patrocinador",
+    "value": 6
+  },
+  {
+    "term1": "pouco convincente",
+    "term2": "implausível",
+    "value": 6.25
+  },
+  {
+    "term1": "pouco convincente",
+    "term2": "pouco persuasivo",
+    "value": 8.25
+  },
+  {
+    "term1": "análogo",
+    "term2": "similar",
+    "value": 8.5
+  },
+  {
+    "term1": "preaquecer",
+    "term2": "aquecer",
+    "value": 5.75
+  },
+  {
+    "term1": "irrigar",
+    "term2": "lavar com água",
+    "value": 5
+  },
+  {
+    "term1": "irrigar",
+    "term2": "tratar",
+    "value": 4.75
+  },
+  {
+    "term1": "imortalizar",
+    "term2": "recordar",
+    "value": 5.25
+  },
+  {
+    "term1": "imortalizar",
+    "term2": "mudar",
+    "value": 1.25
+  },
+  {
+    "term1": "não lavrado",
+    "term2": "não cultivado",
+    "value": 7
+  },
+  {
+    "term1": "sintaxes",
+    "term2": "sistema",
+    "value": 4.5
+  },
+  {
+    "term1": "sintaxes",
+    "term2": "estrutura",
+    "value": 5
+  },
+  {
+    "term1": "aplicar",
+    "term2": "executar",
+    "value": 7
+  },
+  {
+    "term1": "forçar",
+    "term2": "obrigar",
+    "value": 7.75
+  },
+  {
+    "term1": "traquinas",
+    "term2": "brincalhão",
+    "value": 5
+  },
+  {
+    "term1": "diabólico",
+    "term2": "malvado",
+    "value": 8.25
+  },
+  {
+    "term1": "agrupar",
+    "term2": "grupo",
+    "value": 5.75
+  },
+  {
+    "term1": "dissimular",
+    "term2": "disfarçar",
+    "value": 8.25
+  },
+  {
+    "term1": "aperfeiçoamento",
+    "term2": "melhoria",
+    "value": 7.75
+  },
+  {
+    "term1": "reconstrói",
+    "term2": "construir",
+    "value": 5.75
+  },
+  {
+    "term1": "reforçar",
+    "term2": "fixar",
+    "value": 5.25
+  },
+  {
+    "term1": "invadir",
+    "term2": "infringir",
+    "value": 6.5
+  },
+  {
+    "term1": "esférico",
+    "term2": "redondo",
+    "value": 7.75
+  },
+  {
+    "term1": "impolítico",
+    "term2": "inoportuno",
+    "value": 4.5
+  },
+  {
+    "term1": "londrinos",
+    "term2": "pessoa",
+    "value": 3.25
+  },
+  {
+    "term1": "predeterminação",
+    "term2": "decisão",
+    "value": 4.25
+  },
+  {
+    "term1": "desestabilização",
+    "term2": "mudar",
+    "value": 1.25
+  },
+  {
+    "term1": "razoável",
+    "term2": "moderado",
+    "value": 5.75
+  },
+  {
+    "term1": "sensato",
+    "term2": "racional",
+    "value": 6.5
+  },
+  {
+    "term1": "cerâmica",
+    "term2": "cerâmica de vidro",
+    "value": 6
+  },
+  {
+    "term1": "olaria",
+    "term2": "comércio",
+    "value": 3.75
+  },
+  {
+    "term1": "sem entusiasmo",
+    "term2": "desmotivado",
+    "value": 7.25
+  },
+  {
+    "term1": "virilidade",
+    "term2": "masculinidade",
+    "value": 7.25
+  },
+  {
+    "term1": "virilidade",
+    "term2": "masculinidade",
+    "value": 7.25
+  },
+  {
+    "term1": "discordância",
+    "term2": "dissonância",
+    "value": 8
+  },
+  {
+    "term1": "discordância",
+    "term2": "conflito",
+    "value": 4.5
+  },
+  {
+    "term1": "pilhado",
+    "term2": "destruir",
+    "value": 4.5
+  },
+  {
+    "term1": "saqueado",
+    "term2": "roubar",
+    "value": 6.5
+  },
+  {
+    "term1": "travesti",
+    "term2": "pessoa",
+    "value": 3.25
+  },
+  {
+    "term1": "travesti",
+    "term2": "homossexual",
+    "value": 1.75
+  },
+  {
+    "term1": "retração",
+    "term2": "movimento",
+    "value": 3.5
+  },
+  {
+    "term1": "retração",
+    "term2": "retirada",
+    "value": 3.75
+  },
+  {
+    "term1": "escraviza",
+    "term2": "subjugar",
+    "value": 6.75
+  },
+  {
+    "term1": "carburadores",
+    "term2": "mecânico",
+    "value": 3.75
+  },
+  {
+    "term1": "explorador",
+    "term2": "mergulhador",
+    "value": 4.25
+  },
+  {
+    "term1": "perfectível",
+    "term2": "perfeito",
+    "value": 4.75
+  },
+  {
+    "term1": "incentiva",
+    "term2": "incitar",
+    "value": 7.25
+  },
+  {
+    "term1": "estimula",
+    "term2": "despertar",
+    "value": 6.5
+  },
+  {
+    "term1": "consensos",
+    "term2": "acordo",
+    "value": 8.25
+  },
+  {
+    "term1": "acordos",
+    "term2": "cooperação",
+    "value": 5.25
+  },
+  {
+    "term1": "emulsionar",
+    "term2": "mudar",
+    "value": 1.5
+  },
+  {
+    "term1": "internacionalismo",
+    "term2": "escopo",
+    "value": 2.25
+  },
+  {
+    "term1": "internacionalismo",
+    "term2": "doutrina",
+    "value": 2.5
+  },
+  {
+    "term1": "cilíndrico",
+    "term2": "arredondado",
+    "value": 6.5
+  },
+  {
+    "term1": "sexualmente",
+    "term2": "sensual",
+    "value": 4.75
+  },
+  {
+    "term1": "afegão",
+    "term2": "iraniano",
+    "value": 5
+  },
+  {
+    "term1": "animalismo",
+    "term2": "doutrina",
+    "value": 2.5
+  },
+  {
+    "term1": "animalismo",
+    "term2": "disposição",
+    "value": 1.5
+  },
+  {
+    "term1": "latinista",
+    "term2": "classicista",
+    "value": 4.75
+  },
+  {
+    "term1": "panjábi",
+    "term2": "sânscrito",
+    "value": 2.75
+  },
+  {
+    "term1": "panjábi",
+    "term2": "indiano",
+    "value": 3.75
+  },
+  {
+    "term1": "exterminar",
+    "term2": "destruir",
+    "value": 6.25
+  },
+  {
+    "term1": "exterminar",
+    "term2": "matar",
+    "value": 7.5
+  },
+  {
+    "term1": "consignar",
+    "term2": "conferir",
+    "value": 4.5
+  },
+  {
+    "term1": "respetivamente",
+    "term2": "individual",
+    "value": 2.5
+  },
+  {
+    "term1": "receber",
+    "term2": "recetar",
+    "value": 4.25
+  },
+  {
+    "term1": "monociclo",
+    "term2": "roda",
+    "value": 4
+  },
+  {
+    "term1": "monociclo",
+    "term2": "bicicleta",
+    "value": 4.75
+  },
+  {
+    "term1": "incisado",
+    "term2": "cortar",
+    "value": 5.5
+  },
+  {
+    "term1": "incisado",
+    "term2": "composto",
+    "value": 0.25
+  },
+  {
+    "term1": "perfetivo",
+    "term2": "futuro",
+    "value": 1
+  },
+  {
+    "term1": "perfetivo",
+    "term2": "aspeto",
+    "value": 3.75
+  },
+  {
+    "term1": "aprendizagem",
+    "term2": "posição",
+    "value": 2
+  },
+  {
+    "term1": "repórteres",
+    "term2": "repórter",
+    "value": 9.75
+  },
+  {
+    "term1": "casa cheia",
+    "term2": "recipiente cheio",
+    "value": 3
+  },
+  {
+    "term1": "irreverência",
+    "term2": "maldade",
+    "value": 1.75
+  },
+  {
+    "term1": "modesto",
+    "term2": "fino",
+    "value": 0.75
+  },
+  {
+    "term1": "desfavorecido",
+    "term2": "desprivilegiado",
+    "value": 8.5
+  },
+  {
+    "term1": "combatido",
+    "term2": "lutar",
+    "value": 7
+  },
+  {
+    "term1": "bisbilhoteiro",
+    "term2": "coscuvilheiro",
+    "value": 9.25
+  },
+  {
+    "term1": "investigadores",
+    "term2": "pesquisador",
+    "value": 7
+  },
+  {
+    "term1": "reside",
+    "term2": "habitar",
+    "value": 8
+  },
+  {
+    "term1": "individualizar",
+    "term2": "distinguir",
+    "value": 5.75
+  },
+  {
+    "term1": "individualizar",
+    "term2": "mudar",
+    "value": 1
+  },
+  {
+    "term1": "conseguro",
+    "term2": "seguro",
+    "value": 6.5
+  },
+  {
+    "term1": "micrómetro",
+    "term2": "nanómetro",
+    "value": 5.25
+  },
+  {
+    "term1": "micrómetro",
+    "term2": "compasso",
+    "value": 3.75
+  },
+  {
+    "term1": "código postal",
+    "term2": "morada",
+    "value": 5.5
+  },
+  {
+    "term1": "incrustado",
+    "term2": "revestir",
+    "value": 4
+  },
+  {
+    "term1": "ornado",
+    "term2": "decorar",
+    "value": 5
+  },
+  {
+    "term1": "não dissolvido",
+    "term2": "não derretido",
+    "value": 7.25
+  },
+  {
+    "term1": "rapidez",
+    "term2": "rápido",
+    "value": 5.75
+  },
+  {
+    "term1": "liquidar",
+    "term2": "vender",
+    "value": 5.25
+  },
+  {
+    "term1": "restante",
+    "term2": "parte",
+    "value": 4.5
+  },
+  {
+    "term1": "marginalidade",
+    "term2": "posição",
+    "value": 2
+  },
+  {
+    "term1": "descontrolado",
+    "term2": "agitar",
+    "value": 4
+  },
+  {
+    "term1": "reabastece",
+    "term2": "abastecer",
+    "value": 6.25
+  },
+  {
+    "term1": "cobra",
+    "term2": "cascavel",
+    "value": 7
+  },
+  {
+    "term1": "míssil sidewinder",
+    "term2": "míssil",
+    "value": 6.5
+  },
+  {
+    "term1": "federalizar",
+    "term2": "unir",
+    "value": 3.25
+  },
+  {
+    "term1": "pária",
+    "term2": "indesejado",
+    "value": 5.25
+  },
+  {
+    "term1": "animalizar",
+    "term2": "mudar",
+    "value": 1.5
+  },
+  {
+    "term1": "repreende",
+    "term2": "deitar abaixo",
+    "value": 4
+  },
+  {
+    "term1": "caracteres",
+    "term2": "ser",
+    "value": 3.75
+  },
+  {
+    "term1": "gravar",
+    "term2": "riscar",
+    "value": 4.5
+  },
+  {
+    "term1": "conjetura",
+    "term2": "hipótese",
+    "value": 7
+  },
+  {
+    "term1": "simétrico",
+    "term2": "equilibrado",
+    "value": 5.25
+  },
+  {
+    "term1": "sedução",
+    "term2": "tentação",
+    "value": 4.5
+  },
+  {
+    "term1": "sedução",
+    "term2": "convite",
+    "value": 4
+  },
+  {
+    "term1": "devorar",
+    "term2": "comer",
+    "value": 5.75
+  },
+  {
+    "term1": "extrator",
+    "term2": "fórceps",
+    "value": 5
+  },
+  {
+    "term1": "fotógrafo",
+    "term2": "paparazzo",
+    "value": 5.5
+  },
+  {
+    "term1": "perspetivas",
+    "term2": "olho",
+    "value": 2.25
+  },
+  {
+    "term1": "perspetivas",
+    "term2": "ponto",
+    "value": 4.75
+  },
+  {
+    "term1": "desinflação",
+    "term2": "económico",
+    "value": 3
+  },
+  {
+    "term1": "interplanetário",
+    "term2": "internacional",
+    "value": 1.75
+  },
+  {
+    "term1": "interplanetário",
+    "term2": "não colonizado",
+    "value": 1.5
+  },
+  {
+    "term1": "trilogias",
+    "term2": "trio",
+    "value": 5.75
+  },
+  {
+    "term1": "corrupção moral",
+    "term2": "corrupto",
+    "value": 5.25
+  },
+  {
+    "term1": "envenamento",
+    "term2": "veneno",
+    "value": 6.25
+  },
+  {
+    "term1": "boias",
+    "term2": "flutuador",
+    "value": 5.5
+  },
+  {
+    "term1": "retratista",
+    "term2": "pintor",
+    "value": 5.5
+  },
+  {
+    "term1": "invariável",
+    "term2": "rígido",
+    "value": 5
+  },
+  {
+    "term1": "invariável",
+    "term2": "parâmetro",
+    "value": 4.25
+  },
+  {
+    "term1": "constringir",
+    "term2": "adstringir",
+    "value": 8
+  },
+  {
+    "term1": "apertar",
+    "term2": "sufocar",
+    "value": 5.75
+  },
+  {
+    "term1": "extroversão",
+    "term2": "sociabilização",
+    "value": 5.5
+  },
+  {
+    "term1": "frivolamente",
+    "term2": "superficial",
+    "value": 6
+  },
+  {
+    "term1": "voltado a montar",
+    "term2": "montar",
+    "value": 5.25
+  },
+  {
+    "term1": "montado",
+    "term2": "saltar para cima de",
+    "value": 5
+  },
+  {
+    "term1": "injuria",
+    "term2": "insultar",
+    "value": 7.5
+  },
+  {
+    "term1": "outlets",
+    "term2": "mercantil",
+    "value": 4.5
+  },
+  {
+    "term1": "confinamento",
+    "term2": "restrição",
+    "value": 6.25
+  },
+  {
+    "term1": "consciência",
+    "term2": "conhecimento",
+    "value": 5
+  },
+  {
+    "term1": "consciência",
+    "term2": "ego",
+    "value": 3.75
+  },
+  {
+    "term1": "acreditar",
+    "term2": "sentir",
+    "value": 3.5
+  },
+  {
+    "term1": "crença",
+    "term2": "acreditar",
+    "value": 6
+  },
+  {
+    "term1": "regimental",
+    "term2": "controlar",
+    "value": 3.75
+  },
+  {
+    "term1": "regimental",
+    "term2": "formar",
+    "value": 4.25
+  },
+  {
+    "term1": "subdividido",
+    "term2": "subdividir",
+    "value": 6.25
+  },
+  {
+    "term1": "subdividido",
+    "term2": "dividir",
+    "value": 5.75
+  },
+  {
+    "term1": "sustentável",
+    "term2": "durar",
+    "value": 3.5
+  },
+  {
+    "term1": "estandardizar",
+    "term2": "calibrar",
+    "value": 6.25
+  },
+  {
+    "term1": "aferir",
+    "term2": "medir",
+    "value": 5
+  },
+  {
+    "term1": "custeado",
+    "term2": "pagar",
+    "value": 5.25
+  },
+  {
+    "term1": "diabolicamente",
+    "term2": "cozinhar",
+    "value": 0.5
+  },
+  {
+    "term1": "diabolicamente",
+    "term2": "antagonizar",
+    "value": 2.25
+  },
+  {
+    "term1": "desaprovador",
+    "term2": "desaprovar",
+    "value": 6
+  },
+  {
+    "term1": "subespaços",
+    "term2": "matemático",
+    "value": 5
+  },
+  {
+    "term1": "conotar",
+    "term2": "implicar",
+    "value": 4.25
+  },
+  {
+    "term1": "conotar",
+    "term2": "expressar",
+    "value": 3.25
+  },
+  {
+    "term1": "herança",
+    "term2": "passar",
+    "value": 4.75
+  },
+  {
+    "term1": "herança",
+    "term2": "aquisição",
+    "value": 4
+  },
+  {
+    "term1": "tiro com arco",
+    "term2": "desporto",
+    "value": 5.25
+  },
+  {
+    "term1": "suficiente",
+    "term2": "servir",
+    "value": 4.75
+  },
+  {
+    "term1": "beligerância",
+    "term2": "hostilidade",
+    "value": 6.5
+  },
+  {
+    "term1": "procriar",
+    "term2": "chocar",
+    "value": 3.25
+  },
+  {
+    "term1": "gelatinoso",
+    "term2": "espesso",
+    "value": 1.5
+  },
+  {
+    "term1": "vil",
+    "term2": "cruel",
+    "value": 8.5
+  },
+  {
+    "term1": "harmonia",
+    "term2": "congruência",
+    "value": 6.5
+  },
+  {
+    "term1": "harmonia",
+    "term2": "música",
+    "value": 4.5
+  },
+  {
+    "term1": "inofensivo",
+    "term2": "inócuo",
+    "value": 7.25
+  },
+  {
+    "term1": "rebelde",
+    "term2": "jovem",
+    "value": 3
+  },
+  {
+    "term1": "inquisitivo",
+    "term2": "curioso",
+    "value": 5.5
+  },
+  {
+    "term1": "inquisitivo",
+    "term2": "inquiridor",
+    "value": 6.5
+  },
+  {
+    "term1": "extraterrestre",
+    "term2": "hipotético",
+    "value": 1.75
+  },
+  {
+    "term1": "triclínico",
+    "term2": "monoclínico",
+    "value": 4.5
+  },
+  {
+    "term1": "homicida",
+    "term2": "assassino",
+    "value": 8.75
+  },
+  {
+    "term1": "consenso",
+    "term2": "acordo",
+    "value": 8.25
+  },
+  {
+    "term1": "consenso",
+    "term2": "cooperação",
+    "value": 5.25
+  },
+  {
+    "term1": "historicamente",
+    "term2": "real",
+    "value": 3.25
+  },
+  {
+    "term1": "não tóxico",
+    "term2": "antitóxico",
+    "value": 5
+  },
+  {
+    "term1": "não tóxico",
+    "term2": "comestível",
+    "value": 4.5
+  },
+  {
+    "term1": "reforçado",
+    "term2": "saco de areia",
+    "value": 2.25
+  },
+  {
+    "term1": "reforçado",
+    "term2": "fortalecer",
+    "value": 6.5
+  },
+  {
+    "term1": "incontestável",
+    "term2": "inegável",
+    "value": 8
+  },
+  {
+    "term1": "irrefutável",
+    "term2": "incontestável",
+    "value": 8.75
+  },
+  {
+    "term1": "ruidoso",
+    "term2": "som",
+    "value": 5.75
+  },
+  {
+    "term1": "intragrupo",
+    "term2": "intramural",
+    "value": 3.5
+  },
+  {
+    "term1": "excecionalmente",
+    "term2": "extraordinário",
+    "value": 5.25
+  },
+  {
+    "term1": "irredimível",
+    "term2": "cruel",
+    "value": 3.25
+  },
+  {
+    "term1": "irredimível",
+    "term2": "inconvertível",
+    "value": 6.75
+  },
+  {
+    "term1": "risinho",
+    "term2": "rir",
+    "value": 5.5
+  }
+]

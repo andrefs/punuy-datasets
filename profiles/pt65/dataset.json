@@ -1,0 +1,50 @@
+{
+  "id": "pt65",
+  "metadata": {
+    "name": "PT65",
+    "urls": [
+      "http://www.inf.pucrs.br/linatural/wikimodels/similarity.html"
+    ],
+    "papers": [
+      {
+        "title": "Comparing Semantic Relatedness between Word Pairsin Portuguese Using Wikipedia",
+        "url": "https://core.ac.uk/reader/217894830"
+      }
+    ],
+    "date": "2014",
+    "description": "Portuguese translation of the RG65 from Rubenstein and Goodenough (1965).",
+    "downloadUrls": [
+      "https://www.inf.pucrs.br/linatural/wordpress/recursos-e-ferramentas/lista-de-pares-de-palavras/"
+    ],
+    "languages": [
+      "pt"
+    ],
+    "domain": "general",
+    "measureTypes": [
+      "relatedness"
+    ]
+  },
+  "partitions": [
+    {
+      "id": "main",
+      "measureType": "relatedness",
+      "scale": {
+        "value": {
+          "max": 4,
+          "min": 0
+        }
+      },
+      "metrics": {
+        "annotators": {
+          "total": 50,
+          "minEachPair": 50
+        },
+        "interAgreement": {
+          "pearson": 0.71,
+          "spearman": null
+        }
+      }
+    }
+  ],
+  "originalInstructions": ""
+}

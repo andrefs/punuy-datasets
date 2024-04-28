@@ -1,0 +1,152 @@
+[
+  {
+    "term1": "car",
+    "term2": "driver",
+    "value": 3.14
+  },
+  {
+    "term1": "person",
+    "term2": "soul",
+    "value": 2.84
+  },
+  {
+    "term1": "transfusion",
+    "term2": "guitar",
+    "value": 0.05
+  },
+  {
+    "term1": "theorem",
+    "term2": "wife",
+    "value": 0.34
+  },
+  {
+    "term1": "professional",
+    "term2": "actor",
+    "value": 2.12
+  },
+  {
+    "term1": "mathematics",
+    "term2": "theorem",
+    "value": 3.3
+  },
+  {
+    "term1": "person",
+    "term2": "person",
+    "value": 4.0
+  },
+  {
+    "term1": "atom",
+    "term2": "bomb",
+    "value": 2.63
+  },
+  {
+    "term1": "city",
+    "term2": "river",
+    "value": 1.85
+  },
+  {
+    "term1": "pencil",
+    "term2": "paper",
+    "value": 2.9
+  },
+  {
+    "term1": "theft",
+    "term2": "house",
+    "value": 1.99
+  },
+  {
+    "term1": "power",
+    "term2": "healing",
+    "value": 1.25
+  },
+  {
+    "term1": "cloud",
+    "term2": "computer",
+    "value": 0.32
+  },
+  {
+    "term1": "hour",
+    "term2": "minute",
+    "value": 3.38
+  },
+  {
+    "term1": "river",
+    "term2": "lake",
+    "value": 3.19
+  },
+  {
+    "term1": "blood",
+    "term2": "transfusion",
+    "value": 3.28
+  },
+  {
+    "term1": "blood",
+    "term2": "keyboard",
+    "value": 0.12
+  },
+  {
+    "term1": "xenon",
+    "term2": "soul",
+    "value": 0.07
+  },
+  {
+    "term1": "dog",
+    "term2": "friend",
+    "value": 2.51
+  },
+  {
+    "term1": "nanometer",
+    "term2": "feeling",
+    "value": 0.11
+  },
+  {
+    "term1": "ten",
+    "term2": "twelve",
+    "value": 3.01
+  },
+  {
+    "term1": "penguin",
+    "term2": "Antarctica",
+    "value": 2.96
+  },
+  {
+    "term1": "citizen",
+    "term2": "city",
+    "value": 3.24
+  },
+  {
+    "term1": "yes",
+    "term2": "no",
+    "value": 3.0
+  },
+  {
+    "term1": "sea",
+    "term2": "salt",
+    "value": 2.87
+  },
+  {
+    "term1": "computer",
+    "term2": "calculator",
+    "value": 2.81
+  },
+  {
+    "term1": "keyboard",
+    "term2": "computer",
+    "value": 3.25
+  },
+  {
+    "term1": "car",
+    "term2": "wheel",
+    "value": 3.02
+  },
+  {
+    "term1": "letter",
+    "term2": "message",
+    "value": 3.16
+  },
+  {
+    "term1": "pen",
+    "term2": "lamp",
+    "value": 0.65
+  }
+]

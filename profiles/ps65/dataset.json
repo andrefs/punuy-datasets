@@ -1,0 +1,48 @@
+{
+  "id": "ps65",
+  "metadata": {
+    "name": "Pirro and Seco (2008)",
+    "urls": [],
+    "papers": [
+      {
+        "title": "Design, Implementation and Evaluation of a New Semantic Similarity Metric Combining Features and Intrinsic Information Content",
+        "url": "https://dl.acm.org/doi/abs/10.1007/978-3-540-88873-4_25"
+      }
+    ],
+    "date": "2008",
+    "description": "",
+    "downloadUrls": [
+      "https://raw.githubusercontent.com/jjlastra/HESML/7a513929213777fe47b17dbfdfd8c96cb8cb3f5c/HESML_Library/WN_Datasets/PirroSeco_full_dataset.csv"
+    ],
+    "languages": [
+      "en"
+    ],
+    "domain": "general",
+    "measureTypes": [
+      "similarity"
+    ]
+  },
+  "partitions": [
+    {
+      "id": "main",
+      "measureType": "similarity",
+      "scale": {
+        "value": {
+          "min": 0,
+          "max": 4
+        }
+      },
+      "metrics": {
+        "annotators": {
+          "total": 101,
+          "minEachPair": 101
+        },
+        "interAgreement": {
+          "pearson": null,
+          "spearman": null
+        }
+      }
+    }
+  ],
+  "originalInstructions": ""
+}

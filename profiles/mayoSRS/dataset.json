@@ -1,0 +1,50 @@
+{
+  "id": "mayoSRS",
+  "metadata": {
+    "name": "MayoSRS",
+    "urls": [
+      "https://conservancy.umn.edu/handle/11299/196265"
+    ],
+    "papers": [
+      {
+        "title": "Measures of semantic similarity and relatedness in the biomedical domain",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1532046406000645?via%3Dihub"
+      }
+    ],
+    "date": "2007",
+    "description": "A set of 101 medical concept pairs manually rater by medical coders for semantic relatedness.",
+    "downloadUrls": [
+      "https://conservancy.umn.edu/bitstream/handle/11299/196265/MayoSRS.csv?sequence=1&isAllowed=y"
+    ],
+    "languages": [
+      "en"
+    ],
+    "domain": "biomedical",
+    "measureTypes": [
+      "relatedness"
+    ]
+  },
+  "partitions": [
+    {
+      "id": "mean",
+      "measureType": "relatedness",
+      "scale": {
+        "value": {
+          "min": 1,
+          "max": 10
+        }
+      },
+      "metrics": {
+        "annotators": {
+          "total": 13,
+          "minEachPair": 13
+        },
+        "interAgreement": {
+          "pearson": 0.51,
+          "spearman": null
+        }
+      }
+    }
+  ],
+  "originalInstructions": ""
+}

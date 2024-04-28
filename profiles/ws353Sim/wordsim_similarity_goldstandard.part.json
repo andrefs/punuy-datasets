@@ -1,0 +1,1017 @@
+[
+  {
+    "term1": "tiger",
+    "term2": "cat",
+    "value": 7.35
+  },
+  {
+    "term1": "tiger",
+    "term2": "tiger",
+    "value": 10.0
+  },
+  {
+    "term1": "plane",
+    "term2": "car",
+    "value": 5.77
+  },
+  {
+    "term1": "train",
+    "term2": "car",
+    "value": 6.31
+  },
+  {
+    "term1": "television",
+    "term2": "radio",
+    "value": 6.77
+  },
+  {
+    "term1": "media",
+    "term2": "radio",
+    "value": 7.42
+  },
+  {
+    "term1": "bread",
+    "term2": "butter",
+    "value": 6.19
+  },
+  {
+    "term1": "cucumber",
+    "term2": "potato",
+    "value": 5.92
+  },
+  {
+    "term1": "doctor",
+    "term2": "nurse",
+    "value": 7.0
+  },
+  {
+    "term1": "professor",
+    "term2": "doctor",
+    "value": 6.62
+  },
+  {
+    "term1": "student",
+    "term2": "professor",
+    "value": 6.81
+  },
+  {
+    "term1": "smart",
+    "term2": "stupid",
+    "value": 5.81
+  },
+  {
+    "term1": "wood",
+    "term2": "forest",
+    "value": 7.73
+  },
+  {
+    "term1": "money",
+    "term2": "cash",
+    "value": 9.15
+  },
+  {
+    "term1": "king",
+    "term2": "queen",
+    "value": 8.58
+  },
+  {
+    "term1": "king",
+    "term2": "rook",
+    "value": 5.92
+  },
+  {
+    "term1": "bishop",
+    "term2": "rabbi",
+    "value": 6.69
+  },
+  {
+    "term1": "fuck",
+    "term2": "sex",
+    "value": 9.44
+  },
+  {
+    "term1": "football",
+    "term2": "soccer",
+    "value": 9.03
+  },
+  {
+    "term1": "football",
+    "term2": "basketball",
+    "value": 6.81
+  },
+  {
+    "term1": "football",
+    "term2": "tennis",
+    "value": 6.63
+  },
+  {
+    "term1": "Arafat",
+    "term2": "Jackson",
+    "value": 2.5
+  },
+  {
+    "term1": "physics",
+    "term2": "chemistry",
+    "value": 7.35
+  },
+  {
+    "term1": "vodka",
+    "term2": "gin",
+    "value": 8.46
+  },
+  {
+    "term1": "vodka",
+    "term2": "brandy",
+    "value": 8.13
+  },
+  {
+    "term1": "drink",
+    "term2": "eat",
+    "value": 6.87
+  },
+  {
+    "term1": "car",
+    "term2": "automobile",
+    "value": 8.94
+  },
+  {
+    "term1": "gem",
+    "term2": "jewel",
+    "value": 8.96
+  },
+  {
+    "term1": "journey",
+    "term2": "voyage",
+    "value": 9.29
+  },
+  {
+    "term1": "boy",
+    "term2": "lad",
+    "value": 8.83
+  },
+  {
+    "term1": "coast",
+    "term2": "shore",
+    "value": 9.1
+  },
+  {
+    "term1": "asylum",
+    "term2": "madhouse",
+    "value": 8.87
+  },
+  {
+    "term1": "magician",
+    "term2": "wizard",
+    "value": 9.02
+  },
+  {
+    "term1": "midday",
+    "term2": "noon",
+    "value": 9.29
+  },
+  {
+    "term1": "furnace",
+    "term2": "stove",
+    "value": 8.79
+  },
+  {
+    "term1": "food",
+    "term2": "fruit",
+    "value": 7.52
+  },
+  {
+    "term1": "bird",
+    "term2": "cock",
+    "value": 7.1
+  },
+  {
+    "term1": "bird",
+    "term2": "crane",
+    "value": 7.38
+  },
+  {
+    "term1": "food",
+    "term2": "rooster",
+    "value": 4.42
+  },
+  {
+    "term1": "money",
+    "term2": "dollar",
+    "value": 8.42
+  },
+  {
+    "term1": "money",
+    "term2": "currency",
+    "value": 9.04
+  },
+  {
+    "term1": "tiger",
+    "term2": "jaguar",
+    "value": 8.0
+  },
+  {
+    "term1": "tiger",
+    "term2": "feline",
+    "value": 8.0
+  },
+  {
+    "term1": "tiger",
+    "term2": "carnivore",
+    "value": 7.08
+  },
+  {
+    "term1": "tiger",
+    "term2": "mammal",
+    "value": 6.85
+  },
+  {
+    "term1": "tiger",
+    "term2": "animal",
+    "value": 7.0
+  },
+  {
+    "term1": "tiger",
+    "term2": "organism",
+    "value": 4.77
+  },
+  {
+    "term1": "tiger",
+    "term2": "fauna",
+    "value": 5.62
+  },
+  {
+    "term1": "psychology",
+    "term2": "psychiatry",
+    "value": 8.08
+  },
+  {
+    "term1": "psychology",
+    "term2": "science",
+    "value": 6.71
+  },
+  {
+    "term1": "psychology",
+    "term2": "discipline",
+    "value": 5.58
+  },
+  {
+    "term1": "planet",
+    "term2": "star",
+    "value": 8.45
+  },
+  {
+    "term1": "planet",
+    "term2": "moon",
+    "value": 8.08
+  },
+  {
+    "term1": "planet",
+    "term2": "sun",
+    "value": 8.02
+  },
+  {
+    "term1": "precedent",
+    "term2": "example",
+    "value": 5.85
+  },
+  {
+    "term1": "precedent",
+    "term2": "antecedent",
+    "value": 6.04
+  },
+  {
+    "term1": "cup",
+    "term2": "tableware",
+    "value": 6.85
+  },
+  {
+    "term1": "cup",
+    "term2": "artifact",
+    "value": 2.92
+  },
+  {
+    "term1": "cup",
+    "term2": "object",
+    "value": 3.69
+  },
+  {
+    "term1": "cup",
+    "term2": "entity",
+    "value": 2.15
+  },
+  {
+    "term1": "jaguar",
+    "term2": "cat",
+    "value": 7.42
+  },
+  {
+    "term1": "jaguar",
+    "term2": "car",
+    "value": 7.27
+  },
+  {
+    "term1": "mile",
+    "term2": "kilometer",
+    "value": 8.66
+  },
+  {
+    "term1": "skin",
+    "term2": "eye",
+    "value": 6.22
+  },
+  {
+    "term1": "Japanese",
+    "term2": "American",
+    "value": 6.5
+  },
+  {
+    "term1": "century",
+    "term2": "year",
+    "value": 7.59
+  },
+  {
+    "term1": "announcement",
+    "term2": "news",
+    "value": 7.56
+  },
+  {
+    "term1": "doctor",
+    "term2": "personnel",
+    "value": 5.0
+  },
+  {
+    "term1": "Harvard",
+    "term2": "Yale",
+    "value": 8.13
+  },
+  {
+    "term1": "hospital",
+    "term2": "infrastructure",
+    "value": 4.63
+  },
+  {
+    "term1": "life",
+    "term2": "death",
+    "value": 7.88
+  },
+  {
+    "term1": "travel",
+    "term2": "activity",
+    "value": 5.0
+  },
+  {
+    "term1": "type",
+    "term2": "kind",
+    "value": 8.97
+  },
+  {
+    "term1": "street",
+    "term2": "place",
+    "value": 6.44
+  },
+  {
+    "term1": "street",
+    "term2": "avenue",
+    "value": 8.88
+  },
+  {
+    "term1": "street",
+    "term2": "block",
+    "value": 6.88
+  },
+  {
+    "term1": "cell",
+    "term2": "phone",
+    "value": 7.81
+  },
+  {
+    "term1": "dividend",
+    "term2": "payment",
+    "value": 7.63
+  },
+  {
+    "term1": "calculation",
+    "term2": "computation",
+    "value": 8.44
+  },
+  {
+    "term1": "profit",
+    "term2": "loss",
+    "value": 7.63
+  },
+  {
+    "term1": "dollar",
+    "term2": "yen",
+    "value": 7.78
+  },
+  {
+    "term1": "dollar",
+    "term2": "buck",
+    "value": 9.22
+  },
+  {
+    "term1": "phone",
+    "term2": "equipment",
+    "value": 7.13
+  },
+  {
+    "term1": "liquid",
+    "term2": "water",
+    "value": 7.89
+  },
+  {
+    "term1": "marathon",
+    "term2": "sprint",
+    "value": 7.47
+  },
+  {
+    "term1": "seafood",
+    "term2": "food",
+    "value": 8.34
+  },
+  {
+    "term1": "seafood",
+    "term2": "lobster",
+    "value": 8.7
+  },
+  {
+    "term1": "lobster",
+    "term2": "food",
+    "value": 7.81
+  },
+  {
+    "term1": "lobster",
+    "term2": "wine",
+    "value": 5.7
+  },
+  {
+    "term1": "championship",
+    "term2": "tournament",
+    "value": 8.36
+  },
+  {
+    "term1": "man",
+    "term2": "woman",
+    "value": 8.3
+  },
+  {
+    "term1": "man",
+    "term2": "governor",
+    "value": 5.25
+  },
+  {
+    "term1": "murder",
+    "term2": "manslaughter",
+    "value": 8.53
+  },
+  {
+    "term1": "opera",
+    "term2": "performance",
+    "value": 6.88
+  },
+  {
+    "term1": "Mexico",
+    "term2": "Brazil",
+    "value": 7.44
+  },
+  {
+    "term1": "glass",
+    "term2": "metal",
+    "value": 5.56
+  },
+  {
+    "term1": "aluminum",
+    "term2": "metal",
+    "value": 7.83
+  },
+  {
+    "term1": "rock",
+    "term2": "jazz",
+    "value": 7.59
+  },
+  {
+    "term1": "museum",
+    "term2": "theater",
+    "value": 7.19
+  },
+  {
+    "term1": "shower",
+    "term2": "thunderstorm",
+    "value": 6.31
+  },
+  {
+    "term1": "monk",
+    "term2": "oracle",
+    "value": 5.0
+  },
+  {
+    "term1": "cup",
+    "term2": "food",
+    "value": 5.0
+  },
+  {
+    "term1": "journal",
+    "term2": "association",
+    "value": 4.97
+  },
+  {
+    "term1": "street",
+    "term2": "children",
+    "value": 4.94
+  },
+  {
+    "term1": "car",
+    "term2": "flight",
+    "value": 4.94
+  },
+  {
+    "term1": "space",
+    "term2": "chemistry",
+    "value": 4.88
+  },
+  {
+    "term1": "situation",
+    "term2": "conclusion",
+    "value": 4.81
+  },
+  {
+    "term1": "word",
+    "term2": "similarity",
+    "value": 4.75
+  },
+  {
+    "term1": "peace",
+    "term2": "plan",
+    "value": 4.75
+  },
+  {
+    "term1": "consumer",
+    "term2": "energy",
+    "value": 4.75
+  },
+  {
+    "term1": "ministry",
+    "term2": "culture",
+    "value": 4.69
+  },
+  {
+    "term1": "smart",
+    "term2": "student",
+    "value": 4.62
+  },
+  {
+    "term1": "investigation",
+    "term2": "effort",
+    "value": 4.59
+  },
+  {
+    "term1": "image",
+    "term2": "surface",
+    "value": 4.56
+  },
+  {
+    "term1": "life",
+    "term2": "term",
+    "value": 4.5
+  },
+  {
+    "term1": "start",
+    "term2": "match",
+    "value": 4.47
+  },
+  {
+    "term1": "computer",
+    "term2": "news",
+    "value": 4.47
+  },
+  {
+    "term1": "board",
+    "term2": "recommendation",
+    "value": 4.47
+  },
+  {
+    "term1": "lad",
+    "term2": "brother",
+    "value": 4.46
+  },
+  {
+    "term1": "observation",
+    "term2": "architecture",
+    "value": 4.38
+  },
+  {
+    "term1": "coast",
+    "term2": "hill",
+    "value": 4.38
+  },
+  {
+    "term1": "deployment",
+    "term2": "departure",
+    "value": 4.25
+  },
+  {
+    "term1": "benchmark",
+    "term2": "index",
+    "value": 4.25
+  },
+  {
+    "term1": "attempt",
+    "term2": "peace",
+    "value": 4.25
+  },
+  {
+    "term1": "consumer",
+    "term2": "confidence",
+    "value": 4.13
+  },
+  {
+    "term1": "start",
+    "term2": "year",
+    "value": 4.06
+  },
+  {
+    "term1": "focus",
+    "term2": "life",
+    "value": 4.06
+  },
+  {
+    "term1": "development",
+    "term2": "issue",
+    "value": 3.97
+  },
+  {
+    "term1": "theater",
+    "term2": "history",
+    "value": 3.91
+  },
+  {
+    "term1": "situation",
+    "term2": "isolation",
+    "value": 3.88
+  },
+  {
+    "term1": "profit",
+    "term2": "warning",
+    "value": 3.88
+  },
+  {
+    "term1": "media",
+    "term2": "trading",
+    "value": 3.88
+  },
+  {
+    "term1": "chance",
+    "term2": "credibility",
+    "value": 3.88
+  },
+  {
+    "term1": "precedent",
+    "term2": "information",
+    "value": 3.85
+  },
+  {
+    "term1": "architecture",
+    "term2": "century",
+    "value": 3.78
+  },
+  {
+    "term1": "population",
+    "term2": "development",
+    "value": 3.75
+  },
+  {
+    "term1": "stock",
+    "term2": "live",
+    "value": 3.73
+  },
+  {
+    "term1": "peace",
+    "term2": "atmosphere",
+    "value": 3.69
+  },
+  {
+    "term1": "morality",
+    "term2": "marriage",
+    "value": 3.69
+  },
+  {
+    "term1": "minority",
+    "term2": "peace",
+    "value": 3.69
+  },
+  {
+    "term1": "atmosphere",
+    "term2": "landscape",
+    "value": 3.69
+  },
+  {
+    "term1": "report",
+    "term2": "gain",
+    "value": 3.63
+  },
+  {
+    "term1": "music",
+    "term2": "project",
+    "value": 3.63
+  },
+  {
+    "term1": "seven",
+    "term2": "series",
+    "value": 3.56
+  },
+  {
+    "term1": "experience",
+    "term2": "music",
+    "value": 3.47
+  },
+  {
+    "term1": "school",
+    "term2": "center",
+    "value": 3.44
+  },
+  {
+    "term1": "five",
+    "term2": "month",
+    "value": 3.38
+  },
+  {
+    "term1": "announcement",
+    "term2": "production",
+    "value": 3.38
+  },
+  {
+    "term1": "morality",
+    "term2": "importance",
+    "value": 3.31
+  },
+  {
+    "term1": "money",
+    "term2": "operation",
+    "value": 3.31
+  },
+  {
+    "term1": "delay",
+    "term2": "news",
+    "value": 3.31
+  },
+  {
+    "term1": "governor",
+    "term2": "interview",
+    "value": 3.25
+  },
+  {
+    "term1": "practice",
+    "term2": "institution",
+    "value": 3.19
+  },
+  {
+    "term1": "century",
+    "term2": "nation",
+    "value": 3.16
+  },
+  {
+    "term1": "coast",
+    "term2": "forest",
+    "value": 3.15
+  },
+  {
+    "term1": "shore",
+    "term2": "woodland",
+    "value": 3.08
+  },
+  {
+    "term1": "drink",
+    "term2": "car",
+    "value": 3.04
+  },
+  {
+    "term1": "president",
+    "term2": "medal",
+    "value": 3.0
+  },
+  {
+    "term1": "prejudice",
+    "term2": "recognition",
+    "value": 3.0
+  },
+  {
+    "term1": "viewer",
+    "term2": "serial",
+    "value": 2.97
+  },
+  {
+    "term1": "peace",
+    "term2": "insurance",
+    "value": 2.94
+  },
+  {
+    "term1": "Mars",
+    "term2": "water",
+    "value": 2.94
+  },
+  {
+    "term1": "media",
+    "term2": "gain",
+    "value": 2.88
+  },
+  {
+    "term1": "precedent",
+    "term2": "cognition",
+    "value": 2.81
+  },
+  {
+    "term1": "announcement",
+    "term2": "effort",
+    "value": 2.75
+  },
+  {
+    "term1": "line",
+    "term2": "insurance",
+    "value": 2.69
+  },
+  {
+    "term1": "crane",
+    "term2": "implement",
+    "value": 2.69
+  },
+  {
+    "term1": "drink",
+    "term2": "mother",
+    "value": 2.65
+  },
+  {
+    "term1": "opera",
+    "term2": "industry",
+    "value": 2.63
+  },
+  {
+    "term1": "volunteer",
+    "term2": "motto",
+    "value": 2.56
+  },
+  {
+    "term1": "listing",
+    "term2": "proximity",
+    "value": 2.56
+  },
+  {
+    "term1": "precedent",
+    "term2": "collection",
+    "value": 2.5
+  },
+  {
+    "term1": "cup",
+    "term2": "article",
+    "value": 2.4
+  },
+  {
+    "term1": "sign",
+    "term2": "recess",
+    "value": 2.38
+  },
+  {
+    "term1": "problem",
+    "term2": "airport",
+    "value": 2.38
+  },
+  {
+    "term1": "reason",
+    "term2": "hypertension",
+    "value": 2.31
+  },
+  {
+    "term1": "direction",
+    "term2": "combination",
+    "value": 2.25
+  },
+  {
+    "term1": "Wednesday",
+    "term2": "news",
+    "value": 2.22
+  },
+  {
+    "term1": "glass",
+    "term2": "magician",
+    "value": 2.08
+  },
+  {
+    "term1": "cemetery",
+    "term2": "woodland",
+    "value": 2.08
+  },
+  {
+    "term1": "possibility",
+    "term2": "girl",
+    "value": 1.94
+  },
+  {
+    "term1": "cup",
+    "term2": "substance",
+    "value": 1.92
+  },
+  {
+    "term1": "forest",
+    "term2": "graveyard",
+    "value": 1.85
+  },
+  {
+    "term1": "stock",
+    "term2": "egg",
+    "value": 1.81
+  },
+  {
+    "term1": "month",
+    "term2": "hotel",
+    "value": 1.81
+  },
+  {
+    "term1": "energy",
+    "term2": "secretary",
+    "value": 1.81
+  },
+  {
+    "term1": "precedent",
+    "term2": "group",
+    "value": 1.77
+  },
+  {
+    "term1": "production",
+    "term2": "hike",
+    "value": 1.75
+  },
+  {
+    "term1": "stock",
+    "term2": "phone",
+    "value": 1.62
+  },
+  {
+    "term1": "holy",
+    "term2": "sex",
+    "value": 1.62
+  },
+  {
+    "term1": "stock",
+    "term2": "CD",
+    "value": 1.31
+  },
+  {
+    "term1": "drink",
+    "term2": "ear",
+    "value": 1.31
+  },
+  {
+    "term1": "delay",
+    "term2": "racism",
+    "value": 1.19
+  },
+  {
+    "term1": "stock",
+    "term2": "life",
+    "value": 0.92
+  },
+  {
+    "term1": "stock",
+    "term2": "jaguar",
+    "value": 0.92
+  },
+  {
+    "term1": "monk",
+    "term2": "slave",
+    "value": 0.92
+  },
+  {
+    "term1": "lad",
+    "term2": "wizard",
+    "value": 0.92
+  },
+  {
+    "term1": "sugar",
+    "term2": "approach",
+    "value": 0.88
+  },
+  {
+    "term1": "rooster",
+    "term2": "voyage",
+    "value": 0.62
+  },
+  {
+    "term1": "noon",
+    "term2": "string",
+    "value": 0.54
+  },
+  {
+    "term1": "chord",
+    "term2": "smile",
+    "value": 0.54
+  },
+  {
+    "term1": "professor",
+    "term2": "cucumber",
+    "value": 0.31
+  },
+  {
+    "term1": "king",
+    "term2": "cabbage",
+    "value": 0.23
+  }
+]

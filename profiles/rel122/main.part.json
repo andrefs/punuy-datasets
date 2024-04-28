@@ -1,0 +1,612 @@
+[
+  {
+    "value": 3.94118,
+    "term1": "underwear",
+    "term2": "lingerie"
+  },
+  {
+    "value": 3.85294,
+    "term1": "digital camera",
+    "term2": "photographer"
+  },
+  {
+    "value": 3.84706,
+    "term1": "tuition",
+    "term2": "fee"
+  },
+  {
+    "value": 3.81781,
+    "term1": "leaves",
+    "term2": "rake"
+  },
+  {
+    "value": 3.79412,
+    "term1": "symptom",
+    "term2": "fever"
+  },
+  {
+    "value": 3.78235,
+    "term1": "fertility",
+    "term2": "ovary"
+  },
+  {
+    "value": 3.77727,
+    "term1": "beef",
+    "term2": "slaughterhouse"
+  },
+  {
+    "value": 3.75455,
+    "term1": "broadcast",
+    "term2": "commentator"
+  },
+  {
+    "value": 3.715,
+    "term1": "apparel",
+    "term2": "jewellery"
+  },
+  {
+    "value": 3.69,
+    "term1": "arrest",
+    "term2": "detention"
+  },
+  {
+    "value": 3.60714,
+    "term1": "hardware",
+    "term2": "pc"
+  },
+  {
+    "value": 3.6,
+    "term1": "street",
+    "term2": "neighborhood"
+  },
+  {
+    "value": 3.57143,
+    "term1": "pixel",
+    "term2": "digital camera"
+  },
+  {
+    "value": 3.53571,
+    "term1": "vehicle",
+    "term2": "trailer"
+  },
+  {
+    "value": 3.47,
+    "term1": "mathematics",
+    "term2": "method"
+  },
+  {
+    "value": 3.46471,
+    "term1": "draft",
+    "term2": "manuscript"
+  },
+  {
+    "value": 3.45,
+    "term1": "flavor",
+    "term2": "pepper"
+  },
+  {
+    "value": 3.39091,
+    "term1": "defense",
+    "term2": "soldier"
+  },
+  {
+    "value": 3.38636,
+    "term1": "seller",
+    "term2": "profit"
+  },
+  {
+    "value": 3.35548,
+    "term1": "lion",
+    "term2": "cage"
+  },
+  {
+    "value": 3.345,
+    "term1": "treasure",
+    "term2": "hunter"
+  },
+  {
+    "value": 3.33182,
+    "term1": "translation",
+    "term2": "meaning"
+  },
+  {
+    "value": 3.235,
+    "term1": "bread",
+    "term2": "egg"
+  },
+  {
+    "value": 3.20714,
+    "term1": "garage",
+    "term2": "opener"
+  },
+  {
+    "value": 3.17143,
+    "term1": "prohibition",
+    "term2": "rum"
+  },
+  {
+    "value": 3.17143,
+    "term1": "fax",
+    "term2": "e-mail"
+  },
+  {
+    "value": 3.14545,
+    "term1": "captive",
+    "term2": "custody"
+  },
+  {
+    "value": 3.13,
+    "term1": "solar system",
+    "term2": "sphere"
+  },
+  {
+    "value": 3.12727,
+    "term1": "vegetation",
+    "term2": "pastureland"
+  },
+  {
+    "value": 3.12143,
+    "term1": "leather",
+    "term2": "pouch"
+  },
+  {
+    "value": 3.1,
+    "term1": "terrace",
+    "term2": "pavilion"
+  },
+  {
+    "value": 3.085,
+    "term1": "recycling",
+    "term2": "landfill"
+  },
+  {
+    "value": 3.065,
+    "term1": "garden",
+    "term2": "art"
+  },
+  {
+    "value": 3.00714,
+    "term1": "recording studio",
+    "term2": "loudspeaker"
+  },
+  {
+    "value": 2.99773,
+    "term1": "strike",
+    "term2": "enemy"
+  },
+  {
+    "value": 2.995,
+    "term1": "ethanol",
+    "term2": "benzene"
+  },
+  {
+    "value": 2.99,
+    "term1": "pepper",
+    "term2": "corn"
+  },
+  {
+    "value": 2.92727,
+    "term1": "murder",
+    "term2": "gang"
+  },
+  {
+    "value": 2.91765,
+    "term1": "multiple",
+    "term2": "coefficient"
+  },
+  {
+    "value": 2.9,
+    "term1": "infantry",
+    "term2": "reconnaissance"
+  },
+  {
+    "value": 2.9,
+    "term1": "density",
+    "term2": "electron"
+  },
+  {
+    "value": 2.85882,
+    "term1": "representation",
+    "term2": "gender"
+  },
+  {
+    "value": 2.78571,
+    "term1": "palm",
+    "term2": "anatomy"
+  },
+  {
+    "value": 2.78182,
+    "term1": "poem",
+    "term2": "singer"
+  },
+  {
+    "value": 2.74,
+    "term1": "maintenance",
+    "term2": "aviation"
+  },
+  {
+    "value": 2.72941,
+    "term1": "mushroom",
+    "term2": "herb"
+  },
+  {
+    "value": 2.71429,
+    "term1": "yeast",
+    "term2": "lager"
+  },
+  {
+    "value": 2.71176,
+    "term1": "headache",
+    "term2": "caffeine"
+  },
+  {
+    "value": 2.709,
+    "term1": "truss",
+    "term2": "cantilever bridge"
+  },
+  {
+    "value": 2.67,
+    "term1": "workplace",
+    "term2": "discrimination"
+  },
+  {
+    "value": 2.66429,
+    "term1": "hunter",
+    "term2": "squirrel"
+  },
+  {
+    "value": 2.65682,
+    "term1": "disorder",
+    "term2": "abuse"
+  },
+  {
+    "value": 2.65,
+    "term1": "contract",
+    "term2": "legislation"
+  },
+  {
+    "value": 2.51765,
+    "term1": "motivation",
+    "term2": "morality"
+  },
+  {
+    "value": 2.5125,
+    "term1": "sewer",
+    "term2": "overflow"
+  },
+  {
+    "value": 2.48,
+    "term1": "blindness",
+    "term2": "placebo"
+  },
+  {
+    "value": 2.46364,
+    "term1": "agility",
+    "term2": "fox hunting"
+  },
+  {
+    "value": 2.394,
+    "term1": "proportion",
+    "term2": "stability"
+  },
+  {
+    "value": 2.33571,
+    "term1": "drug",
+    "term2": "public school"
+  },
+  {
+    "value": 2.27857,
+    "term1": "resentment",
+    "term2": "instigator"
+  },
+  {
+    "value": 2.25714,
+    "term1": "pow",
+    "term2": "combatant"
+  },
+  {
+    "value": 2.25294,
+    "term1": "banana",
+    "term2": "salad"
+  },
+  {
+    "value": 2.24,
+    "term1": "emphasis",
+    "term2": "newspaper"
+  },
+  {
+    "value": 2.225,
+    "term1": "forestry",
+    "term2": "urban area"
+  },
+  {
+    "value": 2.22353,
+    "term1": "hypocrisy",
+    "term2": "condemnation"
+  },
+  {
+    "value": 2.04545,
+    "term1": "facility",
+    "term2": "activity"
+  },
+  {
+    "value": 2.04286,
+    "term1": "rendezvous",
+    "term2": "convoy"
+  },
+  {
+    "value": 2.01176,
+    "term1": "propagation",
+    "term2": "radio wave"
+  },
+  {
+    "value": 2.0,
+    "term1": "puppetry",
+    "term2": "slapstick"
+  },
+  {
+    "value": 1.99412,
+    "term1": "public domain",
+    "term2": "brand"
+  },
+  {
+    "value": 1.97143,
+    "term1": "cartridge",
+    "term2": "lid"
+  },
+  {
+    "value": 1.91765,
+    "term1": "enclosure",
+    "term2": "mental health"
+  },
+  {
+    "value": 1.91176,
+    "term1": "credit",
+    "term2": "foundation"
+  },
+  {
+    "value": 1.90909,
+    "term1": "guardian",
+    "term2": "livestock"
+  },
+  {
+    "value": 1.885,
+    "term1": "coronation",
+    "term2": "majority rule"
+  },
+  {
+    "value": 1.87727,
+    "term1": "enzyme",
+    "term2": "depression"
+  },
+  {
+    "value": 1.85909,
+    "term1": "precursor",
+    "term2": "prevention"
+  },
+  {
+    "value": 1.83529,
+    "term1": "arbitration",
+    "term2": "committee"
+  },
+  {
+    "value": 1.75455,
+    "term1": "lemon",
+    "term2": "coriander"
+  },
+  {
+    "value": 1.6585,
+    "term1": "stock",
+    "term2": "bull"
+  },
+  {
+    "value": 1.65714,
+    "term1": "vicar",
+    "term2": "archdiocese"
+  },
+  {
+    "value": 1.57,
+    "term1": "scrap",
+    "term2": "chemical element"
+  },
+  {
+    "value": 1.48235,
+    "term1": "paranoia",
+    "term2": "newsroom"
+  },
+  {
+    "value": 1.47353,
+    "term1": "phase",
+    "term2": "consistency"
+  },
+  {
+    "value": 1.44286,
+    "term1": "hope",
+    "term2": "psychology"
+  },
+  {
+    "value": 1.39286,
+    "term1": "juvenile",
+    "term2": "rope"
+  },
+  {
+    "value": 1.37059,
+    "term1": "half-hour",
+    "term2": "weeknight"
+  },
+  {
+    "value": 1.35909,
+    "term1": "evolution",
+    "term2": "publicity"
+  },
+  {
+    "value": 1.30588,
+    "term1": "contestant",
+    "term2": "donor"
+  },
+  {
+    "value": 1.21364,
+    "term1": "sheet",
+    "term2": "window"
+  },
+  {
+    "value": 1.21364,
+    "term1": "robbery",
+    "term2": "mobile phone"
+  },
+  {
+    "value": 1.2,
+    "term1": "metre",
+    "term2": "semifinal"
+  },
+  {
+    "value": 1.18182,
+    "term1": "relief",
+    "term2": "total"
+  },
+  {
+    "value": 1.1775,
+    "term1": "public service",
+    "term2": "array"
+  },
+  {
+    "value": 1.10588,
+    "term1": "fresco",
+    "term2": "modern times"
+  },
+  {
+    "value": 1.09091,
+    "term1": "summit",
+    "term2": "canal"
+  },
+  {
+    "value": 1.085,
+    "term1": "outlet",
+    "term2": "silk"
+  },
+  {
+    "value": 1.075,
+    "term1": "greed",
+    "term2": "vest"
+  },
+  {
+    "value": 1.045,
+    "term1": "eyeball",
+    "term2": "flatworm"
+  },
+  {
+    "value": 0.98636,
+    "term1": "spreadsheet",
+    "term2": "silk"
+  },
+  {
+    "value": 0.93636,
+    "term1": "distinction",
+    "term2": "sword"
+  },
+  {
+    "value": 0.82727,
+    "term1": "inclusion",
+    "term2": "career"
+  },
+  {
+    "value": 0.805,
+    "term1": "feud",
+    "term2": "programmer"
+  },
+  {
+    "value": 0.79286,
+    "term1": "switch",
+    "term2": "glass"
+  },
+  {
+    "value": 0.77857,
+    "term1": "penalty",
+    "term2": "programming"
+  },
+  {
+    "value": 0.77143,
+    "term1": "duty",
+    "term2": "verb"
+  },
+  {
+    "value": 0.76765,
+    "term1": "catering",
+    "term2": "loan"
+  },
+  {
+    "value": 0.755,
+    "term1": "musical group",
+    "term2": "confession"
+  },
+  {
+    "value": 0.74286,
+    "term1": "complication",
+    "term2": "harp"
+  },
+  {
+    "value": 0.73636,
+    "term1": "female",
+    "term2": "insect"
+  },
+  {
+    "value": 0.71429,
+    "term1": "seminar",
+    "term2": "fern"
+  },
+  {
+    "value": 0.70588,
+    "term1": "home run",
+    "term2": "surfer"
+  },
+  {
+    "value": 0.7,
+    "term1": "mishap",
+    "term2": "cube root"
+  },
+  {
+    "value": 0.61429,
+    "term1": "thriller",
+    "term2": "sunlight"
+  },
+  {
+    "value": 0.58636,
+    "term1": "crusade",
+    "term2": "catwalk"
+  },
+  {
+    "value": 0.58571,
+    "term1": "jumper",
+    "term2": "furnishing"
+  },
+  {
+    "value": 0.57,
+    "term1": "eclipse",
+    "term2": "cord"
+  },
+  {
+    "value": 0.54545,
+    "term1": "fork",
+    "term2": "combination"
+  },
+  {
+    "value": 0.45909,
+    "term1": "madness",
+    "term2": "nest"
+  },
+  {
+    "value": 0.41176,
+    "term1": "gas",
+    "term2": "algebra"
+  },
+  {
+    "value": 0.36529,
+    "term1": "hotel",
+    "term2": "bibliography"
+  },
+  {
+    "value": 0.12941,
+    "term1": "gladiator",
+    "term2": "plastic bag"
+  }
+]

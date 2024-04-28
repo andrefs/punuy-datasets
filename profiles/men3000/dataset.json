@@ -1,0 +1,89 @@
+{
+  "id": "men3000",
+  "metadata": {
+    "name": "MEN",
+    "urls": [
+      "https://staff.fnwi.uva.nl/e.bruni/MEN",
+      "http://clic.cimec.unitn.it/~elia.bruni/MEN"
+    ],
+    "papers": [
+      {
+        "title": "Multimodal distributional semantics",
+        "url": "https://core.ac.uk/download/pdf/35317232.pdf"
+      }
+    ],
+    "date": "2014",
+    "description": "The MEN Test Collection contains two sets of English word pairs (one for training and one for testing) together with human-assigned similarity judgments, obtained by crowdsourcing using Amazon Mechanical Turk via the CrowdFlower interface. The collection can be used to train and/or test computer algorithms implementing semantic similarity and relatedness measures.",
+    "downloadUrls": [
+      "https://staff.fnwi.uva.nl/e.bruni/resources/MEN.tar.gz",
+      "https://staff.fnwi.uva.nl/e.bruni/resources/MEN.zip"
+    ],
+    "languages": ["en"],
+    "domain": "general",
+    "measureTypes": ["relatedness"],
+    "tags": ["pair-comparison", "mturk"]
+  },
+  "partitions": [
+    {
+      "id": "dev",
+      "measureType": "relatedness",
+      "scale": {
+        "value": {
+          "max": 50,
+          "min": 0
+        }
+      },
+      "metrics": {
+        "annotators": {
+          "total": null,
+          "minEachPair": null
+        },
+        "interAgreement": {
+          "pearson": null,
+          "spearman": null
+        }
+      }
+    },
+    {
+      "id": "test",
+      "measureType": "similarity",
+      "scale": {
+        "value": {
+          "max": 50,
+          "min": 0
+        }
+      },
+      "metrics": {
+        "annotators": {
+          "total": null,
+          "minEachPair": null
+        },
+        "interAgreement": {
+          "pearson": null,
+          "spearman": null
+        }
+      }
+    },
+    {
+      "id": "full",
+      "measureType": "similarity",
+      "scale": {
+        "value": {
+          "max": 50,
+          "min": 0
+        }
+      },
+      "metrics": {
+        "annotators": {
+          "total": null,
+          "minEachPair": null
+        },
+        "interAgreement": {
+          "pearson": 0.84,
+          "spearman": 0.68
+        }
+      }
+    }
+  ],
+  "originalInstructions": "(Please accept this job only if you are a native speaker of English.)\n\nYou will be shown two CANDIDATE WORD PAIRS. You must pick the candidate PAIR whose words are MOST RELATED IN MEANING.\n\nFor example, given the pair candidates \"wallet-moon\" and \"car-automobile\", you should choose the latter.\n\nSometimes, both candidate pairs have words that are related in meaning, and you should pick the one where you think the words are more strongly related (both \"wheels-car\" and \"dog-race\" have somewhat related word pairs, but the first one is to be preferred as every car has wheels but not every dog is involved in a race). Sometimes, neither pair contains words closely related, and you should in such case pick the one that contain words at least slightly more related (neither \"auction-car\" nor \"cup-asphalt\" are closely related pairs, but you might pick the first because fancy vintage cars are sold at auctions)."
+}
