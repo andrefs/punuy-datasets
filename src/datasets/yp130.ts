@@ -1,5 +1,5 @@
 import { DatasetProfile, Partition } from "../lib/types";
-import { lazyPartition } from "src/lib/lazy-partition";
+import { lazyPartition } from "../lib/lazy-partition";
 import dataset from "../../profiles/yp130/dataset.json";
 import path from "path";
 
