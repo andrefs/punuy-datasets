@@ -1,9 +1,9 @@
 #!/bin/sh
 
 typescript-json-schema \
-  --required \
-  --id 'https://andrefs.com/schemas/2023/SemMeasures' \
-  --noExtraProps true \
-  --strictNullChecks true \
-  -o schema.json \
-  src/lib/types.ts "DatasetProfile"
+	--required \
+	--id 'https://andrefs.com/schemas/2023/SemMeasures' \
+	--noExtraProps true \
+	--strictNullChecks true \
+	-o schema.json \
+	src/lib/types.ts "LazyDataset"

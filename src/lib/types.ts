@@ -1,3 +1,9 @@
+export type LazyPartition = Omit<Partition, "data">;
+
+export type LazyDataset = Omit<DatasetProfile, "partitions"> & {
+  partitions: LazyPartition[];
+};
+
 export interface DatasetProfile {
   /**
    * An identifier for the dataset
