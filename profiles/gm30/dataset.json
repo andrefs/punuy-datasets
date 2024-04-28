@@ -12,13 +12,9 @@
     "date": "2008",
     "description": "",
     "downloadUrls": [],
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "domain": "general",
-    "measureTypes": [
-      "relatedness"
-    ]
+    "measureTypes": ["relatedness"]
   },
   "partitions": [
     {

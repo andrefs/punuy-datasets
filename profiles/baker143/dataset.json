@@ -2,9 +2,7 @@
   "id": "baker143",
   "metadata": {
     "name": "Baker 143",
-    "urls": [
-      "https://github.com/sb895/verb-similarity-dataset"
-    ],
+    "urls": ["https://github.com/sb895/verb-similarity-dataset"],
     "papers": [
       {
         "title": "An Unsupervised Model for Instance Level Subcategorization Acquisition",
@@ -16,13 +14,9 @@
     "downloadUrls": [
       "https://github.com/sb895/verb-similarity-dataset/blob/master/verb_similarity%20dataset.txt"
     ],
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "domain": "general",
-    "measureTypes": [
-      "similarity"
-    ]
+    "measureTypes": ["similarity"]
   },
   "partitions": [
     {

@@ -20,16 +20,10 @@
     "downloadUrls": [
       "https://wordnet.cs.princeton.edu/downloads/evocation.zip"
     ],
-    "measureTypes": [
-      "similarity"
-    ],
-    "languages": [
-      "en"
-    ],
+    "measureTypes": ["similarity"],
+    "languages": ["en"],
     "domain": "general",
-    "tags": [
-      "mturk"
-    ]
+    "tags": ["mturk"]
   },
   "partitions": [
     {

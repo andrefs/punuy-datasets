@@ -2,9 +2,7 @@
   "id": "ma28",
   "metadata": {
     "name": "Martinez & Aldana",
-    "urls": [
-      "https://hal.science/hal-01628399/file/article.pdf"
-    ],
+    "urls": ["https://hal.science/hal-01628399/file/article.pdf"],
     "papers": [
       {
         "title": "Semantic Similarity Measurement Using Historical Google Search Patterns",
@@ -12,17 +10,11 @@
       }
     ],
     "date": "2013",
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "description": "",
-    "downloadUrls": [
-      "https://hal.science/hal-01628399/file/article.pdf"
-    ],
+    "downloadUrls": ["https://hal.science/hal-01628399/file/article.pdf"],
     "domain": "general",
-    "measureTypes": [
-      "similarity"
-    ]
+    "measureTypes": ["similarity"]
   },
   "partitions": [
     {

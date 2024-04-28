@@ -2,9 +2,7 @@
   "id": "semeval17",
   "metadata": {
     "name": "SemEval-2017 Task 2.1",
-    "urls": [
-      "https://alt.qcri.org/semeval2017/task2/"
-    ],
+    "urls": ["https://alt.qcri.org/semeval2017/task2/"],
     "papers": [
       {
         "title": "SemEval-2017 Task 2: Multilingual and Cross-lingual Semantic Word Similarity",
@@ -16,16 +14,10 @@
     "downloadUrls": [
       "http://alt.qcri.org/semeval2017/task2/data/uploads/semeval2017-task2.zip"
     ],
-    "measureTypes": [
-      "similarity"
-    ],
-    "languages": [
-      "en"
-    ],
+    "measureTypes": ["similarity"],
+    "languages": ["en"],
     "domain": "general",
-    "tags": [
-      "entities"
-    ]
+    "tags": ["entities"]
   },
   "partitions": [
     {

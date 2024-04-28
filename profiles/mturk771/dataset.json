@@ -2,9 +2,7 @@
   "id": "mturk771",
   "metadata": {
     "name": "MTurk771",
-    "urls": [
-      "http://www2.mta.ac.il/~gideon/datasets/mturk_771.html"
-    ],
+    "urls": ["http://www2.mta.ac.il/~gideon/datasets/mturk_771.html"],
     "papers": [
       {
         "title": "Large-scale learning of word relatedness with constraints",
@@ -17,16 +15,10 @@
       "http://www2.mta.ac.il/~gideon/datasets/MTURK-771-RAW.csv",
       "http://www2.mta.ac.il/~gideon/datasets/MTURK-771.csv"
     ],
-    "measureTypes": [
-      "relatedness"
-    ],
+    "measureTypes": ["relatedness"],
     "domain": "general",
-    "languages": [
-      "en"
-    ],
-    "tags": [
-      "mturk"
-    ]
+    "languages": ["en"],
+    "tags": ["mturk"]
   },
   "partitions": [
     {

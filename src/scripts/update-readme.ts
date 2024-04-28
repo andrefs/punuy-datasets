@@ -1,5 +1,6 @@
 import { promises as fs } from "fs";
 import { DatasetProfile } from "../lib/types";
+import path from "path";
 
 const ignoreDS = ["bg100k"];
 const datasetsSectionStart = "<!-- datasets-section-start -->";
@@ -18,9 +19,9 @@ interface DsInfo {
 
 async function getFilesInfo(folder: string) {
   const res = [];
-  const fileNames = await getFileNames(folder);
-  for (const fileName of fileNames) {
-    const fileInfo = await getFileInfo(`${folder}/${fileName}`);
+  const dsFileNames = await getFileNames(folder);
+  for (const dsFN of dsFileNames) {
+    const fileInfo = await getFileInfo(path.join(dsFN));
     res.push(fileInfo);
   }
   return res.sort((a, b) => a.year - b.year);
@@ -28,19 +29,24 @@ async function getFilesInfo(folder: string) {
 
 async function getFileNames(folder: string) {
   const res = [];
+  let dsFolderNames;
   try {
-    const fileNames = await fs.readdir(folder);
-    for (const fileName of fileNames) {
-      if (
-        !fileName.endsWith(".json") ||
-        ignoreDS.some(ds => fileName.includes(ds))
-      ) {
-        continue;
-      }
-      res.push(fileName);
-    }
+    dsFolderNames = await fs.readdir(folder);
   } catch (err) {
+    console.error("Error reading folder", folder, err);
     process.exit(1);
+  }
+  for (const dsFN of dsFolderNames) {
+    if (ignoreDS.some(ds => dsFN.includes(ds))) {
+      continue;
+    }
+    const fn = path.join(folder, dsFN, "dataset.json");
+    try {
+      await fs.access(fn);
+      res.push(fn);
+    } catch (err) {
+      continue;
+    }
   }
   return res;
 }

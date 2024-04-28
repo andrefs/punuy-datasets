@@ -17,13 +17,9 @@
     "downloadUrls": [
       "https://gabrilovich.com/resources/data/wordsim353/wordsim353.zip"
     ],
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "domain": "general",
-    "measureTypes": [
-      "similarity"
-    ]
+    "measureTypes": ["similarity"]
   },
   "partitions": [
     {

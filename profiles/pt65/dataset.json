@@ -2,9 +2,7 @@
   "id": "pt65",
   "metadata": {
     "name": "PT65",
-    "urls": [
-      "http://www.inf.pucrs.br/linatural/wikimodels/similarity.html"
-    ],
+    "urls": ["http://www.inf.pucrs.br/linatural/wikimodels/similarity.html"],
     "papers": [
       {
         "title": "Comparing Semantic Relatedness between Word Pairsin Portuguese Using Wikipedia",
@@ -16,13 +14,9 @@
     "downloadUrls": [
       "https://www.inf.pucrs.br/linatural/wordpress/recursos-e-ferramentas/lista-de-pares-de-palavras/"
     ],
-    "languages": [
-      "pt"
-    ],
+    "languages": ["pt"],
     "domain": "general",
-    "measureTypes": [
-      "relatedness"
-    ]
+    "measureTypes": ["relatedness"]
   },
   "partitions": [
     {
