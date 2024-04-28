@@ -1,8 +1,7 @@
-#!/bin/sh 
+#!/bin/sh
 
 ajv \
-  --spec draft7 \
-  -c ajv-formats \
-  -s schema.json \
-  -d  "profiles/*.json"
-
+	--spec draft7 \
+	-c ajv-formats \
+	-s schema.json \
+	-d "profiles/*/dataset.json"
