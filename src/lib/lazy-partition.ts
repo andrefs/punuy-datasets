@@ -9,7 +9,7 @@ export function lazyPartition(part: Omit<Partition, "data">, path: string) {
     get(target, prop, receiver) {
       if (prop === "data") {
         if (!_data) {
-          logger.info("Loading partition data from", path);
+          logger.debug(`Loading partition data from ${path}`);
           _data = JSON.parse(fs.readFileSync(path, "utf-8")) as PartitionData[];
         }
         return _data;
