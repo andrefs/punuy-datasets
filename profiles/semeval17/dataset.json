@@ -2,6 +2,7 @@
   "id": "semeval17",
   "metadata": {
     "name": "SemEval-2017 Task 2.1",
+    "authors": "Jose Camacho-Collados, Mohammad Taher Pilehvar, Nigel Collier, Roberto Navigli",
     "urls": ["https://alt.qcri.org/semeval2017/task2/"],
     "papers": [
       {

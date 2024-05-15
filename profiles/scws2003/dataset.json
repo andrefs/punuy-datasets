@@ -2,6 +2,7 @@
   "id": "scws2003",
   "metadata": {
     "name": "SCWS",
+    "authors": "Eric H. Huang, Richard Socher, Christopher D. Manning, Andrew Y. Ng",
     "urls": ["https://ai.stanford.edu/~ehhuang/"],
     "papers": [
       {

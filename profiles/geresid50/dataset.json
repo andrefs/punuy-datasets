@@ -2,6 +2,11 @@
   "id": "geresid50",
   "metadata": {
     "name": "GeReSiD",
+    "authors": "Andrea Ballatore, Michela Bertolotto, David C. Wilson",
+    "license": {
+      "name": "Open Knowledge",
+      "url": "https://opendefinition.org/od/2.1/en/"
+    },
     "urls": [
       "https://github.com/ucd-spatial/Datasets/tree/master/geresid-geo_relatedness_similarity_dataset"
     ],

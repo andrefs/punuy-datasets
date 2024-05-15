@@ -2,6 +2,11 @@
   "id": "umnsrs",
   "metadata": {
     "name": "UMNSRS",
+    "authors": "Pakhomov S., McInnes, B., Adams, T., Liu, Y., Pedersen, T., Melton, G.B.",
+    "license": {
+      "name": "CC0 1.0 Universal",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
     "urls": ["https://conservancy.umn.edu/handle/11299/196265"],
     "papers": [
       {

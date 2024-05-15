@@ -2,6 +2,11 @@
   "id": "simverb3500",
   "metadata": {
     "name": "SimVerb-3500",
+    "authors": "Daniela Gerz, Ivan Vulic, Felix Hill, Roi Reichart, Anna Korhonen",
+    "license": {
+      "url": "https://creativecommons.org/licenses/by/4.0/",
+      "name": "CC BY 4.0"
+    },
     "urls": [
       "https://www.repository.cam.ac.uk/items/8a568201-0fa4-4e54-81b1-f920102492ea"
     ],

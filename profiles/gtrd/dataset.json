@@ -3,6 +3,7 @@
   "metadata": {
     "name": "GTRD",
     "urls": ["https://github.com/czgbjy/GTRD"],
+    "authors": "Zugang Chen, Jia Song, Yaping Yang",
     "papers": [
       {
         "title": "An Approach to Measuring Semantic Relatedness of Geographic Terminologies Using a Thesaurus and Lexical Database Sources",

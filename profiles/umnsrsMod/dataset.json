@@ -2,6 +2,11 @@
   "id": "umnsrsMod",
   "metadata": {
     "name": "UMNSRS (modified)",
+    "license": {
+      "name": "CC0 1.0 Universal",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    "authors": "Serguei V.S. Pakhomov, Greg Finley, Reed McEwan, Yan Wang, Genevieve B. Melton",
     "urls": ["https://conservancy.umn.edu/handle/11299/196265"],
     "papers": [
       {

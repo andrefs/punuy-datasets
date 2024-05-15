@@ -2,6 +2,11 @@
   "id": "men3000",
   "metadata": {
     "name": "MEN",
+    "authors": "E. Bruni, N. K. Tran, M. Baroni",
+    "license": {
+      "url": "https://creativecommons.org/licenses/by/2.0/",
+      "name": "CC BY 2.0"
+    },
     "urls": [
       "https://staff.fnwi.uva.nl/e.bruni/MEN",
       "http://clic.cimec.unitn.it/~elia.bruni/MEN"

@@ -2,6 +2,11 @@
   "id": "tr9856",
   "metadata": {
     "name": "TR9856",
+    "authors": "Levy, Ran  and  Ein-Dor, Liat  and  Hummel, Shay  and  Rinott, Ruty  and  Slonim, Noam",
+    "license": {
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "name": "CC BY-SA 3.0"
+    },
     "urls": [
       "https://developer.ibm.com/exchanges/data/all/multi-word-term-relatedness-benchmark/"
     ],

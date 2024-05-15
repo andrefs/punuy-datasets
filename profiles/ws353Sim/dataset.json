@@ -2,6 +2,7 @@
   "id": "ws353Sim",
   "metadata": {
     "name": "WordSim-353 Similarity Gold Standard",
+    "authors": "Eneko Agirre, Enrique Alfonseca, Keith Hall, Jana Kravalova, Marius Pasca, Aitor Soroa",
     "urls": ["http://alfonseca.org/eng/research/wordsim353.html"],
     "papers": [
       {

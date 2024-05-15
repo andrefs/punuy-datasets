@@ -2,6 +2,7 @@
   "id": "mturk771",
   "metadata": {
     "name": "MTurk771",
+    "authors": "Guy Halawi , Gideon Dror, Evgeniy Gabrilovich, Yehuda Koren",
     "urls": ["http://www2.mta.ac.il/~gideon/datasets/mturk_771.html"],
     "papers": [
       {

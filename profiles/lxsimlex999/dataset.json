@@ -2,6 +2,12 @@
   "id": "lxsimlex999",
   "metadata": {
     "name": "LX-SimLex-999",
+    "authors": "Andreia Querido, Rita de Carvalho, João Rodrigues, Marcos Garcia, João Silva, Catarina Correia, Nuno Rendeiro, Rita Valadas Pereira, Marisa Campos, António Branco",
+    "license": {
+      "name": "MS-C-NoRed-ND",
+      "url": "http://www.meta-net.eu/meta-share/meta-share-licenses/META-SHARE%20Commercial%20NoRedistribution%20NoDerivatives-v1.0.pdf",
+      "cannotRedistribute": true
+    },
     "urls": [
       "https://portulanclarin.net/repository/browse/lx-simlex-999/4ab1ea58e6d311e6a2aa782bcb0741351e920e18429e4d3e9d229a58030812fe/"
     ],

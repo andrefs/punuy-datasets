@@ -2,6 +2,7 @@
   "id": "atlasify240",
   "metadata": {
     "name": "Atlasify240",
+    "authors": "Brent Hecht, Samuel H. Carton, Mahmood Quaderi, Johannes Schöning, Martin Raubal, Darren Gergle, Doug Downey",
     "urls": ["https://users.cs.northwestern.edu/~ddowney/data_code.html"],
     "papers": [
       {

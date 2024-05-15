@@ -2,6 +2,11 @@
   "id": "baker143",
   "metadata": {
     "name": "Baker 143",
+    "authors": "Baker, Simon and Reichart, Roi and Korhonen, Anna",
+    "license": {
+      "name": "MIT License",
+      "url": "https://opensource.org/licenses/MIT"
+    },
     "urls": ["https://github.com/sb895/verb-similarity-dataset"],
     "papers": [
       {

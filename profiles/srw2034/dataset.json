@@ -2,6 +2,7 @@
   "id": "srw2034",
   "metadata": {
     "name": "Stanford Rare Word (RW) Similarity Dataset",
+    "authors": "Minh-Thang Luong, Richard Socher, and Christopher D. Manning.",
     "urls": ["https://nlp.stanford.edu/~lmthang/morphoNLM/"],
     "papers": [
       {

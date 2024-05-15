@@ -42,6 +42,14 @@ export interface Metadata {
   urls: string[];
 
   /**
+   * The authors of the dataset
+   * Examples:
+   * - "Jane Doe"
+   * - "Jane Doe, John Doe"
+   */
+  authors?: string;
+
+  /**
    * Information about the scientific papers describing the dataset
    */
   papers: Paper[];
@@ -88,7 +96,33 @@ export interface Metadata {
    * - entities - the dataset contains entities (e.g. people, places, organizations)
    */
   tags?: string[];
+
+  /**
+   * The license of the dataset
+   */
+  license?: License;
 }
+
+export interface License {
+  /**
+   * The name of the license
+   */
+  name: string;
+
+  /**
+   * The URL of the license
+   *
+   * @format uri
+   */
+  url: string;
+
+  /**
+   * Whether the dataset can be redistributed
+   * @example false
+   */
+  cannotRedistribute?: boolean;
+}
+
 export type MeasureType = "similarity" | "relatedness";
 
 export interface Paper {
@@ -224,7 +258,7 @@ export type PartitionData = {
    */
   term2: string;
 } & (
-  | {
+    | {
       /**
        * The averaged numeric value of the semantic measure for the pair
        */
@@ -242,7 +276,7 @@ export type PartitionData = {
        */
       values?: (number | null)[];
     }
-  | {
+    | {
       /**
        * The averaged numeric value of the semantic measure for the pair
        */
@@ -255,4 +289,4 @@ export type PartitionData = {
        */
       values: number[];
     }
-);
+  );

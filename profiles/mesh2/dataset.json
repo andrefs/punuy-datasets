@@ -2,6 +2,7 @@
   "id": "mesh2",
   "metadata": {
     "name": "MeSH2",
+    "authors": "Euripides G.M. Petrakis, Giannis Varelas, Angelos Hliaoutakis, Paraskevi Raftopoulou",
     "urls": [
       "https://www.intelligence.tuc.gr/similarity/datasets.php",
       "https://www.intelligence.tuc.gr/similarity/datasets/MeSHDataset.pdf"

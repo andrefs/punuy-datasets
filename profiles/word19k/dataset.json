@@ -2,6 +2,11 @@
   "id": "word19k",
   "metadata": {
     "name": "Wikipedia Oriented Relatedness Dataset",
+    "authors": "Ein-Dor, Liat and Halfon, Alon and Kantor, Yoav and Levy, Ran and Mass, Yosi and Rinott, Ruty and Shnarch, Eyal and Slonim, Noam",
+    "license": {
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "name": "CC BY-SA 3.0"
+    },
     "urls": [
       "https://developer.ibm.com/exchanges/data/all/wikipedia-oriented-relatedness/"
     ],

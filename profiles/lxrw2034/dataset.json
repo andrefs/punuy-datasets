@@ -2,6 +2,12 @@
   "id": "lxrw2034",
   "metadata": {
     "name": "LX-Rare Word Similarity Dataset",
+    "authors": "Andreia Querido, Rita de Carvalho, João Rodrigues, Marcos Garcia, João Silva, Catarina Correia, Nuno Rendeiro, Rita Valadas Pereira, Marisa Campos, António Branco",
+    "license": {
+      "name": "MS-C-NoRed-ND",
+      "url": "http://www.meta-net.eu/meta-share/meta-share-licenses/META-SHARE%20Commercial%20NoRedistribution%20NoDerivatives-v1.0.pdf",
+      "cannotRedistribute": true
+    },
     "urls": [
       "https://portulanclarin.net/repository/browse/lx-rare-word-similarity-dataset/f8dd0332e6d911e6a2aa782bcb074135a226cf379cf746a8976dd3420f5a2813/"
     ],

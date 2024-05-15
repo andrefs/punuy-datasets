@@ -5,6 +5,7 @@
       "https://wordnet.cs.princeton.edu/downloads/evocation/release-0.4"
     ],
     "name": "Princeton Evocation Data 0.4",
+    "authors": "Sonya Nikolova, Jordan Boyd-Graber, and Christiane Fellbaum",
     "papers": [
       {
         "title": "Adding Dense, Weighted Connections to WORDNET",

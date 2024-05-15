@@ -2,6 +2,11 @@
   "id": "mayoSRS",
   "metadata": {
     "name": "MayoSRS",
+    "authors": "Pedersen T., Pakhomov S.V.S., Patwardhan S., Chute C.G.",
+    "license": {
+      "name": "CC0 1.0 Universal",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
     "urls": ["https://conservancy.umn.edu/handle/11299/196265"],
     "papers": [
       {
