@@ -39,7 +39,7 @@
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "7.1.1",
     "@typescript-eslint/parser": "7.1.1",
-    "ajv": "8.12.0",
+    "ajv": "8.13.0",
     "ajv-cli": "5.0.0",
     "ajv-formats": "3.0.1",
     "eslint": "8.57.0",
