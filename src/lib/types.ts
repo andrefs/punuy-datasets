@@ -182,22 +182,6 @@ export type PartitionScale = {
      */
     max: number;
   };
-
-  /**
-   * The scale for the individual annotator values
-   */
-  values?: {
-    /**
-     * The minimum value of the scale
-     */
-    min: number;
-
-    /**
-     * The maximum value of the scale
-     * @minimum 1
-     */
-    max: number;
-  };
 };
 
 export type PartitionMetrics = {
@@ -258,7 +242,7 @@ export type PartitionData = {
    */
   term2: string;
 } & (
-  | {
+    | {
       /**
        * The averaged numeric value of the semantic measure for the pair
        */
@@ -276,7 +260,7 @@ export type PartitionData = {
        */
       values?: (number | null)[];
     }
-  | {
+    | {
       /**
        * The averaged numeric value of the semantic measure for the pair
        */
@@ -289,4 +273,4 @@ export type PartitionData = {
        */
       values: number[];
     }
-);
+  );
