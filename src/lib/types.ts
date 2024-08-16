@@ -168,9 +168,25 @@ export interface Partition {
 
 export type PartitionScale = {
   /**
-   * The scale for the average value
+   * The scale for the .value property
    */
   value: {
+    /**
+     * The minimum value of the scale
+     */
+    min: number;
+
+    /**
+     * The maximum value of the scale
+     * @minimum 1
+     */
+    max: number;
+  };
+
+  /**
+   * The scale for the .values property (if different from the .value scale)
+   */
+  values?: {
     /**
      * The minimum value of the scale
      */
@@ -242,7 +258,7 @@ export type PartitionData = {
    */
   term2: string;
 } & (
-    | {
+  | {
       /**
        * The averaged numeric value of the semantic measure for the pair
        */
@@ -260,7 +276,7 @@ export type PartitionData = {
        */
       values?: (number | null)[];
     }
-    | {
+  | {
       /**
        * The averaged numeric value of the semantic measure for the pair
        */
@@ -273,4 +289,4 @@ export type PartitionData = {
        */
       values: number[];
     }
-  );
+);
