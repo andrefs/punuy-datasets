@@ -37,7 +37,7 @@
   },
   "homepage": "https://github.com/andrefs/punuy-datasets#readme",
   "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "7.12.0",
+    "@typescript-eslint/eslint-plugin": "8.1.0",
     "@typescript-eslint/parser": "7.12.0",
     "ajv": "8.15.0",
     "ajv-cli": "5.0.0",
