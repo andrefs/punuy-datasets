@@ -52,6 +52,7 @@
     "fast-json-patch": "3.1.1"
   },
   "dependencies": {
-    "patch-package": "8.0.0"
+    "patch-package": "8.0.0",
+    "pino": "9.3.2"
   }
 }
