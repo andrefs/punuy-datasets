@@ -26,8 +26,8 @@
       "measureType": "similarity",
       "scale": {
         "value": {
-          "max": 5,
-          "min": 1
+          "max": 4,
+          "min": 0
         }
       },
       "metrics": {
