@@ -101,6 +101,12 @@ export interface Metadata {
    * The license of the dataset
    */
   license?: License;
+
+  /**
+   * The version of the dataset
+   * @example "1.0"
+   */
+  version?: string;
 }
 
 export interface License {
@@ -258,7 +264,7 @@ export type PartitionData = {
    */
   term2: string;
 } & (
-  | {
+    | {
       /**
        * The averaged numeric value of the semantic measure for the pair
        */
@@ -276,7 +282,7 @@ export type PartitionData = {
        */
       values?: (number | null)[];
     }
-  | {
+    | {
       /**
        * The averaged numeric value of the semantic measure for the pair
        */
@@ -289,4 +295,4 @@ export type PartitionData = {
        */
       values: number[];
     }
-);
+  );
