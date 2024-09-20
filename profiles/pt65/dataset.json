@@ -3,11 +3,13 @@
   "metadata": {
     "name": "PT65",
     "authors": "Granada R., Trojahn C., Vieira R.",
-    "urls": ["http://www.inf.pucrs.br/linatural/wikimodels/similarity.html"],
+    "urls": [
+      "http://www.inf.pucrs.br/linatural/wikimodels/similarity.html"
+    ],
     "papers": [
       {
         "title": "Comparing Semantic Relatedness between Word Pairsin Portuguese Using Wikipedia",
-        "url": "https://core.ac.uk/reader/217894830"
+        "url": "https://hal.science/hal-02089290/file/leitzkegranada_22675.pdf"
       }
     ],
     "date": "2014",
@@ -15,9 +17,13 @@
     "downloadUrls": [
       "https://www.inf.pucrs.br/linatural/wordpress/recursos-e-ferramentas/lista-de-pares-de-palavras/"
     ],
-    "languages": ["pt"],
+    "languages": [
+      "pt"
+    ],
     "domain": "general",
-    "measureTypes": ["relatedness"]
+    "measureTypes": [
+      "relatedness"
+    ]
   },
   "partitions": [
     {
