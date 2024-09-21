@@ -5,5 +5,13 @@ typescript-json-schema \
 	--id 'https://andrefs.com/schemas/2023/SemMeasures' \
 	--noExtraProps true \
 	--strictNullChecks true \
-	-o schema.json \
+	-o dataset-schema.json \
 	src/lib/types.ts "LazyDataset"
+
+typescript-json-schema \
+	--required \
+	--id 'https://andrefs.com/schemas/2023/SemMeasures' \
+	--noExtraProps true \
+	--strictNullChecks true \
+	-o partition-data-schema.json \
+	src/lib/types.ts "PartitionDataArray"

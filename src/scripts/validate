@@ -3,5 +3,11 @@
 ajv \
 	--spec draft7 \
 	-c ajv-formats \
-	-s schema.json \
+	-s dataset-schema.json \
 	-d "profiles/*/dataset.json"
+
+ajv \
+	--spec draft7 \
+	-c ajv-formats \
+	-s partition-data-schema.json \
+	-d "profiles/*/*.part.json"

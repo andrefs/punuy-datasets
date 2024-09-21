@@ -164,7 +164,7 @@ export interface Partition {
   /**
    * The data for the partition
    */
-  data: PartitionData[];
+  data: PartitionDataArray;
 
   /**
    * Evaluation metrics for the partition
@@ -257,6 +257,8 @@ export type PartitionMetrics = {
     pearson: number | null;
   };
 };
+
+export type PartitionDataArray = PartitionData[];
 
 export type PartitionData = {
   /**
