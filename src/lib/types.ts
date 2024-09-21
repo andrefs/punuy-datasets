@@ -222,7 +222,7 @@ export type PartitionMetrics = {
     minEachPair: number | null;
 
     /**
-     * Whether each column in .values corresponds to a different annotator
+     * Whether each column in .values corresponds to a single annotator
      */
     fixedColumns?: boolean;
   };

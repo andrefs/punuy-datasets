@@ -67,8 +67,8 @@ async function getFileInfo(file: string) {
     lang: all.metadata.languages.join("/"),
     domain: all.metadata.domain,
     measureTypes: measTypes,
-    reference: all.metadata.papers[0].url,
-    website: all.metadata.urls[0],
+    reference: all.metadata.papers?.[0]?.url,
+    website: all.metadata.urls?.[0],
   } as DsInfo;
 }
 

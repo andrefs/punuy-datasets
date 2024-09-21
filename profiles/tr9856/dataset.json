@@ -21,9 +21,13 @@
     "downloadUrls": [
       "https://dax-cdn.cdn.appdomain.cloud/dax-multi-word-term-relatedness/1.0.2/multi-word-term-relatedness.tar.gz"
     ],
-    "languages": ["en"],
+    "languages": [
+      "en"
+    ],
     "domain": "general",
-    "measureTypes": ["relatedness"]
+    "measureTypes": [
+      "relatedness"
+    ]
   },
   "partitions": [
     {
@@ -38,7 +42,8 @@
       "metrics": {
         "annotators": {
           "total": 22,
-          "minEachPair": 10
+          "minEachPair": 10,
+          "fixedColumns": true
         },
         "interAgreement": {
           "pearson": 0.8,

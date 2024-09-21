@@ -30,7 +30,7 @@ export default [
       ecmaVersion: 12,
       sourceType: "module",
     },
-
     rules: {},
   },
+  eslintConfigPrettier,
 ];

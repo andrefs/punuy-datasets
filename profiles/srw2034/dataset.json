@@ -34,7 +34,8 @@
       "metrics": {
         "annotators": {
           "total": 10,
-          "minEachPair": 7
+          "minEachPair": 7,
+          "fixedColumns": false
         },
         "interAgreement": {
           "pearson": null,
