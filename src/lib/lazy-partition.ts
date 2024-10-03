@@ -2,7 +2,10 @@ import { Partition, PartitionData } from "./types";
 import fs from "fs";
 import logger from "./logger";
 
-export function lazyPartition(part: Omit<Partition, "data">, path: string) {
+export function lazyPartition(
+  part: Omit<Partition, "data">,
+  path: string
+): Partition {
   let _data: PartitionData[] | null = null;
 
   return new Proxy(part, {

@@ -1,7 +1,9 @@
-import { DatasetProfile, Partition } from "../lib/types";
+import { DatasetProfile, LazyDataset, Partition } from "../lib/types";
 import { lazyPartition } from "../lib/lazy-partition";
 import dataset from "../../profiles/pap900/dataset.json";
 import path from "path";
+
+const _ds = dataset as LazyDataset;
 
 for (const [index, partition] of dataset.partitions.entries()) {
   // define partition path relative to current script
@@ -11,10 +13,10 @@ for (const [index, partition] of dataset.partitions.entries()) {
     partition.id + ".part.json"
   );
 
-  (dataset as DatasetProfile).partitions[index] = lazyPartition(
+  _ds.partitions[index] = lazyPartition(
     partition as Omit<Partition, "data">,
     partPath
   );
 }
 
-export default dataset as DatasetProfile;
+export default _ds as DatasetProfile;
