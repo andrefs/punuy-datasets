@@ -102,10 +102,10 @@ function getTableRow(dsInfo: DsInfo) {
 function getTableFields(dsInfo: DsInfo) {
   const references = [];
   if (dsInfo.reference) {
-    references.push(`[paper](${dsInfo.reference})`);
+    references.push(`[paper 📑](${dsInfo.reference})`);
   }
   if (dsInfo.website) {
-    references.push(`[website](${dsInfo.website})`);
+    references.push(`[website 🌐](${dsInfo.website})`);
   }
 
   return {
