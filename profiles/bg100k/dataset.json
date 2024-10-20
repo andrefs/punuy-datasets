@@ -30,7 +30,8 @@
     "domain": "general",
     "tags": [
       "mturk"
-    ]
+    ],
+    "version": "0.4"
   },
   "partitions": [
     {
