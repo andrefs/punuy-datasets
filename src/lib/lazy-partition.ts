@@ -15,7 +15,11 @@ export function lazyPartition(
           logger.debug(`Loading partition data from ${path}`);
           _data = JSON.parse(fs.readFileSync(path, "utf-8")) as PartitionData[];
         }
-        return _data;
+        return _data.map(d => ({
+          ...d,
+          term1: d.term1.trim(),
+          term2: d.term2.trim(),
+        }));
       }
       return Reflect.get(target, prop, receiver);
     },

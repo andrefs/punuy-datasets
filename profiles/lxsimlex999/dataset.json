@@ -13,7 +13,7 @@
     ],
     "papers": [
       {
-        "title": "LX-LR4DistSemEval: a collection of language resources for the evaluation of distributional semantic models of Portuguese ",
+        "title": "LX-LR4DistSemEval: a collection of language resources for the evaluation of distributional semantic models of Portuguese",
         "url": "https://www.grupocole.org/cole/library/ps/QueCarRodGarSilCorRenPerCamBra2017a.pdf"
       }
     ],
@@ -22,9 +22,13 @@
     "downloadUrls": [
       "https://portulanclarin.net/repository/browse/lx-simlex-999/4ab1ea58e6d311e6a2aa782bcb0741351e920e18429e4d3e9d229a58030812fe/"
     ],
-    "languages": ["pt"],
+    "languages": [
+      "pt"
+    ],
     "domain": "general",
-    "measureTypes": ["similarity"]
+    "measureTypes": [
+      "similarity"
+    ]
   },
   "partitions": [
     {
