@@ -1660,7 +1660,7 @@
     "value": 0.1
   },
   {
-    "term1": "Gas chromatography���mass spectrometry",
+    "term1": "Gas chromatography-mass spectrometry",
     "term2": "Metabolism",
     "value": 0.083333333
   },
@@ -2095,7 +2095,7 @@
     "value": 0
   },
   {
-    "term1": "Operaci�_n Puerto doping case",
+    "term1": "Operación Puerto doping case",
     "term2": "Point of sale",
     "value": 0
   },
@@ -2291,7 +2291,7 @@
   },
   {
     "term1": "Alcoholic drink",
-    "term2": "Gas chromatography���mass spectrometry",
+    "term2": "Gas chromatography-mass spectrometry",
     "value": 0
   },
   {
@@ -3116,12 +3116,12 @@
   },
   {
     "term1": "School",
-    "term2": "Roman���Etruscan Wars",
+    "term2": "Roman-Etruscan Wars",
     "value": 0
   },
   {
     "term1": "Vault (gymnastics)",
-    "term2": "Roman���Etruscan Wars",
+    "term2": "Roman-Etruscan Wars",
     "value": 0
   },
   {
@@ -5226,7 +5226,7 @@
   },
   {
     "term1": "Emmanuel Levinas",
-    "term2": "Sobib�_r extermination camp",
+    "term2": "Sobibór extermination camp",
     "value": 0.2
   },
   {
@@ -5276,7 +5276,7 @@
   },
   {
     "term1": "Greeks",
-    "term2": "Be��_ec extermination camp",
+    "term2": "Bełżec extermination camp",
     "value": 0.1
   },
   {
@@ -5351,7 +5351,7 @@
   },
   {
     "term1": "White people",
-    "term2": "Che��mno extermination camp",
+    "term2": "Chełmno extermination camp",
     "value": 0.090909091
   },
   {
@@ -9160,7 +9160,7 @@
     "value": 0.888888889
   },
   {
-    "term1": "Nicol��s Maduro",
+    "term1": "Nicolás Maduro",
     "term2": "Production (economics)",
     "value": 0
   },
@@ -10121,12 +10121,12 @@
   },
   {
     "term1": "Contract",
-    "term2": "Urotsukid��ji",
+    "term2": "Urotsukidōji",
     "value": 0
   },
   {
     "term1": "Person",
-    "term2": "Urotsukid��ji",
+    "term2": "Urotsukidōji",
     "value": 0.1
   },
   {
@@ -10260,7 +10260,7 @@
     "value": 0.1
   },
   {
-    "term1": "Ernst Z�_ndel",
+    "term1": "Ernst Zündel",
     "term2": "Martin Luther and antisemitism",
     "value": 0.1
   },
@@ -19266,202 +19266,202 @@
   },
   {
     "term1": "Cairo",
-    "term2": "Gaza War (2008���09)",
+    "term2": "Gaza War (2008-2009)",
     "value": 0.363636364
   },
   {
     "term1": "Arabs",
-    "term2": "Gaza War (2008���09)",
+    "term2": "Gaza War (2008-2009)",
     "value": 0.8
   },
   {
     "term1": "Capital punishment",
-    "term2": "Gaza War (2008���09)",
+    "term2": "Gaza War (2008-2009)",
     "value": 0
   },
   {
     "term1": "Mosque",
-    "term2": "Gaza War (2008���09)",
+    "term2": "Gaza War (2008-2009)",
     "value": 0.4
   },
   {
     "term1": "Fighter aircraft",
-    "term2": "Gaza War (2008���09)",
+    "term2": "Gaza War (2008-2009)",
     "value": 0.444444444
   },
   {
     "term1": "Fortification",
-    "term2": "Gaza War (2008���09)",
+    "term2": "Gaza War (2008-2009)",
     "value": 0.1
   },
   {
     "term1": "Brigade",
-    "term2": "Gaza War (2008���09)",
+    "term2": "Gaza War (2008-2009)",
     "value": 0.181818182
   },
   {
     "term1": "British Overseas Territories",
-    "term2": "Gaza War (2008���09)",
+    "term2": "Gaza War (2008-2009)",
     "value": 0
   },
   {
     "term1": "Arab world",
-    "term2": "Gaza War (2008���09)",
+    "term2": "Gaza War (2008-2009)",
     "value": 1
   },
   {
     "term1": "Benjamin Netanyahu",
-    "term2": "Gaza War (2008���09)",
+    "term2": "Gaza War (2008-2009)",
     "value": 0.714285714
   },
   {
     "term1": "Beersheba",
-    "term2": "Gaza War (2008���09)",
+    "term2": "Gaza War (2008-2009)",
     "value": 0.833333333
   },
   {
     "term1": "SMS",
-    "term2": "Gaza War (2008���09)",
+    "term2": "Gaza War (2008-2009)",
     "value": 0
   },
   {
     "term1": "Civilian",
-    "term2": "Gaza War (2008���09)",
+    "term2": "Gaza War (2008-2009)",
     "value": 0.555555556
   },
   {
     "term1": "Israelis",
-    "term2": "Gaza War (2008���09)",
+    "term2": "Gaza War (2008-2009)",
     "value": 0.888888889
   },
   {
     "term1": "Geneva Conventions",
-    "term2": "Gaza War (2008���09)",
+    "term2": "Gaza War (2008-2009)",
     "value": 0.090909091
   },
   {
     "term1": "Building",
-    "term2": "Gaza War (2008���09)",
+    "term2": "Gaza War (2008-2009)",
     "value": 0.090909091
   },
   {
     "term1": "Ceasefire",
-    "term2": "Gaza War (2008���09)",
+    "term2": "Gaza War (2008-2009)",
     "value": 0.777777778
   },
   {
     "term1": "Eilat",
-    "term2": "Gaza War (2008���09)",
+    "term2": "Gaza War (2008-2009)",
     "value": 0.272727273
   },
   {
     "term1": "Insurgency",
-    "term2": "Gaza War (2008���09)",
+    "term2": "Gaza War (2008-2009)",
     "value": 0.6
   },
   {
     "term1": "Military organization",
-    "term2": "Gaza War (2008���09)",
+    "term2": "Gaza War (2008-2009)",
     "value": 0.666666667
   },
   {
     "term1": "United Nations Human Rights Council",
-    "term2": "Gaza War (2008���09)",
+    "term2": "Gaza War (2008-2009)",
     "value": 0.357142857
   },
   {
     "term1": "Self-defense",
-    "term2": "Gaza War (2008���09)",
+    "term2": "Gaza War (2008-2009)",
     "value": 0.1
   },
   {
     "term1": "Shin Bet",
-    "term2": "Gaza War (2008���09)",
+    "term2": "Gaza War (2008-2009)",
     "value": 0.5
   },
   {
     "term1": "Heavy machine gun",
-    "term2": "Gaza War (2008���09)",
+    "term2": "Gaza War (2008-2009)",
     "value": 0.7
   },
   {
     "term1": "Gaza flotilla raid",
-    "term2": "Gaza War (2008���09)",
+    "term2": "Gaza War (2008-2009)",
     "value": 1
   },
   {
     "term1": "Aerial warfare",
-    "term2": "Gaza War (2008�����09)",
+    "term2": "Gaza War (2008-2009)",
     "value": 0.7
   },
   {
     "term1": "International human rights law",
-    "term2": "Gaza War (2008���09)",
+    "term2": "Gaza War (2008-2009)",
     "value": 0.416666667
   },
   {
     "term1": "Allotropes of phosphorus",
-    "term2": "Gaza War (2008���09)",
+    "term2": "Gaza War (2008-2009)",
     "value": 0.083333333
   },
   {
     "term1": "Smoke screen",
-    "term2": "Gaza War (2008���09)",
+    "term2": "Gaza War (2008-2009)",
     "value": 0.1
   },
   {
     "term1": "Izz ad-Din al-Qassam Brigades",
-    "term2": "Gaza War (2008���09)",
+    "term2": "Gaza War (2008-2009)",
     "value": 0.8
   },
   {
     "term1": "Innocence",
-    "term2": "Gaza War (2008���09)",
+    "term2": "Gaza War (2008-2009)",
     "value": 0
   },
   {
     "term1": "Politics of Israel",
-    "term2": "Gaza War (2008���09)",
+    "term2": "Gaza War (2008-2009)",
     "value": 0.818181818
   },
   {
     "term1": "Alleged war crimes during the final stages of the Sri Lankan Civil War",
-    "term2": "Gaza War (2008���09)",
+    "term2": "Gaza War (2008-2009)",
     "value": 0.4
   },
   {
     "term1": "Operation Orchard",
-    "term2": "Gaza War (2008���09)",
+    "term2": "Gaza War (2008-2009)",
     "value": 0.416666667
   },
   {
     "term1": "GOC Army Headquarters",
-    "term2": "Gaza War (2008���09)",
+    "term2": "Gaza War (2008-2009)",
     "value": 0.5
   },
   {
     "term1": "UN Watch",
-    "term2": "Gaza War (2008���09)",
+    "term2": "Gaza War (2008-2009)",
     "value": 0.461538462
   },
   {
     "term1": "Richard Kemp",
-    "term2": "Gaza War (2008���09)",
+    "term2": "Gaza War (2008-2009)",
     "value": 0.1
   },
   {
     "term1": "Havlagah",
-    "term2": "Gaza War (2008���09)",
+    "term2": "Gaza War (2008-2009)",
     "value": 0.2
   },
   {
     "term1": "Or Commission",
-    "term2": "Gaza War (2008���09)",
+    "term2": "Gaza War (2008-2009)",
     "value": 0.4
   },
   {
     "term1": "Palestinian casualties of war",
-    "term2": "Gaza War (2008���09)",
+    "term2": "Gaza War (2008-2009)",
     "value": 1
   },
   {
@@ -21400,7 +21400,7 @@
     "value": 0
   },
   {
-    "term1": "Ekmeleddin ��hsano��lu",
+    "term1": "Ekmeleddin İhsanoğlu",
     "term2": "Arabic",
     "value": 0
   },
@@ -21576,12 +21576,12 @@
   },
   {
     "term1": "Hate speech",
-    "term2": "Par��",
+    "term2": "Par??",
     "value": 0
   },
   {
     "term1": "Ejaculation",
-    "term2": "Par��",
+    "term2": "Par??",
     "value": 0
   },
   {
@@ -22505,7 +22505,7 @@
     "value": 0.7
   },
   {
-    "term1": "Ernst Z�_ndel",
+    "term1": "Ernst Zündel",
     "term2": "Holocaust denial",
     "value": 0.8
   },
@@ -22610,7 +22610,7 @@
     "value": 0.3
   },
   {
-    "term1": "Ernst Z�_ndel",
+    "term1": "Ernst Zündel",
     "term2": "Press release",
     "value": 0
   },
@@ -22630,7 +22630,7 @@
     "value": 0
   },
   {
-    "term1": "Ernst Z�_ndel",
+    "term1": "Ernst Zündel",
     "term2": "Einsatzgruppen",
     "value": 0
   },
@@ -22701,7 +22701,7 @@
   },
   {
     "term1": "President of Iran",
-    "term2": "Be��_ec extermination camp",
+    "term2": "Bełżec extermination camp",
     "value": 0
   },
   {
@@ -28700,7 +28700,7 @@
     "value": 0
   },
   {
-    "term1": "Cost���benefit analysis",
+    "term1": "Cost-benefit analysis",
     "term2": "Free market",
     "value": 0.2
   },
@@ -29111,7 +29111,7 @@
   },
   {
     "term1": "Commodity",
-    "term2": "Principal���agent problem",
+    "term2": "Principal-agent problem",
     "value": 0
   },
   {
@@ -29180,7 +29180,7 @@
     "value": 0.3
   },
   {
-    "term1": "Cost���benefit analysis",
+    "term1": "Cost-benefit analysis",
     "term2": "Exchange value",
     "value": 0.3
   },
@@ -29206,7 +29206,7 @@
   },
   {
     "term1": "Saving",
-    "term2": "Production���possibility frontier",
+    "term2": "Production-possibility frontier",
     "value": 0
   },
   {
@@ -29301,12 +29301,12 @@
   },
   {
     "term1": "Mode of production",
-    "term2": "Alfred M�_ller-Armack",
+    "term2": "Alfred Müller-Armack",
     "value": 0
   },
   {
     "term1": "Leonard Read",
-    "term2": "Alfred M�_ller-Armack",
+    "term2": "Alfred Müller-Armack",
     "value": 0
   },
   {
@@ -36656,7 +36656,7 @@
   },
   {
     "term1": "Citizenship",
-    "term2": "Niccol�_ Machiavelli",
+    "term2": "Niccolò Machiavelli",
     "value": 0
   },
   {

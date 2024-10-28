@@ -8,6 +8,7 @@ export function fixPartData(
     trim: true,
     replaceUTF8Quotes: true,
     noUnderScores: true,
+    replaceUTF8Dashes: true,
   }
 ): PartitionData {
   let term1 = part.term1;
@@ -24,6 +25,10 @@ export function fixPartData(
       .replace(/‘/g, "'")
       .replace(/”/g, '"')
       .replace(/“/g, '"');
+  }
+  if (options.replaceUTF8Dashes) {
+    term1 = term1.replace(/–/g, "-");
+    term2 = term2.replace(/–/g, "-");
   }
   if (options.noUnderScores) {
     term1 = term1.replace(/_+/g, " ");
@@ -44,7 +49,9 @@ interface LazyPartitionOptions {
   trim?: boolean;
   replaceUTF8Quotes?: boolean;
   noUnderScores?: boolean;
+  replaceUTF8Dashes?: boolean;
 }
+
 export function lazyPartition(
   part: Omit<Partition, "data">,
   path: string,

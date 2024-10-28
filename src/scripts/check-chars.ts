@@ -29,7 +29,7 @@ async function readPartitionFile(file: string) {
 
 function checkPartition(partName: string, part: PartitionData[]): boolean {
   // Regular expression to match valid word characters including accents, apostrophes, and digits.
-  const validCharRegex = /^[-.?+&,()/\p{L}\p{M}\p{N}0-9' ]+$/u;
+  const validCharRegex = /^[-.?+&,():!/\p{L}\p{M}\p{N}0-9' ]+$/u;
 
   let allValid = true;
 
@@ -62,6 +62,7 @@ function checkPartition(partName: string, part: PartitionData[]): boolean {
   return allValid;
 }
 async function main() {
+  let allOk = true;
   const folders = await readFoldersInFolder(SRC_FOLDER);
   for (const folder of folders) {
     const partitions = await readPartitionsInFolder(`${SRC_FOLDER}/${folder}`);
@@ -69,12 +70,22 @@ async function main() {
       const part = await readPartitionFile(
         path.join(SRC_FOLDER, folder, partFile)
       );
-      checkPartition(`${folder}/${partFile}`, part);
+      const ok = checkPartition(`${folder}/${partFile}`, part);
+      if (!ok) {
+        allOk = false;
+      }
     }
-    console.log(partitions);
   }
+  return allOk;
 }
 
 main()
-  .then(() => console.log("Done"))
+  .then(res => {
+    if (!res) {
+      console.error("Some partitions have invalid characters");
+      process.exit(1);
+    }
+    console.log("Done");
+    process.exit(0);
+  })
   .catch(console.error);
