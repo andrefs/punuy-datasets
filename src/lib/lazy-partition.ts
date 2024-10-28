@@ -4,7 +4,8 @@ import logger from "./logger";
 
 export function lazyPartition(
   part: Omit<Partition, "data">,
-  path: string
+  path: string,
+  { trim = true, replaceUTF8Quotes = true } = {}
 ): Partition {
   let _data: PartitionData[] | null = null;
 
@@ -15,11 +16,32 @@ export function lazyPartition(
           logger.debug(`Loading partition data from ${path}`);
           _data = JSON.parse(fs.readFileSync(path, "utf-8")) as PartitionData[];
         }
-        return _data.map(d => ({
-          ...d,
-          term1: d.term1.trim(),
-          term2: d.term2.trim(),
-        }));
+
+        return _data.map(d => {
+          let term1 = d.term1;
+          let term2 = d.term2;
+          if (trim) {
+            term1 = term1.trim();
+            term2 = term2.trim();
+          }
+          if (replaceUTF8Quotes) {
+            term1 = term1
+              .replace(/’/g, "'")
+              .replace(/‘/g, "'")
+              .replace(/”/g, '"')
+              .replace(/“/g, '"');
+            term2 = term2
+              .replace(/’/g, "'")
+              .replace(/‘/g, "'")
+              .replace(/”/g, '"')
+              .replace(/“/g, '"');
+          }
+          return {
+            ...d,
+            term1,
+            term2,
+          };
+        });
       }
       return Reflect.get(target, prop, receiver);
     },
