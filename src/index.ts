@@ -44,6 +44,7 @@ import lxws353 from "../src/datasets/lxws353";
 import lxsimlex999 from "../src/datasets/lxsimlex999";
 import lxrw2034 from "../src/datasets/lxrw2034";
 import pap900 from "../src/datasets/pap900";
+import multisimlex from "../src/datasets/multisimlex";
 
 export {
   bg100k,
@@ -92,4 +93,5 @@ export {
   lxsimlex999,
   lxrw2034,
   pap900,
+  multisimlex,
 };
