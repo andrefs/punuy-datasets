@@ -89,7 +89,7 @@ async function generateDatasetsSection() {
   for await (const info of filesInfo) {
     res += getTableRow(info);
   }
-  res += `\n${datasetsSectionEnd}\n`;
+  res += `\n${datasetsSectionEnd}`;
   return res;
 }
 
