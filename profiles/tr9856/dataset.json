@@ -21,13 +21,9 @@
     "downloadUrls": [
       "https://dax-cdn.cdn.appdomain.cloud/dax-multi-word-term-relatedness/1.0.2/multi-word-term-relatedness.tar.gz"
     ],
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "domain": "general",
-    "measureTypes": [
-      "relatedness"
-    ]
+    "measureTypes": ["relatedness"]
   },
   "partitions": [
     {
