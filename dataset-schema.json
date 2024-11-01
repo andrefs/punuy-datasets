@@ -3,6 +3,21 @@
     "$schema": "http://json-schema.org/draft-07/schema#",
     "additionalProperties": false,
     "definitions": {
+        "Domain": {
+            "enum": [
+                "biomedical",
+                "general",
+                "geographical"
+            ],
+            "type": "string"
+        },
+        "Language": {
+            "enum": [
+                "en",
+                "pt"
+            ],
+            "type": "string"
+        },
         "LazyPartition": {
             "additionalProperties": false,
             "properties": {
@@ -23,7 +38,7 @@
                             "description": "The number of annotators",
                             "properties": {
                                 "fixedColumns": {
-                                    "description": "Whether each column in .values corresponds to a different annotator",
+                                    "description": "Whether each column in .values corresponds to a single annotator",
                                     "type": "boolean"
                                 },
                                 "minEachPair": {
@@ -210,13 +225,8 @@
                     "type": "string"
                 },
                 "domain": {
-                    "description": "The domain of the dataset",
-                    "enum": [
-                        "biomedical",
-                        "general",
-                        "geographical"
-                    ],
-                    "type": "string"
+                    "$ref": "https://andrefs.com/schemas/2023/SemMeasures#/definitions/Domain",
+                    "description": "The domain of the dataset"
                 },
                 "downloadUrls": {
                     "description": "URL(s) to download the dataset files",
@@ -229,11 +239,7 @@
                 "languages": {
                     "description": "The languages used in the dataset",
                     "items": {
-                        "enum": [
-                            "en",
-                            "pt"
-                        ],
-                        "type": "string"
+                        "$ref": "https://andrefs.com/schemas/2023/SemMeasures#/definitions/Language"
                     },
                     "type": "array"
                 },

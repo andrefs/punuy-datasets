@@ -3,7 +3,9 @@
   "metadata": {
     "name": "MTurk771",
     "authors": "Guy Halawi , Gideon Dror, Evgeniy Gabrilovich, Yehuda Koren",
-    "urls": ["http://www2.mta.ac.il/~gideon/datasets/mturk_771.html"],
+    "urls": [
+      "http://www2.mta.ac.il/~gideon/datasets/mturk_771.html"
+    ],
     "papers": [
       {
         "title": "Large-scale learning of word relatedness with constraints",
@@ -16,10 +18,16 @@
       "http://www2.mta.ac.il/~gideon/datasets/MTURK-771-RAW.csv",
       "http://www2.mta.ac.il/~gideon/datasets/MTURK-771.csv"
     ],
-    "measureTypes": ["relatedness"],
+    "measureTypes": [
+      "relatedness"
+    ],
     "domain": "general",
-    "languages": ["en"],
-    "tags": ["mturk"]
+    "languages": [
+      "en"
+    ],
+    "tags": [
+      "mturk"
+    ]
   },
   "partitions": [
     {
@@ -38,7 +46,8 @@
       "metrics": {
         "annotators": {
           "total": 115,
-          "minEachPair": 20
+          "minEachPair": 20,
+          "fixedColumns": false
         },
         "interAgreement": {
           "pearson": 0.8957,

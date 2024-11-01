@@ -1,0 +1,72 @@
+{
+  "id": "pap900",
+  "metadata": {
+    "name": "PAP900",
+    "license": {
+      "name": "CC BY-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nd/4.0/"
+    },
+    "authors": "A. F. Santos, J. P. Leal, R. A. Alves, T. Jacques",
+    "urls": [
+      "https://github.com/andrefs/PAP900"
+    ],
+    "papers": [],
+    "date": "2024",
+    "description": "PAP900 is a semantic measure dataset containing semantic relatedness and semantic similarity values for 900 affective words in Portuguese (Palavras Afectivas em Português).",
+    "downloadUrls": [
+      "https://github.com/andrefs/PAP900"
+    ],
+    "languages": [
+      "pt"
+    ],
+    "domain": "general",
+    "measureTypes": [
+      "similarity",
+      "relatedness"
+    ]
+  },
+  "partitions": [
+    {
+      "id": "similarity",
+      "measureType": "similarity",
+      "scale": {
+        "value": {
+          "max": 4.0,
+          "min": 0.0
+        }
+      },
+      "metrics": {
+        "annotators": {
+          "total": 206,
+          "minEachPair": 31,
+          "fixedColumns": true
+        },
+        "interAgreement": {
+          "pearson": null,
+          "spearman": null
+        }
+      }
+    },
+    {
+      "id": "relatedness",
+      "measureType": "relatedness",
+      "scale": {
+        "value": {
+          "max": 4.0,
+          "min": 0.0
+        }
+      },
+      "metrics": {
+        "annotators": {
+          "total": 206,
+          "minEachPair": 31
+        },
+        "interAgreement": {
+          "pearson": null,
+          "spearman": null
+        }
+      }
+    }
+  ],
+  "originalInstructions": "# Similarity\n\nNas próximas secções deste questionário ser-lhe-á pedido que avalie quantitativamente,\nnuma escala, a intensidade da semelhança semântica entre pares de palavras afetivas.\nPor favor, antes de começar, leia atentamente a instrução e exemplos abaixo.\n\nA pergunta que lhe fazemos é: quão semelhantes são as duas palavras? Pares de palavras\npouco similares deverão ser pontuados com valores mais baixos, e pares de palavras\nmuito similares com valores mais altos.\n\nPor exemplo, as palavras esperto e inteligente partilham muitas semelhanças, tal como\nalegria e felicidade. Confiante partilha muitas semelhanças consigo mesmo. Feliz e\nlouco partilham algumas semelhanças. Já triste e divertido não são nada semelhantes.\n\n    esperto, inteligente: muita (4)\n    alegria, felicidade: total (5)\n    confiante, confiante: total (5)\n    feliz, louco: alguma (3)\n    triste, divertido: nenhuma (1)\n\n\n# Relatedness\n\nNas próximas secções deste questionário ser-lhe-á pedido que avalie quantitativamente,\nnuma escala, a intensidade do relacionamento semântico entre pares de palavras afetivas.\nPor favor, antes de começar, leia atentamente a instrução e exemplos abaixo.\n\nA pergunta que lhe fazemos é: quão relacionadas estão as duas palavras? Pares de palavras\npouco relacionadas deverão ser pontuados com valores mais baixos, e pares de palavras\nmuito relacionadas com valores mais altos. Repare que palavras opostas apresentam\nfrequentemente valores de relacionamento elevados.\n\nPor exemplo, as palavras modesto e esperto parecem pouco relacionadas. Já dissimular e\ndisfarçar parecem muito relacionadas. Confiante está muito relacionado consigo mesmo.\nEnquanto que violento e pacífico, sendo palavras opostas, são frequentemente relacionadas,\ntal como alegria e tristeza.\n\n    modesto, esperto: nenhum (1)\n    dissimular, disfarçar: pouco (2)\n    confiante, confiante: total (5)\n    violento, paçífico: muito (4)\n    alegria, tristeza: total (5)\n"
+}

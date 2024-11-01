@@ -76,13 +76,13 @@ export interface Metadata {
   /**
    * The languages used in the dataset
    */
-  languages: ("en" | "pt")[];
+  languages: Language[];
 
   /**
    * The domain of the dataset
    */
 
-  domain: "general" | "geographical" | "biomedical";
+  domain: Domain;
 
   /**
    * Which type of measures are used to compare the words
@@ -129,6 +129,8 @@ export interface License {
   cannotRedistribute?: boolean;
 }
 
+export type Domain = "general" | "geographical" | "biomedical";
+export type Language = "pt" | "en";
 export type MeasureType = "similarity" | "relatedness";
 
 export interface Paper {
@@ -222,7 +224,7 @@ export type PartitionMetrics = {
     minEachPair: number | null;
 
     /**
-     * Whether each column in .values corresponds to a different annotator
+     * Whether each column in .values corresponds to a single annotator
      */
     fixedColumns?: boolean;
   };

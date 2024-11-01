@@ -67,8 +67,8 @@ async function getFileInfo(file: string) {
     lang: all.metadata.languages.join("/"),
     domain: all.metadata.domain,
     measureTypes: measTypes,
-    reference: all.metadata.papers[0].url,
-    website: all.metadata.urls[0],
+    reference: all.metadata.papers?.[0]?.url,
+    website: all.metadata.urls?.[0],
   } as DsInfo;
 }
 
@@ -95,11 +95,19 @@ async function generateDatasetsSection() {
 
 function getTableRow(dsInfo: DsInfo) {
   const fields = getTableFields(dsInfo);
-  const res = `| ${fields.id} | ${fields.name} | ${fields.year} | ${fields.lang} | ${fields.domain} | ${fields.measureTypes} | ${fields.reference} | ${fields.website} | \n`;
+  const res = `| ${fields.id} | ${fields.name} | ${fields.year} | ${fields.lang} | ${fields.domain} | ${fields.measureTypes} | ${fields.references.join(", ")} | \n`;
   return res;
 }
 
 function getTableFields(dsInfo: DsInfo) {
+  const references = [];
+  if (dsInfo.reference) {
+    references.push(`[paper 📑](${dsInfo.reference})`);
+  }
+  if (dsInfo.website) {
+    references.push(`[website 🌐](${dsInfo.website})`);
+  }
+
   return {
     id: dsInfo.id,
     name: dsInfo.name,
@@ -107,13 +115,12 @@ function getTableFields(dsInfo: DsInfo) {
     lang: dsInfo.lang,
     domain: dsInfo.domain,
     measureTypes: dsInfo.measureTypes,
-    reference: dsInfo.reference ? `[link](${dsInfo.reference})` : "",
-    website: dsInfo.website ? `[link](${dsInfo.website})` : "",
+    references,
   };
 }
 
 function genTableHeader() {
-  let res = `| ID | Name | Year | Language | Domain | Sim/Rel | Reference | Website | \n`;
+  let res = `| ID | Name | Year | Language | Domain | Sim/Rel | References \n`;
   res += `| --- | --- | --- | --- | --- | --- |--- | --- |  \n`;
   return res;
 }

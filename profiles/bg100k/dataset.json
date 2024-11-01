@@ -21,10 +21,17 @@
     "downloadUrls": [
       "https://wordnet.cs.princeton.edu/downloads/evocation.zip"
     ],
-    "measureTypes": ["similarity"],
-    "languages": ["en"],
+    "measureTypes": [
+      "similarity"
+    ],
+    "languages": [
+      "en"
+    ],
     "domain": "general",
-    "tags": ["mturk"]
+    "tags": [
+      "mturk"
+    ],
+    "version": "0.4"
   },
   "partitions": [
     {
@@ -43,7 +50,8 @@
       "metrics": {
         "annotators": {
           "total": 19,
-          "minEachPair": 3
+          "minEachPair": 3,
+          "fixedColumns": true
         },
         "interAgreement": {
           "pearson": null,
@@ -67,7 +75,8 @@
       "metrics": {
         "annotators": {
           "total": 15,
-          "minEachPair": 1
+          "minEachPair": 1,
+          "fixedColumns": true
         },
         "interAgreement": {
           "pearson": null,
@@ -91,7 +100,8 @@
       "metrics": {
         "annotators": {
           "total": 15,
-          "minEachPair": 1
+          "minEachPair": 1,
+          "fixedColumns": true
         },
         "interAgreement": {
           "pearson": null,
@@ -115,7 +125,8 @@
       "metrics": {
         "annotators": {
           "total": 15,
-          "minEachPair": 3
+          "minEachPair": 3,
+          "fixedColumns": true
         },
         "interAgreement": {
           "pearson": null,
