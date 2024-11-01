@@ -70,7 +70,9 @@ I'll get to it as soon as I have some free time ;)
 ## Types and schema
 
 TypeScript definitions can be found at [src/lib/types.ts](src/lib/types.ts).
-Automatically generated JSON schema definitions can be found at [dataset-schema.json](dataset-schema.json) and [partition-schema.json](partition-schema.json).
+
+Automatically generated JSON schema definitions can be found at [dataset-schema.json](dataset-schema.json) and [partition-data-schema.json](partition-data-schema.json).
+
 Automatically generated documentation can be found at [docs/](docs/).
 
 ## Datasets copyright and licenses
