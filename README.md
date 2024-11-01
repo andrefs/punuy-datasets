@@ -48,9 +48,14 @@ A collection of datasets, gathered from the academic literature, for the evaluat
 | semeval17 | SemEval-2017 Task 2.1 | 2017 | en | general | sim | [paper 📑](https://aclanthology.org/S17-2002.pdf), [website 🌐](https://alt.qcri.org/semeval2017/task2/) | 
 | gtrd | GTRD | 2018 | en | geographical | rel | [paper 📑](https://pdfs.semanticscholar.org/f8f1/b82386147b6a9142b2cff2dc662a3e614d80.pdf), [website 🌐](https://github.com/czgbjy/GTRD) | 
 | word19k | Wikipedia Oriented Relatedness Dataset | 2018 | en | general | rel | [paper 📑](https://aclanthology.org/L18-1408.pdf), [website 🌐](https://developer.ibm.com/exchanges/data/all/wikipedia-oriented-relatedness/) | 
+| multisimlex | Multi-SimLex | 2020 | ara/cmn/cym/eng/est/fin/fra/heb/pol/rus/spa/swa/yue | general | sim | [paper 📑](https://multisimlex.com/Multi-SimLex-Paper.pdf), [website 🌐](https://multisimlex.com/) | 
 | pap900 | PAP900 | 2024 | pt | general | rel/sim | [website 🌐](https://github.com/andrefs/PAP900) | 
 
 <!-- datasets-section-end -->
+
+
+
+
 
 
 
