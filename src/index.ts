@@ -46,6 +46,8 @@ import lxrw2034 from "../src/datasets/lxrw2034";
 import pap900 from "../src/datasets/pap900";
 import multisimlex from "../src/datasets/multisimlex";
 
+import emocon from "../src/datasets/emocon";
+
 export {
   bg100k,
   mayoSRS,
@@ -94,4 +96,6 @@ export {
   lxrw2034,
   pap900,
   multisimlex,
+  //
+  emocon,
 };
