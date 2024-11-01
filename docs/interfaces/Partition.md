@@ -2,7 +2,7 @@
 
 ***
 
-[punuy-datasets](../globals.md) / Partition
+[punuy-datasets](../README.md) / Partition
 
 # Interface: Partition
 
@@ -16,7 +16,7 @@ The data for the partition
 
 #### Defined in
 
-[types.ts:169](https://github.com/andrefs/punuy-datasets/blob/2d6985c82ebb5b469c39311fffe02b2a382d931a/src/lib/types.ts#L169)
+[types.ts:169](https://github.com/andrefs/punuy-datasets/blob/bcef86c35f51f4b9307f65008670361b8f6e58ce/src/lib/types.ts#L169)
 
 ***
 
@@ -28,7 +28,7 @@ An identifier for the partition
 
 #### Defined in
 
-[types.ts:154](https://github.com/andrefs/punuy-datasets/blob/2d6985c82ebb5b469c39311fffe02b2a382d931a/src/lib/types.ts#L154)
+[types.ts:154](https://github.com/andrefs/punuy-datasets/blob/bcef86c35f51f4b9307f65008670361b8f6e58ce/src/lib/types.ts#L154)
 
 ***
 
@@ -40,7 +40,7 @@ Which type of measure is used to compare the words
 
 #### Defined in
 
-[types.ts:159](https://github.com/andrefs/punuy-datasets/blob/2d6985c82ebb5b469c39311fffe02b2a382d931a/src/lib/types.ts#L159)
+[types.ts:159](https://github.com/andrefs/punuy-datasets/blob/bcef86c35f51f4b9307f65008670361b8f6e58ce/src/lib/types.ts#L159)
 
 ***
 
@@ -52,7 +52,7 @@ Evaluation metrics for the partition
 
 #### Defined in
 
-[types.ts:174](https://github.com/andrefs/punuy-datasets/blob/2d6985c82ebb5b469c39311fffe02b2a382d931a/src/lib/types.ts#L174)
+[types.ts:174](https://github.com/andrefs/punuy-datasets/blob/bcef86c35f51f4b9307f65008670361b8f6e58ce/src/lib/types.ts#L174)
 
 ***
 
@@ -64,4 +64,4 @@ The scale of the semantic measure values
 
 #### Defined in
 
-[types.ts:164](https://github.com/andrefs/punuy-datasets/blob/2d6985c82ebb5b469c39311fffe02b2a382d931a/src/lib/types.ts#L164)
+[types.ts:164](https://github.com/andrefs/punuy-datasets/blob/bcef86c35f51f4b9307f65008670361b8f6e58ce/src/lib/types.ts#L164)

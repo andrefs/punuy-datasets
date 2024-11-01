@@ -2,7 +2,7 @@
 
 ***
 
-[punuy-datasets](../globals.md) / Paper
+[punuy-datasets](../README.md) / Paper
 
 # Interface: Paper
 
@@ -16,7 +16,7 @@ The title of the paper
 
 #### Defined in
 
-[types.ts:140](https://github.com/andrefs/punuy-datasets/blob/2d6985c82ebb5b469c39311fffe02b2a382d931a/src/lib/types.ts#L140)
+[types.ts:140](https://github.com/andrefs/punuy-datasets/blob/bcef86c35f51f4b9307f65008670361b8f6e58ce/src/lib/types.ts#L140)
 
 ***
 
@@ -32,4 +32,4 @@ uri
 
 #### Defined in
 
-[types.ts:147](https://github.com/andrefs/punuy-datasets/blob/2d6985c82ebb5b469c39311fffe02b2a382d931a/src/lib/types.ts#L147)
+[types.ts:147](https://github.com/andrefs/punuy-datasets/blob/bcef86c35f51f4b9307f65008670361b8f6e58ce/src/lib/types.ts#L147)

@@ -2,7 +2,7 @@
 
 ***
 
-[punuy-datasets](../globals.md) / Language
+[punuy-datasets](../README.md) / Language
 
 # Type Alias: Language
 
@@ -10,4 +10,4 @@
 
 ## Defined in
 
-[types.ts:133](https://github.com/andrefs/punuy-datasets/blob/2d6985c82ebb5b469c39311fffe02b2a382d931a/src/lib/types.ts#L133)
+[types.ts:133](https://github.com/andrefs/punuy-datasets/blob/bcef86c35f51f4b9307f65008670361b8f6e58ce/src/lib/types.ts#L133)

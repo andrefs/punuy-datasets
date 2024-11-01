@@ -2,7 +2,7 @@
 
 ***
 
-[punuy-datasets](../globals.md) / PartitionData
+[punuy-datasets](../README.md) / PartitionData
 
 # Type Alias: PartitionData
 
@@ -24,4 +24,4 @@ The second word in the pair
 
 ## Defined in
 
-[types.ts:265](https://github.com/andrefs/punuy-datasets/blob/2d6985c82ebb5b469c39311fffe02b2a382d931a/src/lib/types.ts#L265)
+[types.ts:265](https://github.com/andrefs/punuy-datasets/blob/bcef86c35f51f4b9307f65008670361b8f6e58ce/src/lib/types.ts#L265)
