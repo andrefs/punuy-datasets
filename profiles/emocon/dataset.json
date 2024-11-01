@@ -17,17 +17,10 @@
     "downloadUrls": [
       "https://dataverse.harvard.edu/file.xhtml?fileId=6905415&version=2.0&toolType=PREVIEW"
     ],
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "domain": "general",
-    "measureTypes": [
-      "similarity"
-    ],
-    "tags": [
-      "mturk",
-      "emotion"
-    ],
+    "measureTypes": ["similarity"],
+    "tags": ["mturk", "emotion"],
     "version": "2023-01-25"
   },
   "partitions": [
