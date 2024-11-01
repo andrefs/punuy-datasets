@@ -1,6 +1,6 @@
 {
   "name": "punuy-datasets",
-  "version": "7.0.5",
+  "version": "7.0.6",
   "description": "",
   "scripts": {
     "typecheck": "tsc -b tsconfig.json",
