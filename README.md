@@ -30,13 +30,13 @@ A collection of datasets, gathered from the academic literature, for the evaluat
 | reword26 | REWOrD | 2012 | en | general | rel | [link](https://cdn.aaai.org/ojs/8107/8107-13-11634-1-2-20201228.pdf) | [link](https://relwod.wordpress.com/datasets/) | 
 | scws2003 | SCWS | 2012 | en | general | rel | [link](https://aclanthology.org/P12-1092.pdf) | [link](https://ai.stanford.edu/~ehhuang/) | 
 | ma28 | Martinez & Aldana | 2013 | en | general | sim | [link](https://hal.science/hal-01628399/file/article.pdf) | [link](https://hal.science/hal-01628399/file/article.pdf) | 
-| rel122 | Rel-122 | 2013 | en | general | rel | [link](https://www.cs.ucf.edu/~seansz/publications/acl2013-szumlanski.pdf) | [link](https://www.cs.ucf.edu/~seansz/rel-122/) | 
+| rel122 | Rel-122 | 2013 | en | general | rel | [link](https://aclanthology.org/P13-2154.pdf) | [link](https://www.cs.ucf.edu/~seansz/rel-122/) | 
 | srw2034 | Stanford Rare Word (RW) Similarity Dataset | 2013 | en | biomedical | sim | [link](https://nlp.stanford.edu/~lmthang/data/papers/conll13_morpho.pdf) | [link](https://nlp.stanford.edu/~lmthang/morphoNLM/) | 
 | wp300 | WP300 | 2013 | en | general | sim | [link](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/CIKM841-Li.pdf) | [link](http://adapt.seiee.sjtu.edu.cn/similarity/) | 
 | baker143 | Baker 143 | 2014 | en | general | sim | [link](https://aclanthology.org/D14-1034.pdf) | [link](https://github.com/sb895/verb-similarity-dataset) | 
-| geresid50 | GeReSiD | 2014 | en | geographical | rel/sim | [link](https://www.academia.edu/download/45239000/1402.3371.pdf) | [link](https://github.com/ucd-spatial/Datasets/tree/master/geresid-geo_relatedness_similarity_dataset) | 
+| geresid50 | GeReSiD | 2014 | en | geographical | rel/sim | [link](https://arxiv.org/pdf/1402.3371) | [link](https://github.com/ucd-spatial/Datasets/tree/master/geresid-geo_relatedness_similarity_dataset) | 
 | men3000 | MEN | 2014 | en | general | rel | [link](https://core.ac.uk/download/pdf/35317232.pdf) | [link](https://staff.fnwi.uva.nl/e.bruni/MEN) | 
-| pt65 | PT65 | 2014 | pt | general | rel | [link](https://core.ac.uk/reader/217894830) | [link](http://www.inf.pucrs.br/linatural/wikimodels/similarity.html) | 
+| pt65 | PT65 | 2014 | pt | general | rel | [link](https://hal.science/hal-02089290/file/leitzkegranada_22675.pdf) | [link](http://www.inf.pucrs.br/linatural/wikimodels/similarity.html) | 
 | sl7576 | SL7576 | 2014 | en | general | sim | [link](https://aclanthology.org/P14-1068.pdf) | [link](https://sites.google.com/view/carinasilberer) | 
 | simlex999 | SimLex-999 | 2015 | en | general | sim | [link](https://aclanthology.org/J15-4004.pdf) | [link](https://fh295.github.io/simlex.html) | 
 | tr9856 | TR9856 | 2015 | en | general | rel | [link](https://aclanthology.org/P15-2069.pdf) | [link](https://developer.ibm.com/exchanges/data/all/multi-word-term-relatedness-benchmark/) | 
@@ -50,6 +50,7 @@ A collection of datasets, gathered from the academic literature, for the evaluat
 | word19k | Wikipedia Oriented Relatedness Dataset | 2018 | en | general | rel | [link](https://aclanthology.org/L18-1408.pdf) | [link](https://developer.ibm.com/exchanges/data/all/wikipedia-oriented-relatedness/) | 
 
 <!-- datasets-section-end -->
+
 
 
 
