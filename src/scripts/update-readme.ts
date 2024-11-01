@@ -121,7 +121,7 @@ function getTableFields(dsInfo: DsInfo) {
 
 function genTableHeader() {
   let res = `| ID | Name | Year | Language | Domain | Sim/Rel | References \n`;
-  res += `| --- | --- | --- | --- | --- | --- |--- | --- |  \n`;
+  res += `| --- | --- | --- | --- | --- | --- | --- |  \n`;
   return res;
 }
 
