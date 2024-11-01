@@ -6,6 +6,7 @@ const ignoreDS = ["bg100k"];
 const datasetsSectionStart = "<!-- datasets-section-start -->";
 const datasetsSectionEnd = "<!-- datasets-section-end -->";
 
+/* eslint-disable @typescript-eslint/no-unused-vars */
 interface DsInfo {
   id: string;
   name: string;
