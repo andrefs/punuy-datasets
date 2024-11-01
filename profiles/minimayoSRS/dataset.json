@@ -21,12 +21,12 @@
     ],
     "languages": ["en"],
     "domain": "biomedical",
-    "measureTypes": ["relatedness"]
+    "relationTypes": ["relatedness"]
   },
   "partitions": [
     {
       "id": "physicians",
-      "measureType": "relatedness",
+      "relationType": "relatedness",
       "scale": {
         "value": {
           "min": 1,
@@ -46,7 +46,7 @@
     },
     {
       "id": "coders",
-      "measureType": "relatedness",
+      "relationType": "relatedness",
       "scale": {
         "value": {
           "min": 1,

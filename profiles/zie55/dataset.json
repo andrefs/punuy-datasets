@@ -17,13 +17,13 @@
     "downloadUrls": [
       "https://web.archive.org/web/20070824183036id_/http://www.informatik.uni-freiburg.de/~ksimon/papers/CIKM-06-Proximity.pdf"
     ],
-    "measureTypes": ["relatedness"],
+    "relationTypes": ["relatedness"],
     "tags": ["entities"]
   },
   "partitions": [
     {
       "id": "B0",
-      "measureType": "relatedness",
+      "relationType": "relatedness",
       "scale": {
         "value": {
           "min": 0,
@@ -43,7 +43,7 @@
     },
     {
       "id": "B1",
-      "measureType": "relatedness",
+      "relationType": "relatedness",
       "scale": {
         "value": {
           "min": 0,

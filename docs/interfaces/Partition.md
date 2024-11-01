@@ -16,7 +16,7 @@ The data for the partition
 
 #### Defined in
 
-[types.ts:169](https://github.com/andrefs/punuy-datasets/blob/7d8261d46261d0bf540e93e651bd6fbf53a06c89/src/lib/types.ts#L169)
+[types.ts:169](https://github.com/andrefs/punuy-datasets/blob/32d3bc968edca6eb57e6fff50a66cdfb284c9b9f/src/lib/types.ts#L169)
 
 ***
 
@@ -28,19 +28,7 @@ An identifier for the partition
 
 #### Defined in
 
-[types.ts:154](https://github.com/andrefs/punuy-datasets/blob/7d8261d46261d0bf540e93e651bd6fbf53a06c89/src/lib/types.ts#L154)
-
-***
-
-### measureType
-
-> **measureType**: [`MeasureType`](../type-aliases/MeasureType.md)
-
-Which type of measure is used to compare the words
-
-#### Defined in
-
-[types.ts:159](https://github.com/andrefs/punuy-datasets/blob/7d8261d46261d0bf540e93e651bd6fbf53a06c89/src/lib/types.ts#L159)
+[types.ts:154](https://github.com/andrefs/punuy-datasets/blob/32d3bc968edca6eb57e6fff50a66cdfb284c9b9f/src/lib/types.ts#L154)
 
 ***
 
@@ -52,7 +40,19 @@ Evaluation metrics for the partition
 
 #### Defined in
 
-[types.ts:174](https://github.com/andrefs/punuy-datasets/blob/7d8261d46261d0bf540e93e651bd6fbf53a06c89/src/lib/types.ts#L174)
+[types.ts:174](https://github.com/andrefs/punuy-datasets/blob/32d3bc968edca6eb57e6fff50a66cdfb284c9b9f/src/lib/types.ts#L174)
+
+***
+
+### relationType
+
+> **relationType**: [`RelationType`](../type-aliases/RelationType.md)
+
+Which type of semantic relation is used to compare the words
+
+#### Defined in
+
+[types.ts:159](https://github.com/andrefs/punuy-datasets/blob/32d3bc968edca6eb57e6fff50a66cdfb284c9b9f/src/lib/types.ts#L159)
 
 ***
 
@@ -60,8 +60,8 @@ Evaluation metrics for the partition
 
 > **scale**: [`PartitionScale`](../type-aliases/PartitionScale.md)
 
-The scale of the semantic measure values
+The scale of the semantic relation values
 
 #### Defined in
 
-[types.ts:164](https://github.com/andrefs/punuy-datasets/blob/7d8261d46261d0bf540e93e651bd6fbf53a06c89/src/lib/types.ts#L164)
+[types.ts:164](https://github.com/andrefs/punuy-datasets/blob/32d3bc968edca6eb57e6fff50a66cdfb284c9b9f/src/lib/types.ts#L164)

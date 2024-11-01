@@ -15,7 +15,7 @@
     "downloadUrls": [
       "http://adapt.seiee.sjtu.edu.cn/similarity/SimCompleteResults.pdf"
     ],
-    "measureTypes": ["similarity"],
+    "relationTypes": ["similarity"],
     "languages": ["en"],
     "domain": "general",
     "tags": ["entities"]
@@ -23,7 +23,7 @@
   "partitions": [
     {
       "id": "wp",
-      "measureType": "similarity",
+      "relationType": "similarity",
       "scale": {
         "value": {
           "max": 1,

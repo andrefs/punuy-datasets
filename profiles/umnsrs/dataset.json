@@ -22,12 +22,12 @@
     ],
     "languages": ["en"],
     "domain": "biomedical",
-    "measureTypes": ["similarity", "relatedness"]
+    "relationTypes": ["similarity", "relatedness"]
   },
   "partitions": [
     {
       "id": "UMNSRS_similarity",
-      "measureType": "similarity",
+      "relationType": "similarity",
       "scale": {
         "value": {
           "max": 1600,
@@ -47,7 +47,7 @@
     },
     {
       "id": "UMNSRS_relatedness",
-      "measureType": "relatedness",
+      "relationType": "relatedness",
       "scale": {
         "value": {
           "max": 1600,

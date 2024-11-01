@@ -13,7 +13,7 @@ interface DsInfo {
   year: number;
   lang: string;
   domain: string;
-  measureTypes: string;
+  relationTypes: string;
   reference: string;
   website: string;
 }
@@ -55,7 +55,7 @@ async function getFileNames(folder: string) {
 async function getFileInfo(file: string) {
   const data = await fs.readFile(file, "utf-8");
   const all = JSON.parse(data) as DatasetProfile;
-  const measTypes = all.metadata.measureTypes
+  const relTypes = all.metadata.relationTypes
     .sort()
     .map(m => m.substring(0, 3))
     .join("/");
@@ -66,7 +66,7 @@ async function getFileInfo(file: string) {
     year: Number(all.metadata.date.substring(0, 4)),
     lang: all.metadata.languages.join("/"),
     domain: all.metadata.domain,
-    measureTypes: measTypes,
+    relationTypes: relTypes,
     reference: all.metadata.papers?.[0]?.url,
     website: all.metadata.urls?.[0],
   } as DsInfo;
@@ -95,7 +95,7 @@ async function generateDatasetsSection() {
 
 function getTableRow(dsInfo: DsInfo) {
   const fields = getTableFields(dsInfo);
-  const res = `| ${fields.id} | ${fields.name} | ${fields.year} | ${fields.lang} | ${fields.domain} | ${fields.measureTypes} | ${fields.references.join(", ")} | \n`;
+  const res = `| ${fields.id} | ${fields.name} | ${fields.year} | ${fields.lang} | ${fields.domain} | ${fields.relationTypes} | ${fields.references.join(", ")} | \n`;
   return res;
 }
 
@@ -114,7 +114,7 @@ function getTableFields(dsInfo: DsInfo) {
     year: dsInfo.year,
     lang: dsInfo.lang,
     domain: dsInfo.domain,
-    measureTypes: dsInfo.measureTypes,
+    relationTypes: dsInfo.relationTypes,
     references,
   };
 }

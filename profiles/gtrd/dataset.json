@@ -17,12 +17,12 @@
     ],
     "languages": ["en"],
     "domain": "geographical",
-    "measureTypes": ["relatedness"]
+    "relationTypes": ["relatedness"]
   },
   "partitions": [
     {
       "id": "main",
-      "measureType": "relatedness",
+      "relationType": "relatedness",
       "scale": {
         "value": {
           "max": 1,

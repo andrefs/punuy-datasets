@@ -15,12 +15,12 @@
     "description": "",
     "downloadUrls": ["https://hal.science/hal-01628399/file/article.pdf"],
     "domain": "general",
-    "measureTypes": ["similarity"]
+    "relationTypes": ["similarity"]
   },
   "partitions": [
     {
       "id": "main",
-      "measureType": "similarity",
+      "relationType": "similarity",
       "scale": {
         "value": {
           "max": 1,

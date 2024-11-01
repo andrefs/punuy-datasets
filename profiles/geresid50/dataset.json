@@ -23,12 +23,12 @@
     ],
     "languages": ["en"],
     "domain": "geographical",
-    "measureTypes": ["similarity", "relatedness"]
+    "relationTypes": ["similarity", "relatedness"]
   },
   "partitions": [
     {
       "id": "GeReSiD-rel",
-      "measureType": "relatedness",
+      "relationType": "relatedness",
       "scale": {
         "value": {
           "max": 1,
@@ -48,7 +48,7 @@
     },
     {
       "id": "GeReSiD-sim",
-      "measureType": "similarity",
+      "relationType": "similarity",
       "scale": {
         "value": {
           "max": 1,

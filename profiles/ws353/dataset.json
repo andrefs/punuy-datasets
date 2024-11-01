@@ -20,12 +20,12 @@
     ],
     "languages": ["en"],
     "domain": "general",
-    "measureTypes": ["similarity"]
+    "relationTypes": ["similarity"]
   },
   "partitions": [
     {
       "id": "set1",
-      "measureType": "similarity",
+      "relationType": "similarity",
       "scale": {
         "value": {
           "min": 0,
@@ -49,7 +49,7 @@
     },
     {
       "id": "set2",
-      "measureType": "similarity",
+      "relationType": "similarity",
       "scale": {
         "value": {
           "min": 0,
@@ -69,7 +69,7 @@
     },
     {
       "id": "combined",
-      "measureType": "similarity",
+      "relationType": "similarity",
       "scale": {
         "value": {
           "min": 0,

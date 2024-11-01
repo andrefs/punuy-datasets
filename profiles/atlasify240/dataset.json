@@ -15,7 +15,7 @@
     "downloadUrls": [
       "https://users.cs.northwestern.edu/~ddowney/data/atlasify240.csv"
     ],
-    "measureTypes": ["relatedness"],
+    "relationTypes": ["relatedness"],
     "languages": ["en"],
     "domain": "general",
     "tags": ["entities"]
@@ -23,7 +23,7 @@
   "partitions": [
     {
       "id": "main",
-      "measureType": "relatedness",
+      "relationType": "relatedness",
       "scale": {
         "value": {
           "max": 4.0,

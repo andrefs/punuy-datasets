@@ -13,7 +13,7 @@
     "date": "2011",
     "description": "Human labeled examples of word semantic relatedness. The data pairs were generated using an algorithm as described in the paper by [K. Radinsky, E. Agichtein, E. Gabrilovich, S. Markovitch.]. Each pair of words was evaluated by 10 people on a scale of 1-5.",
     "downloadUrls": ["http://www.kiraradinsky.com/files/Mtruk.csv"],
-    "measureTypes": ["relatedness"],
+    "relationTypes": ["relatedness"],
     "languages": ["en"],
     "domain": "general",
     "tags": ["mturk"]
@@ -21,7 +21,7 @@
   "partitions": [
     {
       "id": "mturk",
-      "measureType": "relatedness",
+      "relationType": "relatedness",
       "scale": {
         "value": {
           "min": 1,

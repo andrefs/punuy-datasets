@@ -85,9 +85,9 @@ export interface Metadata {
   domain: Domain;
 
   /**
-   * Which type of measures are used to compare the words
+   * Which type of semantic relations are used to compare the words
    */
-  measureTypes: MeasureType[];
+  relationTypes: RelationType[];
 
   /**
    * Tags for the dataset content
@@ -131,7 +131,7 @@ export interface License {
 
 export type Domain = "general" | "geographical" | "biomedical";
 export type Language = "pt" | "en";
-export type MeasureType = "similarity" | "relatedness";
+export type RelationType = "similarity" | "relatedness";
 
 export interface Paper {
   /**
@@ -154,12 +154,12 @@ export interface Partition {
   id: string;
 
   /**
-   * Which type of measure is used to compare the words
+   * Which type of semantic relation is used to compare the words
    */
-  measureType: MeasureType;
+  relationType: RelationType;
 
   /**
-   * The scale of the semantic measure values
+   * The scale of the semantic relation values
    */
   scale: PartitionScale;
 
@@ -273,35 +273,35 @@ export type PartitionData = {
    */
   term2: string;
 } & (
-  | {
+    | {
       /**
-       * The averaged numeric value of the semantic measure for the pair
+       * The averaged numeric value of the semantic relation for the pair
        */
       value: number;
 
       /**
-       * The standard deviation of the numeric values of the semantic measure for the pair
+       * The standard deviation of the numeric values of the semantic relation for the pair
        */
       stddev?: number;
 
       /**
-       * The individual numeric values of the semantic measure for the pair
+       * The individual numeric values of the semantic relation for the pair
        *
        * @items {"type": "number"}
        */
       values?: (number | null)[];
     }
-  | {
+    | {
       /**
-       * The averaged numeric value of the semantic measure for the pair
+       * The averaged numeric value of the semantic relation for the pair
        */
       value?: number;
 
       /**
-       * The individual numeric values of the semantic measure for the pair
+       * The individual numeric values of the semantic relation for the pair
        *
        * @items {"type": "number"}
        */
       values: number[];
     }
-);
+  );

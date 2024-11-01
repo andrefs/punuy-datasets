@@ -15,7 +15,7 @@
     "downloadUrls": [
       "https://drive.google.com/file/d/1qYc2R9vRB8i1WirDrDsL5gU3A81Dh2Fa/view?usp=sharing"
     ],
-    "measureTypes": ["similarity"],
+    "relationTypes": ["similarity"],
     "languages": ["en"],
     "domain": "general",
     "tags": ["mturk"]
@@ -23,7 +23,7 @@
   "partitions": [
     {
       "id": "main",
-      "measureType": "similarity",
+      "relationType": "similarity",
       "scale": {
         "value": {
           "max": 4,

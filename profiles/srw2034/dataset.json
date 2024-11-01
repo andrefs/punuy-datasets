@@ -15,12 +15,12 @@
     "downloadUrls": ["http://www-nlp.stanford.edu/~lmthang/morphoNLM/rw.zip"],
     "languages": ["en"],
     "domain": "biomedical",
-    "measureTypes": ["similarity"]
+    "relationTypes": ["similarity"]
   },
   "partitions": [
     {
       "id": "rw",
-      "measureType": "similarity",
+      "relationType": "similarity",
       "scale": {
         "value": {
           "min": 0,

@@ -3,7 +3,7 @@
 # generate the schema for the dataset.json files
 typescript-json-schema \
 	--required \
-	--id 'https://andrefs.com/schemas/2023/SemMeasures' \
+	--id 'https://andrefs.com/schemas/2023/SemRelDatasets' \
 	--noExtraProps true \
 	--strictNullChecks true \
 	-o dataset-schema.json \
@@ -12,7 +12,7 @@ typescript-json-schema \
 # generate the schema for the .part.json files
 typescript-json-schema \
 	--required \
-	--id 'https://andrefs.com/schemas/2023/SemMeasures' \
+	--id 'https://andrefs.com/schemas/2023/SemRelDatasets' \
 	--noExtraProps true \
 	--strictNullChecks true \
 	-o partition-data-schema.json \

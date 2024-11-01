@@ -15,12 +15,12 @@
     "downloadUrls": ["https://dl.acm.org/doi/pdf/10.1145/365628.365657"],
     "languages": ["en"],
     "domain": "general",
-    "measureTypes": ["similarity"]
+    "relationTypes": ["similarity"]
   },
   "partitions": [
     {
       "id": "table1",
-      "measureType": "similarity",
+      "relationType": "similarity",
       "scale": {
         "value": {
           "min": 0.0,

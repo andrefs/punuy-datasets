@@ -17,12 +17,12 @@
       "http://david.wardpowers.info/Research/AI/papers/200601-GWC-130verbpairs.txt"
     ],
     "domain": "general",
-    "measureTypes": ["similarity"]
+    "relationTypes": ["similarity"]
   },
   "partitions": [
     {
       "id": "verbpairs",
-      "measureType": "similarity",
+      "relationType": "similarity",
       "scale": {
         "value": {
           "min": 0,

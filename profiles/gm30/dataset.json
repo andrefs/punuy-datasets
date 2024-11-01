@@ -15,12 +15,12 @@
     "downloadUrls": [],
     "languages": ["en"],
     "domain": "general",
-    "measureTypes": ["relatedness"]
+    "relationTypes": ["relatedness"]
   },
   "partitions": [
     {
       "id": "main",
-      "measureType": "relatedness",
+      "relationType": "relatedness",
       "scale": {
         "value": {
           "max": 4.0,

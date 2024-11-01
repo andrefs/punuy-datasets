@@ -23,12 +23,12 @@
     ],
     "languages": ["en"],
     "domain": "general",
-    "measureTypes": ["similarity"]
+    "relationTypes": ["similarity"]
   },
   "partitions": [
     {
       "id": "dev",
-      "measureType": "similarity",
+      "relationType": "similarity",
       "scale": {
         "value": {
           "max": 10,
@@ -48,7 +48,7 @@
     },
     {
       "id": "test",
-      "measureType": "similarity",
+      "relationType": "similarity",
       "scale": {
         "value": {
           "max": 10,
@@ -68,7 +68,7 @@
     },
     {
       "id": "all",
-      "measureType": "similarity",
+      "relationType": "similarity",
       "scale": {
         "value": {
           "max": 10,

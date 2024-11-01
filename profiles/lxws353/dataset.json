@@ -24,12 +24,12 @@
     ],
     "languages": ["pt"],
     "domain": "general",
-    "measureTypes": ["relatedness"]
+    "relationTypes": ["relatedness"]
   },
   "partitions": [
     {
       "id": "main",
-      "measureType": "relatedness",
+      "relationType": "relatedness",
       "scale": {
         "value": {
           "max": 10,

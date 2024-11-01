@@ -15,12 +15,12 @@
     "downloadUrls": ["https://multisimlex.com/#download"],
     "languages": ["en"],
     "domain": "general",
-    "measureTypes": ["similarity"]
+    "relationTypes": ["similarity"]
   },
   "partitions": [
     {
       "id": "ENG",
-      "measureType": "similarity",
+      "relationType": "similarity",
       "scale": {
         "value": {
           "max": 6,

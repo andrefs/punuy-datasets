@@ -19,12 +19,12 @@
     "downloadUrls": [],
     "languages": [],
     "domain": "general",
-    "measureTypes": [""]
+    "relationTypes": [""]
   },
   "partitions": [
     {
       "id": "",
-      "measureType": "",
+      "relationType": "",
       "scale": {
         "value": {
           "max": 0,

@@ -13,7 +13,7 @@
     "date": "2015",
     "description": "SimLex-999 is a gold standard resource for the evaluation of models that learn the meaning of words and concepts.\n\nSimLex-999 provides a way of measuring how well models capture similarity, rather than relatedness or association. The scores in SimLex-999 therefore differ from other well-known evaluation datasets such as WordSim-353 (Finkelstein et al. 2002).",
     "downloadUrls": ["https://fh295.github.io/SimLex-999.zip"],
-    "measureTypes": ["similarity"],
+    "relationTypes": ["similarity"],
     "languages": ["en"],
     "domain": "general",
     "tags": ["mturk"]
@@ -21,7 +21,7 @@
   "partitions": [
     {
       "id": "main",
-      "measureType": "similarity",
+      "relationType": "similarity",
       "scale": {
         "value": {
           "max": 10,

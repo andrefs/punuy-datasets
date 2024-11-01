@@ -25,13 +25,13 @@
     ],
     "languages": ["en"],
     "domain": "general",
-    "measureTypes": ["relatedness"],
+    "relationTypes": ["relatedness"],
     "tags": ["pair-comparison", "mturk"]
   },
   "partitions": [
     {
       "id": "dev",
-      "measureType": "relatedness",
+      "relationType": "relatedness",
       "scale": {
         "value": {
           "max": 50,
@@ -51,7 +51,7 @@
     },
     {
       "id": "test",
-      "measureType": "relatedness",
+      "relationType": "relatedness",
       "scale": {
         "value": {
           "max": 50,
@@ -71,7 +71,7 @@
     },
     {
       "id": "full",
-      "measureType": "relatedness",
+      "relationType": "relatedness",
       "scale": {
         "value": {
           "max": 50,

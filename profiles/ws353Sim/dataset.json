@@ -15,12 +15,12 @@
     "downloadUrls": ["http://alfonseca.org/pubs/ws353simrel.tar.gz"],
     "languages": ["en"],
     "domain": "general",
-    "measureTypes": ["similarity"]
+    "relationTypes": ["similarity"]
   },
   "partitions": [
     {
       "id": "wordsim_similarity_goldstandard",
-      "measureType": "similarity",
+      "relationType": "similarity",
       "scale": {
         "value": {
           "min": 0,

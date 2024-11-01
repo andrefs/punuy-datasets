@@ -21,12 +21,12 @@
     ],
     "languages": ["en"],
     "domain": "biomedical",
-    "measureTypes": ["relatedness"]
+    "relationTypes": ["relatedness"]
   },
   "partitions": [
     {
       "id": "mean",
-      "measureType": "relatedness",
+      "relationType": "relatedness",
       "scale": {
         "value": {
           "min": 1,
