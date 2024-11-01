@@ -1,5 +1,6 @@
 #!/bin/sh
 
+# generate the schema for the dataset.json files
 typescript-json-schema \
 	--required \
 	--id 'https://andrefs.com/schemas/2023/SemMeasures' \
@@ -8,6 +9,7 @@ typescript-json-schema \
 	-o dataset-schema.json \
 	src/lib/types.ts "LazyDataset"
 
+# generate the schema for the .part.json files
 typescript-json-schema \
 	--required \
 	--id 'https://andrefs.com/schemas/2023/SemMeasures' \
@@ -15,3 +17,9 @@ typescript-json-schema \
 	--strictNullChecks true \
 	-o partition-data-schema.json \
 	src/lib/types.ts "PartitionDataArray"
+
+# generate the types documentation
+typedoc \
+	--plugin typedoc-plugin-markdown \
+	--readme none \
+	src/lib/types.ts
