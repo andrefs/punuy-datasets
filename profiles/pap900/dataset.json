@@ -7,14 +7,23 @@
       "url": "https://creativecommons.org/licenses/by-nd/4.0/"
     },
     "authors": "A. F. Santos, J. P. Leal, R. A. Alves, T. Jacques",
-    "urls": ["https://github.com/andrefs/PAP900"],
+    "urls": [
+      "https://github.com/andrefs/PAP900"
+    ],
     "papers": [],
     "date": "2024",
     "description": "PAP900 is a semantic relations dataset containing semantic relatedness and semantic similarity values for 900 affective words in Portuguese (Palavras Afectivas em Português).",
-    "downloadUrls": ["https://github.com/andrefs/PAP900"],
-    "languages": ["pt"],
+    "downloadUrls": [
+      "https://github.com/andrefs/PAP900"
+    ],
+    "languages": [
+      "pt"
+    ],
     "domain": "general",
-    "relationTypes": ["similarity", "relatedness"]
+    "relationTypes": [
+      "similarity",
+      "relatedness"
+    ]
   },
   "partitions": [
     {
@@ -52,10 +61,18 @@
           "total": 206,
           "minEachPair": 31
         },
-        "interAgreement": {
-          "pearson": null,
-          "spearman": null
-        }
+        "interAnnoAgreement": [
+          {
+            "method": "pearson",
+            "value": 0.667,
+            "metric": "APIAA"
+          },
+          {
+            "method": "spearman",
+            "value": 0.716,
+            "metric": "AMIAA"
+          }
+        ]
       }
     }
   ],

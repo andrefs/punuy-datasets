@@ -34,42 +34,18 @@ The minimum number of annotators for each pair
 
 The total number of annotators
 
-### interAgreement
+### interAnnoAgreement
 
-> **interAgreement**: `object`
+> **interAnnoAgreement**: [`AnnotatorAgreement`](AnnotatorAgreement.md)[]
 
 Inter annotator agreement metrics
 
-### interAgreement.pearson
+### intraAnnoAgreement?
 
-> **pearson**: `number` \| `null`
-
-Pearson correlation coefficient between annotators
-
-### interAgreement.spearman
-
-> **spearman**: `number` \| `null`
-
-Spearman correlation coefficient between annotators
-
-### intraAgreement?
-
-> `optional` **intraAgreement**: `object`
+> `optional` **intraAnnoAgreement**: [`AnnotatorAgreement`](AnnotatorAgreement.md)[]
 
 Intra annotator agreement metrics
 
-### intraAgreement.pearson
-
-> **pearson**: `number` \| `null`
-
-Pearson correlation coefficient between annotators
-
-### intraAgreement.spearman
-
-> **spearman**: `number` \| `null`
-
-Spearman correlation coefficient between annotators
-
 ## Defined in
 
-[types.ts:211](https://github.com/andrefs/punuy-datasets/blob/4b389199f71f71bc5a241768a22192a8e0fb3eb3/src/lib/types.ts#L211)
+[types.ts:236](https://github.com/andrefs/punuy-datasets/blob/f346f5f109531e991577ee8728b774eb9422edc0/src/lib/types.ts#L236)

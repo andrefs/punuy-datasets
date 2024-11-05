@@ -2,19 +2,15 @@ import { DatasetProfile, Partition } from "../lib/types";
 import { lazyPartition } from "../lib/lazy-partition";
 import dataset from "../../profiles/multisimlex/dataset.json";
 import path from "path";
+const folder = "../../profiles/multisimlex";
 
-for (const [index, partition] of dataset.partitions.entries()) {
-  // define partition path relative to current script
-  const partPath = path.join(
-    __dirname,
-    "../../profiles/multisimlex",
-    partition.id + ".part.json"
-  );
+const ds = {
+  ...dataset,
+  partitions: dataset.partitions.map(p => {
+    // define partition path relative to current script
+    const partPath = path.join(__dirname, folder, p.id + ".part.json");
+    return lazyPartition(p as Omit<Partition, "data">, partPath);
+  }),
+};
 
-  (dataset as unknown as DatasetProfile).partitions[index] = lazyPartition(
-    partition as Omit<Partition, "data">,
-    partPath
-  );
-}
-
-export default dataset as unknown as DatasetProfile;
+export default ds as DatasetProfile;

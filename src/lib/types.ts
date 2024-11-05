@@ -208,6 +208,31 @@ export type PartitionScale = {
   };
 };
 
+export type AnnotatorAgreement = {
+  /**
+   * The method used to calculate the correlation coefficient: Pearson's or Spearman's
+   */
+  method: "spearman" | "pearson";
+  /**
+   * How the value was calculated:
+   * - APIAA: Average Pairwise Inter-Annotator Agreement
+   * - AMIAA: Average Mean Inter-Annotator Agreement
+   * - CBRGM: Correlation Between Randomized Group Means
+   * - other: another method
+   * - unclear: the method was not described in the paper
+   */
+  metric: "APIAA" | "AMIAA" | "CBRGM" | "other" | "unclear";
+  /**
+   * The value of the correlation coefficient
+   */
+  value: number;
+
+  /**
+   * A description of how the value is calculated, preferably quoted from the paper
+   */
+  description?: string;
+};
+
 export type PartitionMetrics = {
   /**
    * The number of annotators
@@ -232,32 +257,12 @@ export type PartitionMetrics = {
   /**
    * Inter annotator agreement metrics
    */
-  interAgreement: {
-    /**
-     * Spearman correlation coefficient between annotators
-     */
-    spearman: number | null;
-
-    /**
-     * Pearson correlation coefficient between annotators
-     */
-    pearson: number | null;
-  };
+  interAnnoAgreement: AnnotatorAgreement[];
 
   /**
    * Intra annotator agreement metrics
    */
-  intraAgreement?: {
-    /**
-     * Spearman correlation coefficient between annotators
-     */
-    spearman: number | null;
-
-    /**
-     * Pearson correlation coefficient between annotators
-     */
-    pearson: number | null;
-  };
+  intraAnnoAgreement?: AnnotatorAgreement[];
 };
 
 export type PartitionDataArray = PartitionData[];
@@ -273,7 +278,7 @@ export type PartitionData = {
    */
   term2: string;
 } & (
-  | {
+    | {
       /**
        * The averaged numeric value of the semantic relation for the pair
        */
@@ -291,7 +296,7 @@ export type PartitionData = {
        */
       values?: (number | null)[];
     }
-  | {
+    | {
       /**
        * The averaged numeric value of the semantic relation for the pair
        */
@@ -304,4 +309,4 @@ export type PartitionData = {
        */
       values: number[];
     }
-);
+  );

@@ -3,7 +3,9 @@
   "metadata": {
     "name": "SemEval-2017 Task 2.1",
     "authors": "Jose Camacho-Collados, Mohammad Taher Pilehvar, Nigel Collier, Roberto Navigli",
-    "urls": ["https://alt.qcri.org/semeval2017/task2/"],
+    "urls": [
+      "https://alt.qcri.org/semeval2017/task2/"
+    ],
     "papers": [
       {
         "title": "SemEval-2017 Task 2: Multilingual and Cross-lingual Semantic Word Similarity",
@@ -15,10 +17,16 @@
     "downloadUrls": [
       "http://alt.qcri.org/semeval2017/task2/data/uploads/semeval2017-task2.zip"
     ],
-    "relationTypes": ["similarity"],
-    "languages": ["en"],
+    "relationTypes": [
+      "similarity"
+    ],
+    "languages": [
+      "en"
+    ],
     "domain": "general",
-    "tags": ["entities"]
+    "tags": [
+      "entities"
+    ]
   },
   "partitions": [
     {
@@ -35,10 +43,13 @@
           "total": 3,
           "minEachPair": 3
         },
-        "interAgreement": {
-          "pearson": 0.893,
-          "spearman": null
-        }
+        "interAnnoAgreement": [
+          {
+            "method": "pearson",
+            "value": 0.893,
+            "metric": "APIAA"
+          }
+        ]
       }
     }
   ],

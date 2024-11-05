@@ -14,6 +14,7 @@
 
 ## Type Aliases
 
+- [AnnotatorAgreement](type-aliases/AnnotatorAgreement.md)
 - [Domain](type-aliases/Domain.md)
 - [Language](type-aliases/Language.md)
 - [LazyDataset](type-aliases/LazyDataset.md)
