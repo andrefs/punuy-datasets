@@ -3,7 +3,9 @@
   "metadata": {
     "name": "Rel-122",
     "authors": "Sean Szumlanski, Fernando Gomez, Valerie K. Sims",
-    "urls": ["https://www.cs.ucf.edu/~seansz/rel-122/"],
+    "urls": [
+      "https://www.cs.ucf.edu/~seansz/rel-122/"
+    ],
     "papers": [
       {
         "title": "A New Set of Norms for Semantic Relatedness Measures",
@@ -16,9 +18,13 @@
       "https://www.cs.ucf.edu/~seansz/rel-122/rel122-norms.txt",
       "https://www.cs.ucf.edu/~seansz/rel-122/rel122-norms.pdf"
     ],
-    "languages": ["en"],
+    "languages": [
+      "en"
+    ],
     "domain": "general",
-    "relationTypes": ["relatedness"]
+    "relationTypes": [
+      "relatedness"
+    ]
   },
   "partitions": [
     {
@@ -35,10 +41,13 @@
           "total": 73,
           "minEachPair": 20
         },
-        "interAgreement": {
-          "pearson": 0.769,
-          "spearman": null
-        }
+        "interAnnoAgreement": [
+          {
+            "method": "pearson",
+            "value": 0.769,
+            "metric": "AMIAA"
+          }
+        ]
       }
     }
   ],

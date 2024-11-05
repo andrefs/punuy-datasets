@@ -18,9 +18,13 @@
     "downloadUrls": [
       "https://gabrilovich.com/resources/data/wordsim353/wordsim353.zip"
     ],
-    "languages": ["en"],
+    "languages": [
+      "en"
+    ],
     "domain": "general",
-    "relationTypes": ["similarity"]
+    "relationTypes": [
+      "similarity"
+    ]
   },
   "partitions": [
     {
@@ -41,10 +45,7 @@
           "total": 13,
           "minEachPair": 13
         },
-        "interAgreement": {
-          "pearson": null,
-          "spearman": null
-        }
+        "interAnnoAgreement": []
       }
     },
     {
@@ -61,10 +62,7 @@
           "total": 16,
           "minEachPair": 16
         },
-        "interAgreement": {
-          "pearson": null,
-          "spearman": null
-        }
+        "interAnnoAgreement": []
       }
     },
     {
@@ -81,10 +79,13 @@
           "total": 29,
           "minEachPair": 13
         },
-        "interAgreement": {
-          "pearson": null,
-          "spearman": 0.611
-        }
+        "interAnnoAgreement": [
+          {
+            "method": "spearman",
+            "value": 0.611,
+            "metric": "APIAA"
+          }
+        ]
       }
     }
   ],

@@ -7,7 +7,9 @@
       "name": "CC0 1.0 Universal",
       "url": "https://creativecommons.org/publicdomain/zero/1.0/"
     },
-    "urls": ["https://conservancy.umn.edu/handle/11299/196265"],
+    "urls": [
+      "https://conservancy.umn.edu/handle/11299/196265"
+    ],
     "papers": [
       {
         "title": "Measures of semantic similarity and relatedness in the biomedical domain",
@@ -19,9 +21,13 @@
     "downloadUrls": [
       "https://conservancy.umn.edu/bitstream/handle/11299/196265/MiniMayoSRS.csv?sequence=2&isAllowed=y"
     ],
-    "languages": ["en"],
+    "languages": [
+      "en"
+    ],
     "domain": "biomedical",
-    "relationTypes": ["relatedness"]
+    "relationTypes": [
+      "relatedness"
+    ]
   },
   "partitions": [
     {
@@ -38,10 +44,13 @@
           "total": 3,
           "minEachPair": 3
         },
-        "interAgreement": {
-          "pearson": 0.68,
-          "spearman": null
-        }
+        "interAnnoAgreement": [
+          {
+            "method": "pearson",
+            "value": 0.68,
+            "metric": "unclear"
+          }
+        ]
       }
     },
     {
@@ -58,10 +67,13 @@
           "total": 9,
           "minEachPair": 9
         },
-        "interAgreement": {
-          "pearson": 0.78,
-          "spearman": null
-        }
+        "interAnnoAgreement": [
+          {
+            "method": "pearson",
+            "value": 0.78,
+            "metric": "unclear"
+          }
+        ]
       }
     }
   ],
