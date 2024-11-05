@@ -3,9 +3,7 @@
   "metadata": {
     "name": "WP300",
     "authors": "Peipei Li, Haixun Wang, Kenny Q. Zhu",
-    "urls": [
-      "http://adapt.seiee.sjtu.edu.cn/similarity/"
-    ],
+    "urls": ["http://adapt.seiee.sjtu.edu.cn/similarity/"],
     "papers": [
       {
         "title": "Computing Term Similarity by Large Probabilistic isA Knowledge",
@@ -17,16 +15,10 @@
     "downloadUrls": [
       "http://adapt.seiee.sjtu.edu.cn/similarity/SimCompleteResults.pdf"
     ],
-    "relationTypes": [
-      "similarity"
-    ],
-    "languages": [
-      "en"
-    ],
+    "relationTypes": ["similarity"],
+    "languages": ["en"],
     "domain": "general",
-    "tags": [
-      "entities"
-    ]
+    "tags": ["entities"]
   },
   "partitions": [
     {

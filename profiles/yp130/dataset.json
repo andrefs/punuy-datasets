@@ -12,16 +12,12 @@
     ],
     "date": "2005",
     "description": "",
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "downloadUrls": [
       "http://david.wardpowers.info/Research/AI/papers/200601-GWC-130verbpairs.txt"
     ],
     "domain": "general",
-    "relationTypes": [
-      "similarity"
-    ]
+    "relationTypes": ["similarity"]
   },
   "partitions": [
     {

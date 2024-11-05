@@ -3,9 +3,7 @@
   "metadata": {
     "name": "Rubenstein and Goodenough (1965)",
     "authors": "Herbert Rubenstein and John B. Goodenough",
-    "urls": [
-      "https://dl.acm.org/doi/pdf/10.1145/365628.365657"
-    ],
+    "urls": ["https://dl.acm.org/doi/pdf/10.1145/365628.365657"],
     "papers": [
       {
         "title": " Contextual Correlates of Synonymy",
@@ -14,16 +12,10 @@
     ],
     "date": "1965",
     "description": "",
-    "downloadUrls": [
-      "https://dl.acm.org/doi/pdf/10.1145/365628.365657"
-    ],
-    "languages": [
-      "en"
-    ],
+    "downloadUrls": ["https://dl.acm.org/doi/pdf/10.1145/365628.365657"],
+    "languages": ["en"],
     "domain": "general",
-    "relationTypes": [
-      "similarity"
-    ]
+    "relationTypes": ["similarity"]
   },
   "partitions": [
     {

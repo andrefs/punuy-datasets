@@ -7,9 +7,7 @@
       "name": "CC0 1.0 Universal",
       "url": "https://creativecommons.org/publicdomain/zero/1.0/"
     },
-    "urls": [
-      "https://conservancy.umn.edu/handle/11299/196265"
-    ],
+    "urls": ["https://conservancy.umn.edu/handle/11299/196265"],
     "papers": [
       {
         "title": "Semantic Similarity and Relatedness between Clinical Terms: An Experimental Study",
@@ -22,14 +20,9 @@
       "https://conservancy.umn.edu/bitstream/handle/11299/196265/UMNSRS_similarity.csv?sequence=3&isAllowed=y",
       "https://conservancy.umn.edu/bitstream/handle/11299/196265/UMNSRS_relatedness.csv?sequence=4&isAllowed=y"
     ],
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "domain": "biomedical",
-    "relationTypes": [
-      "similarity",
-      "relatedness"
-    ]
+    "relationTypes": ["similarity", "relatedness"]
   },
   "partitions": [
     {

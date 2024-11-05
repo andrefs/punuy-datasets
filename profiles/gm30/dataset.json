@@ -13,13 +13,9 @@
     "date": "2008",
     "description": "",
     "downloadUrls": [],
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "domain": "general",
-    "relationTypes": [
-      "relatedness"
-    ]
+    "relationTypes": ["relatedness"]
   },
   "partitions": [
     {

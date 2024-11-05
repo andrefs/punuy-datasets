@@ -2,9 +2,7 @@
   "id": "gtrd",
   "metadata": {
     "name": "GTRD",
-    "urls": [
-      "https://github.com/czgbjy/GTRD"
-    ],
+    "urls": ["https://github.com/czgbjy/GTRD"],
     "authors": "Zugang Chen, Jia Song, Yaping Yang",
     "papers": [
       {
@@ -17,13 +15,9 @@
     "downloadUrls": [
       "https://github.com/czgbjy/GTRD/tree/master/Geo-Terminology%20Relatedness%20Dataset"
     ],
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "domain": "geographical",
-    "relationTypes": [
-      "relatedness"
-    ]
+    "relationTypes": ["relatedness"]
   },
   "partitions": [
     {
