@@ -63,16 +63,16 @@
                             "items": {
                                 "additionalProperties": false,
                                 "properties": {
-                                    "corrMethod": {
+                                    "description": {
+                                        "description": "A description of how the value is calculated, preferably quoted from the paper",
+                                        "type": "string"
+                                    },
+                                    "method": {
                                         "description": "The method used to calculate the correlation coefficient: Pearson's or Spearman's",
                                         "enum": [
                                             "pearson",
                                             "spearman"
                                         ],
-                                        "type": "string"
-                                    },
-                                    "description": {
-                                        "description": "A description of how the value is calculated, preferably quoted from the paper",
                                         "type": "string"
                                     },
                                     "metric": {
@@ -92,7 +92,7 @@
                                     }
                                 },
                                 "required": [
-                                    "corrMethod",
+                                    "method",
                                     "metric",
                                     "value"
                                 ],
@@ -105,16 +105,16 @@
                             "items": {
                                 "additionalProperties": false,
                                 "properties": {
-                                    "corrMethod": {
+                                    "description": {
+                                        "description": "A description of how the value is calculated, preferably quoted from the paper",
+                                        "type": "string"
+                                    },
+                                    "method": {
                                         "description": "The method used to calculate the correlation coefficient: Pearson's or Spearman's",
                                         "enum": [
                                             "pearson",
                                             "spearman"
                                         ],
-                                        "type": "string"
-                                    },
-                                    "description": {
-                                        "description": "A description of how the value is calculated, preferably quoted from the paper",
                                         "type": "string"
                                     },
                                     "metric": {
@@ -134,7 +134,7 @@
                                     }
                                 },
                                 "required": [
-                                    "corrMethod",
+                                    "method",
                                     "metric",
                                     "value"
                                 ],

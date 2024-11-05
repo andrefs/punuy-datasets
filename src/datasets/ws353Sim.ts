@@ -3,18 +3,15 @@ import { lazyPartition } from "../lib/lazy-partition";
 import dataset from "../../profiles/ws353Sim/dataset.json";
 import path from "path";
 
-for (const [index, partition] of dataset.partitions.entries()) {
-  // define partition path relative to current script
-  const partPath = path.join(
-    __dirname,
-    "../../profiles/ws353Sim",
-    partition.id + ".part.json"
-  );
+const folder = "../../profiles/ws353Sim";
 
-  (dataset as DatasetProfile).partitions[index] = lazyPartition(
-    partition as Omit<Partition, "data">,
-    partPath
-  );
-}
+const ds = {
+  ...dataset,
+  partitions: dataset.partitions.map(p => {
+    // define partition path relative to current script
+    const partPath = path.join(__dirname, folder, p.id + ".part.json");
+    return lazyPartition(p as Omit<Partition, "data">, partPath);
+  }),
+};
 
-export default dataset as DatasetProfile;
+export default ds as DatasetProfile;
