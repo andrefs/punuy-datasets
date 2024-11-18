@@ -2,7 +2,9 @@ import { promises as fs } from "fs";
 import { DatasetProfile } from "../lib/types";
 import path from "path";
 
-const ignoreDS = ["bg100k"];
+const ignoreDS: string[] = [
+  //"bg100k"
+];
 const datasetsSectionStart = "<!-- datasets-section-start -->";
 const datasetsSectionEnd = "<!-- datasets-section-end -->";
 
