@@ -15,6 +15,7 @@ A collection of datasets, gathered from the academic literature, for the evaluat
 | mc30 | Miller and Charles (1991) | 1991 | en | general | sim | [paper 📑](https://sci-hub.se/https://doi.org/10.1080/01690969108406936) | 
 | ws353 | WordSimilarity-353 | 2002 | en | general | sim | [paper 📑](https://www.cs.tau.ac.il/~ruppin/p116-finkelstein.pdf), [website 🌐](https://www.cs.technion.ac.il/~gabr/resources/data/wordsim353/) | 
 | yp130 | YP-130 | 2005 | en | general | sim | [paper 📑](http://david.wardpowers.info/Research/AI/papers/200601-GWC-VerbSimWN.pdf) | 
+| bg100k | Princeton Evocation Data 0.4 | 2006 | en | general | sim | [paper 📑](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=bfeebec5eb0aacd24eb91c94687dfe47b461f5b4), [website 🌐](https://wordnet.cs.princeton.edu/downloads/evocation/release-0.4) | 
 | mesh2 | MeSH2 | 2006 | en | biomedical | sim | [paper 📑](https://users.uop.gr/~praftop/papers/pdf/wms06-PVHR.pdf), [website 🌐](https://www.intelligence.tuc.gr/similarity/datasets.php) | 
 | zie55 | Ziegler et al. (2006) | 2006 | en | general | rel | [paper 📑](https://web.archive.org/web/20070824183036id_/http://www.informatik.uni-freiburg.de/~ksimon/papers/CIKM-06-Proximity.pdf) | 
 | mayoSRS | MayoSRS | 2007 | en | biomedical | rel | [paper 📑](https://www.sciencedirect.com/science/article/pii/S1532046406000645?via%3Dihub), [website 🌐](https://conservancy.umn.edu/handle/11299/196265) | 
