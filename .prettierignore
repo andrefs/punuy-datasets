@@ -1,4 +1,5 @@
 **/bg100k/*.part.json
 **/tr9856/*.part.json
 .gitignore
+dist
 

@@ -1,0 +1,121 @@
+{
+    "id": "bg100k",
+    "metadata": {
+        "urls": [
+            "https://wordnet.cs.princeton.edu/downloads/evocation/release-0.4"
+        ],
+        "name": "Princeton Evocation Data 0.4",
+        "authors": "Sonya Nikolova, Jordan Boyd-Graber, and Christiane Fellbaum",
+        "papers": [
+            {
+                "title": "Adding Dense, Weighted Connections to WORDNET",
+                "url": "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=bfeebec5eb0aacd24eb91c94687dfe47b461f5b4"
+            },
+            {
+                "title": "Collecting Semantic Similarity Ratings to Connect Concepts in Assistive Communication Tools",
+                "url": "https://users.umiacs.umd.edu/~jbg/docs/2011_book_chapter_evocation.pdf"
+            }
+        ],
+        "date": "2006",
+        "description": "This attempts to give a large scale measurement of synset similarity gathered using human subjects.  We used human judgement to collect two datasets of about 100,000 directed synset pairs.",
+        "downloadUrls": [
+            "https://wordnet.cs.princeton.edu/downloads/evocation.zip"
+        ],
+        "relationTypes": ["similarity"],
+        "languages": ["en"],
+        "domain": "general",
+        "tags": ["mturk"],
+        "version": "0.4"
+    },
+    "partitions": [
+        {
+            "id": "controlled",
+            "relationType": "similarity",
+            "scale": {
+                "value": {
+                    "min": 0,
+                    "max": 100
+                },
+                "values": {
+                    "min": 0,
+                    "max": 100
+                }
+            },
+            "metrics": {
+                "annotators": {
+                    "total": 19,
+                    "minEachPair": 3,
+                    "fixedColumns": true
+                },
+                "interAnnoAgreement": []
+            }
+        },
+        {
+            "id": "all",
+            "relationType": "similarity",
+            "scale": {
+                "value": {
+                    "min": 0,
+                    "max": 100
+                },
+                "values": {
+                    "min": 0,
+                    "max": 100
+                }
+            },
+            "metrics": {
+                "annotators": {
+                    "total": 15,
+                    "minEachPair": 1,
+                    "fixedColumns": true
+                },
+                "interAnnoAgreement": []
+            }
+        },
+        {
+            "id": "most",
+            "relationType": "similarity",
+            "scale": {
+                "value": {
+                    "min": 0,
+                    "max": 100
+                },
+                "values": {
+                    "min": 0,
+                    "max": 100
+                }
+            },
+            "metrics": {
+                "annotators": {
+                    "total": 15,
+                    "minEachPair": 1,
+                    "fixedColumns": true
+                },
+                "interAnnoAgreement": []
+            }
+        },
+        {
+            "id": "some",
+            "relationType": "similarity",
+            "scale": {
+                "value": {
+                    "min": 0,
+                    "max": 100
+                },
+                "values": {
+                    "min": 0,
+                    "max": 100
+                }
+            },
+            "metrics": {
+                "annotators": {
+                    "total": 15,
+                    "minEachPair": 3,
+                    "fixedColumns": true
+                },
+                "interAnnoAgreement": []
+            }
+        }
+    ],
+    "originalInstructions": "1. Rate how much the first word brings to mind the second word using the provided scale.\n  * 0: No connection.\n  * 13 to 25: Remote association.\n  * 38 to 63: Moderate association.\n  * 75 to 88: Strong association.\n  * 100: Brings immediately to mind.\n2. The relationship between the two words is not necessarily symmetrical. For example, \"dollar\" may evoke \"green\" more than the reverse.\n3. Pay attention to the definition of the words given on the second line; words can have more than one meaning. For example \"dog\" (the animal) would not bring to mind \"bun\" (the piece of bread you serve with a hot dog).\n4. The letter in parenthesis signifies whether the word is a: an adjective, n: a noun or v: a verb.\n5. Don't use information from your personal life. For example, if you had a dog named \"bog\" you personally would associate \"bog\" and \"dog,\" but the average person wouldn't.\n6. Don't use the spelling of words to make your decisions. For example, even though \"bog\" and \"dog\" rhyme, they are not associated.\n7. We cannot offer you a big reward for your time, but we greatly appreciate your sincere effort. There are a few pairs with known average ratings embedded in the task. If your ratings for those pairs do not fall in a generously set acceptance bounds, we will have to reject your responses.\n"
+}

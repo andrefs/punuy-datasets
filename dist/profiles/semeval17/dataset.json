@@ -1,0 +1,49 @@
+{
+    "id": "semeval17",
+    "metadata": {
+        "name": "SemEval-2017 Task 2.1",
+        "authors": "Jose Camacho-Collados, Mohammad Taher Pilehvar, Nigel Collier, Roberto Navigli",
+        "urls": ["https://alt.qcri.org/semeval2017/task2/"],
+        "papers": [
+            {
+                "title": "SemEval-2017 Task 2: Multilingual and Cross-lingual Semantic Word Similarity",
+                "url": "https://aclanthology.org/S17-2002.pdf"
+            }
+        ],
+        "date": "2017",
+        "description": "",
+        "downloadUrls": [
+            "http://alt.qcri.org/semeval2017/task2/data/uploads/semeval2017-task2.zip"
+        ],
+        "relationTypes": ["similarity"],
+        "languages": ["en"],
+        "domain": "general",
+        "tags": ["entities"]
+    },
+    "partitions": [
+        {
+            "id": "main",
+            "relationType": "similarity",
+            "scale": {
+                "value": {
+                    "max": 4,
+                    "min": 0
+                }
+            },
+            "metrics": {
+                "annotators": {
+                    "total": 3,
+                    "minEachPair": 3
+                },
+                "interAnnoAgreement": [
+                    {
+                        "method": "pearson",
+                        "value": 0.893,
+                        "metric": "APIAA"
+                    }
+                ]
+            }
+        }
+    ],
+    "originalInstructions": "4 - Very similar - The two words are synonyms (e.g., midday-noon or motherboard-mainboard).\n3 - Similar - The two words share many of the important ideas of their meaning but include slightly different details. They refer to similar but not identical concepts (e.g., lion-zebra or firefighter-policeman).\n2 - Slightly similar - The two words do not have a very similar meaning, but share a common topic/domain/function and ideas or concepts that are related (e.g., house-window or airplane-pilot).\n1 - Dissimilar - The two words describe clearly dissimilar concepts, but may share some small details, a far relationship or a domain in common and might be likely to be found together in a longer document on the same topic (e.g., software-keyboard or driver-suspension).\n0 - Totally dissimilar and unrelated - The two words do not mean the same thing and are not on the same topic (e.g., pencil-frog or PlayStation-monarchy).\n"
+}

@@ -1,0 +1,52 @@
+{
+    "id": "mayoSRS",
+    "metadata": {
+        "name": "MayoSRS",
+        "authors": "Pedersen T., Pakhomov S.V.S., Patwardhan S., Chute C.G.",
+        "license": {
+            "name": "CC0 1.0 Universal",
+            "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+        },
+        "urls": ["https://conservancy.umn.edu/handle/11299/196265"],
+        "papers": [
+            {
+                "title": "Measures of semantic similarity and relatedness in the biomedical domain",
+                "url": "https://www.sciencedirect.com/science/article/pii/S1532046406000645?via%3Dihub"
+            }
+        ],
+        "date": "2007",
+        "description": "A set of 101 medical concept pairs manually rater by medical coders for semantic relatedness.",
+        "downloadUrls": [
+            "https://conservancy.umn.edu/bitstream/handle/11299/196265/MayoSRS.csv?sequence=1&isAllowed=y"
+        ],
+        "languages": ["en"],
+        "domain": "biomedical",
+        "relationTypes": ["relatedness"]
+    },
+    "partitions": [
+        {
+            "id": "mean",
+            "relationType": "relatedness",
+            "scale": {
+                "value": {
+                    "min": 1,
+                    "max": 10
+                }
+            },
+            "metrics": {
+                "annotators": {
+                    "total": 13,
+                    "minEachPair": 13
+                },
+                "interAnnoAgreement": [
+                    {
+                        "method": "pearson",
+                        "value": 0.51,
+                        "metric": "unclear"
+                    }
+                ]
+            }
+        }
+    ],
+    "originalInstructions": ""
+}

@@ -1,0 +1,75 @@
+{
+    "id": "minimayoSRS",
+    "metadata": {
+        "name": "MiniMayoSRS",
+        "authors": "Pedersen T., Pakhomov S.V.S., Patwardhan S., Chute C.G.",
+        "license": {
+            "name": "CC0 1.0 Universal",
+            "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+        },
+        "urls": ["https://conservancy.umn.edu/handle/11299/196265"],
+        "papers": [
+            {
+                "title": "Measures of semantic similarity and relatedness in the biomedical domain",
+                "url": "https://www.sciencedirect.com/science/article/pii/S1532046406000645?via%3Dihub"
+            }
+        ],
+        "date": "2007",
+        "description": "A subset of 29 medical concept pairs manually rater by medical coders for semantic relatedness with high inter-rater agreement.",
+        "downloadUrls": [
+            "https://conservancy.umn.edu/bitstream/handle/11299/196265/MiniMayoSRS.csv?sequence=2&isAllowed=y"
+        ],
+        "languages": ["en"],
+        "domain": "biomedical",
+        "relationTypes": ["relatedness"]
+    },
+    "partitions": [
+        {
+            "id": "physicians",
+            "relationType": "relatedness",
+            "scale": {
+                "value": {
+                    "min": 1,
+                    "max": 4
+                }
+            },
+            "metrics": {
+                "annotators": {
+                    "total": 3,
+                    "minEachPair": 3
+                },
+                "interAnnoAgreement": [
+                    {
+                        "method": "pearson",
+                        "value": 0.68,
+                        "metric": "unclear"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "coders",
+            "relationType": "relatedness",
+            "scale": {
+                "value": {
+                    "min": 1,
+                    "max": 4
+                }
+            },
+            "metrics": {
+                "annotators": {
+                    "total": 9,
+                    "minEachPair": 9
+                },
+                "interAnnoAgreement": [
+                    {
+                        "method": "pearson",
+                        "value": 0.78,
+                        "metric": "unclear"
+                    }
+                ]
+            }
+        }
+    ],
+    "originalInstructions": ""
+}

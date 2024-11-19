@@ -1,0 +1,54 @@
+{
+    "id": "emocon",
+    "metadata": {
+        "name": "Emotion concepts 2022",
+        "authors": "Kwon, Mijin; Wager, Tor; Phillips, Jonathan",
+        "license": {
+            "name": "CC0 1.0 Universal",
+            "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+        },
+        "urls": [
+            "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6DPPKH"
+        ],
+        "papers": [
+            {
+                "title": "Representations of emotion concepts: Comparison across pairwise, appraisal feature-based, and word embedding-based similarity spaces",
+                "url": "https://escholarship.org/content/qt8vj3d366/qt8vj3d366.pdf"
+            }
+        ],
+        "date": "2022",
+        "description": "(...) we collected pairwise similarity and appraisal feature ratings for 58 different emotion concepts and then employed representational similarity analysis to investigate the overlap between people’s pairwise similarity judgments and emotion similarity in a 14-dimensional appraisal space and three word embedding spaces from two word2vec models (300 dimensions) and the newer GPT-3 model (12288 dimensions).",
+        "downloadUrls": [
+            "https://dataverse.harvard.edu/file.xhtml?fileId=6905415&version=2.0&toolType=PREVIEW"
+        ],
+        "languages": ["en"],
+        "domain": "general",
+        "relationTypes": ["similarity"],
+        "tags": ["mturk", "emotion"],
+        "version": "2023-01-25"
+    },
+    "partitions": [
+        {
+            "id": "pairwise",
+            "relationType": "similarity",
+            "scale": {
+                "value": {
+                    "max": 100,
+                    "min": 0
+                },
+                "values": {
+                    "max": 100,
+                    "min": 0
+                }
+            },
+            "metrics": {
+                "annotators": {
+                    "total": 839,
+                    "minEachPair": 4
+                },
+                "interAnnoAgreement": []
+            }
+        }
+    ],
+    "originalInstructions": ""
+}

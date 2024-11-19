@@ -1,0 +1,46 @@
+{
+    "id": "mc30",
+    "metadata": {
+        "name": "Miller and Charles (1991)",
+        "urls": [],
+        "authors": "George A. Miller, Walter G. Charles",
+        "papers": [
+            {
+                "title": "Contextual correlates of semantic similarity",
+                "url": "https://sci-hub.se/https://doi.org/10.1080/01690969108406936"
+            }
+        ],
+        "date": "1991",
+        "description": "A total of 38 students at the State University of New York at Oswego participated as subjects. All of them were native speakers of English. A subset of 30 noun pairs from the original list of 65 studied by Rubenstein and Goodenough (1965) was used; 10 were selected from the high level (between 3 and 4 on a scale from 0 to 4), 10 from the intermediate level (between 1 and 3), and 10 from the low level (0 to 1) of semantic similarity.",
+        "downloadUrls": [],
+        "languages": ["en"],
+        "domain": "general",
+        "relationTypes": ["similarity"]
+    },
+    "partitions": [
+        {
+            "id": "table1",
+            "relationType": "similarity",
+            "scale": {
+                "value": {
+                    "max": 4.0,
+                    "min": 0.0
+                }
+            },
+            "metrics": {
+                "annotators": {
+                    "total": 38,
+                    "minEachPair": 38
+                },
+                "interAnnoAgreement": [
+                    {
+                        "method": "pearson",
+                        "value": 0.8848,
+                        "metric": "unclear"
+                    }
+                ]
+            }
+        }
+    ],
+    "originalInstructions": ""
+}

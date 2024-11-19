@@ -1,0 +1,40 @@
+{
+    "id": "ma28",
+    "metadata": {
+        "name": "Martinez & Aldana",
+        "authors": "Jorge Martinez-Gil, José F. Aldana Montes",
+        "urls": ["https://hal.science/hal-01628399/file/article.pdf"],
+        "papers": [
+            {
+                "title": "Semantic Similarity Measurement Using Historical Google Search Patterns",
+                "url": "https://hal.science/hal-01628399/file/article.pdf"
+            }
+        ],
+        "date": "2013",
+        "languages": ["en"],
+        "description": "",
+        "downloadUrls": ["https://hal.science/hal-01628399/file/article.pdf"],
+        "domain": "general",
+        "relationTypes": ["similarity"]
+    },
+    "partitions": [
+        {
+            "id": "main",
+            "relationType": "similarity",
+            "scale": {
+                "value": {
+                    "max": 1,
+                    "min": 0
+                }
+            },
+            "metrics": {
+                "annotators": {
+                    "total": 20,
+                    "minEachPair": null
+                },
+                "interAnnoAgreement": []
+            }
+        }
+    ],
+    "originalInstructions": ""
+}

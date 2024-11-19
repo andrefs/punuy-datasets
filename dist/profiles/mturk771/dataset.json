@@ -1,0 +1,56 @@
+{
+    "id": "mturk771",
+    "metadata": {
+        "name": "MTurk771",
+        "authors": "Guy Halawi , Gideon Dror, Evgeniy Gabrilovich, Yehuda Koren",
+        "urls": ["http://www2.mta.ac.il/~gideon/datasets/mturk_771.html"],
+        "papers": [
+            {
+                "title": "Large-scale learning of word relatedness with constraints",
+                "url": "https://www-ai.cs.tu-dortmund.de/LEHRE/FACHPROJEKT/WS1213/WordCorrelations.pdf"
+            }
+        ],
+        "date": "2012",
+        "description": "The set contains 771 word pairs along with their mean realtedness scores. The scores were collected on Amazon Mechanical Turk. At least 20 ratings were collected for each word pair, where each judgement task consisted of a batch of 50 word pairs. Ratings were collected on a 1-5 scale, where 5 stands for 'highly related' and 1 stands for 'not related'. In order to discard poor quality work, each batch contained 10 trap word pairs with known extreme relatedness values, serving as binary indicators. A batch that failed on more than one of the binary indicators was discarded. This guarantees an over 98% probability for detecting random workers (e.g., bots). The relatedness value of each word pair was taken as the mean score given by the workers.",
+        "downloadUrls": [
+            "http://www2.mta.ac.il/~gideon/datasets/MTURK-771-RAW.csv",
+            "http://www2.mta.ac.il/~gideon/datasets/MTURK-771.csv"
+        ],
+        "relationTypes": ["relatedness"],
+        "domain": "general",
+        "languages": ["en"],
+        "tags": ["mturk"]
+    },
+    "partitions": [
+        {
+            "id": "mturk",
+            "relationType": "relatedness",
+            "scale": {
+                "value": {
+                    "min": 1,
+                    "max": 5
+                },
+                "values": {
+                    "min": 1,
+                    "max": 5
+                }
+            },
+            "metrics": {
+                "annotators": {
+                    "total": 115,
+                    "minEachPair": 20,
+                    "fixedColumns": false
+                },
+                "interAnnoAgreement": [
+                    {
+                        "method": "pearson",
+                        "value": 0.8957,
+                        "metric": "CBRGM",
+                        "description": "To verify the agreement between raters, following Snow et al. [21], we randomly split the raters into two groups, each including 10 Mechanical Turk workers. We then averaged the numeric judgements for each word pair among the raters in each of the two sets, thus yielding a (771 element long) vector of average judgments for each set. Finally, we computed the correlation between the vectors of the two sets. We repeated this process 1000 times, and over these 1000 random splits the mean correlation between the two sets of raters was 0.8957, with extremely small variance, attesting to the quality of the collected data"
+                    }
+                ]
+            }
+        }
+    ],
+    "originalInstructions": ""
+}

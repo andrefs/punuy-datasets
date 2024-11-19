@@ -1,0 +1,56 @@
+{
+    "id": "tr9856",
+    "metadata": {
+        "name": "TR9856",
+        "authors": "Levy, Ran  and  Ein-Dor, Liat  and  Hummel, Shay  and  Rinott, Ruty  and  Slonim, Noam",
+        "license": {
+            "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "name": "CC BY-SA 3.0"
+        },
+        "urls": [
+            "https://developer.ibm.com/exchanges/data/all/multi-word-term-relatedness-benchmark/"
+        ],
+        "papers": [
+            {
+                "title": "TR9856: A Multi-word Term Relatedness Benchmark",
+                "url": "https://aclanthology.org/P15-2069.pdf"
+            }
+        ],
+        "date": "2015",
+        "description": "Focuses on multi-word terms and is significantly larger than existing datasets. The new dataset includes many real world terms such as acronyms and named entities, and further handles term ambiguity by providing topical context for all term pairs.",
+        "downloadUrls": [
+            "https://dax-cdn.cdn.appdomain.cloud/dax-multi-word-term-relatedness/1.0.2/multi-word-term-relatedness.tar.gz"
+        ],
+        "languages": ["en"],
+        "domain": "general",
+        "relationTypes": ["relatedness"]
+    },
+    "partitions": [
+        {
+            "id": "main",
+            "relationType": "relatedness",
+            "scale": {
+                "value": {
+                    "max": 1,
+                    "min": 0
+                }
+            },
+            "metrics": {
+                "annotators": {
+                    "total": 22,
+                    "minEachPair": 10,
+                    "fixedColumns": true
+                },
+                "interAnnoAgreement": [
+                    {
+                        "method": "pearson",
+                        "value": 0.8,
+                        "metric": "CBRGM",
+                        "description": "To evaluate annotator agreement we followed (Halawi et al., 2012; Snow et al., 2008) and divided the annotators into two equally sized groups and measured the correlation between the results of each group. The largest subset of pairs for which the same 10 annotators labeled all pairs contained roughly 2,900 pairs. On this subset, we considered all possible splits of the annotators to groups of size 5, and for each split measured the correlation of the relatedness scores obtained by the two groups. The average Pearson correlation was 0.80. These results indicate that in spite of the admitted vagueness of the task, the average annotation score obtained by different sets of annotators is relatively stable and consistent."
+                    }
+                ]
+            }
+        }
+    ],
+    "originalInstructions": "Annotation Guidelines for Term Relatedness\n\nIn this task you should determine whether two terms are related or not, in the context of a pre-specified topic, according to the following guidelines –\n\n    1. A pair of terms should be marked as related if you believe there is an immediate associative connection between them. For example, \"China\" and \"Far east\" should probably be considered related, while \"China\" and \"Phone\" should probably not be considered related.\n    2. Terms with opposite meanings – e.g., Antonyms - should typically be considered related. For example, \"religious\" and \"atheist\" should be considered related.\n    3. If a term has multiple meanings, you should consider the meaning which is most related to the pre-specified topic, defined for that pair. For example, if the pre-specified topic is \"car industry\", then the term \"Jaguar\" should be interpreted as the Jaguar car brand, not the Jaguar species.\n    4. lf you encounter a term you are unfamiliar with, or uncertain about its meaning - either since it is represented by an acronym, or for some other reason – please use a dictionary, or Wikipedia, or a similar source to confirm your understanding before indicating if the examined pair are related or not.\n    5. Finally, please rely solely on your own judgment, and in particular do not consult with friends or family etc, when determining if two terms are related or not."
+}

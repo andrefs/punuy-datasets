@@ -1,0 +1,77 @@
+{
+    "id": "geresid50",
+    "metadata": {
+        "name": "GeReSiD",
+        "authors": "Andrea Ballatore, Michela Bertolotto, David C. Wilson",
+        "license": {
+            "name": "Open Knowledge",
+            "url": "https://opendefinition.org/od/2.1/en/"
+        },
+        "urls": [
+            "https://github.com/ucd-spatial/Datasets/tree/master/geresid-geo_relatedness_similarity_dataset"
+        ],
+        "papers": [
+            {
+                "title": "An Evaluative Baseline for Geo-Semantic Relatedness and Similarity",
+                "url": "https://arxiv.org/pdf/1402.3371"
+            }
+        ],
+        "date": "2014",
+        "description": "This dataset contains a-contextual semantic relatedness and similarity judgements on 50 pairs of geographic terms. For example, term pair motel and hotel have relatedness=0.93 and similarity=0.9. The dataset also contains the interrater agreement for each pair (e.g. 0.86 for relatedness, and 0.82 for similarity). The terms were selected from OpenStreetMap and are mapped to WordNet. The relatedness/similarity was collected from 203 human subjects on February 2012.",
+        "downloadUrls": [
+            "https://github.com/ucd-spatial/Datasets/blob/master/downloads/geresid-geo_relatedness_similarity_dataset.zip?raw=true"
+        ],
+        "languages": ["en"],
+        "domain": "geographical",
+        "relationTypes": ["similarity", "relatedness"]
+    },
+    "partitions": [
+        {
+            "id": "GeReSiD-rel",
+            "relationType": "relatedness",
+            "scale": {
+                "value": {
+                    "max": 1,
+                    "min": 0
+                }
+            },
+            "metrics": {
+                "annotators": {
+                    "total": 81,
+                    "minEachPair": 81
+                },
+                "interAnnoAgreement": [
+                    {
+                        "method": "pearson",
+                        "value": 0.64,
+                        "metric": "APIAA"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "GeReSiD-sim",
+            "relationType": "similarity",
+            "scale": {
+                "value": {
+                    "max": 1,
+                    "min": 0
+                }
+            },
+            "metrics": {
+                "annotators": {
+                    "total": 122,
+                    "minEachPair": 122
+                },
+                "interAnnoAgreement": [
+                    {
+                        "method": "pearson",
+                        "metric": "APIAA",
+                        "value": 0.65
+                    }
+                ]
+            }
+        }
+    ],
+    "originalInstructions": ""
+}

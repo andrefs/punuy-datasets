@@ -1,0 +1,48 @@
+{
+    "id": "simlex999",
+    "metadata": {
+        "name": "SimLex-999",
+        "authors": "Felix Hill, Roi Reichart and Anna Korhonen",
+        "urls": ["https://fh295.github.io/simlex.html"],
+        "papers": [
+            {
+                "title": "SimLex-999: Evaluating Semantic Models With (Genuine) Similarity Estimation",
+                "url": "https://aclanthology.org/J15-4004.pdf"
+            }
+        ],
+        "date": "2015",
+        "description": "SimLex-999 is a gold standard resource for the evaluation of models that learn the meaning of words and concepts.\n\nSimLex-999 provides a way of measuring how well models capture similarity, rather than relatedness or association. The scores in SimLex-999 therefore differ from other well-known evaluation datasets such as WordSim-353 (Finkelstein et al. 2002).",
+        "downloadUrls": ["https://fh295.github.io/SimLex-999.zip"],
+        "relationTypes": ["similarity"],
+        "languages": ["en"],
+        "domain": "general",
+        "tags": ["mturk"]
+    },
+    "partitions": [
+        {
+            "id": "main",
+            "relationType": "similarity",
+            "scale": {
+                "value": {
+                    "max": 10,
+                    "min": 0
+                }
+            },
+            "metrics": {
+                "annotators": {
+                    "total": 500,
+                    "minEachPair": 36
+                },
+                "interAnnoAgreement": [
+                    {
+                        "method": "spearman",
+                        "value": 0.673,
+                        "metric": "APIAA",
+                        "description": "As in previous annotation or data collection for computational semantics (Pado, Pado and Erk 2007; Reisinger and Mooney 2010a; Silberer and Lapata 2014) we computed the inter-rater agreement as the average of pairwise Spearman ρ correlations between the ratings of all respondents. . Overall agreement was ρ = 0.67. This compares favorably with the agreement on WS-353 (ρ = 0.61 using the same method). The design of the MEN rating system precludes a conventional calculation of inter-rater agreement (Bruni et al. 2012b). However, two of the creators of MEN who independently rated the data set achieved an agreement of ρ = 0.68."
+                    }
+                ]
+            }
+        }
+    ],
+    "originalInstructions": "Two words are synonyms if they have very similar meanings. Synonyms represent the same type or category of thing. Here are some examples of synonym pairs:\n\n* cup/mug\n* glasses/spectacles\n* envy/jealousy\n\nIn practice, word pairs that are not exactly synonymous may still be very similar. Here are some very similar pairs - we could say they are nearly synonyms:\n\n* alligator/crocodile\n* love / affection\n* frog/toad\n\nIn contrast, although the following word pairs are related, they are not very similar. The words represent entirely different types of thing:\n\n* car/tyre\n* car/motorway\n* car/crash\n\nIn this survey, you are asked to compare word pairs and to rate how similar they are by moving a slider. Remember, things that are related are not necessarily similar.\n\nIf you are ever unsure, think back to the examples of synonymous pairs (glasses / spectacles), and consider how close the words are (or are not) to being synonymous.\n\nThere is no right answer to these questions. It is perfectly reasonable to use your intuition or gut feeling as a native English speaker, especially when you are asked to rate word pairs that you think are not similar at all.\n"
+}

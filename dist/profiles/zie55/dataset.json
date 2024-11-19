@@ -1,0 +1,73 @@
+{
+    "id": "zie55",
+    "metadata": {
+        "name": "Ziegler et al. (2006)",
+        "authors": "Cai-Nicolas Ziegler, Kai Simon, Georg Lausen",
+        "urls": [],
+        "papers": [
+            {
+                "title": "Automatic Computation of Semantic Proximity Using Taxonomic Knowledge",
+                "url": "https://web.archive.org/web/20070824183036id_/http://www.informatik.uni-freiburg.de/~ksimon/papers/CIKM-06-Proximity.pdf"
+            }
+        ],
+        "date": "2006",
+        "description": "",
+        "languages": ["en"],
+        "domain": "general",
+        "downloadUrls": [
+            "https://web.archive.org/web/20070824183036id_/http://www.informatik.uni-freiburg.de/~ksimon/papers/CIKM-06-Proximity.pdf"
+        ],
+        "relationTypes": ["relatedness"],
+        "tags": ["entities"]
+    },
+    "partitions": [
+        {
+            "id": "B0",
+            "relationType": "relatedness",
+            "scale": {
+                "value": {
+                    "min": 0,
+                    "max": 5
+                }
+            },
+            "metrics": {
+                "annotators": {
+                    "total": 23,
+                    "minEachPair": 23
+                },
+                "interAnnoAgreement": [
+                    {
+                        "method": "pearson",
+                        "value": 0.7027,
+                        "metric": "APIAA",
+                        "description": "We thus computed the inter-subject correlation, i.e., the Pearson correlation coefficient p(~vi, ~vj) (see Section 4.2.2) for every unordered pair {i, j} ∈ Bz ×Bz of human subjects, represented by their proximity rating vectors. Pair similarity scores were summed up and averaged afterwards:"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "B1",
+            "relationType": "relatedness",
+            "scale": {
+                "value": {
+                    "min": 0,
+                    "max": 4
+                }
+            },
+            "metrics": {
+                "annotators": {
+                    "total": 51,
+                    "minEachPair": 51
+                },
+                "interAnnoAgreement": [
+                    {
+                        "method": "pearson",
+                        "value": 0.7091,
+                        "metric": "APIAA",
+                        "description": "We thus computed the inter-subject correlation, i.e., the Pearson correlation coefficient p(~vi, ~vj) (see Section 4.2.2) for every unordered pair {i, j} ∈ Bz ×Bz of human subjects, represented by their proximity rating vectors. Pair similarity scores were summed up and averaged afterwards:"
+                    }
+                ]
+            }
+        }
+    ]
+}

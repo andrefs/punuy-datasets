@@ -1,0 +1,49 @@
+{
+    "id": "yp130",
+    "metadata": {
+        "name": "YP-130",
+        "authors": "Dongqiang Yang and David M. W. Powers",
+        "urls": [],
+        "papers": [
+            {
+                "title": "Verb similarity on the taxonomy of WordNet",
+                "url": "http://david.wardpowers.info/Research/AI/papers/200601-GWC-VerbSimWN.pdf"
+            }
+        ],
+        "date": "2005",
+        "description": "",
+        "languages": ["en"],
+        "downloadUrls": [
+            "http://david.wardpowers.info/Research/AI/papers/200601-GWC-130verbpairs.txt"
+        ],
+        "domain": "general",
+        "relationTypes": ["similarity"]
+    },
+    "partitions": [
+        {
+            "id": "verbpairs",
+            "relationType": "similarity",
+            "scale": {
+                "value": {
+                    "min": 0,
+                    "max": 4
+                }
+            },
+            "metrics": {
+                "annotators": {
+                    "total": 6,
+                    "minEachPair": 6
+                },
+                "interAnnoAgreement": [
+                    {
+                        "method": "pearson",
+                        "value": 0.866,
+                        "metric": "APIAA",
+                        "description": "Six colleagues (2 academic staffs and 4 postgraduates) voluntarily rated these pairs for similarity. The average correlation among these six subjects was r = 0.866."
+                    }
+                ]
+            }
+        }
+    ],
+    "originalInstructions": "Indicate how strongly these words are related in meaning using integers from 0 to 4. The following are given as examples of kinds of descriptions that might apply to each number, but you must give your own judgement and if you think something falls in between two of these categories you must push it up or down (no halves or decimals).\n0: not at all related\n1: vaguely related\n2: indirectly related\n3: strongly related\n4: inseparably related\n"
+}

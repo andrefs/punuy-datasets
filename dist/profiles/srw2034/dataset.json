@@ -1,0 +1,45 @@
+{
+    "id": "srw2034",
+    "metadata": {
+        "name": "Stanford Rare Word (RW) Similarity Dataset",
+        "authors": "Minh-Thang Luong, Richard Socher, and Christopher D. Manning.",
+        "urls": ["https://nlp.stanford.edu/~lmthang/morphoNLM/"],
+        "papers": [
+            {
+                "title": "Better Word Representations with Recursive Neural Networks for Morphology",
+                "url": "https://nlp.stanford.edu/~lmthang/data/papers/conll13_morpho.pdf"
+            }
+        ],
+        "date": "2013",
+        "description": "The dataset (rw.txt) consists of 2034 pairs, one per line. Each line consists of a pair of words, the average similarity rating and up to 10 individual ratings. Tokens are tab-delimited.",
+        "downloadUrls": ["http://www-nlp.stanford.edu/~lmthang/morphoNLM/rw.zip"],
+        "languages": ["en"],
+        "domain": "biomedical",
+        "relationTypes": ["similarity"]
+    },
+    "partitions": [
+        {
+            "id": "rw",
+            "relationType": "similarity",
+            "scale": {
+                "value": {
+                    "min": 0,
+                    "max": 10
+                },
+                "values": {
+                    "min": 0,
+                    "max": 10
+                }
+            },
+            "metrics": {
+                "annotators": {
+                    "total": 10,
+                    "minEachPair": 7,
+                    "fixedColumns": false
+                },
+                "interAnnoAgreement": []
+            }
+        }
+    ],
+    "originalInstructions": ""
+}

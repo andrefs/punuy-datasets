@@ -1,0 +1,43 @@
+{
+    "id": "atlasify240",
+    "metadata": {
+        "name": "Atlasify240",
+        "authors": "Brent Hecht, Samuel H. Carton, Mahmood Quaderi, Johannes Schöning, Martin Raubal, Darren Gergle, Doug Downey",
+        "urls": ["https://users.cs.northwestern.edu/~ddowney/data_code.html"],
+        "papers": [
+            {
+                "title": "Explanatory Semantic Relatedness and Explicit Spatialization for Exploratory Search",
+                "url": "https://www.brenthecht.com/papers/bhecht_sigir2012_ExpSpatialization_SRplusE.pdf"
+            }
+        ],
+        "date": "2012",
+        "description": "",
+        "downloadUrls": [
+            "https://users.cs.northwestern.edu/~ddowney/data/atlasify240.csv"
+        ],
+        "relationTypes": ["relatedness"],
+        "languages": ["en"],
+        "domain": "general",
+        "tags": ["entities"]
+    },
+    "partitions": [
+        {
+            "id": "main",
+            "relationType": "relatedness",
+            "scale": {
+                "value": {
+                    "max": 4.0,
+                    "min": 0.0
+                }
+            },
+            "metrics": {
+                "annotators": {
+                    "total": 10,
+                    "minEachPair": 10
+                },
+                "interAnnoAgreement": []
+            }
+        }
+    ],
+    "originalInstructions": ""
+}

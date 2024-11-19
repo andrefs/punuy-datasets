@@ -1,0 +1,43 @@
+{
+    "id": "wp300",
+    "metadata": {
+        "name": "WP300",
+        "authors": "Peipei Li, Haixun Wang, Kenny Q. Zhu",
+        "urls": ["http://adapt.seiee.sjtu.edu.cn/similarity/"],
+        "papers": [
+            {
+                "title": "Computing Term Similarity by Large Probabilistic isA Knowledge",
+                "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/CIKM841-Li.pdf"
+            }
+        ],
+        "date": "2013",
+        "description": "Because there are no benchmark data for the semantic similarity between MWEs, we labeled 300 pairs (known as WP) with both words and MWEs. Our labeled data consist of three categories: 100 concept-entity pairs, 100 concept-concept pairs and 100 entity-entity pairs. These 300 pairs contain 84 word pairs and 216 MWE pairs, in which 71 MWE pairs can be identiffied by WordNet while 145 MWE pairs can not be identiffid by WordNet. Five native speakers of English labeled these pairs according to the label classes, and the labels are then translated into numerical similarity scores.",
+        "downloadUrls": [
+            "http://adapt.seiee.sjtu.edu.cn/similarity/SimCompleteResults.pdf"
+        ],
+        "relationTypes": ["similarity"],
+        "languages": ["en"],
+        "domain": "general",
+        "tags": ["entities"]
+    },
+    "partitions": [
+        {
+            "id": "wp",
+            "relationType": "similarity",
+            "scale": {
+                "value": {
+                    "max": 1,
+                    "min": 0
+                }
+            },
+            "metrics": {
+                "annotators": {
+                    "total": 5,
+                    "minEachPair": 5
+                },
+                "interAnnoAgreement": []
+            }
+        }
+    ],
+    "originalInstructions": ""
+}

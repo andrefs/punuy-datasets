@@ -1,0 +1,50 @@
+{
+    "id": "sl7576",
+    "metadata": {
+        "name": "SL7576",
+        "authors": "Carina Silberer, Mirella Lapata",
+        "urls": ["https://sites.google.com/view/carinasilberer"],
+        "papers": [
+            {
+                "title": "Learning Grounded Meaning Representations with Autoencoders",
+                "url": "https://aclanthology.org/P14-1068.pdf"
+            }
+        ],
+        "date": "2014",
+        "description": "This dataset contains similarity judgements for 7,576 word pairs representing 500 concrete basic-level concepts (the same ones found in ViSA). All concepts are in ImageNet  and the feature production norms of McRae et al. (2005).  If you need superordinate categories for the basic-levels concepts, see the VisA dataset above.\n\nEach concept occurs in approximately 30 pairs. Similarity ratings were obtained using Amazon Mechanical Turk. Participants were asked to rate a word pair on two dimensions, visual and semantic similarity using a Likert scale of 1 (highly dissimilar) to 5 (highly similar).",
+        "downloadUrls": [
+            "https://drive.google.com/file/d/1qYc2R9vRB8i1WirDrDsL5gU3A81Dh2Fa/view?usp=sharing"
+        ],
+        "relationTypes": ["similarity"],
+        "languages": ["en"],
+        "domain": "general",
+        "tags": ["mturk"]
+    },
+    "partitions": [
+        {
+            "id": "main",
+            "relationType": "similarity",
+            "scale": {
+                "value": {
+                    "max": 4,
+                    "min": 0
+                }
+            },
+            "metrics": {
+                "annotators": {
+                    "total": null,
+                    "minEachPair": 5
+                },
+                "interAnnoAgreement": [
+                    {
+                        "method": "spearman",
+                        "value": 0.76,
+                        "metric": "APIAA",
+                        "description": "We measured inter-subject agreement as the average pairwise correlation coefficient (Spearman’s ρ) between the ratings of all annotators for each task."
+                    }
+                ]
+            }
+        }
+    ],
+    "originalInstructions": ""
+}

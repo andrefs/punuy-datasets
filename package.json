@@ -5,16 +5,24 @@
   "scripts": {
     "typecheck": "tsc -b tsconfig.json",
     "typecheck:watch": "tsc -b tsconfig.json --watch",
-    "build": "./src/scripts/compile-schema",
+    "build": "./src/scripts/compile-schema && tsc",
     "preversion": "ts-node src/scripts/update-readme.ts && npm run lint",
     "postversion": "git push && git push --tags && gh release create v$npm_package_version --title v$npm_package_version --generate-notes",
     "prepublishOnly": "npm test",
     "version": "npm run format && git add -A src",
-    "lint": "eslint .",
+    "lint": "eslint src",
     "format": "NODE_OPTIONS=--max-old-space-size=4096 prettier --write \"**/*.+(js|ts|json)\"",
     "prepare": "npm run build",
     "postinstall": "patch-package",
     "test": "./src/scripts/validate-schema && ts-node src/scripts/check-chars.ts profiles/"
+  },
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./src/index.ts",
+      "require": "./src/index.js"
+    }
   },
   "repository": {
     "type": "git",

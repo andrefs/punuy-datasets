@@ -1,0 +1,43 @@
+{
+    "id": "scws2003",
+    "metadata": {
+        "name": "SCWS",
+        "authors": "Eric H. Huang, Richard Socher, Christopher D. Manning, Andrew Y. Ng",
+        "urls": ["https://ai.stanford.edu/~ehhuang/"],
+        "papers": [
+            {
+                "title": "Improving Word Representations via Global Context and Multiple Word Prototypes",
+                "url": "https://aclanthology.org/P12-1092.pdf"
+            }
+        ],
+        "date": "2012",
+        "description": "",
+        "downloadUrls": ["http://www-nlp.stanford.edu/~ehhuang/SCWS.zip"],
+        "languages": ["en"],
+        "domain": "general",
+        "relationTypes": ["relatedness"]
+    },
+    "partitions": [
+        {
+            "id": "main",
+            "relationType": "relatedness",
+            "scale": {
+                "value": {
+                    "max": 10.0,
+                    "min": 0.0
+                },
+                "values": {
+                    "max": 10.0,
+                    "min": 0.0
+                }
+            },
+            "metrics": {
+                "annotators": {
+                    "total": 10,
+                    "minEachPair": 10
+                },
+                "interAnnoAgreement": []
+            }
+        }
+    ]
+}

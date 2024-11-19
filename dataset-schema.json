@@ -1,311 +1,382 @@
 {
-  "$id": "https://andrefs.com/schemas/2023/SemRelDatasets",
-  "$schema": "http://json-schema.org/draft-07/schema#",
-  "additionalProperties": false,
-  "definitions": {
-    "Domain": {
-      "enum": ["biomedical", "general", "geographical"],
-      "type": "string"
+    "$id": "https://andrefs.com/schemas/2023/SemRelDatasets",
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "additionalProperties": false,
+    "definitions": {
+        "Domain": {
+            "enum": [
+                "biomedical",
+                "general",
+                "geographical"
+            ],
+            "type": "string"
+        },
+        "Language": {
+            "enum": [
+                "en",
+                "pt"
+            ],
+            "type": "string"
+        },
+        "LazyPartition": {
+            "additionalProperties": false,
+            "properties": {
+                "id": {
+                    "description": "An identifier for the partition",
+                    "type": "string"
+                },
+                "metrics": {
+                    "additionalProperties": false,
+                    "description": "Evaluation metrics for the partition",
+                    "properties": {
+                        "annotators": {
+                            "additionalProperties": false,
+                            "description": "The number of annotators",
+                            "properties": {
+                                "fixedColumns": {
+                                    "description": "Whether each column in .values corresponds to a single annotator",
+                                    "type": "boolean"
+                                },
+                                "minEachPair": {
+                                    "description": "The minimum number of annotators for each pair",
+                                    "type": [
+                                        "null",
+                                        "number"
+                                    ]
+                                },
+                                "total": {
+                                    "description": "The total number of annotators",
+                                    "type": [
+                                        "null",
+                                        "number"
+                                    ]
+                                }
+                            },
+                            "required": [
+                                "minEachPair",
+                                "total"
+                            ],
+                            "type": "object"
+                        },
+                        "interAnnoAgreement": {
+                            "description": "Inter annotator agreement metrics",
+                            "items": {
+                                "additionalProperties": false,
+                                "properties": {
+                                    "description": {
+                                        "description": "A description of how the value is calculated, preferably quoted from the paper",
+                                        "type": "string"
+                                    },
+                                    "method": {
+                                        "description": "The method used to calculate the correlation coefficient: Pearson's or Spearman's",
+                                        "enum": [
+                                            "pearson",
+                                            "spearman"
+                                        ],
+                                        "type": "string"
+                                    },
+                                    "metric": {
+                                        "description": "How the value was calculated:\n- APIAA: Average Pairwise Inter-Annotator Agreement\n- AMIAA: Average Mean Inter-Annotator Agreement\n- CBRGM: Correlation Between Randomized Group Means\n- other: another method\n- unclear: the method was not described in the paper",
+                                        "enum": [
+                                            "AMIAA",
+                                            "APIAA",
+                                            "CBRGM",
+                                            "other",
+                                            "unclear"
+                                        ],
+                                        "type": "string"
+                                    },
+                                    "value": {
+                                        "description": "The value of the correlation coefficient",
+                                        "type": "number"
+                                    }
+                                },
+                                "required": [
+                                    "method",
+                                    "metric",
+                                    "value"
+                                ],
+                                "type": "object"
+                            },
+                            "type": "array"
+                        },
+                        "intraAnnoAgreement": {
+                            "description": "Intra annotator agreement metrics",
+                            "items": {
+                                "additionalProperties": false,
+                                "properties": {
+                                    "description": {
+                                        "description": "A description of how the value is calculated, preferably quoted from the paper",
+                                        "type": "string"
+                                    },
+                                    "method": {
+                                        "description": "The method used to calculate the correlation coefficient: Pearson's or Spearman's",
+                                        "enum": [
+                                            "pearson",
+                                            "spearman"
+                                        ],
+                                        "type": "string"
+                                    },
+                                    "metric": {
+                                        "description": "How the value was calculated:\n- APIAA: Average Pairwise Inter-Annotator Agreement\n- AMIAA: Average Mean Inter-Annotator Agreement\n- CBRGM: Correlation Between Randomized Group Means\n- other: another method\n- unclear: the method was not described in the paper",
+                                        "enum": [
+                                            "AMIAA",
+                                            "APIAA",
+                                            "CBRGM",
+                                            "other",
+                                            "unclear"
+                                        ],
+                                        "type": "string"
+                                    },
+                                    "value": {
+                                        "description": "The value of the correlation coefficient",
+                                        "type": "number"
+                                    }
+                                },
+                                "required": [
+                                    "method",
+                                    "metric",
+                                    "value"
+                                ],
+                                "type": "object"
+                            },
+                            "type": "array"
+                        }
+                    },
+                    "required": [
+                        "annotators",
+                        "interAnnoAgreement"
+                    ],
+                    "type": "object"
+                },
+                "relationType": {
+                    "$ref": "https://andrefs.com/schemas/2023/SemRelDatasets#/definitions/RelationType",
+                    "description": "Which type of semantic relation is used to compare the words"
+                },
+                "scale": {
+                    "additionalProperties": false,
+                    "description": "The scale of the semantic relation values",
+                    "properties": {
+                        "value": {
+                            "additionalProperties": false,
+                            "description": "The scale for the .value property",
+                            "properties": {
+                                "max": {
+                                    "description": "The maximum value of the scale",
+                                    "minimum": 1,
+                                    "type": "number"
+                                },
+                                "min": {
+                                    "description": "The minimum value of the scale",
+                                    "type": "number"
+                                }
+                            },
+                            "required": [
+                                "max",
+                                "min"
+                            ],
+                            "type": "object"
+                        },
+                        "values": {
+                            "additionalProperties": false,
+                            "description": "The scale for the .values property (if different from the .value scale)",
+                            "properties": {
+                                "max": {
+                                    "description": "The maximum value of the scale",
+                                    "minimum": 1,
+                                    "type": "number"
+                                },
+                                "min": {
+                                    "description": "The minimum value of the scale",
+                                    "type": "number"
+                                }
+                            },
+                            "required": [
+                                "max",
+                                "min"
+                            ],
+                            "type": "object"
+                        }
+                    },
+                    "required": [
+                        "value"
+                    ],
+                    "type": "object"
+                }
+            },
+            "required": [
+                "id",
+                "metrics",
+                "relationType",
+                "scale"
+            ],
+            "type": "object"
+        },
+        "License": {
+            "additionalProperties": false,
+            "properties": {
+                "cannotRedistribute": {
+                    "description": "Whether the dataset can be redistributed",
+                    "type": "boolean"
+                },
+                "name": {
+                    "description": "The name of the license",
+                    "type": "string"
+                },
+                "url": {
+                    "description": "The URL of the license",
+                    "format": "uri",
+                    "type": "string"
+                }
+            },
+            "required": [
+                "name",
+                "url"
+            ],
+            "type": "object"
+        },
+        "Metadata": {
+            "additionalProperties": false,
+            "properties": {
+                "authors": {
+                    "description": "The authors of the dataset\nExamples:\n- \"Jane Doe\"\n- \"Jane Doe, John Doe\"",
+                    "type": "string"
+                },
+                "date": {
+                    "description": "The date the dataset was published",
+                    "pattern": "^[0-9]{4}(-[0-9]{2}(-[0-9]{2})?)?$",
+                    "type": "string"
+                },
+                "description": {
+                    "description": "A description of the dataset",
+                    "type": "string"
+                },
+                "domain": {
+                    "$ref": "https://andrefs.com/schemas/2023/SemRelDatasets#/definitions/Domain",
+                    "description": "The domain of the dataset"
+                },
+                "downloadUrls": {
+                    "description": "URL(s) to download the dataset files",
+                    "items": {
+                        "format": "uri",
+                        "type": "string"
+                    },
+                    "type": "array"
+                },
+                "languages": {
+                    "description": "The languages used in the dataset",
+                    "items": {
+                        "$ref": "https://andrefs.com/schemas/2023/SemRelDatasets#/definitions/Language"
+                    },
+                    "type": "array"
+                },
+                "license": {
+                    "$ref": "https://andrefs.com/schemas/2023/SemRelDatasets#/definitions/License",
+                    "description": "The license of the dataset"
+                },
+                "name": {
+                    "description": "The name of the dataset",
+                    "type": "string"
+                },
+                "papers": {
+                    "description": "Information about the scientific papers describing the dataset",
+                    "items": {
+                        "$ref": "https://andrefs.com/schemas/2023/SemRelDatasets#/definitions/Paper"
+                    },
+                    "type": "array"
+                },
+                "relationTypes": {
+                    "description": "Which type of semantic relations are used to compare the words",
+                    "items": {
+                        "$ref": "https://andrefs.com/schemas/2023/SemRelDatasets#/definitions/RelationType"
+                    },
+                    "type": "array"
+                },
+                "tags": {
+                    "description": "Tags for the dataset content\nExamples:\n- mturk - the dataset was created using crowdsourcing (e.g. Amazon Mechanical Turk or CrowdFlower)\n- entities - the dataset contains entities (e.g. people, places, organizations)",
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                },
+                "urls": {
+                    "description": "Web sites containing information about the dataset",
+                    "items": {
+                        "format": "uri",
+                        "type": "string"
+                    },
+                    "type": "array"
+                },
+                "version": {
+                    "description": "The version of the dataset",
+                    "type": "string"
+                }
+            },
+            "required": [
+                "date",
+                "description",
+                "domain",
+                "downloadUrls",
+                "languages",
+                "name",
+                "papers",
+                "relationTypes",
+                "urls"
+            ],
+            "type": "object"
+        },
+        "Paper": {
+            "additionalProperties": false,
+            "properties": {
+                "title": {
+                    "description": "The title of the paper",
+                    "type": "string"
+                },
+                "url": {
+                    "description": "The URL where the paper can be found",
+                    "format": "uri",
+                    "type": "string"
+                }
+            },
+            "required": [
+                "title"
+            ],
+            "type": "object"
+        },
+        "RelationType": {
+            "enum": [
+                "relatedness",
+                "similarity"
+            ],
+            "type": "string"
+        }
     },
-    "Language": {
-      "enum": ["en", "pt"],
-      "type": "string"
-    },
-    "LazyPartition": {
-      "additionalProperties": false,
-      "properties": {
+    "properties": {
         "id": {
-          "description": "An identifier for the partition",
-          "type": "string"
-        },
-        "metrics": {
-          "additionalProperties": false,
-          "description": "Evaluation metrics for the partition",
-          "properties": {
-            "annotators": {
-              "additionalProperties": false,
-              "description": "The number of annotators",
-              "properties": {
-                "fixedColumns": {
-                  "description": "Whether each column in .values corresponds to a single annotator",
-                  "type": "boolean"
-                },
-                "minEachPair": {
-                  "description": "The minimum number of annotators for each pair",
-                  "type": ["null", "number"]
-                },
-                "total": {
-                  "description": "The total number of annotators",
-                  "type": ["null", "number"]
-                }
-              },
-              "required": ["minEachPair", "total"],
-              "type": "object"
-            },
-            "interAnnoAgreement": {
-              "description": "Inter annotator agreement metrics",
-              "items": {
-                "additionalProperties": false,
-                "properties": {
-                  "description": {
-                    "description": "A description of how the value is calculated, preferably quoted from the paper",
-                    "type": "string"
-                  },
-                  "method": {
-                    "description": "The method used to calculate the correlation coefficient: Pearson's or Spearman's",
-                    "enum": ["pearson", "spearman"],
-                    "type": "string"
-                  },
-                  "metric": {
-                    "description": "How the value was calculated:\n- APIAA: Average Pairwise Inter-Annotator Agreement\n- AMIAA: Average Mean Inter-Annotator Agreement\n- CBRGM: Correlation Between Randomized Group Means\n- other: another method\n- unclear: the method was not described in the paper",
-                    "enum": ["AMIAA", "APIAA", "CBRGM", "other", "unclear"],
-                    "type": "string"
-                  },
-                  "value": {
-                    "description": "The value of the correlation coefficient",
-                    "type": "number"
-                  }
-                },
-                "required": ["method", "metric", "value"],
-                "type": "object"
-              },
-              "type": "array"
-            },
-            "intraAnnoAgreement": {
-              "description": "Intra annotator agreement metrics",
-              "items": {
-                "additionalProperties": false,
-                "properties": {
-                  "description": {
-                    "description": "A description of how the value is calculated, preferably quoted from the paper",
-                    "type": "string"
-                  },
-                  "method": {
-                    "description": "The method used to calculate the correlation coefficient: Pearson's or Spearman's",
-                    "enum": ["pearson", "spearman"],
-                    "type": "string"
-                  },
-                  "metric": {
-                    "description": "How the value was calculated:\n- APIAA: Average Pairwise Inter-Annotator Agreement\n- AMIAA: Average Mean Inter-Annotator Agreement\n- CBRGM: Correlation Between Randomized Group Means\n- other: another method\n- unclear: the method was not described in the paper",
-                    "enum": ["AMIAA", "APIAA", "CBRGM", "other", "unclear"],
-                    "type": "string"
-                  },
-                  "value": {
-                    "description": "The value of the correlation coefficient",
-                    "type": "number"
-                  }
-                },
-                "required": ["method", "metric", "value"],
-                "type": "object"
-              },
-              "type": "array"
-            }
-          },
-          "required": ["annotators", "interAnnoAgreement"],
-          "type": "object"
-        },
-        "relationType": {
-          "$ref": "https://andrefs.com/schemas/2023/SemRelDatasets#/definitions/RelationType",
-          "description": "Which type of semantic relation is used to compare the words"
-        },
-        "scale": {
-          "additionalProperties": false,
-          "description": "The scale of the semantic relation values",
-          "properties": {
-            "value": {
-              "additionalProperties": false,
-              "description": "The scale for the .value property",
-              "properties": {
-                "max": {
-                  "description": "The maximum value of the scale",
-                  "minimum": 1,
-                  "type": "number"
-                },
-                "min": {
-                  "description": "The minimum value of the scale",
-                  "type": "number"
-                }
-              },
-              "required": ["max", "min"],
-              "type": "object"
-            },
-            "values": {
-              "additionalProperties": false,
-              "description": "The scale for the .values property (if different from the .value scale)",
-              "properties": {
-                "max": {
-                  "description": "The maximum value of the scale",
-                  "minimum": 1,
-                  "type": "number"
-                },
-                "min": {
-                  "description": "The minimum value of the scale",
-                  "type": "number"
-                }
-              },
-              "required": ["max", "min"],
-              "type": "object"
-            }
-          },
-          "required": ["value"],
-          "type": "object"
-        }
-      },
-      "required": ["id", "metrics", "relationType", "scale"],
-      "type": "object"
-    },
-    "License": {
-      "additionalProperties": false,
-      "properties": {
-        "cannotRedistribute": {
-          "description": "Whether the dataset can be redistributed",
-          "type": "boolean"
-        },
-        "name": {
-          "description": "The name of the license",
-          "type": "string"
-        },
-        "url": {
-          "description": "The URL of the license",
-          "format": "uri",
-          "type": "string"
-        }
-      },
-      "required": ["name", "url"],
-      "type": "object"
-    },
-    "Metadata": {
-      "additionalProperties": false,
-      "properties": {
-        "authors": {
-          "description": "The authors of the dataset\nExamples:\n- \"Jane Doe\"\n- \"Jane Doe, John Doe\"",
-          "type": "string"
-        },
-        "date": {
-          "description": "The date the dataset was published",
-          "pattern": "^[0-9]{4}(-[0-9]{2}(-[0-9]{2})?)?$",
-          "type": "string"
-        },
-        "description": {
-          "description": "A description of the dataset",
-          "type": "string"
-        },
-        "domain": {
-          "$ref": "https://andrefs.com/schemas/2023/SemRelDatasets#/definitions/Domain",
-          "description": "The domain of the dataset"
-        },
-        "downloadUrls": {
-          "description": "URL(s) to download the dataset files",
-          "items": {
-            "format": "uri",
+            "description": "An identifier for the dataset",
+            "minLength": 3,
             "type": "string"
-          },
-          "type": "array"
         },
-        "languages": {
-          "description": "The languages used in the dataset",
-          "items": {
-            "$ref": "https://andrefs.com/schemas/2023/SemRelDatasets#/definitions/Language"
-          },
-          "type": "array"
+        "metadata": {
+            "$ref": "https://andrefs.com/schemas/2023/SemRelDatasets#/definitions/Metadata",
+            "description": "Metadata for the dataset"
         },
-        "license": {
-          "$ref": "https://andrefs.com/schemas/2023/SemRelDatasets#/definitions/License",
-          "description": "The license of the dataset"
-        },
-        "name": {
-          "description": "The name of the dataset",
-          "type": "string"
-        },
-        "papers": {
-          "description": "Information about the scientific papers describing the dataset",
-          "items": {
-            "$ref": "https://andrefs.com/schemas/2023/SemRelDatasets#/definitions/Paper"
-          },
-          "type": "array"
-        },
-        "relationTypes": {
-          "description": "Which type of semantic relations are used to compare the words",
-          "items": {
-            "$ref": "https://andrefs.com/schemas/2023/SemRelDatasets#/definitions/RelationType"
-          },
-          "type": "array"
-        },
-        "tags": {
-          "description": "Tags for the dataset content\nExamples:\n- mturk - the dataset was created using crowdsourcing (e.g. Amazon Mechanical Turk or CrowdFlower)\n- entities - the dataset contains entities (e.g. people, places, organizations)",
-          "items": {
+        "originalInstructions": {
+            "description": "The original instructions given to the annotators",
             "type": "string"
-          },
-          "type": "array"
         },
-        "urls": {
-          "description": "Web sites containing information about the dataset",
-          "items": {
-            "format": "uri",
-            "type": "string"
-          },
-          "type": "array"
-        },
-        "version": {
-          "description": "The version of the dataset",
-          "type": "string"
+        "partitions": {
+            "items": {
+                "$ref": "https://andrefs.com/schemas/2023/SemRelDatasets#/definitions/LazyPartition"
+            },
+            "type": "array"
         }
-      },
-      "required": [
-        "date",
-        "description",
-        "domain",
-        "downloadUrls",
-        "languages",
-        "name",
-        "papers",
-        "relationTypes",
-        "urls"
-      ],
-      "type": "object"
     },
-    "Paper": {
-      "additionalProperties": false,
-      "properties": {
-        "title": {
-          "description": "The title of the paper",
-          "type": "string"
-        },
-        "url": {
-          "description": "The URL where the paper can be found",
-          "format": "uri",
-          "type": "string"
-        }
-      },
-      "required": ["title"],
-      "type": "object"
-    },
-    "RelationType": {
-      "enum": ["relatedness", "similarity"],
-      "type": "string"
-    }
-  },
-  "properties": {
-    "id": {
-      "description": "An identifier for the dataset",
-      "minLength": 3,
-      "type": "string"
-    },
-    "metadata": {
-      "$ref": "https://andrefs.com/schemas/2023/SemRelDatasets#/definitions/Metadata",
-      "description": "Metadata for the dataset"
-    },
-    "originalInstructions": {
-      "description": "The original instructions given to the annotators",
-      "type": "string"
-    },
-    "partitions": {
-      "items": {
-        "$ref": "https://andrefs.com/schemas/2023/SemRelDatasets#/definitions/LazyPartition"
-      },
-      "type": "array"
-    }
-  },
-  "required": ["id", "metadata", "partitions"],
-  "type": "object"
+    "required": [
+        "id",
+        "metadata",
+        "partitions"
+    ],
+    "type": "object"
 }
+
