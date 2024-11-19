@@ -20,7 +20,7 @@ An identifier for the dataset
 
 #### Defined in
 
-[types.ts:13](https://github.com/andrefs/punuy-datasets/blob/cbec76be8e42cdabb98851820f7545574f2e914d/src/lib/types.ts#L13)
+[types.ts:13](https://github.com/andrefs/punuy-datasets/blob/59863e7de584dc14c9b26d5b10b8c2f8e30a51b5/src/lib/types.ts#L13)
 
 ***
 
@@ -32,7 +32,7 @@ Metadata for the dataset
 
 #### Defined in
 
-[types.ts:18](https://github.com/andrefs/punuy-datasets/blob/cbec76be8e42cdabb98851820f7545574f2e914d/src/lib/types.ts#L18)
+[types.ts:18](https://github.com/andrefs/punuy-datasets/blob/59863e7de584dc14c9b26d5b10b8c2f8e30a51b5/src/lib/types.ts#L18)
 
 ***
 
@@ -44,7 +44,7 @@ The original instructions given to the annotators
 
 #### Defined in
 
-[types.ts:23](https://github.com/andrefs/punuy-datasets/blob/cbec76be8e42cdabb98851820f7545574f2e914d/src/lib/types.ts#L23)
+[types.ts:23](https://github.com/andrefs/punuy-datasets/blob/59863e7de584dc14c9b26d5b10b8c2f8e30a51b5/src/lib/types.ts#L23)
 
 ***
 
@@ -56,4 +56,4 @@ The partitions containing the dataset data
 
 #### Defined in
 
-[types.ts:28](https://github.com/andrefs/punuy-datasets/blob/cbec76be8e42cdabb98851820f7545574f2e914d/src/lib/types.ts#L28)
+[types.ts:28](https://github.com/andrefs/punuy-datasets/blob/59863e7de584dc14c9b26d5b10b8c2f8e30a51b5/src/lib/types.ts#L28)

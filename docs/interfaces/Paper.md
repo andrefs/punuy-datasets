@@ -16,7 +16,7 @@ The title of the paper
 
 #### Defined in
 
-[types.ts:140](https://github.com/andrefs/punuy-datasets/blob/cbec76be8e42cdabb98851820f7545574f2e914d/src/lib/types.ts#L140)
+[types.ts:140](https://github.com/andrefs/punuy-datasets/blob/59863e7de584dc14c9b26d5b10b8c2f8e30a51b5/src/lib/types.ts#L140)
 
 ***
 
@@ -32,4 +32,4 @@ uri
 
 #### Defined in
 
-[types.ts:147](https://github.com/andrefs/punuy-datasets/blob/cbec76be8e42cdabb98851820f7545574f2e914d/src/lib/types.ts#L147)
+[types.ts:147](https://github.com/andrefs/punuy-datasets/blob/59863e7de584dc14c9b26d5b10b8c2f8e30a51b5/src/lib/types.ts#L147)
