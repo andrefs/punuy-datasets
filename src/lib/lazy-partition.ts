@@ -1,6 +1,5 @@
 import { Partition, PartitionData } from "./types";
 import fs from "fs";
-import logger from "./logger";
 
 export function fixPartData(
   part: PartitionData,
@@ -63,7 +62,10 @@ export function lazyPartition(
     get(target, prop, receiver) {
       if (prop === "data") {
         if (!_data) {
-          logger.debug(`Loading partition data from ${path}`);
+          // log with time stamp
+          console.warn(
+            `[${new Date().toLocaleTimeString()} Loading partition data from ${path}`
+          );
           _data = JSON.parse(fs.readFileSync(path, "utf-8")) as PartitionData[];
         }
 
