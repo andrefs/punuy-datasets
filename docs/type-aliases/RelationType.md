@@ -10,4 +10,4 @@
 
 ## Defined in
 
-[types.ts:134](https://github.com/andrefs/punuy-datasets/blob/75d9519b139eecc768933b8f33e071bdeb525bd0/src/lib/types.ts#L134)
+[types.ts:134](https://github.com/andrefs/punuy-datasets/blob/cbec76be8e42cdabb98851820f7545574f2e914d/src/lib/types.ts#L134)

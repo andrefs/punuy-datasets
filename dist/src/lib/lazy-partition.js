@@ -6,7 +6,6 @@ Object.defineProperty(exports, "__esModule", { value: true });
 exports.fixPartData = fixPartData;
 exports.lazyPartition = lazyPartition;
 const fs_1 = __importDefault(require("fs"));
-const logger_1 = __importDefault(require("./logger"));
 function fixPartData(part, options = {
     trim: true,
     replaceUTF8Quotes: true,
@@ -48,7 +47,8 @@ function lazyPartition(part, path, options = {}) {
         get(target, prop, receiver) {
             if (prop === "data") {
                 if (!_data) {
-                    logger_1.default.debug(`Loading partition data from ${path}`);
+                    // log with time stamp
+                    console.warn(`[${new Date().toLocaleTimeString()} Loading partition data from ${path}`);
                     _data = JSON.parse(fs_1.default.readFileSync(path, "utf-8"));
                 }
                 return _data.map(d => fixPartData(d, options));

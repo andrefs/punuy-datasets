@@ -7,11 +7,11 @@ const pino_1 = __importDefault(require("pino"));
 const level = process.env.PINO_LOG_LEVEL || "info";
 const transport = pino_1.default.transport({
     targets: [
-        {
-            level,
-            target: "pino/file",
-            options: { destination: `${__dirname}/../../app.log` },
-        },
+        //{
+        //  level,
+        //  target: "pino/file",
+        //  options: { destination: `${__dirname}/../../app.log` },
+        //},
         {
             level,
             target: "pino-pretty",
