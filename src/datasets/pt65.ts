@@ -1,6 +1,6 @@
 import { DatasetProfile, Partition } from "../lib/types";
 import { lazyPartition } from "../lib/lazy-partition";
-import dataset from "../../profiles/pt65/dataset.json";
+import dataset from "profiles/pt65/dataset.json";
 import path from "path";
 const folder = "../../profiles/pt65";
 
