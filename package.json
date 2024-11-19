@@ -16,12 +16,12 @@
     "postinstall": "patch-package",
     "test": "./src/scripts/validate-schema && ts-node src/scripts/check-chars.ts profiles/"
   },
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "main": "dist/src/index.js",
+  "types": "dist/src/index.d.ts",
   "exports": {
     ".": {
       "import": "./src/index.ts",
-      "require": "./src/index.js"
+      "require": "./dist/src/index.js"
     }
   },
   "repository": {
