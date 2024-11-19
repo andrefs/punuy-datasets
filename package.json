@@ -18,11 +18,16 @@
   },
   "main": "dist/src/index.js",
   "types": "dist/src/index.d.ts",
+  "files": [
+    "dist",
+    "profiles"
+  ],
   "exports": {
     ".": {
-      "import": "./src/index.ts",
+      "import": "./dist/src/index.js",
       "require": "./dist/src/index.js"
-    }
+    },
+    "./profiles": "./profiles"
   },
   "repository": {
     "type": "git",

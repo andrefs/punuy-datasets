@@ -1,2 +1,4 @@
 schema.json
 metrics.csv
+.aider*
+.env

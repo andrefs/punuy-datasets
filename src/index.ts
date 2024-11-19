@@ -48,6 +48,8 @@ import multisimlex from "./datasets/multisimlex";
 
 import emocon from "./datasets/emocon";
 
+export * from "./lib/types";
+
 export {
   bg100k,
   mayoSRS,
