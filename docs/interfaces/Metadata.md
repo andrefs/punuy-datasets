@@ -19,7 +19,7 @@ Examples:
 
 #### Defined in
 
-[types.ts:50](https://github.com/andrefs/punuy-datasets/blob/5a644ea221c4739ccf0c8fc3f61a69dee57fb670/src/lib/types.ts#L50)
+[types.ts:50](https://github.com/andrefs/punuy-datasets/blob/821fe807575c1c20c93f61e795eb13137041dd08/src/lib/types.ts#L50)
 
 ***
 
@@ -33,7 +33,7 @@ The date the dataset was published
 
 #### Defined in
 
-[types.ts:62](https://github.com/andrefs/punuy-datasets/blob/5a644ea221c4739ccf0c8fc3f61a69dee57fb670/src/lib/types.ts#L62)
+[types.ts:62](https://github.com/andrefs/punuy-datasets/blob/821fe807575c1c20c93f61e795eb13137041dd08/src/lib/types.ts#L62)
 
 ***
 
@@ -45,7 +45,7 @@ A description of the dataset
 
 #### Defined in
 
-[types.ts:67](https://github.com/andrefs/punuy-datasets/blob/5a644ea221c4739ccf0c8fc3f61a69dee57fb670/src/lib/types.ts#L67)
+[types.ts:67](https://github.com/andrefs/punuy-datasets/blob/821fe807575c1c20c93f61e795eb13137041dd08/src/lib/types.ts#L67)
 
 ***
 
@@ -57,7 +57,7 @@ The domain of the dataset
 
 #### Defined in
 
-[types.ts:85](https://github.com/andrefs/punuy-datasets/blob/5a644ea221c4739ccf0c8fc3f61a69dee57fb670/src/lib/types.ts#L85)
+[types.ts:85](https://github.com/andrefs/punuy-datasets/blob/821fe807575c1c20c93f61e795eb13137041dd08/src/lib/types.ts#L85)
 
 ***
 
@@ -71,7 +71,7 @@ URL(s) to download the dataset files
 
 #### Defined in
 
-[types.ts:74](https://github.com/andrefs/punuy-datasets/blob/5a644ea221c4739ccf0c8fc3f61a69dee57fb670/src/lib/types.ts#L74)
+[types.ts:74](https://github.com/andrefs/punuy-datasets/blob/821fe807575c1c20c93f61e795eb13137041dd08/src/lib/types.ts#L74)
 
 ***
 
@@ -83,7 +83,7 @@ The languages used in the dataset
 
 #### Defined in
 
-[types.ts:79](https://github.com/andrefs/punuy-datasets/blob/5a644ea221c4739ccf0c8fc3f61a69dee57fb670/src/lib/types.ts#L79)
+[types.ts:79](https://github.com/andrefs/punuy-datasets/blob/821fe807575c1c20c93f61e795eb13137041dd08/src/lib/types.ts#L79)
 
 ***
 
@@ -95,7 +95,7 @@ The license of the dataset
 
 #### Defined in
 
-[types.ts:103](https://github.com/andrefs/punuy-datasets/blob/5a644ea221c4739ccf0c8fc3f61a69dee57fb670/src/lib/types.ts#L103)
+[types.ts:103](https://github.com/andrefs/punuy-datasets/blob/821fe807575c1c20c93f61e795eb13137041dd08/src/lib/types.ts#L103)
 
 ***
 
@@ -107,7 +107,7 @@ The name of the dataset
 
 #### Defined in
 
-[types.ts:35](https://github.com/andrefs/punuy-datasets/blob/5a644ea221c4739ccf0c8fc3f61a69dee57fb670/src/lib/types.ts#L35)
+[types.ts:35](https://github.com/andrefs/punuy-datasets/blob/821fe807575c1c20c93f61e795eb13137041dd08/src/lib/types.ts#L35)
 
 ***
 
@@ -119,7 +119,7 @@ Information about the scientific papers describing the dataset
 
 #### Defined in
 
-[types.ts:55](https://github.com/andrefs/punuy-datasets/blob/5a644ea221c4739ccf0c8fc3f61a69dee57fb670/src/lib/types.ts#L55)
+[types.ts:55](https://github.com/andrefs/punuy-datasets/blob/821fe807575c1c20c93f61e795eb13137041dd08/src/lib/types.ts#L55)
 
 ***
 
@@ -131,7 +131,7 @@ Which type of semantic relations are used to compare the words
 
 #### Defined in
 
-[types.ts:90](https://github.com/andrefs/punuy-datasets/blob/5a644ea221c4739ccf0c8fc3f61a69dee57fb670/src/lib/types.ts#L90)
+[types.ts:90](https://github.com/andrefs/punuy-datasets/blob/821fe807575c1c20c93f61e795eb13137041dd08/src/lib/types.ts#L90)
 
 ***
 
@@ -146,7 +146,7 @@ Examples:
 
 #### Defined in
 
-[types.ts:98](https://github.com/andrefs/punuy-datasets/blob/5a644ea221c4739ccf0c8fc3f61a69dee57fb670/src/lib/types.ts#L98)
+[types.ts:98](https://github.com/andrefs/punuy-datasets/blob/821fe807575c1c20c93f61e795eb13137041dd08/src/lib/types.ts#L98)
 
 ***
 
@@ -160,7 +160,7 @@ Web sites containing information about the dataset
 
 #### Defined in
 
-[types.ts:42](https://github.com/andrefs/punuy-datasets/blob/5a644ea221c4739ccf0c8fc3f61a69dee57fb670/src/lib/types.ts#L42)
+[types.ts:42](https://github.com/andrefs/punuy-datasets/blob/821fe807575c1c20c93f61e795eb13137041dd08/src/lib/types.ts#L42)
 
 ***
 
@@ -178,4 +178,4 @@ The version of the dataset
 
 #### Defined in
 
-[types.ts:109](https://github.com/andrefs/punuy-datasets/blob/5a644ea221c4739ccf0c8fc3f61a69dee57fb670/src/lib/types.ts#L109)
+[types.ts:109](https://github.com/andrefs/punuy-datasets/blob/821fe807575c1c20c93f61e795eb13137041dd08/src/lib/types.ts#L109)

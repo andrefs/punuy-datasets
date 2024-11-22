@@ -21,6 +21,10 @@
         "LazyPartition": {
             "additionalProperties": false,
             "properties": {
+                "description": {
+                    "description": "A description of the partition",
+                    "type": "string"
+                },
                 "id": {
                     "description": "An identifier for the partition",
                     "type": "string"
@@ -148,6 +152,10 @@
                         "interAnnoAgreement"
                     ],
                     "type": "object"
+                },
+                "origName": {
+                    "description": "Original name of the partition",
+                    "type": "string"
                 },
                 "relationType": {
                     "$ref": "https://andrefs.com/schemas/2023/SemRelDatasets#/definitions/RelationType",

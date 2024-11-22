@@ -7,9 +7,7 @@
       "url": "https://creativecommons.org/publicdomain/zero/1.0/"
     },
     "authors": "Serguei V.S. Pakhomov, Greg Finley, Reed McEwan, Yan Wang, Genevieve B. Melton",
-    "urls": [
-      "https://conservancy.umn.edu/handle/11299/196265"
-    ],
+    "urls": ["https://conservancy.umn.edu/handle/11299/196265"],
     "papers": [
       {
         "title": "Corpus domain effects on distributional semantic modeling of medical terms",
@@ -22,14 +20,9 @@
       "https://conservancy.umn.edu/bitstream/handle/11299/196265/UMNSRS_similarity_mod449_word2vec.csv?sequence=5&isAllowed=y",
       "https://conservancy.umn.edu/bitstream/handle/11299/196265/UMNSRS_relatedness_mod458_word2vec.csv?sequence=6&isAllowed=y"
     ],
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "domain": "biomedical",
-    "relationTypes": [
-      "relatedness",
-      "similarity"
-    ]
+    "relationTypes": ["relatedness", "similarity"]
   },
   "partitions": [
     {
