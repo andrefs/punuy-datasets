@@ -154,6 +154,16 @@ export interface Partition {
   id: string;
 
   /**
+   * Original name of the partition
+   */
+  origName?: string;
+
+  /**
+   * A description of the partition
+   */
+  description?: string;
+
+  /**
    * Which type of semantic relation is used to compare the words
    */
   relationType: RelationType;
@@ -278,7 +288,7 @@ export type PartitionData = {
    */
   term2: string;
 } & (
-  | {
+    | {
       /**
        * The averaged numeric value of the semantic relation for the pair
        */
@@ -296,7 +306,7 @@ export type PartitionData = {
        */
       values?: (number | null)[];
     }
-  | {
+    | {
       /**
        * The averaged numeric value of the semantic relation for the pair
        */
@@ -309,4 +319,4 @@ export type PartitionData = {
        */
       values: number[];
     }
-);
+  );

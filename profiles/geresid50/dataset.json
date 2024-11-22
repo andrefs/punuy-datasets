@@ -21,13 +21,19 @@
     "downloadUrls": [
       "https://github.com/ucd-spatial/Datasets/blob/master/downloads/geresid-geo_relatedness_similarity_dataset.zip?raw=true"
     ],
-    "languages": ["en"],
+    "languages": [
+      "en"
+    ],
     "domain": "geographical",
-    "relationTypes": ["similarity", "relatedness"]
+    "relationTypes": [
+      "similarity",
+      "relatedness"
+    ]
   },
   "partitions": [
     {
-      "id": "GeReSiD-rel",
+      "id": "rel",
+      "origName": "GeReSiD-rel",
       "relationType": "relatedness",
       "scale": {
         "value": {
@@ -50,7 +56,8 @@
       }
     },
     {
-      "id": "GeReSiD-sim",
+      "id": "sim",
+      "origName": "GeReSiD-sim",
       "relationType": "similarity",
       "scale": {
         "value": {
