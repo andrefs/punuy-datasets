@@ -4,7 +4,7 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 const lazy_partition_1 = require("../lib/lazy-partition");
-const dataset_json_1 = __importDefault(require("../../profiles/ma28/dataset.json"));
+const dataset_json_1 = __importDefault(require("profiles/ma28/dataset.json"));
 const path_1 = __importDefault(require("path"));
 const folder = "../../profiles/ma28";
 const ds = Object.assign(Object.assign({}, dataset_json_1.default), { partitions: dataset_json_1.default.partitions.map(p => {
