@@ -1,0 +1,9902 @@
+[
+  {
+    "term1": "Pokemon",
+    "term2": "Pocket Monsters",
+    "value": 3.81,
+    "values": [
+      4.0,
+      3.5,
+      4.0,
+      3.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "prejudice",
+    "term2": "chauvinist",
+    "value": 2.25,
+    "values": [
+      2.5,
+      2.0,
+      2.0,
+      2.5,
+      1.5,
+      2.0,
+      2.5,
+      3.0
+    ]
+  },
+  {
+    "term1": "formic acid",
+    "term2": "arachnology",
+    "value": 1.19,
+    "values": [
+      1.0,
+      1.0,
+      2.0,
+      1.0,
+      1.5,
+      1.0,
+      1.5,
+      0.5
+    ]
+  },
+  {
+    "term1": "NetMeeting",
+    "term2": "Marwar Hall",
+    "value": 0.0,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "kingfish",
+    "term2": "kingship",
+    "value": 0.31,
+    "values": [
+      0.0,
+      0.5,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "iight",
+    "term2": "ok",
+    "value": 3.94,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      3.5,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "ACL",
+    "term2": "EMNLP",
+    "value": 3.13,
+    "values": [
+      3.0,
+      3.0,
+      3.0,
+      3.5,
+      3.0,
+      3.0,
+      3.5,
+      3.0
+    ]
+  },
+  {
+    "term1": "Qintex",
+    "term2": "Allwaste",
+    "value": 2.06,
+    "values": [
+      1.0,
+      2.5,
+      3.0,
+      1.0,
+      2.5,
+      1.0,
+      2.5,
+      3.0
+    ]
+  },
+  {
+    "term1": "Australian Open",
+    "term2": "mixed doubles",
+    "value": 1.88,
+    "values": [
+      1.5,
+      2.0,
+      1.0,
+      2.5,
+      2.0,
+      2.0,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "Curry powder",
+    "term2": "pumpkin spice",
+    "value": 2.75,
+    "values": [
+      2.0,
+      3.0,
+      3.0,
+      2.5,
+      3.0,
+      2.0,
+      4.0,
+      2.5
+    ]
+  },
+  {
+    "term1": "full-HD",
+    "term2": "1080p",
+    "value": 4.0,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "cheddah",
+    "term2": "cheddar",
+    "value": 0.25,
+    "values": [
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "convocation",
+    "term2": "gathering",
+    "value": 3.56,
+    "values": [
+      3.5,
+      3.5,
+      4.0,
+      3.5,
+      3.5,
+      3.0,
+      3.5,
+      4.0
+    ]
+  },
+  {
+    "term1": "random seed",
+    "term2": "BiLSTM",
+    "value": 1.56,
+    "values": [
+      1.0,
+      1.0,
+      1.0,
+      2.0,
+      1.5,
+      2.0,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "heater",
+    "term2": "convector",
+    "value": 3.5,
+    "values": [
+      3.5,
+      3.5,
+      3.0,
+      3.5,
+      3.5,
+      3.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "half-life",
+    "term2": "ratemeter",
+    "value": 1.81,
+    "values": [
+      1.5,
+      2.0,
+      1.0,
+      2.5,
+      2.0,
+      1.0,
+      2.5,
+      2.0
+    ]
+  },
+  {
+    "term1": "3D",
+    "term2": "black-and-white",
+    "value": 1.13,
+    "values": [
+      0.5,
+      1.5,
+      1.0,
+      1.0,
+      0.5,
+      1.0,
+      2.5,
+      1.0
+    ]
+  },
+  {
+    "term1": "Hero's engine",
+    "term2": "aeolipile",
+    "value": 4.0,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "Josef Albers",
+    "term2": "Richard Anuszkiewicz",
+    "value": 2.06,
+    "values": [
+      2.5,
+      0.5,
+      3.0,
+      2.5,
+      2.5,
+      2.0,
+      2.0,
+      1.5
+    ]
+  },
+  {
+    "term1": "MacBook",
+    "term2": "ZenBook",
+    "value": 3.13,
+    "values": [
+      3.5,
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.5,
+      3.0
+    ]
+  },
+  {
+    "term1": "microwaving",
+    "term2": "pesto",
+    "value": 0.75,
+    "values": [
+      0.5,
+      1.0,
+      0.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.5
+    ]
+  },
+  {
+    "term1": "primality",
+    "term2": "mathematics",
+    "value": 2.0,
+    "values": [
+      1.5,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.5
+    ]
+  },
+  {
+    "term1": "Park Ji-sung",
+    "term2": "Yosemite Park",
+    "value": 0.0,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "router",
+    "term2": "D-Link",
+    "value": 2.13,
+    "values": [
+      1.0,
+      1.5,
+      2.0,
+      2.5,
+      2.0,
+      2.0,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "term1": "Winamp",
+    "term2": "VLC media player",
+    "value": 3.19,
+    "values": [
+      3.0,
+      3.0,
+      3.0,
+      3.5,
+      3.0,
+      3.0,
+      3.5,
+      3.5
+    ]
+  },
+  {
+    "term1": "gown",
+    "term2": "pelerine",
+    "value": 2.38,
+    "values": [
+      2.0,
+      4.0,
+      0.0,
+      3.5,
+      2.0,
+      2.0,
+      2.5,
+      3.0
+    ]
+  },
+  {
+    "term1": "Malva parviflora",
+    "term2": "cheeseweed",
+    "value": 4.0,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "care",
+    "term2": "caution",
+    "value": 3.0,
+    "values": [
+      3.0,
+      3.0,
+      1.0,
+      3.5,
+      2.5,
+      3.5,
+      4.0,
+      3.5
+    ]
+  },
+  {
+    "term1": "rope-a-dope",
+    "term2": "WWE",
+    "value": 1.81,
+    "values": [
+      1.0,
+      2.0,
+      2.0,
+      2.5,
+      2.0,
+      2.0,
+      2.0,
+      1.0
+    ]
+  },
+  {
+    "term1": "oldster",
+    "term2": "dotard",
+    "value": 3.31,
+    "values": [
+      3.5,
+      3.0,
+      4.0,
+      3.5,
+      3.0,
+      2.0,
+      3.5,
+      4.0
+    ]
+  },
+  {
+    "term1": "navaid",
+    "term2": "HIV/Aids",
+    "value": 0.0,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "excellent",
+    "term2": "top-notch",
+    "value": 3.81,
+    "values": [
+      3.5,
+      4.0,
+      4.0,
+      3.5,
+      3.5,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "MIDlet",
+    "term2": "Oracle Java",
+    "value": 2.25,
+    "values": [
+      1.0,
+      3.0,
+      2.0,
+      2.5,
+      2.0,
+      2.0,
+      3.5,
+      2.0
+    ]
+  },
+  {
+    "term1": "fakelore",
+    "term2": "photostimulation",
+    "value": 0.06,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.5
+    ]
+  },
+  {
+    "term1": "black hole",
+    "term2": "blackmail",
+    "value": 0.06,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "night sky",
+    "term2": "skyglow",
+    "value": 1.94,
+    "values": [
+      1.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.5,
+      2.0
+    ]
+  },
+  {
+    "term1": "neuropore",
+    "term2": "nervous system",
+    "value": 2.31,
+    "values": [
+      2.5,
+      2.0,
+      2.0,
+      2.5,
+      2.0,
+      2.5,
+      2.5,
+      2.5
+    ]
+  },
+  {
+    "term1": "underspecification",
+    "term2": "incompleteness",
+    "value": 2.94,
+    "values": [
+      3.0,
+      3.5,
+      3.0,
+      3.0,
+      2.0,
+      3.0,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "term1": "exequatur",
+    "term2": "equator",
+    "value": 0.0,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "Rotary International",
+    "term2": "Rota Island",
+    "value": 0.06,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "TorPark",
+    "term2": "parkour",
+    "value": 0.0,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "yellow dwarf",
+    "term2": "yellow pages",
+    "value": 0.06,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "Mercedes-Benz",
+    "term2": "BMW",
+    "value": 3.13,
+    "values": [
+      3.5,
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.5,
+      3.0
+    ]
+  },
+  {
+    "term1": "circus",
+    "term2": "ropedancer",
+    "value": 2.0,
+    "values": [
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "Hoover hog",
+    "term2": "armadillo",
+    "value": 3.94,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      3.5,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "irresistibleness",
+    "term2": "illiterateness",
+    "value": 0.13,
+    "values": [
+      0.5,
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "metolazone",
+    "term2": "blazonry",
+    "value": 0.0,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "vasocongestion",
+    "term2": "engorgement",
+    "value": 2.88,
+    "values": [
+      2.5,
+      3.0,
+      3.0,
+      3.0,
+      2.5,
+      3.0,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "term1": "salicylic acid",
+    "term2": "carbonate",
+    "value": 2.31,
+    "values": [
+      2.0,
+      2.0,
+      3.0,
+      2.5,
+      3.0,
+      1.0,
+      3.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "Kepler-11",
+    "term2": "red giant",
+    "value": 2.56,
+    "values": [
+      2.5,
+      2.0,
+      2.0,
+      3.0,
+      3.0,
+      2.0,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "term1": "baby",
+    "term2": "cutee",
+    "value": 1.56,
+    "values": [
+      1.0,
+      2.0,
+      1.0,
+      2.5,
+      2.0,
+      1.0,
+      2.0,
+      1.0
+    ]
+  },
+  {
+    "term1": "Rubik's Cube",
+    "term2": "RuBisCO",
+    "value": 0.06,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "goatsbeard",
+    "term2": "tragopogon",
+    "value": 4.0,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "fundraiser",
+    "term2": "event",
+    "value": 2.0,
+    "values": [
+      1.5,
+      2.5,
+      2.0,
+      1.5,
+      2.5,
+      2.0,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "going",
+    "term2": "really",
+    "value": 0.0,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "transmigration",
+    "term2": "residence permit",
+    "value": 2.06,
+    "values": [
+      2.5,
+      2.0,
+      2.0,
+      1.5,
+      2.0,
+      2.5,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "prospector",
+    "term2": "sourdough",
+    "value": 3.56,
+    "values": [
+      3.5,
+      4.0,
+      4.0,
+      3.5,
+      3.5,
+      3.0,
+      3.5,
+      3.5
+    ]
+  },
+  {
+    "term1": "sorry",
+    "term2": "srry",
+    "value": 4.0,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "avionics",
+    "term2": "aeronautics",
+    "value": 2.5,
+    "values": [
+      2.0,
+      2.0,
+      2.0,
+      3.0,
+      2.5,
+      2.5,
+      4.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "rallentando",
+    "term2": "slowly",
+    "value": 2.88,
+    "values": [
+      2.0,
+      3.5,
+      2.0,
+      3.0,
+      3.0,
+      2.5,
+      3.5,
+      3.5
+    ]
+  },
+  {
+    "term1": "retweeting",
+    "term2": "RTing",
+    "value": 4.0,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "Apple",
+    "term2": "Applebees",
+    "value": 0.38,
+    "values": [
+      0.5,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0
+    ]
+  },
+  {
+    "term1": "exponential",
+    "term2": "logx",
+    "value": 2.38,
+    "values": [
+      2.5,
+      2.0,
+      2.0,
+      3.0,
+      2.0,
+      2.5,
+      3.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "Zeta-Jones",
+    "term2": "Catherine Zeta-Jones",
+    "value": 3.88,
+    "values": [
+      3.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "Mosul",
+    "term2": "Mawsil",
+    "value": 4.0,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "Pizza Hut",
+    "term2": "Pizzle rot",
+    "value": 0.06,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "remainder",
+    "term2": "difference",
+    "value": 2.44,
+    "values": [
+      1.5,
+      2.0,
+      4.0,
+      2.5,
+      2.0,
+      2.5,
+      3.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "preheat",
+    "term2": "reheat",
+    "value": 2.63,
+    "values": [
+      3.0,
+      2.0,
+      2.0,
+      3.5,
+      2.5,
+      2.5,
+      3.0,
+      2.5
+    ]
+  },
+  {
+    "term1": "disembodied",
+    "term2": "spiritual",
+    "value": 2.56,
+    "values": [
+      3.5,
+      2.0,
+      3.0,
+      2.5,
+      0.5,
+      3.0,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "term1": "crested tit",
+    "term2": "Amazon rainforest",
+    "value": 0.94,
+    "values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.5,
+      0.5,
+      1.5,
+      1.0
+    ]
+  },
+  {
+    "term1": "afterworld",
+    "term2": "purgatory",
+    "value": 2.88,
+    "values": [
+      2.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      2.5,
+      3.5,
+      3.0
+    ]
+  },
+  {
+    "term1": "screenshot",
+    "term2": "screengrab",
+    "value": 3.88,
+    "values": [
+      3.5,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      3.5,
+      4.0
+    ]
+  },
+  {
+    "term1": "practicable",
+    "term2": "goal",
+    "value": 1.13,
+    "values": [
+      1.0,
+      1.0,
+      1.0,
+      1.5,
+      1.0,
+      1.5,
+      0.5,
+      1.5
+    ]
+  },
+  {
+    "term1": "Skype Lite",
+    "term2": "ooVoo",
+    "value": 2.75,
+    "values": [
+      3.0,
+      3.0,
+      3.0,
+      2.5,
+      3.0,
+      2.0,
+      3.0,
+      2.5
+    ]
+  },
+  {
+    "term1": "decomposition",
+    "term2": "factorization",
+    "value": 3.31,
+    "values": [
+      3.5,
+      4.0,
+      2.0,
+      3.0,
+      3.0,
+      3.5,
+      3.5,
+      4.0
+    ]
+  },
+  {
+    "term1": "LOL",
+    "term2": "looool",
+    "value": 3.88,
+    "values": [
+      4.0,
+      4.0,
+      3.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "skateboard deck",
+    "term2": "halfpipe",
+    "value": 2.63,
+    "values": [
+      2.0,
+      3.0,
+      2.0,
+      3.0,
+      3.0,
+      3.5,
+      2.5,
+      2.0
+    ]
+  },
+  {
+    "term1": "Breuil-Cervinia",
+    "term2": "Val Gardena",
+    "value": 3.06,
+    "values": [
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.5,
+      3.0
+    ]
+  },
+  {
+    "term1": "inheritor",
+    "term2": "hoarded wealth",
+    "value": 1.94,
+    "values": [
+      2.0,
+      1.5,
+      2.0,
+      2.5,
+      1.5,
+      2.0,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "appendage",
+    "term2": "swimmeret",
+    "value": 2.69,
+    "values": [
+      2.0,
+      3.0,
+      2.0,
+      3.0,
+      3.0,
+      2.5,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "term1": "passenger",
+    "term2": "passepied",
+    "value": 0.06,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "tedious",
+    "term2": "old-fashioned",
+    "value": 1.0,
+    "values": [
+      1.0,
+      0.0,
+      1.0,
+      3.0,
+      0.0,
+      1.0,
+      1.5,
+      0.5
+    ]
+  },
+  {
+    "term1": "radionavigation",
+    "term2": "frequency band",
+    "value": 1.75,
+    "values": [
+      1.0,
+      1.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "Tag Heuer",
+    "term2": "Jaeger-LeCoultre",
+    "value": 3.13,
+    "values": [
+      3.0,
+      3.0,
+      3.0,
+      3.5,
+      3.0,
+      3.0,
+      3.5,
+      3.0
+    ]
+  },
+  {
+    "term1": "Followback",
+    "term2": "Twitter",
+    "value": 2.31,
+    "values": [
+      3.0,
+      1.0,
+      2.0,
+      2.5,
+      2.0,
+      3.0,
+      3.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "weekend",
+    "term2": "race",
+    "value": 0.13,
+    "values": [
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "septenary",
+    "term2": "Pleiades",
+    "value": 1.25,
+    "values": [
+      1.0,
+      1.5,
+      1.0,
+      0.5,
+      2.0,
+      1.0,
+      2.5,
+      0.5
+    ]
+  },
+  {
+    "term1": "monsignor",
+    "term2": "assignor",
+    "value": 0.25,
+    "values": [
+      1.5,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "preoccupation",
+    "term2": "prepossession",
+    "value": 1.19,
+    "values": [
+      2.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      1.5,
+      3.0,
+      1.0
+    ]
+  },
+  {
+    "term1": "spontaneousness",
+    "term2": "returnability",
+    "value": 0.31,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      1.0,
+      0.0,
+      0.5
+    ]
+  },
+  {
+    "term1": "under-appreciated",
+    "term2": "unnoticeable",
+    "value": 1.69,
+    "values": [
+      1.5,
+      2.0,
+      2.0,
+      2.5,
+      1.0,
+      1.5,
+      2.0,
+      1.0
+    ]
+  },
+  {
+    "term1": "covfefe",
+    "term2": "coverage",
+    "value": 2.69,
+    "values": [
+      0.0,
+      4.0,
+      4.0,
+      3.0,
+      2.5,
+      3.0,
+      3.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "devious",
+    "term2": "untrustworthy",
+    "value": 2.75,
+    "values": [
+      3.0,
+      2.0,
+      3.0,
+      2.5,
+      3.0,
+      2.5,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "term1": "comedian",
+    "term2": "stand-up",
+    "value": 2.44,
+    "values": [
+      2.0,
+      3.0,
+      2.0,
+      3.0,
+      2.0,
+      2.5,
+      2.0,
+      3.0
+    ]
+  },
+  {
+    "term1": "infant",
+    "term2": "breastfeeder",
+    "value": 2.19,
+    "values": [
+      1.5,
+      2.0,
+      2.0,
+      3.0,
+      2.0,
+      2.5,
+      2.5,
+      2.0
+    ]
+  },
+  {
+    "term1": "trusteeship",
+    "term2": "traineeship",
+    "value": 0.31,
+    "values": [
+      1.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      1.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "human face",
+    "term2": "make-up",
+    "value": 1.88,
+    "values": [
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      1.5,
+      2.0,
+      1.5,
+      2.0
+    ]
+  },
+  {
+    "term1": "backslash",
+    "term2": "backsolving",
+    "value": 0.19,
+    "values": [
+      0.0,
+      0.0,
+      1.0,
+      0.5,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "cr8",
+    "term2": "create",
+    "value": 3.94,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      3.5,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "fluoride",
+    "term2": "monofluoride",
+    "value": 3.31,
+    "values": [
+      3.5,
+      3.0,
+      3.0,
+      3.5,
+      3.5,
+      3.0,
+      3.5,
+      3.5
+    ]
+  },
+  {
+    "term1": "unforeseen",
+    "term2": "unanticipated",
+    "value": 3.88,
+    "values": [
+      3.5,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      3.5,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "fancifully",
+    "term2": "whimsically",
+    "value": 3.88,
+    "values": [
+      3.5,
+      4.0,
+      4.0,
+      3.5,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "Winn-Dixie",
+    "term2": "Winnipeg",
+    "value": 0.13,
+    "values": [
+      0.5,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "iPhone",
+    "term2": "bendgate",
+    "value": 1.94,
+    "values": [
+      1.0,
+      2.0,
+      2.0,
+      2.5,
+      2.0,
+      2.0,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "ultracompetitiveness",
+    "term2": "overcompetitiveness",
+    "value": 3.69,
+    "values": [
+      3.5,
+      4.0,
+      3.0,
+      4.0,
+      3.5,
+      3.5,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "1/4",
+    "term2": "quarter",
+    "value": 4.0,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "modern-day",
+    "term2": "futuristic",
+    "value": 2.38,
+    "values": [
+      1.0,
+      2.0,
+      3.0,
+      2.5,
+      2.0,
+      2.5,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "term1": "yeahh",
+    "term2": "yessss",
+    "value": 3.94,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      3.5,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "serious",
+    "term2": "tongue-in-cheek",
+    "value": 1.88,
+    "values": [
+      1.5,
+      2.0,
+      2.0,
+      3.0,
+      2.0,
+      1.0,
+      2.0,
+      1.5
+    ]
+  },
+  {
+    "term1": "New Zealander",
+    "term2": "enzedder",
+    "value": 4.0,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "circumnavigation",
+    "term2": "baggage",
+    "value": 1.44,
+    "values": [
+      1.0,
+      0.5,
+      2.0,
+      1.5,
+      2.0,
+      2.0,
+      1.5,
+      1.0
+    ]
+  },
+  {
+    "term1": "school",
+    "term2": "intramural program",
+    "value": 1.81,
+    "values": [
+      1.5,
+      2.0,
+      1.0,
+      2.5,
+      2.0,
+      2.0,
+      2.5,
+      1.0
+    ]
+  },
+  {
+    "term1": "iMac",
+    "term2": "hairgate",
+    "value": 0.94,
+    "values": [
+      0.5,
+      1.0,
+      1.0,
+      1.5,
+      1.0,
+      1.0,
+      0.5,
+      1.0
+    ]
+  },
+  {
+    "term1": "driver",
+    "term2": "autoinstall",
+    "value": 1.5,
+    "values": [
+      1.0,
+      1.0,
+      1.0,
+      1.5,
+      2.0,
+      2.0,
+      1.5,
+      2.0
+    ]
+  },
+  {
+    "term1": "credit",
+    "term2": "borrower",
+    "value": 2.0,
+    "values": [
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.5,
+      1.5,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "saving",
+    "term2": "saver",
+    "value": 2.44,
+    "values": [
+      1.5,
+      3.0,
+      2.0,
+      3.0,
+      2.5,
+      2.5,
+      2.0,
+      3.0
+    ]
+  },
+  {
+    "term1": "hearth tax",
+    "term2": "property tax",
+    "value": 3.44,
+    "values": [
+      3.5,
+      3.5,
+      3.0,
+      3.0,
+      4.0,
+      3.0,
+      3.5,
+      4.0
+    ]
+  },
+  {
+    "term1": "Britain First",
+    "term2": "racism",
+    "value": 2.31,
+    "values": [
+      2.0,
+      2.0,
+      2.0,
+      3.0,
+      3.0,
+      2.5,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "fetishism",
+    "term2": "fractionate",
+    "value": 0.0,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "carboxylesterase",
+    "term2": "carbonara",
+    "value": 0.06,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "wandmaker",
+    "term2": "Xanthosoma",
+    "value": 0.0,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "bootjack",
+    "term2": "blackjack",
+    "value": 0.19,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  },
+  {
+    "term1": "lecturership",
+    "term2": "ERC grant",
+    "value": 1.31,
+    "values": [
+      0.5,
+      1.0,
+      1.0,
+      2.0,
+      1.5,
+      1.5,
+      2.0,
+      1.0
+    ]
+  },
+  {
+    "term1": "imaginativeness",
+    "term2": "non-existent",
+    "value": 1.81,
+    "values": [
+      1.0,
+      2.0,
+      2.0,
+      1.0,
+      1.5,
+      2.0,
+      3.5,
+      1.5
+    ]
+  },
+  {
+    "term1": "swimwear",
+    "term2": "swimshorts",
+    "value": 3.0,
+    "values": [
+      3.0,
+      3.0,
+      2.0,
+      3.5,
+      3.0,
+      2.5,
+      3.5,
+      3.5
+    ]
+  },
+  {
+    "term1": "grocery",
+    "term2": "Wal-Mart",
+    "value": 2.31,
+    "values": [
+      1.5,
+      3.0,
+      2.0,
+      3.0,
+      2.0,
+      2.5,
+      2.5,
+      2.0
+    ]
+  },
+  {
+    "term1": "office",
+    "term2": "desklamp",
+    "value": 2.0,
+    "values": [
+      1.0,
+      2.0,
+      2.0,
+      2.5,
+      2.5,
+      2.0,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "circumcision",
+    "term2": "foreskin",
+    "value": 2.13,
+    "values": [
+      2.0,
+      2.0,
+      2.0,
+      2.5,
+      2.0,
+      2.5,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "Phelps",
+    "term2": "Philips",
+    "value": 0.88,
+    "values": [
+      0.5,
+      0.0,
+      0.0,
+      0.5,
+      3.0,
+      1.0,
+      2.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "reverse engineering",
+    "term2": "copy protection",
+    "value": 1.25,
+    "values": [
+      0.5,
+      1.0,
+      1.0,
+      1.5,
+      0.5,
+      1.0,
+      2.5,
+      2.0
+    ]
+  },
+  {
+    "term1": "heart-wrenching",
+    "term2": "spanner",
+    "value": 0.0,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "unprecedented",
+    "term2": "unexpected",
+    "value": 2.75,
+    "values": [
+      3.5,
+      3.0,
+      1.0,
+      2.5,
+      3.0,
+      3.0,
+      3.5,
+      2.5
+    ]
+  },
+  {
+    "term1": "smallish",
+    "term2": "dwarfish",
+    "value": 3.06,
+    "values": [
+      3.0,
+      3.0,
+      3.0,
+      4.0,
+      3.0,
+      2.5,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "term1": "chasable",
+    "term2": "purchasable",
+    "value": 0.5,
+    "values": [
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      2.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "highlander",
+    "term2": "pathfinder",
+    "value": 1.94,
+    "values": [
+      0.5,
+      3.0,
+      1.0,
+      2.0,
+      1.0,
+      2.0,
+      3.5,
+      2.5
+    ]
+  },
+  {
+    "term1": "borrowing",
+    "term2": "loanword",
+    "value": 3.19,
+    "values": [
+      2.5,
+      4.0,
+      2.0,
+      3.0,
+      3.0,
+      3.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "DHL Express",
+    "term2": "Deutsche Bundespost",
+    "value": 2.94,
+    "values": [
+      3.0,
+      3.0,
+      3.0,
+      2.5,
+      3.0,
+      3.0,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "term1": "value",
+    "term2": "rate",
+    "value": 1.81,
+    "values": [
+      1.5,
+      2.0,
+      2.0,
+      2.0,
+      1.5,
+      2.0,
+      2.5,
+      1.0
+    ]
+  },
+  {
+    "term1": "witch-hunt",
+    "term2": "McCarthyism",
+    "value": 2.81,
+    "values": [
+      2.5,
+      3.5,
+      3.0,
+      3.0,
+      3.0,
+      2.0,
+      3.0,
+      2.5
+    ]
+  },
+  {
+    "term1": "leggin",
+    "term2": "legging",
+    "value": 4.0,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "run-of-the-mill",
+    "term2": "ordinary",
+    "value": 3.44,
+    "values": [
+      3.0,
+      4.0,
+      4.0,
+      3.5,
+      3.0,
+      2.5,
+      3.5,
+      4.0
+    ]
+  },
+  {
+    "term1": "ropewalker",
+    "term2": "tightrope",
+    "value": 2.13,
+    "values": [
+      1.5,
+      2.0,
+      2.0,
+      2.5,
+      2.0,
+      2.0,
+      3.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "Ben-Hur",
+    "term2": "Titanic",
+    "value": 1.56,
+    "values": [
+      1.0,
+      1.0,
+      2.0,
+      1.0,
+      2.5,
+      1.0,
+      2.5,
+      1.5
+    ]
+  },
+  {
+    "term1": "1st",
+    "term2": "2nd",
+    "value": 2.88,
+    "values": [
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      2.0,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "term1": "tonbak",
+    "term2": "tombac alloy",
+    "value": 0.5,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      3.5,
+      0.0
+    ]
+  },
+  {
+    "term1": "twitcon",
+    "term2": "twitch",
+    "value": 0.06,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "threadworm",
+    "term2": "pinworm",
+    "value": 3.69,
+    "values": [
+      4.0,
+      3.0,
+      4.0,
+      3.5,
+      3.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "roller-coaster",
+    "term2": "Disneyland Park",
+    "value": 2.13,
+    "values": [
+      1.5,
+      2.0,
+      2.0,
+      2.5,
+      2.0,
+      2.0,
+      3.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "wrathful",
+    "term2": "hesitant",
+    "value": 0.38,
+    "values": [
+      0.5,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      0.5
+    ]
+  },
+  {
+    "term1": "Ebola",
+    "term2": "hyperbola",
+    "value": 0.0,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "promegakaryocyte",
+    "term2": "precursor",
+    "value": 2.69,
+    "values": [
+      3.0,
+      3.0,
+      2.0,
+      3.0,
+      2.0,
+      2.5,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "term1": "tasteless",
+    "term2": "indelicate",
+    "value": 3.06,
+    "values": [
+      3.0,
+      3.0,
+      3.0,
+      3.5,
+      3.0,
+      2.5,
+      3.0,
+      3.5
+    ]
+  },
+  {
+    "term1": "unwantedly",
+    "term2": "unintendedly",
+    "value": 3.38,
+    "values": [
+      3.5,
+      4.0,
+      3.0,
+      4.0,
+      1.5,
+      3.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "Head tilt",
+    "term2": "cervix",
+    "value": 2.06,
+    "values": [
+      1.5,
+      2.0,
+      2.0,
+      3.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "relaxed",
+    "term2": "nerveless",
+    "value": 3.06,
+    "values": [
+      3.0,
+      3.0,
+      3.0,
+      3.5,
+      3.0,
+      3.0,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "term1": "3rd",
+    "term2": "third",
+    "value": 4.0,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "self-driving",
+    "term2": "unmanned",
+    "value": 3.13,
+    "values": [
+      3.0,
+      2.5,
+      3.0,
+      3.5,
+      3.0,
+      3.0,
+      3.5,
+      3.5
+    ]
+  },
+  {
+    "term1": "leadscrew",
+    "term2": "leader",
+    "value": 0.13,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      0.5,
+      0.0
+    ]
+  },
+  {
+    "term1": "constable",
+    "term2": "metpoliceuk",
+    "value": 2.44,
+    "values": [
+      2.0,
+      3.0,
+      2.0,
+      3.0,
+      1.5,
+      2.5,
+      3.0,
+      2.5
+    ]
+  },
+  {
+    "term1": "eye-candy",
+    "term2": "mesomorphic",
+    "value": 1.06,
+    "values": [
+      0.0,
+      1.5,
+      1.0,
+      1.5,
+      1.5,
+      1.0,
+      0.5,
+      1.5
+    ]
+  },
+  {
+    "term1": "real-world",
+    "term2": "real-life",
+    "value": 3.56,
+    "values": [
+      3.0,
+      3.5,
+      3.0,
+      4.0,
+      4.0,
+      3.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "bystrite",
+    "term2": "strike",
+    "value": 0.0,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "union",
+    "term2": "sum",
+    "value": 2.81,
+    "values": [
+      2.5,
+      3.0,
+      3.0,
+      2.5,
+      3.0,
+      2.5,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "term1": "weaving",
+    "term2": "tussah",
+    "value": 1.56,
+    "values": [
+      0.5,
+      1.0,
+      2.0,
+      2.5,
+      2.0,
+      1.0,
+      2.5,
+      1.0
+    ]
+  },
+  {
+    "term1": "manpage",
+    "term2": "helpsheet",
+    "value": 3.25,
+    "values": [
+      3.0,
+      3.5,
+      3.0,
+      3.5,
+      3.0,
+      3.0,
+      3.5,
+      3.5
+    ]
+  },
+  {
+    "term1": "bureau",
+    "term2": "subdepartment",
+    "value": 2.56,
+    "values": [
+      1.0,
+      3.0,
+      2.0,
+      3.0,
+      3.0,
+      2.5,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "term1": "cover",
+    "term2": "horsecloth",
+    "value": 2.44,
+    "values": [
+      1.5,
+      3.0,
+      2.0,
+      2.5,
+      2.0,
+      2.5,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "term1": "non-refundable",
+    "term2": "irredeemable",
+    "value": 2.63,
+    "values": [
+      2.5,
+      2.0,
+      2.0,
+      4.0,
+      2.5,
+      3.0,
+      3.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "hemorrhage",
+    "term2": "2morro",
+    "value": 0.0,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "knifemaking",
+    "term2": "spoonworm",
+    "value": 0.0,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "boatmaster",
+    "term2": "captain",
+    "value": 3.44,
+    "values": [
+      3.0,
+      3.5,
+      3.0,
+      3.0,
+      4.0,
+      3.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "bloodloss",
+    "term2": "radiotherapist",
+    "value": 0.88,
+    "values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "copilot",
+    "term2": "cockpit",
+    "value": 1.94,
+    "values": [
+      1.5,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "scam",
+    "term2": "cybershopping",
+    "value": 1.06,
+    "values": [
+      0.0,
+      0.5,
+      1.0,
+      3.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "term1": "screensaver",
+    "term2": "FoodSaver",
+    "value": 0.19,
+    "values": [
+      0.0,
+      0.0,
+      1.0,
+      0.5,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "headword",
+    "term2": "syntax",
+    "value": 1.75,
+    "values": [
+      1.0,
+      1.0,
+      1.0,
+      2.5,
+      2.0,
+      2.5,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "slam-bang",
+    "term2": "suddenly",
+    "value": 3.25,
+    "values": [
+      3.0,
+      3.5,
+      3.0,
+      3.0,
+      3.5,
+      3.0,
+      3.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "pyelography",
+    "term2": "urography",
+    "value": 3.44,
+    "values": [
+      3.0,
+      3.5,
+      4.0,
+      3.5,
+      3.0,
+      4.0,
+      2.5,
+      4.0
+    ]
+  },
+  {
+    "term1": "sandglass",
+    "term2": "hourglass",
+    "value": 3.88,
+    "values": [
+      4.0,
+      4.0,
+      3.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "sleepwalking",
+    "term2": "somnambulists",
+    "value": 3.88,
+    "values": [
+      4.0,
+      3.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "Colorado Technical University",
+    "term2": "Colorado Tech",
+    "value": 4.0,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "dishwasher-safe",
+    "term2": "sturdy",
+    "value": 1.69,
+    "values": [
+      0.0,
+      1.0,
+      1.0,
+      2.5,
+      2.0,
+      2.5,
+      2.5,
+      2.0
+    ]
+  },
+  {
+    "term1": "galvanize",
+    "term2": "zinc",
+    "value": 2.38,
+    "values": [
+      2.0,
+      2.0,
+      2.0,
+      2.5,
+      2.5,
+      2.5,
+      2.0,
+      3.5
+    ]
+  },
+  {
+    "term1": "banksia",
+    "term2": "Banksy",
+    "value": 0.06,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "teary-eyed",
+    "term2": "misty-eyed",
+    "value": 3.63,
+    "values": [
+      3.0,
+      4.0,
+      4.0,
+      3.5,
+      3.5,
+      3.5,
+      4.0,
+      3.5
+    ]
+  },
+  {
+    "term1": "protrusion",
+    "term2": "bewitchment",
+    "value": 0.0,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "preteen",
+    "term2": "preadolescent",
+    "value": 3.5,
+    "values": [
+      3.0,
+      3.5,
+      4.0,
+      3.0,
+      4.0,
+      2.5,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "bowling",
+    "term2": "bowler",
+    "value": 2.38,
+    "values": [
+      2.0,
+      2.5,
+      2.0,
+      3.0,
+      2.5,
+      2.0,
+      2.0,
+      3.0
+    ]
+  },
+  {
+    "term1": "aviation",
+    "term2": "airscoop",
+    "value": 1.75,
+    "values": [
+      1.5,
+      1.0,
+      2.0,
+      2.5,
+      2.0,
+      1.0,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "Golden Delicious",
+    "term2": "Aldi",
+    "value": 0.75,
+    "values": [
+      0.5,
+      0.5,
+      1.0,
+      1.5,
+      1.0,
+      0.0,
+      1.0,
+      0.5
+    ]
+  },
+  {
+    "term1": "platelayer",
+    "term2": "media player",
+    "value": 0.06,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "casteless",
+    "term2": "portrayer",
+    "value": 0.25,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      2.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "pretax income",
+    "term2": "gross salary",
+    "value": 3.31,
+    "values": [
+      3.5,
+      4.0,
+      3.0,
+      2.5,
+      3.5,
+      3.0,
+      3.5,
+      3.5
+    ]
+  },
+  {
+    "term1": "understood",
+    "term2": "gotchu",
+    "value": 3.81,
+    "values": [
+      3.5,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      3.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "payment",
+    "term2": "reward",
+    "value": 2.63,
+    "values": [
+      2.5,
+      4.0,
+      2.0,
+      2.5,
+      2.0,
+      2.0,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "term1": "security",
+    "term2": "immobilizer",
+    "value": 2.25,
+    "values": [
+      2.0,
+      3.0,
+      2.0,
+      3.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "dysentery",
+    "term2": "paratyphoid",
+    "value": 2.56,
+    "values": [
+      2.0,
+      2.0,
+      2.0,
+      3.0,
+      3.0,
+      2.5,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "term1": "BitTorrent",
+    "term2": "peer-to-peer",
+    "value": 2.69,
+    "values": [
+      2.5,
+      3.0,
+      2.0,
+      3.0,
+      3.0,
+      3.0,
+      2.5,
+      2.5
+    ]
+  },
+  {
+    "term1": "beleaguering",
+    "term2": "besieging",
+    "value": 3.56,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      1.5,
+      4.0,
+      3.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "Christiane Amanpour",
+    "term2": "Hala Gorani",
+    "value": 2.44,
+    "values": [
+      3.0,
+      2.0,
+      2.0,
+      1.5,
+      3.0,
+      3.0,
+      2.0,
+      3.0
+    ]
+  },
+  {
+    "term1": "infection",
+    "term2": "inflection",
+    "value": 0.25,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      0.5,
+      1.0
+    ]
+  },
+  {
+    "term1": "hard-boiled",
+    "term2": "pugnacious",
+    "value": 3.81,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      3.0,
+      4.0,
+      3.5,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "flying fox",
+    "term2": "wurbagool",
+    "value": 3.19,
+    "values": [
+      3.5,
+      3.0,
+      2.0,
+      3.5,
+      3.5,
+      3.0,
+      3.5,
+      3.5
+    ]
+  },
+  {
+    "term1": "bone",
+    "term2": "pseudofracture",
+    "value": 1.69,
+    "values": [
+      1.0,
+      1.0,
+      2.0,
+      2.0,
+      2.0,
+      2.5,
+      1.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "intertitle",
+    "term2": "title card",
+    "value": 3.75,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      3.0,
+      3.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "Athlete's Foot",
+    "term2": "tinea pedis",
+    "value": 3.63,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      1.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "exchange",
+    "term2": "replacement",
+    "value": 2.63,
+    "values": [
+      2.0,
+      3.0,
+      2.0,
+      3.5,
+      2.0,
+      3.0,
+      2.5,
+      3.0
+    ]
+  },
+  {
+    "term1": "hyporesponsiveness",
+    "term2": "hyponymy",
+    "value": 0.13,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      0.5,
+      0.0
+    ]
+  },
+  {
+    "term1": "skimobile",
+    "term2": "T-Mobile",
+    "value": 0.06,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "cannoli",
+    "term2": "Haagen-Dazs",
+    "value": 1.56,
+    "values": [
+      1.5,
+      1.0,
+      2.0,
+      2.0,
+      2.0,
+      1.0,
+      2.0,
+      1.0
+    ]
+  },
+  {
+    "term1": "white horehound",
+    "term2": "Marrubium vulgare",
+    "value": 4.0,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "metapsychology",
+    "term2": "schizophrenia",
+    "value": 1.5,
+    "values": [
+      1.0,
+      1.0,
+      1.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      1.0
+    ]
+  },
+  {
+    "term1": "mousse",
+    "term2": "yellowcake",
+    "value": 0.0,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "schemer",
+    "term2": "strategist",
+    "value": 2.56,
+    "values": [
+      2.5,
+      3.0,
+      2.0,
+      3.0,
+      2.0,
+      3.0,
+      3.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "first milk",
+    "term2": "colostrum",
+    "value": 4.0,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "genetics",
+    "term2": "genethics",
+    "value": 2.25,
+    "values": [
+      2.0,
+      2.0,
+      2.0,
+      3.0,
+      2.5,
+      2.0,
+      2.5,
+      2.0
+    ]
+  },
+  {
+    "term1": "FIVB",
+    "term2": "AFib",
+    "value": 0.06,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "thing",
+    "term2": "think",
+    "value": 0.0,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "AccuRay",
+    "term2": "AccuWeather",
+    "value": 0.25,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      1.0,
+      0.0,
+      0.5,
+      0.0
+    ]
+  },
+  {
+    "term1": "Anthony Joshua",
+    "term2": "Persepolis",
+    "value": 0.69,
+    "values": [
+      0.0,
+      0.0,
+      1.0,
+      0.5,
+      0.5,
+      1.0,
+      2.0,
+      0.5
+    ]
+  },
+  {
+    "term1": "slipper",
+    "term2": "daysleeper",
+    "value": 0.25,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.5,
+      1.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "romance",
+    "term2": "tweethearts",
+    "value": 2.06,
+    "values": [
+      2.0,
+      2.0,
+      2.0,
+      2.5,
+      2.0,
+      2.5,
+      2.5,
+      1.0
+    ]
+  },
+  {
+    "term1": "matchlock",
+    "term2": "arquebusier",
+    "value": 1.25,
+    "values": [
+      0.5,
+      1.0,
+      1.0,
+      2.0,
+      1.0,
+      1.5,
+      2.0,
+      1.0
+    ]
+  },
+  {
+    "term1": "chickpea",
+    "term2": "Chick-fil-A",
+    "value": 0.44,
+    "values": [
+      1.0,
+      0.0,
+      1.0,
+      0.5,
+      0.0,
+      0.0,
+      1.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "3D glasses",
+    "term2": "one-dimensional",
+    "value": 1.13,
+    "values": [
+      0.5,
+      1.0,
+      1.0,
+      3.0,
+      0.5,
+      0.5,
+      1.5,
+      1.0
+    ]
+  },
+  {
+    "term1": "AKG",
+    "term2": "Mercedes-AMG",
+    "value": 0.44,
+    "values": [
+      0.5,
+      0.0,
+      1.0,
+      0.5,
+      1.0,
+      0.0,
+      0.5,
+      0.0
+    ]
+  },
+  {
+    "term1": "minute of arc",
+    "term2": "arcmin",
+    "value": 3.88,
+    "values": [
+      3.5,
+      4.0,
+      4.0,
+      3.5,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "red tape",
+    "term2": "political campaign",
+    "value": 0.81,
+    "values": [
+      1.0,
+      0.0,
+      1.0,
+      1.5,
+      0.5,
+      0.5,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "term1": "postmortem examination",
+    "term2": "autopsy",
+    "value": 4.0,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "unformed",
+    "term2": "uniformed",
+    "value": 0.13,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      0.5,
+      0.0
+    ]
+  },
+  {
+    "term1": "Addison's Disease",
+    "term2": "corticosteroid",
+    "value": 2.06,
+    "values": [
+      1.5,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.5,
+      2.5,
+      2.0
+    ]
+  },
+  {
+    "term1": "roofball",
+    "term2": "backyard",
+    "value": 0.56,
+    "values": [
+      0.5,
+      0.0,
+      1.0,
+      1.0,
+      0.5,
+      0.5,
+      1.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "Guasacaca",
+    "term2": "gnocchi",
+    "value": 1.25,
+    "values": [
+      2.0,
+      1.0,
+      1.0,
+      1.0,
+      2.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "term1": "x-intercept",
+    "term2": "inception",
+    "value": 0.5,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      0.5,
+      3.0
+    ]
+  },
+  {
+    "term1": "Sotloff",
+    "term2": "type-c",
+    "value": 0.0,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "Boko Haram",
+    "term2": "Taliban",
+    "value": 2.81,
+    "values": [
+      3.0,
+      2.0,
+      2.0,
+      3.5,
+      3.0,
+      3.0,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "term1": "Nobelist",
+    "term2": "novelist",
+    "value": 0.44,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      3.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "prognosticator",
+    "term2": "foreteller",
+    "value": 3.75,
+    "values": [
+      3.5,
+      4.0,
+      4.0,
+      3.5,
+      3.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "editor",
+    "term2": "Redditor",
+    "value": 1.25,
+    "values": [
+      1.0,
+      1.0,
+      0.0,
+      2.5,
+      0.0,
+      2.0,
+      2.5,
+      1.0
+    ]
+  },
+  {
+    "term1": "director",
+    "term2": "cinematography",
+    "value": 2.0,
+    "values": [
+      1.5,
+      1.0,
+      2.0,
+      2.5,
+      2.5,
+      2.5,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "pike",
+    "term2": "spontoon",
+    "value": 3.25,
+    "values": [
+      3.0,
+      4.0,
+      3.0,
+      3.5,
+      3.0,
+      2.5,
+      3.5,
+      3.5
+    ]
+  },
+  {
+    "term1": "autopilot",
+    "term2": "autophyte",
+    "value": 0.25,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "term1": "surrounding",
+    "term2": "ecclesiastic",
+    "value": 0.0,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "abetalipoproteinemia",
+    "term2": "familial dysbetalipoproteinemia",
+    "value": 2.44,
+    "values": [
+      2.5,
+      1.0,
+      3.0,
+      3.0,
+      3.0,
+      2.0,
+      3.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "do-over",
+    "term2": "leftover",
+    "value": 0.25,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "perpend",
+    "term2": "stipend",
+    "value": 0.0,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "placidity",
+    "term2": "acidity",
+    "value": 0.06,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "IOCCC",
+    "term2": "ACM-ICPC",
+    "value": 2.81,
+    "values": [
+      2.5,
+      3.0,
+      3.0,
+      2.5,
+      3.0,
+      3.0,
+      3.0,
+      2.5
+    ]
+  },
+  {
+    "term1": "ISIS",
+    "term2": "terrorism",
+    "value": 2.75,
+    "values": [
+      3.0,
+      3.0,
+      2.0,
+      3.5,
+      3.0,
+      2.0,
+      3.0,
+      2.5
+    ]
+  },
+  {
+    "term1": "undersuit",
+    "term2": "understanding",
+    "value": 0.06,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "saccharose",
+    "term2": "sucrose",
+    "value": 3.94,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      3.5,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "DVB-H",
+    "term2": "mobile TV",
+    "value": 2.75,
+    "values": [
+      2.0,
+      3.0,
+      2.0,
+      2.5,
+      3.0,
+      3.0,
+      3.0,
+      3.5
+    ]
+  },
+  {
+    "term1": "science-fiction",
+    "term2": "sci-fi",
+    "value": 4.0,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "swan",
+    "term2": "seaduck",
+    "value": 2.81,
+    "values": [
+      3.0,
+      2.0,
+      3.0,
+      3.0,
+      3.0,
+      2.5,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "term1": "plane",
+    "term2": "sheet",
+    "value": 0.75,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      1.5,
+      1.0,
+      2.5,
+      0.0
+    ]
+  },
+  {
+    "term1": "amusement park",
+    "term2": "hypercoaster",
+    "value": 2.25,
+    "values": [
+      2.0,
+      2.0,
+      2.0,
+      3.0,
+      2.0,
+      2.0,
+      3.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "ATI",
+    "term2": "Nvidia",
+    "value": 3.06,
+    "values": [
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.5,
+      3.0
+    ]
+  },
+  {
+    "term1": "choice",
+    "term2": "election",
+    "value": 2.13,
+    "values": [
+      2.5,
+      2.0,
+      2.0,
+      1.5,
+      2.0,
+      2.0,
+      3.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "little bee-eater",
+    "term2": "Merops pusillus",
+    "value": 4.0,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "b-day",
+    "term2": "present",
+    "value": 2.0,
+    "values": [
+      2.0,
+      2.0,
+      2.0,
+      2.5,
+      2.0,
+      2.0,
+      1.5,
+      2.0
+    ]
+  },
+  {
+    "term1": "Kilroy-Silk",
+    "term2": "Nick Clegg",
+    "value": 2.5,
+    "values": [
+      2.5,
+      2.0,
+      3.0,
+      2.5,
+      3.0,
+      2.0,
+      2.0,
+      3.0
+    ]
+  },
+  {
+    "term1": "orogeny",
+    "term2": "progeny",
+    "value": 0.19,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      1.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "Yun-Fat",
+    "term2": "fatness",
+    "value": 0.0,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "ballistic missile",
+    "term2": "combust",
+    "value": 1.31,
+    "values": [
+      0.5,
+      1.0,
+      2.0,
+      1.5,
+      1.5,
+      1.0,
+      1.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "slave",
+    "term2": "hierodule",
+    "value": 3.13,
+    "values": [
+      3.0,
+      3.5,
+      3.0,
+      3.5,
+      3.0,
+      3.0,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "term1": "combination",
+    "term2": "union",
+    "value": 2.88,
+    "values": [
+      3.0,
+      3.0,
+      3.0,
+      2.5,
+      2.5,
+      2.0,
+      4.0,
+      3.0
+    ]
+  },
+  {
+    "term1": "2mro",
+    "term2": "tomorrow",
+    "value": 4.0,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "pestis",
+    "term2": "pestilence",
+    "value": 4.0,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "CUDA",
+    "term2": "parallelize",
+    "value": 2.13,
+    "values": [
+      2.5,
+      2.0,
+      2.0,
+      2.5,
+      2.0,
+      2.0,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "Kurdish",
+    "term2": "Turkey",
+    "value": 2.5,
+    "values": [
+      3.0,
+      2.0,
+      2.0,
+      3.0,
+      2.0,
+      2.0,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "term1": "syllable",
+    "term2": "lemma",
+    "value": 2.13,
+    "values": [
+      1.5,
+      2.0,
+      2.0,
+      2.5,
+      2.5,
+      2.0,
+      2.0,
+      2.5
+    ]
+  },
+  {
+    "term1": "Stephen Hawking",
+    "term2": "hawk",
+    "value": 0.06,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "Under Armour",
+    "term2": "armor",
+    "value": 0.13,
+    "values": [
+      0.5,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "DNA",
+    "term2": "transactivator",
+    "value": 1.56,
+    "values": [
+      1.0,
+      2.0,
+      1.0,
+      2.0,
+      2.0,
+      1.0,
+      1.5,
+      2.0
+    ]
+  },
+  {
+    "term1": "review",
+    "term2": "IrfanView",
+    "value": 0.19,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0
+    ]
+  },
+  {
+    "term1": "dialler",
+    "term2": "modem",
+    "value": 1.75,
+    "values": [
+      1.0,
+      1.5,
+      2.0,
+      3.0,
+      2.0,
+      0.0,
+      2.5,
+      2.0
+    ]
+  },
+  {
+    "term1": "lukewarmness",
+    "term2": "unattractiveness",
+    "value": 0.81,
+    "values": [
+      1.5,
+      0.0,
+      0.0,
+      2.0,
+      0.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "term1": "thoughtful",
+    "term2": "die-hard",
+    "value": 0.13,
+    "values": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "doorcase",
+    "term2": "door frame",
+    "value": 3.94,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      3.5,
+      4.0
+    ]
+  },
+  {
+    "term1": "judge",
+    "term2": "court",
+    "value": 2.25,
+    "values": [
+      2.0,
+      2.0,
+      2.0,
+      3.0,
+      2.0,
+      2.0,
+      3.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "boutta",
+    "term2": "boat",
+    "value": 0.0,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "algebraist",
+    "term2": "eigenvalue",
+    "value": 1.69,
+    "values": [
+      2.0,
+      1.0,
+      2.0,
+      2.5,
+      1.0,
+      2.0,
+      2.0,
+      1.0
+    ]
+  },
+  {
+    "term1": "biting point",
+    "term2": "clutch",
+    "value": 2.19,
+    "values": [
+      2.0,
+      2.0,
+      2.0,
+      3.0,
+      2.0,
+      2.0,
+      2.5,
+      2.0
+    ]
+  },
+  {
+    "term1": "Sam Mraovich",
+    "term2": "Ben and Arthur",
+    "value": 2.0,
+    "values": [
+      1.5,
+      2.0,
+      2.0,
+      2.5,
+      2.0,
+      2.0,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "0.5",
+    "term2": "half",
+    "value": 4.0,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "fast-forward",
+    "term2": "tape",
+    "value": 1.81,
+    "values": [
+      0.5,
+      2.0,
+      1.0,
+      2.5,
+      2.0,
+      2.0,
+      2.5,
+      2.0
+    ]
+  },
+  {
+    "term1": "7-Zip",
+    "term2": "C++",
+    "value": 1.38,
+    "values": [
+      2.0,
+      0.5,
+      1.0,
+      1.5,
+      1.0,
+      1.0,
+      3.0,
+      1.0
+    ]
+  },
+  {
+    "term1": "HD",
+    "term2": "high-definition",
+    "value": 4.0,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "entity",
+    "term2": "corporation",
+    "value": 2.0,
+    "values": [
+      2.5,
+      3.0,
+      1.0,
+      2.0,
+      1.5,
+      1.0,
+      3.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "flag",
+    "term2": "tricolor",
+    "value": 2.81,
+    "values": [
+      4.0,
+      3.0,
+      2.0,
+      3.0,
+      3.0,
+      2.0,
+      3.5,
+      2.0
+    ]
+  },
+  {
+    "term1": "collaborator",
+    "term2": "cooperator",
+    "value": 3.25,
+    "values": [
+      3.0,
+      3.5,
+      3.0,
+      4.0,
+      3.0,
+      3.0,
+      4.0,
+      2.5
+    ]
+  },
+  {
+    "term1": "Douglas",
+    "term2": "Isle of Man",
+    "value": 2.44,
+    "values": [
+      3.0,
+      2.0,
+      2.0,
+      2.5,
+      2.0,
+      2.0,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "term1": "farsightedness",
+    "term2": "hyperopia",
+    "value": 3.25,
+    "values": [
+      3.0,
+      4.0,
+      3.0,
+      4.0,
+      3.0,
+      2.0,
+      3.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "halomethane",
+    "term2": "oscilloscope",
+    "value": 0.56,
+    "values": [
+      0.0,
+      0.5,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      3.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "coincineration",
+    "term2": "waste treatment",
+    "value": 2.63,
+    "values": [
+      1.5,
+      3.0,
+      3.0,
+      2.5,
+      2.5,
+      2.5,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "term1": "NGC 4622",
+    "term2": "Ursa Major",
+    "value": 2.0,
+    "values": [
+      2.0,
+      1.0,
+      2.0,
+      2.5,
+      2.0,
+      1.5,
+      2.5,
+      2.5
+    ]
+  },
+  {
+    "term1": "fake news",
+    "term2": "Fox News",
+    "value": 1.56,
+    "values": [
+      1.5,
+      1.0,
+      1.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      1.0
+    ]
+  },
+  {
+    "term1": "eye of the storm",
+    "term2": "cyclone",
+    "value": 2.31,
+    "values": [
+      2.0,
+      2.0,
+      2.0,
+      3.0,
+      2.0,
+      2.0,
+      3.0,
+      2.5
+    ]
+  },
+  {
+    "term1": "astronomy",
+    "term2": "finderscope",
+    "value": 1.75,
+    "values": [
+      1.0,
+      1.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "phototransmutation",
+    "term2": "photodisintegration",
+    "value": 4.0,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "nonmonogamy",
+    "term2": "consanguinity",
+    "value": 0.44,
+    "values": [
+      0.0,
+      0.0,
+      1.0,
+      1.5,
+      0.0,
+      0.0,
+      1.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "microfiche",
+    "term2": "photocopy",
+    "value": 1.63,
+    "values": [
+      2.0,
+      2.0,
+      1.0,
+      2.0,
+      1.0,
+      1.5,
+      1.0,
+      2.5
+    ]
+  },
+  {
+    "term1": "Commodore 64",
+    "term2": "microcomputer",
+    "value": 2.44,
+    "values": [
+      3.0,
+      3.0,
+      2.0,
+      2.5,
+      2.0,
+      2.0,
+      2.5,
+      2.5
+    ]
+  },
+  {
+    "term1": "billhook",
+    "term2": "plough",
+    "value": 2.13,
+    "values": [
+      2.5,
+      1.0,
+      3.0,
+      2.5,
+      2.0,
+      2.0,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "AirBake",
+    "term2": "A-bike",
+    "value": 0.13,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      0.5,
+      0.0
+    ]
+  },
+  {
+    "term1": "transplant",
+    "term2": "autograft",
+    "value": 2.56,
+    "values": [
+      2.0,
+      3.0,
+      2.0,
+      3.0,
+      2.5,
+      2.5,
+      2.5,
+      3.0
+    ]
+  },
+  {
+    "term1": "thylakoid",
+    "term2": "photosynthesis",
+    "value": 2.06,
+    "values": [
+      1.5,
+      3.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "gnuplot",
+    "term2": "Plotinus",
+    "value": 0.0,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "delayingly",
+    "term2": "slothfully",
+    "value": 2.75,
+    "values": [
+      2.0,
+      3.5,
+      2.0,
+      3.5,
+      3.0,
+      2.0,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "term1": "LAMO",
+    "term2": "lambda",
+    "value": 0.0,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "payment",
+    "term2": "note",
+    "value": 1.63,
+    "values": [
+      0.0,
+      2.0,
+      2.0,
+      1.0,
+      2.0,
+      1.0,
+      3.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "EAGGF",
+    "term2": "market",
+    "value": 1.25,
+    "values": [
+      1.0,
+      1.0,
+      1.0,
+      1.5,
+      1.0,
+      1.0,
+      2.5,
+      1.0
+    ]
+  },
+  {
+    "term1": "Champions League",
+    "term2": "Champlain Sea",
+    "value": 0.0,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "physiopathology",
+    "term2": "medical diagnosis",
+    "value": 1.75,
+    "values": [
+      1.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      1.0
+    ]
+  },
+  {
+    "term1": "for sure",
+    "term2": "fasho",
+    "value": 4.0,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "autocrime",
+    "term2": "truck",
+    "value": 1.06,
+    "values": [
+      0.5,
+      1.0,
+      1.0,
+      1.5,
+      1.0,
+      1.0,
+      1.5,
+      1.0
+    ]
+  },
+  {
+    "term1": "geometry",
+    "term2": "cylindric",
+    "value": 1.69,
+    "values": [
+      1.5,
+      1.5,
+      1.0,
+      2.5,
+      1.5,
+      1.0,
+      2.5,
+      2.0
+    ]
+  },
+  {
+    "term1": "4sho",
+    "term2": "surely",
+    "value": 4.0,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "disomy",
+    "term2": "intragenic",
+    "value": 1.81,
+    "values": [
+      1.5,
+      1.5,
+      2.0,
+      2.0,
+      2.0,
+      1.5,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "revelatory",
+    "term2": "apocalyptical",
+    "value": 3.88,
+    "values": [
+      4.0,
+      3.5,
+      4.0,
+      3.5,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "pain",
+    "term2": "neckache",
+    "value": 2.56,
+    "values": [
+      2.0,
+      3.0,
+      2.0,
+      3.0,
+      3.0,
+      2.0,
+      2.5,
+      3.0
+    ]
+  },
+  {
+    "term1": "imperfectness",
+    "term2": "imperfection",
+    "value": 3.69,
+    "values": [
+      3.5,
+      3.5,
+      4.0,
+      3.5,
+      4.0,
+      4.0,
+      3.5,
+      3.5
+    ]
+  },
+  {
+    "term1": "electrolytic polishing",
+    "term2": "electropolishing",
+    "value": 3.94,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      3.5,
+      4.0
+    ]
+  },
+  {
+    "term1": "Brexit",
+    "term2": "Fatuzzo",
+    "value": 0.56,
+    "values": [
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      0.5
+    ]
+  },
+  {
+    "term1": "Visual C",
+    "term2": ".NET Framework",
+    "value": 2.31,
+    "values": [
+      2.0,
+      2.0,
+      2.0,
+      2.5,
+      3.0,
+      2.0,
+      2.5,
+      2.5
+    ]
+  },
+  {
+    "term1": "microwave",
+    "term2": "All-Clad",
+    "value": 1.75,
+    "values": [
+      1.5,
+      1.0,
+      2.0,
+      2.5,
+      2.0,
+      1.0,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "stubbornly",
+    "term2": "single-mindedly",
+    "value": 2.94,
+    "values": [
+      4.0,
+      3.5,
+      1.0,
+      3.5,
+      3.5,
+      2.5,
+      2.5,
+      3.0
+    ]
+  },
+  {
+    "term1": "smdh",
+    "term2": "smfh",
+    "value": 3.75,
+    "values": [
+      4.0,
+      4.0,
+      3.0,
+      3.5,
+      3.5,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "njoy",
+    "term2": "killjoy",
+    "value": 1.5,
+    "values": [
+      1.5,
+      1.0,
+      2.0,
+      1.5,
+      1.0,
+      2.0,
+      2.0,
+      1.0
+    ]
+  },
+  {
+    "term1": "cool",
+    "term2": "swagg",
+    "value": 2.56,
+    "values": [
+      2.5,
+      3.0,
+      2.0,
+      2.0,
+      2.0,
+      3.0,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "term1": "combat",
+    "term2": "belligerence",
+    "value": 2.25,
+    "values": [
+      1.5,
+      2.0,
+      2.0,
+      3.0,
+      2.0,
+      2.0,
+      2.5,
+      3.0
+    ]
+  },
+  {
+    "term1": "Bushihr",
+    "term2": "Donald Horne",
+    "value": 0.0,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "cheap",
+    "term2": "low-budget",
+    "value": 3.5,
+    "values": [
+      3.0,
+      3.5,
+      4.0,
+      3.5,
+      3.5,
+      3.0,
+      3.5,
+      4.0
+    ]
+  },
+  {
+    "term1": "Bitcoin",
+    "term2": "exchange rate",
+    "value": 1.69,
+    "values": [
+      1.0,
+      1.0,
+      2.0,
+      2.0,
+      2.0,
+      1.5,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "impossible",
+    "term2": "far-fetched",
+    "value": 3.44,
+    "values": [
+      3.5,
+      3.0,
+      3.0,
+      3.5,
+      3.0,
+      3.5,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "nonnative",
+    "term2": "nonnegative",
+    "value": 0.06,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "reduction",
+    "term2": "overeducation",
+    "value": 0.06,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0
+    ]
+  },
+  {
+    "term1": "vanilla",
+    "term2": "pastrycook",
+    "value": 1.69,
+    "values": [
+      1.5,
+      1.0,
+      2.0,
+      2.0,
+      1.5,
+      1.5,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "protein",
+    "term2": "CIITA",
+    "value": 1.94,
+    "values": [
+      2.0,
+      1.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.5,
+      2.0
+    ]
+  },
+  {
+    "term1": "descensus",
+    "term2": "prolapse",
+    "value": 4.0,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "microsyringe",
+    "term2": "hyperfunction",
+    "value": 0.25,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      2.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "washbasin",
+    "term2": "handbasin",
+    "value": 3.88,
+    "values": [
+      3.5,
+      4.0,
+      4.0,
+      3.5,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "geneflow",
+    "term2": "gene migration",
+    "value": 4.0,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "knowingness",
+    "term2": "cognizance",
+    "value": 3.94,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      3.5,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "predominance",
+    "term2": "prepotency",
+    "value": 3.75,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      2.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "stellar nucleosynthesis",
+    "term2": "nitrogen-14",
+    "value": 2.19,
+    "values": [
+      3.0,
+      1.5,
+      2.0,
+      2.5,
+      2.0,
+      2.5,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "Tefal",
+    "term2": "T-Fal",
+    "value": 4.0,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "real estate",
+    "term2": "Millcraft",
+    "value": 2.0,
+    "values": [
+      1.5,
+      1.5,
+      2.0,
+      2.5,
+      2.0,
+      2.0,
+      2.5,
+      2.0
+    ]
+  },
+  {
+    "term1": "snow leopard",
+    "term2": "Summer snowflake",
+    "value": 0.19,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      1.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "flysheet",
+    "term2": "tent",
+    "value": 2.5,
+    "values": [
+      3.0,
+      2.0,
+      2.0,
+      3.0,
+      2.5,
+      2.0,
+      3.0,
+      2.5
+    ]
+  },
+  {
+    "term1": "feeing",
+    "term2": "feeling",
+    "value": 0.06,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "Snowblood",
+    "term2": "Japan",
+    "value": 1.44,
+    "values": [
+      1.0,
+      0.5,
+      2.0,
+      2.0,
+      1.5,
+      1.5,
+      1.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "infinity",
+    "term2": "alligation",
+    "value": 1.0,
+    "values": [
+      1.5,
+      0.5,
+      1.0,
+      1.0,
+      1.5,
+      1.0,
+      0.5,
+      1.0
+    ]
+  },
+  {
+    "term1": "wanna-be",
+    "term2": "Kardashians",
+    "value": 0.38,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      0.5,
+      0.5,
+      0.0
+    ]
+  },
+  {
+    "term1": "film production",
+    "term2": "filmmaking",
+    "value": 3.56,
+    "values": [
+      3.5,
+      4.0,
+      2.0,
+      4.0,
+      3.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "cartshed",
+    "term2": "bloodshed",
+    "value": 0.06,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "hypocrisy",
+    "term2": "pretense",
+    "value": 3.06,
+    "values": [
+      4.0,
+      2.0,
+      3.0,
+      3.5,
+      3.0,
+      3.0,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "term1": "zoonosis",
+    "term2": "tepoxalin",
+    "value": 1.56,
+    "values": [
+      1.0,
+      1.0,
+      2.0,
+      1.5,
+      2.0,
+      1.5,
+      1.5,
+      2.0
+    ]
+  },
+  {
+    "term1": "Shelby GT350",
+    "term2": "Shelby Farms",
+    "value": 0.19,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      1.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "drop-off",
+    "term2": "rip-off",
+    "value": 0.19,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      1.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "mode",
+    "term2": "fashion",
+    "value": 3.38,
+    "values": [
+      4.0,
+      1.0,
+      4.0,
+      3.0,
+      4.0,
+      3.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "semivowel",
+    "term2": "aspirate",
+    "value": 2.44,
+    "values": [
+      2.5,
+      2.0,
+      3.0,
+      3.0,
+      3.0,
+      1.0,
+      3.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "Ferguson",
+    "term2": "Stamford Bridge",
+    "value": 1.44,
+    "values": [
+      1.0,
+      1.0,
+      2.0,
+      1.5,
+      2.0,
+      1.5,
+      1.5,
+      1.0
+    ]
+  },
+  {
+    "term1": "Seven foot",
+    "term2": "growth hormone",
+    "value": 1.94,
+    "values": [
+      2.0,
+      1.0,
+      2.0,
+      2.5,
+      2.0,
+      2.0,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "down-to-earth",
+    "term2": "practical",
+    "value": 3.5,
+    "values": [
+      3.5,
+      3.5,
+      3.0,
+      3.5,
+      4.0,
+      3.0,
+      3.5,
+      4.0
+    ]
+  },
+  {
+    "term1": "textual matter",
+    "term2": "concordance",
+    "value": 2.06,
+    "values": [
+      1.5,
+      2.0,
+      2.0,
+      2.5,
+      2.0,
+      2.0,
+      2.5,
+      2.0
+    ]
+  },
+  {
+    "term1": "Phenelzine",
+    "term2": "XXXXX syndrome",
+    "value": 0.69,
+    "values": [
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      1.5,
+      1.0,
+      1.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "sqrt",
+    "term2": "square root",
+    "value": 4.0,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "sunsuit",
+    "term2": "beach",
+    "value": 1.75,
+    "values": [
+      1.0,
+      1.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "epidiascope",
+    "term2": "epidioscope",
+    "value": 4.0,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "Kile",
+    "term2": "kite",
+    "value": 0.06,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "leaf roller",
+    "term2": "leaflet",
+    "value": 0.31,
+    "values": [
+      0.0,
+      0.0,
+      2.0,
+      0.5,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "Cyber-Shot",
+    "term2": "Coolpix",
+    "value": 2.81,
+    "values": [
+      2.5,
+      2.0,
+      3.0,
+      3.5,
+      3.0,
+      2.0,
+      3.5,
+      3.0
+    ]
+  },
+  {
+    "term1": "voidness",
+    "term2": "emptyness",
+    "value": 3.63,
+    "values": [
+      3.0,
+      3.0,
+      4.0,
+      4.0,
+      3.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "shot",
+    "term2": "close-up",
+    "value": 2.75,
+    "values": [
+      3.0,
+      3.0,
+      2.0,
+      2.5,
+      3.0,
+      2.0,
+      3.5,
+      3.0
+    ]
+  },
+  {
+    "term1": "Chad",
+    "term2": "Yemen",
+    "value": 2.13,
+    "values": [
+      2.0,
+      2.0,
+      3.0,
+      2.5,
+      2.5,
+      1.0,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "hygiene",
+    "term2": "autoflush",
+    "value": 1.31,
+    "values": [
+      0.0,
+      1.0,
+      2.0,
+      1.0,
+      2.0,
+      2.0,
+      0.5,
+      2.0
+    ]
+  },
+  {
+    "term1": "currency",
+    "term2": "concurrency",
+    "value": 0.13,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      0.5,
+      0.0
+    ]
+  },
+  {
+    "term1": "Deathstalker",
+    "term2": "Wikipedia",
+    "value": 0.0,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "thaumasite",
+    "term2": "silicate mineral",
+    "value": 3.06,
+    "values": [
+      3.0,
+      3.0,
+      2.0,
+      3.5,
+      3.0,
+      3.0,
+      3.5,
+      3.5
+    ]
+  },
+  {
+    "term1": "must-see",
+    "term2": "interesting",
+    "value": 3.06,
+    "values": [
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.5,
+      3.0
+    ]
+  },
+  {
+    "term1": "cycloheximide",
+    "term2": "Streptomyces bacteria",
+    "value": 2.25,
+    "values": [
+      2.5,
+      2.0,
+      2.0,
+      3.0,
+      2.0,
+      2.0,
+      1.5,
+      3.0
+    ]
+  },
+  {
+    "term1": "25",
+    "term2": "twenty-five",
+    "value": 4.0,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "ceramic",
+    "term2": "pottery",
+    "value": 2.75,
+    "values": [
+      3.0,
+      3.0,
+      2.0,
+      3.5,
+      2.0,
+      2.0,
+      4.0,
+      2.5
+    ]
+  },
+  {
+    "term1": "constipation",
+    "term2": "constitutionalisation",
+    "value": 0.0,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "protagonist",
+    "term2": "deuteragonist",
+    "value": 2.81,
+    "values": [
+      2.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      2.0,
+      3.0,
+      3.5
+    ]
+  },
+  {
+    "term1": "overt",
+    "term2": "undisclosed",
+    "value": 1.88,
+    "values": [
+      1.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "Java DB",
+    "term2": "J2SE",
+    "value": 2.63,
+    "values": [
+      3.0,
+      2.0,
+      2.0,
+      3.0,
+      3.0,
+      2.0,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "term1": "underclothes",
+    "term2": "underlinen",
+    "value": 2.81,
+    "values": [
+      3.5,
+      4.0,
+      3.0,
+      2.5,
+      3.0,
+      3.0,
+      0.5,
+      3.0
+    ]
+  },
+  {
+    "term1": "dentinogenesis imperfecta",
+    "term2": "itch",
+    "value": 0.31,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.5,
+      1.0
+    ]
+  },
+  {
+    "term1": "Democracy Player",
+    "term2": "Miro",
+    "value": 3.81,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      3.5,
+      4.0,
+      3.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "handpan",
+    "term2": "belieber",
+    "value": 0.25,
+    "values": [
+      0.5,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0
+    ]
+  },
+  {
+    "term1": "Google Earth",
+    "term2": "3D imagery",
+    "value": 2.0,
+    "values": [
+      1.0,
+      2.0,
+      2.0,
+      2.5,
+      2.0,
+      2.0,
+      2.5,
+      2.0
+    ]
+  },
+  {
+    "term1": "bigot",
+    "term2": "4got",
+    "value": 0.13,
+    "values": [
+      0.5,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "bankruptcy",
+    "term2": "failure",
+    "value": 1.94,
+    "values": [
+      1.0,
+      2.0,
+      1.0,
+      2.0,
+      2.0,
+      2.0,
+      3.5,
+      2.0
+    ]
+  },
+  {
+    "term1": "dreadnought",
+    "term2": "battleship",
+    "value": 3.06,
+    "values": [
+      3.0,
+      3.0,
+      2.0,
+      3.5,
+      3.0,
+      3.0,
+      3.5,
+      3.5
+    ]
+  },
+  {
+    "term1": "noisemonger",
+    "term2": "electric guitar",
+    "value": 1.81,
+    "values": [
+      1.0,
+      1.0,
+      2.0,
+      2.5,
+      2.0,
+      1.5,
+      2.5,
+      2.0
+    ]
+  },
+  {
+    "term1": "leucosis",
+    "term2": "Bird flu",
+    "value": 2.31,
+    "values": [
+      1.0,
+      1.0,
+      3.0,
+      2.5,
+      3.0,
+      2.0,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "term1": "Autodesk Revit",
+    "term2": "3D Studio Max",
+    "value": 2.88,
+    "values": [
+      3.0,
+      2.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "term1": "supremacy",
+    "term2": "omnipotence",
+    "value": 3.0,
+    "values": [
+      3.0,
+      3.0,
+      3.0,
+      3.5,
+      2.5,
+      3.0,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "term1": "letting",
+    "term2": "rental",
+    "value": 3.63,
+    "values": [
+      3.0,
+      4.0,
+      4.0,
+      4.0,
+      3.5,
+      3.0,
+      3.5,
+      4.0
+    ]
+  },
+  {
+    "term1": "entryphone",
+    "term2": "door phone",
+    "value": 3.88,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      3.5,
+      4.0,
+      4.0,
+      3.5,
+      4.0
+    ]
+  },
+  {
+    "term1": "inharmonious",
+    "term2": "architecture",
+    "value": 0.81,
+    "values": [
+      0.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.5,
+      1.0
+    ]
+  },
+  {
+    "term1": "hugger-mugger",
+    "term2": "disorganized",
+    "value": 3.75,
+    "values": [
+      4.0,
+      3.5,
+      4.0,
+      3.5,
+      4.0,
+      3.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "organelle",
+    "term2": "endosymbiotic",
+    "value": 1.44,
+    "values": [
+      1.5,
+      1.0,
+      1.0,
+      1.0,
+      2.0,
+      1.0,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "wrathfully",
+    "term2": "self-righteously",
+    "value": 1.38,
+    "values": [
+      1.5,
+      1.5,
+      0.0,
+      3.0,
+      2.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "term1": "altimeter",
+    "term2": "all-time",
+    "value": 0.0,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "WWII",
+    "term2": "Fishbed",
+    "value": 1.31,
+    "values": [
+      1.0,
+      0.5,
+      1.0,
+      2.0,
+      1.5,
+      1.5,
+      1.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "Kobani",
+    "term2": "Bale",
+    "value": 0.0,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "shit",
+    "term2": "shxt",
+    "value": 3.94,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      3.5,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "fishplate",
+    "term2": "template",
+    "value": 0.06,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "extraterrestrial being",
+    "term2": "hypothetical creature",
+    "value": 2.56,
+    "values": [
+      1.5,
+      3.0,
+      3.0,
+      3.0,
+      1.0,
+      3.0,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "term1": "applicant",
+    "term2": "application",
+    "value": 2.31,
+    "values": [
+      2.0,
+      3.0,
+      2.0,
+      2.5,
+      2.5,
+      2.0,
+      2.0,
+      2.5
+    ]
+  },
+  {
+    "term1": "lemmatization",
+    "term2": "treebank",
+    "value": 1.63,
+    "values": [
+      1.5,
+      0.5,
+      2.0,
+      1.5,
+      1.5,
+      1.5,
+      2.5,
+      2.0
+    ]
+  },
+  {
+    "term1": "imperishingness",
+    "term2": "easygoingness",
+    "value": 0.0,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "Valentine's Day",
+    "term2": "lovee",
+    "value": 2.0,
+    "values": [
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "mozzarella",
+    "term2": "pizzamaker",
+    "value": 1.56,
+    "values": [
+      0.5,
+      1.0,
+      2.0,
+      2.0,
+      1.0,
+      2.0,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "cop",
+    "term2": "copilot",
+    "value": 0.38,
+    "values": [
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "clinic",
+    "term2": "triclinic",
+    "value": 0.06,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "isotope",
+    "term2": "dioxygen",
+    "value": 1.31,
+    "values": [
+      1.0,
+      0.5,
+      1.0,
+      2.0,
+      2.0,
+      1.0,
+      1.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "Al-Jazeera",
+    "term2": "Mehdi Hasan",
+    "value": 1.94,
+    "values": [
+      1.5,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "bedgown",
+    "term2": "bedrobe",
+    "value": 2.63,
+    "values": [
+      2.0,
+      3.5,
+      1.0,
+      3.0,
+      3.0,
+      2.0,
+      3.0,
+      3.5
+    ]
+  },
+  {
+    "term1": "stepsize",
+    "term2": "stepfather",
+    "value": 0.06,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "concise",
+    "term2": "one-liner",
+    "value": 2.44,
+    "values": [
+      2.0,
+      2.0,
+      3.0,
+      3.0,
+      2.0,
+      2.5,
+      2.0,
+      3.0
+    ]
+  },
+  {
+    "term1": "human herpesvirus 4",
+    "term2": "Epstein-Barr",
+    "value": 4.0,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "leathercrafter",
+    "term2": "leatherworker",
+    "value": 3.69,
+    "values": [
+      4.0,
+      4.0,
+      3.0,
+      4.0,
+      3.5,
+      3.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "oceanic trench",
+    "term2": "sea floor",
+    "value": 2.5,
+    "values": [
+      3.0,
+      2.0,
+      2.0,
+      3.0,
+      2.5,
+      2.0,
+      2.5,
+      3.0
+    ]
+  },
+  {
+    "term1": "brainless",
+    "term2": "sheepish",
+    "value": 2.75,
+    "values": [
+      3.5,
+      2.0,
+      3.0,
+      0.5,
+      3.0,
+      3.0,
+      3.5,
+      3.5
+    ]
+  },
+  {
+    "term1": "missed call",
+    "term2": "so-called",
+    "value": 0.13,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      0.5,
+      0.0
+    ]
+  },
+  {
+    "term1": "metamorphose",
+    "term2": "transmute",
+    "value": 3.81,
+    "values": [
+      4.0,
+      3.0,
+      4.0,
+      3.5,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "bood clot",
+    "term2": "agammaglobulinemia",
+    "value": 1.63,
+    "values": [
+      1.5,
+      1.0,
+      2.0,
+      1.0,
+      2.0,
+      2.0,
+      1.5,
+      2.0
+    ]
+  },
+  {
+    "term1": "man-at-arms",
+    "term2": "traitorous",
+    "value": 0.19,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0
+    ]
+  },
+  {
+    "term1": "fringe benefit",
+    "term2": "bonus",
+    "value": 3.0,
+    "values": [
+      3.0,
+      2.0,
+      3.0,
+      3.5,
+      3.0,
+      3.0,
+      3.5,
+      3.0
+    ]
+  },
+  {
+    "term1": "headcollar",
+    "term2": "hair color",
+    "value": 0.0,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "madrier",
+    "term2": "plank",
+    "value": 3.19,
+    "values": [
+      3.5,
+      3.0,
+      2.0,
+      3.5,
+      3.0,
+      3.0,
+      4.0,
+      3.5
+    ]
+  },
+  {
+    "term1": "Boeing 747",
+    "term2": "Stratojet",
+    "value": 2.75,
+    "values": [
+      3.0,
+      2.0,
+      3.0,
+      2.5,
+      3.0,
+      2.0,
+      3.5,
+      3.0
+    ]
+  },
+  {
+    "term1": "teratospermia",
+    "term2": "teratozoospermia",
+    "value": 4.0,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "tariqa",
+    "term2": "tariqah",
+    "value": 4.0,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "seriously",
+    "term2": "foreal",
+    "value": 3.75,
+    "values": [
+      3.0,
+      3.5,
+      4.0,
+      4.0,
+      3.5,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "insidiously",
+    "term2": "harmfully",
+    "value": 3.5,
+    "values": [
+      3.0,
+      3.0,
+      4.0,
+      3.5,
+      3.0,
+      4.0,
+      3.5,
+      4.0
+    ]
+  },
+  {
+    "term1": "pasteurization",
+    "term2": "cowkeeper",
+    "value": 0.81,
+    "values": [
+      0.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.5,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "term1": "vindictively",
+    "term2": "revengefully",
+    "value": 3.94,
+    "values": [
+      4.0,
+      3.5,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "scornful",
+    "term2": "contemptuous",
+    "value": 3.94,
+    "values": [
+      4.0,
+      3.5,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "jawfish",
+    "term2": "streamwater",
+    "value": 1.19,
+    "values": [
+      0.5,
+      0.5,
+      2.0,
+      2.0,
+      1.5,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "term1": "mollusc",
+    "term2": "parapodia",
+    "value": 1.63,
+    "values": [
+      1.0,
+      2.0,
+      1.0,
+      1.5,
+      2.0,
+      1.5,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "cheapjack",
+    "term2": "amberjack",
+    "value": 0.06,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "dual screen",
+    "term2": "off-screen",
+    "value": 1.0,
+    "values": [
+      0.5,
+      1.0,
+      1.0,
+      2.0,
+      0.5,
+      0.5,
+      1.5,
+      1.0
+    ]
+  },
+  {
+    "term1": "Regosol",
+    "term2": "prioritarianism",
+    "value": 0.0,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "end",
+    "term2": "tail",
+    "value": 3.0,
+    "values": [
+      2.0,
+      3.0,
+      4.0,
+      3.5,
+      2.0,
+      3.0,
+      3.5,
+      3.0
+    ]
+  },
+  {
+    "term1": "DVD",
+    "term2": "Blu-ray",
+    "value": 3.19,
+    "values": [
+      3.5,
+      3.0,
+      3.0,
+      3.5,
+      3.0,
+      3.0,
+      3.5,
+      3.0
+    ]
+  },
+  {
+    "term1": "Gorilla Glass",
+    "term2": "scratch-resistant",
+    "value": 2.31,
+    "values": [
+      2.0,
+      2.0,
+      2.0,
+      3.0,
+      2.0,
+      1.5,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "term1": "pacemaker",
+    "term2": "lacemaker",
+    "value": 0.19,
+    "values": [
+      0.5,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      0.5,
+      0.0
+    ]
+  },
+  {
+    "term1": "starless",
+    "term2": "starkness",
+    "value": 0.06,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "foul-mouthed",
+    "term2": "foul-spoken",
+    "value": 4.0,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "snow lotus",
+    "term2": "Saussurea",
+    "value": 3.69,
+    "values": [
+      3.0,
+      4.0,
+      4.0,
+      3.5,
+      3.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "inadvertence",
+    "term2": "oversight",
+    "value": 3.38,
+    "values": [
+      4.0,
+      0.0,
+      4.0,
+      4.0,
+      4.0,
+      3.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "mark",
+    "term2": "grade",
+    "value": 3.75,
+    "values": [
+      3.5,
+      3.5,
+      4.0,
+      4.0,
+      4.0,
+      3.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "Wristwatch",
+    "term2": "smartwatch",
+    "value": 2.88,
+    "values": [
+      3.0,
+      3.0,
+      2.0,
+      3.5,
+      3.0,
+      2.5,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "term1": "dessertspoon",
+    "term2": "vanilla",
+    "value": 1.38,
+    "values": [
+      0.0,
+      1.0,
+      2.0,
+      2.0,
+      2.0,
+      1.0,
+      1.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "Christstollen",
+    "term2": "flour",
+    "value": 1.75,
+    "values": [
+      1.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      1.0,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "massive",
+    "term2": "astronomical",
+    "value": 3.38,
+    "values": [
+      3.0,
+      3.0,
+      4.0,
+      4.0,
+      3.0,
+      3.0,
+      3.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "sweeeet",
+    "term2": "sweet",
+    "value": 3.94,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      3.5,
+      4.0
+    ]
+  },
+  {
+    "term1": "Alcohol withdrawal syndrome",
+    "term2": "Whiskey fits",
+    "value": 3.31,
+    "values": [
+      4.0,
+      3.5,
+      4.0,
+      3.5,
+      3.5,
+      1.0,
+      3.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "kicksled",
+    "term2": "sledge",
+    "value": 2.88,
+    "values": [
+      3.0,
+      3.0,
+      2.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "term1": "errbody",
+    "term2": "embody",
+    "value": 0.25,
+    "values": [
+      0.5,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0
+    ]
+  },
+  {
+    "term1": "bluethroat",
+    "term2": "nightingale",
+    "value": 3.06,
+    "values": [
+      3.0,
+      3.0,
+      3.0,
+      3.5,
+      3.0,
+      2.5,
+      3.5,
+      3.0
+    ]
+  },
+  {
+    "term1": "proportional tax",
+    "term2": "capitation",
+    "value": 2.69,
+    "values": [
+      3.0,
+      3.0,
+      3.0,
+      2.5,
+      3.0,
+      2.0,
+      3.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "children",
+    "term2": "dollmaking",
+    "value": 1.31,
+    "values": [
+      1.0,
+      1.0,
+      2.0,
+      1.5,
+      1.0,
+      1.0,
+      1.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "about",
+    "term2": "bouta",
+    "value": 3.94,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      3.5,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "fairness",
+    "term2": "unbiasedness",
+    "value": 3.69,
+    "values": [
+      3.0,
+      3.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      3.5,
+      4.0
+    ]
+  },
+  {
+    "term1": "PiO",
+    "term2": "President-in-Office",
+    "value": 4.0,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "greyishness",
+    "term2": "oil paint",
+    "value": 0.75,
+    "values": [
+      0.0,
+      0.0,
+      1.0,
+      1.5,
+      1.0,
+      1.0,
+      1.5,
+      0.0
+    ]
+  },
+  {
+    "term1": "dunno",
+    "term2": "idek",
+    "value": 3.69,
+    "values": [
+      3.5,
+      4.0,
+      3.0,
+      3.5,
+      4.0,
+      3.5,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "In-N-Out Burger",
+    "term2": "Jamie Oliver",
+    "value": 1.81,
+    "values": [
+      3.0,
+      1.0,
+      2.0,
+      2.5,
+      2.0,
+      1.0,
+      2.0,
+      1.0
+    ]
+  },
+  {
+    "term1": "rail",
+    "term2": "minecart",
+    "value": 2.0,
+    "values": [
+      2.0,
+      1.5,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.5
+    ]
+  },
+  {
+    "term1": "parameter",
+    "term2": "hyperparameter",
+    "value": 3.0,
+    "values": [
+      3.0,
+      3.0,
+      2.0,
+      3.5,
+      3.0,
+      3.0,
+      3.5,
+      3.0
+    ]
+  },
+  {
+    "term1": "undercover",
+    "term2": "self-indulgent",
+    "value": 0.0,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "expounding",
+    "term2": "anlysis",
+    "value": 2.75,
+    "values": [
+      3.0,
+      2.0,
+      3.0,
+      3.0,
+      2.0,
+      3.0,
+      4.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "ontologize",
+    "term2": "democratize",
+    "value": 0.5,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      3.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "Woods",
+    "term2": "Phil Mickelson",
+    "value": 3.0,
+    "values": [
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      2.5,
+      3.5,
+      3.0
+    ]
+  },
+  {
+    "term1": "Nutella",
+    "term2": "Belgian Congo",
+    "value": 0.06,
+    "values": [
+      0.5,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "transalpine",
+    "term2": "pretense",
+    "value": 0.0,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "latewood",
+    "term2": "fastfood",
+    "value": 0.0,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "skater",
+    "term2": "pool skating",
+    "value": 2.31,
+    "values": [
+      1.5,
+      2.0,
+      2.0,
+      3.0,
+      2.0,
+      2.0,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "term1": "ctenophore",
+    "term2": "comb jelly",
+    "value": 3.94,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      3.5,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "actinomycin D",
+    "term2": "infertility",
+    "value": 0.75,
+    "values": [
+      0.5,
+      0.0,
+      1.0,
+      0.5,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "term1": "oilbird",
+    "term2": "beak",
+    "value": 2.31,
+    "values": [
+      3.0,
+      2.0,
+      2.0,
+      3.0,
+      2.0,
+      2.0,
+      2.5,
+      2.0
+    ]
+  },
+  {
+    "term1": "magnet",
+    "term2": "gyromagnetic",
+    "value": 2.25,
+    "values": [
+      2.0,
+      2.0,
+      2.0,
+      3.0,
+      2.0,
+      2.0,
+      2.0,
+      3.0
+    ]
+  },
+  {
+    "term1": "jaw-dropping",
+    "term2": "eyedropper",
+    "value": 0.06,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "foot",
+    "term2": "base",
+    "value": 1.69,
+    "values": [
+      4.0,
+      1.0,
+      1.0,
+      3.0,
+      1.0,
+      1.0,
+      1.5,
+      1.0
+    ]
+  },
+  {
+    "term1": "coalitionist",
+    "term2": "casern",
+    "value": 0.38,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "fundamentalism",
+    "term2": "intergovernmentalism",
+    "value": 0.63,
+    "values": [
+      1.0,
+      0.0,
+      0.0,
+      2.5,
+      0.0,
+      1.0,
+      0.5,
+      0.0
+    ]
+  },
+  {
+    "term1": "angle",
+    "term2": "angleworm",
+    "value": 0.25,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      2.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "relaxedly",
+    "term2": "cold-bloodedly",
+    "value": 2.06,
+    "values": [
+      2.0,
+      3.0,
+      3.0,
+      2.0,
+      1.0,
+      1.5,
+      1.0,
+      3.0
+    ]
+  },
+  {
+    "term1": "thought-provoking",
+    "term2": "provocative",
+    "value": 1.63,
+    "values": [
+      1.0,
+      1.0,
+      2.0,
+      3.0,
+      0.0,
+      2.5,
+      1.5,
+      2.0
+    ]
+  },
+  {
+    "term1": "midquel",
+    "term2": "sequel",
+    "value": 3.13,
+    "values": [
+      3.0,
+      3.0,
+      3.0,
+      3.5,
+      3.0,
+      3.0,
+      3.5,
+      3.0
+    ]
+  },
+  {
+    "term1": "Orient Heights",
+    "term2": "Constitution beach",
+    "value": 2.31,
+    "values": [
+      2.0,
+      2.0,
+      2.0,
+      3.0,
+      2.0,
+      2.0,
+      2.5,
+      3.0
+    ]
+  },
+  {
+    "term1": "engine",
+    "term2": "Shovelhead",
+    "value": 2.56,
+    "values": [
+      3.0,
+      3.0,
+      2.0,
+      3.0,
+      3.0,
+      2.0,
+      1.5,
+      3.0
+    ]
+  },
+  {
+    "term1": "opopanax",
+    "term2": "opobalsam",
+    "value": 3.94,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      3.5,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "agriculture",
+    "term2": "monoculture",
+    "value": 2.5,
+    "values": [
+      2.0,
+      3.0,
+      3.0,
+      2.5,
+      2.0,
+      3.0,
+      2.5,
+      2.0
+    ]
+  },
+  {
+    "term1": "cowberry",
+    "term2": "lingonberry",
+    "value": 3.75,
+    "values": [
+      3.0,
+      4.0,
+      4.0,
+      3.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "Schwartz-Jampel",
+    "term2": "lathosterol",
+    "value": 0.63,
+    "values": [
+      0.0,
+      0.5,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.5,
+      0.0
+    ]
+  },
+  {
+    "term1": "movie",
+    "term2": "must-see",
+    "value": 1.13,
+    "values": [
+      0.5,
+      1.5,
+      1.0,
+      1.5,
+      1.0,
+      1.0,
+      1.5,
+      1.0
+    ]
+  },
+  {
+    "term1": "nephoscope",
+    "term2": "meteorologist",
+    "value": 1.63,
+    "values": [
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      1.5,
+      1.0,
+      1.5,
+      1.0
+    ]
+  },
+  {
+    "term1": "dripstone",
+    "term2": "cave",
+    "value": 1.56,
+    "values": [
+      1.0,
+      1.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      1.5,
+      1.0
+    ]
+  },
+  {
+    "term1": "disinvestment",
+    "term2": "subtropical",
+    "value": 0.0,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "promise",
+    "term2": "promiscuous",
+    "value": 0.06,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "puncture",
+    "term2": "tricycle",
+    "value": 1.25,
+    "values": [
+      1.0,
+      1.5,
+      1.0,
+      1.5,
+      1.0,
+      1.5,
+      1.0,
+      1.5
+    ]
+  },
+  {
+    "term1": "AirDrop",
+    "term2": "airdome",
+    "value": 0.0,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "univocal",
+    "term2": "unquestionable",
+    "value": 3.19,
+    "values": [
+      3.0,
+      3.5,
+      3.0,
+      4.0,
+      2.5,
+      2.5,
+      3.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "maximization",
+    "term2": "maxilliped",
+    "value": 0.06,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "Hindooism",
+    "term2": "Hinduism",
+    "value": 3.94,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      3.5,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "co-prime",
+    "term2": "Amazon Prime",
+    "value": 0.0,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "liberty",
+    "term2": "censorship",
+    "value": 1.69,
+    "values": [
+      1.5,
+      1.5,
+      1.0,
+      2.5,
+      1.5,
+      2.0,
+      1.5,
+      2.0
+    ]
+  },
+  {
+    "term1": "seater",
+    "term2": "fruiteater",
+    "value": 0.0,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "Smorgasburg",
+    "term2": "food market",
+    "value": 2.75,
+    "values": [
+      3.0,
+      3.0,
+      2.0,
+      3.0,
+      3.0,
+      2.5,
+      2.5,
+      3.0
+    ]
+  },
+  {
+    "term1": "hydrohalic acid",
+    "term2": "dehydrohalogenation",
+    "value": 1.94,
+    "values": [
+      1.0,
+      1.5,
+      2.0,
+      2.5,
+      2.0,
+      2.0,
+      2.5,
+      2.0
+    ]
+  },
+  {
+    "term1": "fibroplasia",
+    "term2": "angioplasty",
+    "value": 1.94,
+    "values": [
+      2.0,
+      1.0,
+      2.0,
+      2.5,
+      2.5,
+      1.5,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "prefinancing",
+    "term2": "investment",
+    "value": 2.5,
+    "values": [
+      2.5,
+      3.0,
+      2.0,
+      3.0,
+      2.0,
+      2.0,
+      3.0,
+      2.5
+    ]
+  },
+  {
+    "term1": "loool",
+    "term2": "ctfu",
+    "value": 2.94,
+    "values": [
+      2.5,
+      2.0,
+      3.0,
+      3.5,
+      3.0,
+      3.0,
+      3.5,
+      3.0
+    ]
+  },
+  {
+    "term1": "Brooklyn",
+    "term2": "Brklyn",
+    "value": 4.0,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "decomposition",
+    "term2": "biowaste",
+    "value": 2.06,
+    "values": [
+      2.0,
+      2.0,
+      2.0,
+      2.5,
+      2.0,
+      2.0,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "snapshot",
+    "term2": "clapshot",
+    "value": 0.06,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "Mohammed Emwazi",
+    "term2": "Jihadi John",
+    "value": 3.88,
+    "values": [
+      3.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "gap",
+    "term2": "opening",
+    "value": 3.19,
+    "values": [
+      4.0,
+      3.5,
+      3.0,
+      3.0,
+      3.0,
+      2.5,
+      3.5,
+      3.0
+    ]
+  },
+  {
+    "term1": "extramarital",
+    "term2": "unmentionable",
+    "value": 0.75,
+    "values": [
+      1.0,
+      1.5,
+      1.0,
+      0.0,
+      0.0,
+      0.5,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "term1": "omniscience",
+    "term2": "discovery",
+    "value": 1.25,
+    "values": [
+      1.5,
+      1.0,
+      1.0,
+      2.0,
+      0.5,
+      2.0,
+      1.5,
+      0.5
+    ]
+  },
+  {
+    "term1": "VoIP",
+    "term2": "interconnectedness",
+    "value": 0.88,
+    "values": [
+      1.0,
+      0.5,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.5
+    ]
+  },
+  {
+    "term1": "offering",
+    "term2": "contribution",
+    "value": 2.88,
+    "values": [
+      4.0,
+      3.0,
+      3.0,
+      3.0,
+      2.0,
+      2.0,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "term1": "tweet",
+    "term2": "retweet",
+    "value": 3.25,
+    "values": [
+      3.5,
+      3.0,
+      3.0,
+      3.5,
+      3.0,
+      3.0,
+      3.5,
+      3.5
+    ]
+  },
+  {
+    "term1": "commodious",
+    "term2": "hand-held",
+    "value": 0.44,
+    "values": [
+      1.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.5,
+      0.0
+    ]
+  },
+  {
+    "term1": "lmbo",
+    "term2": "jajajajaja",
+    "value": 3.63,
+    "values": [
+      4.0,
+      3.5,
+      3.0,
+      3.5,
+      4.0,
+      4.0,
+      4.0,
+      3.0
+    ]
+  },
+  {
+    "term1": "autosuggestion",
+    "term2": "autocomplete",
+    "value": 3.44,
+    "values": [
+      3.0,
+      3.5,
+      3.0,
+      4.0,
+      4.0,
+      3.0,
+      3.5,
+      3.5
+    ]
+  },
+  {
+    "term1": "horsecart",
+    "term2": "throatlatch",
+    "value": 1.75,
+    "values": [
+      2.0,
+      1.0,
+      2.0,
+      2.5,
+      1.0,
+      1.5,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "coin",
+    "term2": "coinsurance",
+    "value": 0.31,
+    "values": [
+      0.0,
+      0.5,
+      0.0,
+      0.5,
+      0.0,
+      1.0,
+      0.5,
+      0.0
+    ]
+  },
+  {
+    "term1": "boatman",
+    "term2": "logboat",
+    "value": 1.75,
+    "values": [
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      1.0,
+      2.0,
+      2.0,
+      1.0
+    ]
+  },
+  {
+    "term1": "Roman Church",
+    "term2": "Inquisition",
+    "value": 2.06,
+    "values": [
+      2.0,
+      1.5,
+      2.0,
+      2.0,
+      2.0,
+      2.5,
+      2.5,
+      2.0
+    ]
+  },
+  {
+    "term1": "puddingwife",
+    "term2": "plumcake",
+    "value": 0.25,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      2.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "carbinolamine",
+    "term2": "hemiaminal",
+    "value": 3.88,
+    "values": [
+      4.0,
+      3.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "grimy",
+    "term2": "imy",
+    "value": 0.06,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "defense mechanism",
+    "term2": "anxiety",
+    "value": 1.44,
+    "values": [
+      1.5,
+      2.0,
+      1.0,
+      1.5,
+      0.5,
+      1.0,
+      2.5,
+      1.5
+    ]
+  },
+  {
+    "term1": "lymphocyte",
+    "term2": "T-cell",
+    "value": 3.0,
+    "values": [
+      3.0,
+      3.0,
+      2.0,
+      3.5,
+      3.0,
+      2.5,
+      3.5,
+      3.5
+    ]
+  },
+  {
+    "term1": "oneirocritic",
+    "term2": "dream",
+    "value": 2.06,
+    "values": [
+      2.0,
+      2.0,
+      2.0,
+      2.5,
+      2.0,
+      2.0,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "medallist",
+    "term2": "Emirates Stadium",
+    "value": 0.81,
+    "values": [
+      1.0,
+      0.5,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "bottle",
+    "term2": "can",
+    "value": 2.5,
+    "values": [
+      2.0,
+      2.0,
+      3.0,
+      2.5,
+      2.5,
+      2.5,
+      3.5,
+      2.0
+    ]
+  },
+  {
+    "term1": "sowing",
+    "term2": "plantlet",
+    "value": 1.81,
+    "values": [
+      1.5,
+      1.0,
+      2.0,
+      2.5,
+      2.0,
+      2.0,
+      1.5,
+      2.0
+    ]
+  },
+  {
+    "term1": "Buxus",
+    "term2": "defoliator",
+    "value": 1.25,
+    "values": [
+      1.5,
+      1.0,
+      1.0,
+      1.5,
+      2.0,
+      1.0,
+      1.5,
+      0.5
+    ]
+  },
+  {
+    "term1": "Seoul",
+    "term2": "Yo-jong",
+    "value": 1.0,
+    "values": [
+      1.0,
+      0.5,
+      2.0,
+      1.0,
+      0.5,
+      0.5,
+      1.5,
+      1.0
+    ]
+  },
+  {
+    "term1": "strive",
+    "term2": "foreclose",
+    "value": 0.31,
+    "values": [
+      0.5,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "IE4",
+    "term2": "Internet Explorer 4",
+    "value": 4.0,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "blitz",
+    "term2": "attack",
+    "value": 3.19,
+    "values": [
+      3.0,
+      3.0,
+      2.0,
+      3.5,
+      3.5,
+      3.0,
+      4.0,
+      3.5
+    ]
+  },
+  {
+    "term1": "praecipe",
+    "term2": "praecipuum",
+    "value": 0.13,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      0.5,
+      0.0
+    ]
+  },
+  {
+    "term1": "fundholder",
+    "term2": "construction",
+    "value": 0.44,
+    "values": [
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      0.5,
+      0.0
+    ]
+  },
+  {
+    "term1": "foodstuff",
+    "term2": "feedingstuff",
+    "value": 2.88,
+    "values": [
+      3.0,
+      3.0,
+      2.0,
+      3.0,
+      2.5,
+      3.0,
+      3.5,
+      3.0
+    ]
+  },
+  {
+    "term1": "filtrate",
+    "term2": "first-rate",
+    "value": 0.0,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "ITV2",
+    "term2": "ITV Two",
+    "value": 4.0,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "photophone",
+    "term2": "homophone",
+    "value": 0.25,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "wrinkle",
+    "term2": "Early aging",
+    "value": 1.81,
+    "values": [
+      3.0,
+      2.0,
+      2.0,
+      2.0,
+      1.0,
+      1.0,
+      1.5,
+      2.0
+    ]
+  },
+  {
+    "term1": "water bearer",
+    "term2": "Aquarius",
+    "value": 3.81,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      3.0,
+      3.5,
+      4.0
+    ]
+  },
+  {
+    "term1": "novelist",
+    "term2": "sub-plot",
+    "value": 1.63,
+    "values": [
+      1.0,
+      1.0,
+      2.0,
+      2.0,
+      1.5,
+      2.0,
+      1.5,
+      2.0
+    ]
+  },
+  {
+    "term1": "fruiterer",
+    "term2": "fruit",
+    "value": 2.0,
+    "values": [
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "electrodiagnosis",
+    "term2": "ecosocialist",
+    "value": 0.06,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "dukedom",
+    "term2": "princedom",
+    "value": 2.75,
+    "values": [
+      2.5,
+      2.0,
+      3.0,
+      3.0,
+      3.0,
+      2.5,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "term1": "thought process",
+    "term2": "thought-provoking",
+    "value": 1.94,
+    "values": [
+      2.5,
+      2.0,
+      2.0,
+      2.5,
+      1.0,
+      1.5,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "draftswoman",
+    "term2": "watercolor painting",
+    "value": 1.75,
+    "values": [
+      1.5,
+      2.0,
+      2.0,
+      2.5,
+      1.0,
+      1.0,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "census",
+    "term2": "nosecount",
+    "value": 4.0,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "Mathematica",
+    "term2": "differential equation",
+    "value": 2.06,
+    "values": [
+      2.0,
+      2.0,
+      2.0,
+      2.5,
+      1.5,
+      2.0,
+      2.5,
+      2.0
+    ]
+  },
+  {
+    "term1": "soldier",
+    "term2": "footguard",
+    "value": 2.94,
+    "values": [
+      3.0,
+      3.0,
+      2.0,
+      3.5,
+      3.0,
+      2.5,
+      3.5,
+      3.0
+    ]
+  },
+  {
+    "term1": "Fish and chips",
+    "term2": "Nando's",
+    "value": 1.38,
+    "values": [
+      1.5,
+      1.0,
+      2.0,
+      2.0,
+      1.0,
+      1.0,
+      1.5,
+      1.0
+    ]
+  },
+  {
+    "term1": "Scooby-Doo",
+    "term2": "Shaun the Sheep",
+    "value": 2.75,
+    "values": [
+      3.0,
+      3.0,
+      3.0,
+      2.0,
+      3.0,
+      2.5,
+      2.5,
+      3.0
+    ]
+  },
+  {
+    "term1": "post-apocalyptic",
+    "term2": "postage",
+    "value": 0.0,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "pragmatics",
+    "term2": "stemmatics",
+    "value": 1.5,
+    "values": [
+      1.5,
+      3.0,
+      1.0,
+      1.5,
+      2.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "term1": "locomotion",
+    "term2": "zoospore",
+    "value": 0.25,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.5,
+      0.5
+    ]
+  },
+  {
+    "term1": "transaction",
+    "term2": "cyberbank",
+    "value": 1.75,
+    "values": [
+      1.0,
+      1.0,
+      2.0,
+      2.5,
+      1.5,
+      2.0,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "iCloud",
+    "term2": "cyberlocker",
+    "value": 2.69,
+    "values": [
+      3.0,
+      3.0,
+      2.0,
+      3.0,
+      3.0,
+      2.0,
+      2.5,
+      3.0
+    ]
+  },
+  {
+    "term1": "Ramadan",
+    "term2": "Al Ramadi",
+    "value": 0.44,
+    "values": [
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.5
+    ]
+  },
+  {
+    "term1": "erythroleukemia",
+    "term2": "blood cancer",
+    "value": 3.06,
+    "values": [
+      3.5,
+      3.0,
+      3.0,
+      3.5,
+      3.0,
+      2.0,
+      3.0,
+      3.5
+    ]
+  },
+  {
+    "term1": "vestibular system",
+    "term2": "Ototoxicity",
+    "value": 1.81,
+    "values": [
+      1.5,
+      1.5,
+      2.0,
+      2.0,
+      2.0,
+      1.5,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "miniguide",
+    "term2": "tourist",
+    "value": 1.69,
+    "values": [
+      1.5,
+      1.5,
+      2.0,
+      2.0,
+      1.0,
+      2.0,
+      1.5,
+      2.0
+    ]
+  },
+  {
+    "term1": "miniskirt",
+    "term2": "microskirt",
+    "value": 3.31,
+    "values": [
+      3.5,
+      3.0,
+      3.0,
+      3.5,
+      3.0,
+      3.5,
+      3.5,
+      3.5
+    ]
+  },
+  {
+    "term1": "all-star",
+    "term2": "legendary",
+    "value": 2.44,
+    "values": [
+      2.5,
+      2.0,
+      1.0,
+      3.5,
+      2.0,
+      3.0,
+      2.5,
+      3.0
+    ]
+  },
+  {
+    "term1": "X-Files",
+    "term2": "science fiction drama",
+    "value": 2.56,
+    "values": [
+      2.0,
+      3.0,
+      2.0,
+      3.0,
+      3.0,
+      2.0,
+      2.5,
+      3.0
+    ]
+  },
+  {
+    "term1": "Adobe AfterEffects",
+    "term2": "Canon EOS 6D",
+    "value": 1.63,
+    "values": [
+      2.0,
+      1.0,
+      2.0,
+      2.5,
+      1.0,
+      1.0,
+      1.5,
+      2.0
+    ]
+  },
+  {
+    "term1": "responsibility",
+    "term2": "respondee",
+    "value": 0.5,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      1.0,
+      2.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "surgery",
+    "term2": "therapeutical",
+    "value": 1.56,
+    "values": [
+      1.0,
+      2.0,
+      2.0,
+      2.0,
+      1.5,
+      1.0,
+      2.0,
+      1.0
+    ]
+  },
+  {
+    "term1": "Fiat 500",
+    "term2": "venice",
+    "value": 0.69,
+    "values": [
+      1.0,
+      0.5,
+      1.0,
+      1.5,
+      0.5,
+      0.5,
+      0.5,
+      0.0
+    ]
+  },
+  {
+    "term1": "K-PAX",
+    "term2": "Kevin Spacey",
+    "value": 1.94,
+    "values": [
+      1.0,
+      2.0,
+      2.0,
+      2.5,
+      2.0,
+      2.0,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "overcurious",
+    "term2": "inquisitive",
+    "value": 3.06,
+    "values": [
+      3.0,
+      3.0,
+      3.0,
+      3.5,
+      3.0,
+      3.0,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "term1": "Top Gear",
+    "term2": "Isuzu Vehicross",
+    "value": 1.19,
+    "values": [
+      1.0,
+      0.5,
+      2.0,
+      2.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "term1": "European Parliament",
+    "term2": "Oomen-Ruijten",
+    "value": 1.81,
+    "values": [
+      1.5,
+      1.5,
+      2.0,
+      2.5,
+      2.0,
+      2.0,
+      2.0,
+      1.0
+    ]
+  },
+  {
+    "term1": "June",
+    "term2": "JunB",
+    "value": 0.06,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "PyeongChang 2018",
+    "term2": "Richard Seymour",
+    "value": 0.81,
+    "values": [
+      0.5,
+      0.0,
+      1.0,
+      1.5,
+      0.5,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "term1": "Apple",
+    "term2": "monopolist",
+    "value": 0.94,
+    "values": [
+      0.5,
+      1.5,
+      1.0,
+      1.0,
+      0.5,
+      0.5,
+      1.5,
+      1.0
+    ]
+  },
+  {
+    "term1": "2nite",
+    "term2": "2mrw",
+    "value": 2.38,
+    "values": [
+      2.0,
+      2.0,
+      3.0,
+      3.0,
+      2.0,
+      2.0,
+      3.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "biological function",
+    "term2": "teleosemantics",
+    "value": 2.19,
+    "values": [
+      2.5,
+      2.0,
+      2.0,
+      3.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "single-handedly",
+    "term2": "independently",
+    "value": 2.69,
+    "values": [
+      2.5,
+      2.0,
+      3.0,
+      3.5,
+      1.0,
+      3.0,
+      3.5,
+      3.0
+    ]
+  },
+  {
+    "term1": "trail and error",
+    "term2": "trialogue",
+    "value": 0.06,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "Fire TV",
+    "term2": "Snapchat",
+    "value": 0.94,
+    "values": [
+      1.0,
+      0.0,
+      1.0,
+      1.5,
+      2.0,
+      0.5,
+      1.0,
+      0.5
+    ]
+  },
+  {
+    "term1": "trilogy",
+    "term2": "mini-series",
+    "value": 2.44,
+    "values": [
+      2.5,
+      3.0,
+      3.0,
+      3.0,
+      0.5,
+      1.5,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "term1": "Hale-Bopp",
+    "term2": "Thomas Bopp",
+    "value": 2.0,
+    "values": [
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "groundcrew",
+    "term2": "airport",
+    "value": 1.88,
+    "values": [
+      1.5,
+      2.0,
+      2.0,
+      2.0,
+      1.5,
+      2.0,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "roadster",
+    "term2": "musclebike",
+    "value": 3.06,
+    "values": [
+      3.0,
+      3.0,
+      3.0,
+      3.5,
+      3.0,
+      3.0,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "term1": "corncutter",
+    "term2": "cornsilk",
+    "value": 1.5,
+    "values": [
+      1.5,
+      1.0,
+      2.0,
+      2.0,
+      1.5,
+      1.0,
+      2.0,
+      1.0
+    ]
+  },
+  {
+    "term1": "greengrocery",
+    "term2": "grocery",
+    "value": 3.06,
+    "values": [
+      3.0,
+      3.0,
+      3.0,
+      3.5,
+      3.0,
+      3.0,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "term1": "Galaxy S8",
+    "term2": "Samsung S8",
+    "value": 3.63,
+    "values": [
+      3.0,
+      4.0,
+      4.0,
+      4.0,
+      3.0,
+      4.0,
+      3.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "early",
+    "term2": "precociously",
+    "value": 2.38,
+    "values": [
+      1.0,
+      3.0,
+      2.0,
+      3.0,
+      1.0,
+      2.0,
+      4.0,
+      3.0
+    ]
+  },
+  {
+    "term1": "PGA Tour",
+    "term2": "Steven O'Hara",
+    "value": 1.94,
+    "values": [
+      1.5,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "all-nighter",
+    "term2": "deadline",
+    "value": 1.5,
+    "values": [
+      1.0,
+      0.5,
+      2.0,
+      2.0,
+      1.0,
+      1.5,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "favism",
+    "term2": "broad bean",
+    "value": 1.69,
+    "values": [
+      2.0,
+      0.0,
+      2.0,
+      0.5,
+      2.0,
+      2.0,
+      3.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "Blind Freddy",
+    "term2": "window blind",
+    "value": 0.06,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0
+    ]
+  },
+  {
+    "term1": "soon",
+    "term2": "sooon",
+    "value": 3.94,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      3.5,
+      4.0
+    ]
+  },
+  {
+    "term1": "religion",
+    "term2": "secularist",
+    "value": 2.0,
+    "values": [
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "down",
+    "term2": "feather",
+    "value": 2.88,
+    "values": [
+      2.5,
+      3.0,
+      2.0,
+      3.5,
+      2.5,
+      3.0,
+      3.0,
+      3.5
+    ]
+  },
+  {
+    "term1": "mini-USB",
+    "term2": "minium",
+    "value": 0.06,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0
+    ]
+  },
+  {
+    "term1": "anamorphosis",
+    "term2": "replica",
+    "value": 1.31,
+    "values": [
+      1.5,
+      2.0,
+      1.0,
+      1.5,
+      1.0,
+      1.0,
+      1.5,
+      1.0
+    ]
+  },
+  {
+    "term1": "wheel",
+    "term2": "cyclometer",
+    "value": 1.5,
+    "values": [
+      0.0,
+      2.0,
+      2.0,
+      2.5,
+      2.0,
+      1.0,
+      1.5,
+      1.0
+    ]
+  },
+  {
+    "term1": "macrocosmic",
+    "term2": "Big Bang",
+    "value": 2.13,
+    "values": [
+      2.5,
+      2.0,
+      2.0,
+      2.5,
+      2.0,
+      2.0,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "raincoat",
+    "term2": "rainjacket",
+    "value": 3.88,
+    "values": [
+      3.5,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      3.5,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "penthouse",
+    "term2": "premises",
+    "value": 1.88,
+    "values": [
+      2.0,
+      3.0,
+      2.0,
+      2.0,
+      2.0,
+      1.0,
+      2.0,
+      1.0
+    ]
+  },
+  {
+    "term1": "pigswill",
+    "term2": "swill",
+    "value": 3.81,
+    "values": [
+      3.0,
+      4.0,
+      4.0,
+      3.5,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "fifth",
+    "term2": "top",
+    "value": 0.81,
+    "values": [
+      0.0,
+      0.0,
+      3.0,
+      1.5,
+      0.0,
+      1.0,
+      1.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "tubocurarine",
+    "term2": "anesthetic",
+    "value": 1.38,
+    "values": [
+      2.0,
+      1.0,
+      1.0,
+      1.5,
+      2.0,
+      1.0,
+      1.5,
+      1.0
+    ]
+  },
+  {
+    "term1": "C ",
+    "term2": "C++",
+    "value": 3.25,
+    "values": [
+      3.5,
+      3.5,
+      3.0,
+      3.5,
+      3.0,
+      3.0,
+      3.5,
+      3.0
+    ]
+  },
+  {
+    "term1": "reburial",
+    "term2": "tomb",
+    "value": 2.19,
+    "values": [
+      1.5,
+      2.0,
+      2.0,
+      3.0,
+      2.0,
+      2.0,
+      3.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "gluttonously",
+    "term2": "voraciously",
+    "value": 3.19,
+    "values": [
+      2.0,
+      3.0,
+      4.0,
+      3.0,
+      3.5,
+      3.0,
+      3.5,
+      3.5
+    ]
+  },
+  {
+    "term1": "Cambridge University",
+    "term2": "Anglia Ruskin",
+    "value": 2.88,
+    "values": [
+      3.0,
+      2.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "term1": "New York",
+    "term2": "Mnhttn",
+    "value": 2.75,
+    "values": [
+      4.0,
+      2.0,
+      2.0,
+      3.0,
+      2.5,
+      2.5,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "term1": "stage fright",
+    "term2": "diffidence",
+    "value": 2.44,
+    "values": [
+      2.5,
+      3.0,
+      2.0,
+      3.0,
+      2.0,
+      2.0,
+      2.0,
+      3.0
+    ]
+  },
+  {
+    "term1": "Chelsea tractor",
+    "term2": "Blvd",
+    "value": 1.06,
+    "values": [
+      0.5,
+      1.0,
+      1.0,
+      1.5,
+      0.5,
+      1.5,
+      1.5,
+      1.0
+    ]
+  },
+  {
+    "term1": "offprint",
+    "term2": "printer",
+    "value": 1.44,
+    "values": [
+      1.0,
+      1.0,
+      1.0,
+      2.0,
+      2.0,
+      1.5,
+      2.0,
+      1.0
+    ]
+  },
+  {
+    "term1": "Inkscape",
+    "term2": "vector graphics",
+    "value": 2.19,
+    "values": [
+      2.0,
+      2.0,
+      2.0,
+      3.0,
+      2.0,
+      2.0,
+      2.5,
+      2.0
+    ]
+  },
+  {
+    "term1": "hashtag",
+    "term2": "insta",
+    "value": 1.69,
+    "values": [
+      1.0,
+      1.0,
+      2.0,
+      2.5,
+      1.0,
+      2.0,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "English Channel",
+    "term2": "History Channel",
+    "value": 0.13,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      0.5,
+      0.0
+    ]
+  },
+  {
+    "term1": "hankering",
+    "term2": "handling",
+    "value": 0.25,
+    "values": [
+      0.5,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0
+    ]
+  },
+  {
+    "term1": "double-faults",
+    "term2": "Wimbledon",
+    "value": 1.75,
+    "values": [
+      0.5,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      1.5,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "BMW",
+    "term2": "omw",
+    "value": 0.06,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "nutmeg",
+    "term2": "mace",
+    "value": 2.56,
+    "values": [
+      2.0,
+      3.0,
+      3.0,
+      3.0,
+      2.5,
+      3.0,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "blithesome",
+    "term2": "light-hearted",
+    "value": 3.94,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      3.5,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "spiritualist",
+    "term2": "autographic",
+    "value": 0.0,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "frizzen",
+    "term2": "flintlock firearm",
+    "value": 2.19,
+    "values": [
+      2.5,
+      2.0,
+      2.0,
+      3.0,
+      2.0,
+      1.5,
+      2.5,
+      2.0
+    ]
+  },
+  {
+    "term1": "work permit",
+    "term2": "Blue Card",
+    "value": 2.94,
+    "values": [
+      2.5,
+      3.0,
+      2.0,
+      3.5,
+      3.0,
+      3.0,
+      3.5,
+      3.0
+    ]
+  },
+  {
+    "term1": "slow-cooker",
+    "term2": "crock-pot",
+    "value": 3.81,
+    "values": [
+      4.0,
+      4.0,
+      4.0,
+      3.5,
+      3.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "doggo",
+    "term2": "invisible",
+    "value": 2.94,
+    "values": [
+      1.0,
+      3.0,
+      3.0,
+      3.5,
+      3.5,
+      3.0,
+      3.0,
+      3.5
+    ]
+  },
+  {
+    "term1": "irritate",
+    "term2": "antagonize",
+    "value": 2.81,
+    "values": [
+      2.5,
+      3.0,
+      2.0,
+      3.5,
+      2.0,
+      3.0,
+      3.0,
+      3.5
+    ]
+  },
+  {
+    "term1": "archer",
+    "term2": "pathfinder",
+    "value": 1.38,
+    "values": [
+      1.0,
+      2.0,
+      2.0,
+      1.0,
+      0.0,
+      1.0,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "Ossessione",
+    "term2": "Italian neorealism",
+    "value": 1.69,
+    "values": [
+      1.5,
+      1.0,
+      2.0,
+      2.0,
+      1.0,
+      2.0,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "piscary",
+    "term2": "containership",
+    "value": 0.5,
+    "values": [
+      0.0,
+      0.5,
+      0.0,
+      1.0,
+      0.0,
+      1.0,
+      1.5,
+      0.0
+    ]
+  },
+  {
+    "term1": "unhygienically",
+    "term2": "lip-smackingly",
+    "value": 0.38,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      2.5,
+      0.0,
+      0.0,
+      0.5,
+      0.0
+    ]
+  },
+  {
+    "term1": "tissue",
+    "term2": "abiotrophy",
+    "value": 1.81,
+    "values": [
+      1.0,
+      2.5,
+      2.0,
+      2.0,
+      1.5,
+      1.5,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "swordmaker",
+    "term2": "weapon",
+    "value": 2.06,
+    "values": [
+      2.0,
+      2.0,
+      2.0,
+      2.5,
+      2.0,
+      2.0,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "hyperproliferation",
+    "term2": "cell",
+    "value": 2.19,
+    "values": [
+      2.0,
+      2.5,
+      2.0,
+      3.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "Milk spots",
+    "term2": "Chris Milk",
+    "value": 0.06,
+    "values": [
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "term1": "wallhack",
+    "term2": "Xbox",
+    "value": 1.31,
+    "values": [
+      1.5,
+      1.0,
+      1.0,
+      2.0,
+      1.0,
+      1.0,
+      2.0,
+      1.0
+    ]
+  },
+  {
+    "term1": "Keras",
+    "term2": "Titan Xp",
+    "value": 1.44,
+    "values": [
+      1.0,
+      1.0,
+      1.0,
+      2.0,
+      0.5,
+      2.0,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "Tandoori chicken",
+    "term2": "LeCreuset",
+    "value": 1.0,
+    "values": [
+      1.5,
+      1.0,
+      1.0,
+      1.0,
+      0.5,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "term1": "whole",
+    "term2": "basically",
+    "value": 0.25,
+    "values": [
+      0.5,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      1.0
+    ]
+  },
+  {
+    "term1": "shapeless",
+    "term2": "amorphous",
+    "value": 3.94,
+    "values": [
+      3.5,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  },
+  {
+    "term1": "rule",
+    "term2": "convention",
+    "value": 3.0,
+    "values": [
+      2.5,
+      3.0,
+      4.0,
+      3.5,
+      1.5,
+      3.0,
+      3.5,
+      3.0
+    ]
+  },
+  {
+    "term1": "cotransfection",
+    "term2": "siRNA",
+    "value": 2.13,
+    "values": [
+      2.0,
+      2.0,
+      2.0,
+      2.5,
+      2.0,
+      2.5,
+      2.0,
+      2.0
+    ]
+  },
+  {
+    "term1": "multiplayer",
+    "term2": "Supersonic Warriors",
+    "value": 1.88,
+    "values": [
+      1.0,
+      1.5,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.5,
+      2.0
+    ]
+  }
+]

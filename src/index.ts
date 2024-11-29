@@ -47,6 +47,7 @@ import pap900 from "./datasets/pap900";
 import multisimlex from "./datasets/multisimlex";
 
 import emocon from "./datasets/emocon";
+import card660 from "./datasets/card660";
 
 export * from "./lib/types";
 
@@ -100,4 +101,5 @@ export {
   multisimlex,
   //
   emocon,
+  card660,
 };
