@@ -5,7 +5,7 @@ import umnsrs from "./datasets/umnsrs";
 import umnsrsMod from "./datasets/umnsrsMod";
 
 import mc30 from "./datasets/mc30";
-import mturk287 from "./datasets/mturk287";
+import mt287 from "./datasets/mt287";
 import rg65 from "./datasets/rg65";
 import srw2034 from "./datasets/srw2034";
 import ws353 from "./datasets/ws353";
@@ -59,7 +59,7 @@ export {
   umnsrsMod,
   //
   mc30,
-  mturk287,
+  mt287,
   rg65,
   srw2034,
   ws353,
