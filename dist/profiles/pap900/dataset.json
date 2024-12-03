@@ -18,7 +18,8 @@
     },
     "partitions": [
         {
-            "id": "similarity",
+            "id": "sim",
+            "origName": "similarity",
             "relationType": "similarity",
             "scale": {
                 "value": {
@@ -47,7 +48,8 @@
             }
         },
         {
-            "id": "relatedness",
+            "id": "rel",
+            "origName": "relatedness",
             "relationType": "relatedness",
             "scale": {
                 "value": {

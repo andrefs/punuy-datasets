@@ -127,6 +127,14 @@ export interface Partition {
      */
     id: string;
     /**
+     * Original name of the partition
+     */
+    origName?: string;
+    /**
+     * A description of the partition
+     */
+    description?: string;
+    /**
      * Which type of semantic relation is used to compare the words
      */
     relationType: RelationType;

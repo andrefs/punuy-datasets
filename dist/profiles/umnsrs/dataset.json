@@ -26,7 +26,8 @@
     },
     "partitions": [
         {
-            "id": "UMNSRS_similarity",
+            "id": "sim",
+            "origName": "UMNSRS_similarity",
             "relationType": "similarity",
             "scale": {
                 "value": {
@@ -43,7 +44,8 @@
             }
         },
         {
-            "id": "UMNSRS_relatedness",
+            "id": "rel",
+            "origName": "UMNSRS_relatedness",
             "relationType": "relatedness",
             "scale": {
                 "value": {

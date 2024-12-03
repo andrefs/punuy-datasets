@@ -1,0 +1,65 @@
+{
+    "id": "card660",
+    "metadata": {
+        "name": "Card-660",
+        "authors": "M.T. Pilehvar, D. Kartsaklis, V. Prokhorov, and N. Collier",
+        "urls": ["https://pilehvar.github.io/card-660/"],
+        "papers": [
+            {
+                "title": "Card-660: Cambridge Rare Word Dataset -- a Reliable Benchmark for Infrequent Word Representation Models",
+                "url": "https://pilehvar.github.io/card-660/Card-660.pdf"
+            }
+        ],
+        "date": "2018",
+        "description": "Card-660 is a challenging, yet reliable, benchmark for the evaluation of subword and rare word representation techniques. The dataset provides multiple advantages over existing benchmarks, including a very high inter-annotator agreement (IAA) of around 0.90, which is substantially higher than that for existing rare word datasets (Stanford Rare Word Similarity, with an estimated IAA of 0.41).",
+        "downloadUrls": ["https://pilehvar.github.io/card-660/card-660.zip"],
+        "languages": ["en"],
+        "domain": "general",
+        "relationTypes": ["similarity"]
+    },
+    "partitions": [
+        {
+            "id": "main",
+            "relationType": "similarity",
+            "scale": {
+                "value": {
+                    "min": 0,
+                    "max": 4
+                },
+                "values": {
+                    "min": 0,
+                    "max": 4
+                }
+            },
+            "metrics": {
+                "annotators": {
+                    "total": 8,
+                    "minEachPair": 8
+                },
+                "interAnnoAgreement": [
+                    {
+                        "method": "pearson",
+                        "metric": "APIAA",
+                        "value": 0.889
+                    },
+                    {
+                        "method": "pearson",
+                        "metric": "AMIAA",
+                        "value": 0.935
+                    },
+                    {
+                        "method": "spearman",
+                        "metric": "APIAA",
+                        "value": 0.931
+                    },
+                    {
+                        "method": "spearman",
+                        "metric": "AMIAA",
+                        "value": 0.889
+                    }
+                ]
+            }
+        }
+    ],
+    "originalInstructions": "Card-660 Similarity Scale\\n============================\\n\\nGiven a pair of words, the task is to score their semantic similarity according to the following [0-4] rating scale:\\n\\n   (4)  synonyms\\n        The two words are different ways of referring to the same concept.\\n            automobile\\tcar\\n            cellphone\\tmobile\\n            monitor\\tscreen\\n\\n   (3)  similar\\n        The two words are of the same nature, but slightly different in details.\\n            car\\t\\ttruck\\n            table\\tdesk\\n            tiger\\tlion\\n\\n   (2)  related\\n        The two words are closely related but they are not similar in their nature.\\n            car\\t\\tdriver\\n            desk\\toffice\\n            writer\\tpen\\n\\n   (1)  same domain or slight relation\\n        The two words have distant relationship.\\n            car\\t\\ttarmac\\n            driver\\ttraffic\\n            desk\\temployee\\n\\n   (0)  completely unrelated\\n            car\\t\\tsky\\n            tea\\t\\tweather\\n            supervision\\tmilk\\n"
+}

@@ -12,6 +12,10 @@
             {
                 "title": "Measures of semantic similarity and relatedness in the biomedical domain",
                 "url": "https://www.sciencedirect.com/science/article/pii/S1532046406000645?via%3Dihub"
+            },
+            {
+                "title": "UMLS-Interface and UMLS-Similarity : Open source software for measuring paths and semantic similarity",
+                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2815481/pdf/amia-f2009-431.pdf"
             }
         ],
         "date": "2007",

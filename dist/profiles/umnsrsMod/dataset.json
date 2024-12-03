@@ -26,7 +26,8 @@
     },
     "partitions": [
         {
-            "id": "UMNSRS_similarity_mod449_word2vec",
+            "id": "sim",
+            "origName": "UMNSRS_similarity_mod449_word2vec",
             "relationType": "similarity",
             "scale": {
                 "value": {
@@ -43,7 +44,8 @@
             }
         },
         {
-            "id": "UMNSRS_relatedness_mod458_word2vec",
+            "id": "rel",
+            "origName": "UMNSRS_relatedness_mod458_word2vec",
             "relationType": "relatedness",
             "scale": {
                 "value": {

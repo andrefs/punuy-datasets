@@ -19,7 +19,8 @@
     },
     "partitions": [
         {
-            "id": "wordsim_similarity_goldstandard",
+            "id": "main",
+            "origName": "wordsim_similarity_goldstandard",
             "relationType": "similarity",
             "scale": {
                 "value": {

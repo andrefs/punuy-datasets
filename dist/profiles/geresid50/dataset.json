@@ -27,7 +27,8 @@
     },
     "partitions": [
         {
-            "id": "GeReSiD-rel",
+            "id": "rel",
+            "origName": "GeReSiD-rel",
             "relationType": "relatedness",
             "scale": {
                 "value": {
@@ -50,7 +51,8 @@
             }
         },
         {
-            "id": "GeReSiD-sim",
+            "id": "sim",
+            "origName": "GeReSiD-sim",
             "relationType": "similarity",
             "scale": {
                 "value": {
