@@ -2,7 +2,7 @@ import { DatasetProfile, Partition } from "../lib/types";
 import { lazyPartition } from "../lib/lazy-partition";
 import dataset from "../../profiles/atlasify240/dataset.json";
 import path from "path";
-const folder = "profiles/atlasify240";
+const folder = "../../profiles/atlasify240";
 
 const ds = {
   ...dataset,
