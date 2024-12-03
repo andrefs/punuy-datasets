@@ -1,0 +1,507 @@
+[
+    {
+        "value": 6.69,
+        "term1": "difficulty walking",
+        "term2": "antalgic gait"
+    },
+    {
+        "value": 2.38,
+        "term1": "rheumatoid nodule",
+        "term2": "lung nodule"
+    },
+    {
+        "value": 1,
+        "term1": "hand splint",
+        "term2": "splinter hemorrhage"
+    },
+    {
+        "value": 1,
+        "term1": "diabetes",
+        "term2": "polyp"
+    },
+    {
+        "value": 1,
+        "term1": "portal hypertension",
+        "term2": "nevus"
+    },
+    {
+        "value": 1.69,
+        "term1": "congestive heart failure",
+        "term2": "portal hypertension"
+    },
+    {
+        "value": 3.92,
+        "term1": "peripheral edema",
+        "term2": "pulmonary edema"
+    },
+    {
+        "value": 4.69,
+        "term1": "kidney stone",
+        "term2": "ureteral obstruction"
+    },
+    {
+        "value": 5.31,
+        "term1": "back pain",
+        "term2": "spinal stenosis"
+    },
+    {
+        "value": 4,
+        "term1": "osteophyte",
+        "term2": "heberdens node"
+    },
+    {
+        "value": 7.08,
+        "term1": "rheumatoid arthritis",
+        "term2": "rheumatoid nodule"
+    },
+    {
+        "value": 1,
+        "term1": "contraceptive",
+        "term2": "contraindicated"
+    },
+    {
+        "value": 2.15,
+        "term1": "immunization",
+        "term2": "immunodeficient"
+    },
+    {
+        "value": 4.46,
+        "term1": "myopathy",
+        "term2": "dermatomyositis"
+    },
+    {
+        "value": 2.23,
+        "term1": "HMG Co A reductase inhibitor",
+        "term2": "hyperlipidemia"
+    },
+    {
+        "value": 4.08,
+        "term1": "weakness",
+        "term2": "neuropathy"
+    },
+    {
+        "value": 4.08,
+        "term1": "dyspnea",
+        "term2": "tachypnea"
+    },
+    {
+        "value": 2.77,
+        "term1": "pulmonary embolus",
+        "term2": "hemoptysis"
+    },
+    {
+        "value": 2.85,
+        "term1": "osteoarthritis",
+        "term2": "bone sclerosis"
+    },
+    {
+        "value": 3.77,
+        "term1": "drawer sign",
+        "term2": "knee pain"
+    },
+    {
+        "value": 2.08,
+        "term1": "laxity",
+        "term2": "Marfan Syndrome"
+    },
+    {
+        "value": 3.54,
+        "term1": "trigger point",
+        "term2": "fibromyalgia"
+    },
+    {
+        "value": 5.69,
+        "term1": "morning stiffness",
+        "term2": "rheumatoid arthriits"
+    },
+    {
+        "value": 5,
+        "term1": "stroke",
+        "term2": "hemipareisis"
+    },
+    {
+        "value": 4.23,
+        "term1": "brainstem",
+        "term2": "cranial nerve"
+    },
+    {
+        "value": 4.38,
+        "term1": "swallowing",
+        "term2": "peristalsis"
+    },
+    {
+        "value": 3.77,
+        "term1": "dysphagia",
+        "term2": "hypomotility"
+    },
+    {
+        "value": 5.23,
+        "term1": "T wave",
+        "term2": "myocaridal infarction"
+    },
+    {
+        "value": 4.08,
+        "term1": "cavitation",
+        "term2": "tuberculosis"
+    },
+    {
+        "value": 8.23,
+        "term1": "metastasis",
+        "term2": "carcinomatosis"
+    },
+    {
+        "value": 4.69,
+        "term1": "temporal arteritis",
+        "term2": "headache"
+    },
+    {
+        "value": 5.23,
+        "term1": "Antinuclear antibody (ANA)",
+        "term2": "autoimmune"
+    },
+    {
+        "value": 4.85,
+        "term1": "Raynauds phenomenon",
+        "term2": "digital ischemia"
+    },
+    {
+        "value": 5,
+        "term1": "scleroderma",
+        "term2": "systemic sclerosis"
+    },
+    {
+        "value": 4.85,
+        "term1": "pneumonia",
+        "term2": "infiltrate"
+    },
+    {
+        "value": 6.85,
+        "term1": "ileitis",
+        "term2": "Crohns Disease"
+    },
+    {
+        "value": 5.31,
+        "term1": "paraneoplastic",
+        "term2": "malignancy"
+    },
+    {
+        "value": 6.15,
+        "term1": "Rheumatoid arthritis",
+        "term2": "joint erosion"
+    },
+    {
+        "value": 1.92,
+        "term1": "necrosis",
+        "term2": "liquefaction"
+    },
+    {
+        "value": 5.54,
+        "term1": "diarrhea",
+        "term2": "colitis"
+    },
+    {
+        "value": 5.23,
+        "term1": "dyspepsia",
+        "term2": "peptic ulcer disease"
+    },
+    {
+        "value": 6.08,
+        "term1": "confusion",
+        "term2": "delusion"
+    },
+    {
+        "value": 6,
+        "term1": "hallucination",
+        "term2": "psychotic"
+    },
+    {
+        "value": 6.85,
+        "term1": "stomatitis",
+        "term2": "mouth ulcer"
+    },
+    {
+        "value": 3.23,
+        "term1": "pulmonary embolus",
+        "term2": "pneumonia"
+    },
+    {
+        "value": 3.77,
+        "term1": "rheumatoid arthritis",
+        "term2": "arthroscopy"
+    },
+    {
+        "value": 3.31,
+        "term1": "injection",
+        "term2": "synovial effusion"
+    },
+    {
+        "value": 2.23,
+        "term1": "uveitis",
+        "term2": "HLA B27"
+    },
+    {
+        "value": 3,
+        "term1": "vasculitis",
+        "term2": "thrombus"
+    },
+    {
+        "value": 1.69,
+        "term1": "sepsis",
+        "term2": "hypotension"
+    },
+    {
+        "value": 5.31,
+        "term1": "urticaria",
+        "term2": "buterfly rash"
+    },
+    {
+        "value": 4.31,
+        "term1": "gastrosomy",
+        "term2": "malnutrition"
+    },
+    {
+        "value": 2.38,
+        "term1": "edema",
+        "term2": "glomerular filtration rate"
+    },
+    {
+        "value": 5.46,
+        "term1": "Colonoscopy",
+        "term2": "polyp"
+    },
+    {
+        "value": 2.85,
+        "term1": "cortisone",
+        "term2": "osteoporosis"
+    },
+    {
+        "value": 5.62,
+        "term1": "aortic stenosis",
+        "term2": "calcification"
+    },
+    {
+        "value": 3.15,
+        "term1": "malaria",
+        "term2": "amebiasis"
+    },
+    {
+        "value": 2.85,
+        "term1": "neuropathy",
+        "term2": "paralysis"
+    },
+    {
+        "value": 3.31,
+        "term1": "seizure",
+        "term2": "headache"
+    },
+    {
+        "value": 1,
+        "term1": "lymphoid hyperplasia",
+        "term2": "xerostomia"
+    },
+    {
+        "value": 1.46,
+        "term1": "sarcoidosis",
+        "term2": "Vitamin D"
+    },
+    {
+        "value": 3.92,
+        "term1": "leg ulcer",
+        "term2": "varicsoe vein"
+    },
+    {
+        "value": 4.38,
+        "term1": "walking",
+        "term2": "stair climbing"
+    },
+    {
+        "value": 3.15,
+        "term1": "panniculitis",
+        "term2": "lipoma"
+    },
+    {
+        "value": 3.31,
+        "term1": "arrythmia",
+        "term2": "mitral valve"
+    },
+    {
+        "value": 5.46,
+        "term1": "hemolysis",
+        "term2": "hemoglobin"
+    },
+    {
+        "value": 1.92,
+        "term1": "dysguesia",
+        "term2": "swallowing"
+    },
+    {
+        "value": 2.31,
+        "term1": "dysparunia",
+        "term2": "ovulation"
+    },
+    {
+        "value": 3,
+        "term1": "penicillin",
+        "term2": "allergy"
+    },
+    {
+        "value": 5.08,
+        "term1": "leukemia",
+        "term2": "stem cell"
+    },
+    {
+        "value": 1.69,
+        "term1": "prostate cancer",
+        "term2": "acid phosphatase"
+    },
+    {
+        "value": 2.62,
+        "term1": "meniscus",
+        "term2": "osteoarthritis"
+    },
+    {
+        "value": 1,
+        "term1": "sodium",
+        "term2": "mri"
+    },
+    {
+        "value": 1.77,
+        "term1": "prothombin",
+        "term2": "syringe"
+    },
+    {
+        "value": 1.08,
+        "term1": "multiple myeloma",
+        "term2": "depression"
+    },
+    {
+        "value": 1,
+        "term1": "diabetes",
+        "term2": "rheumatoid nodule"
+    },
+    {
+        "value": 1.23,
+        "term1": "ketoacidosis",
+        "term2": "lupus"
+    },
+    {
+        "value": 1,
+        "term1": "tracheal stenosis",
+        "term2": "colon cancer"
+    },
+    {
+        "value": 2.85,
+        "term1": "sinusitis",
+        "term2": "sinusoid"
+    },
+    {
+        "value": 1,
+        "term1": "cryptogenic cirrhosis",
+        "term2": "gastrin"
+    },
+    {
+        "value": 1,
+        "term1": "heart failure",
+        "term2": "psychosis"
+    },
+    {
+        "value": 1,
+        "term1": "rectal polyp",
+        "term2": "laryngeal cancer"
+    },
+    {
+        "value": 1.08,
+        "term1": "antiphospholipid antibody",
+        "term2": "acne"
+    },
+    {
+        "value": 1.31,
+        "term1": "perseveration",
+        "term2": "venous stasis ulcer"
+    },
+    {
+        "value": 1,
+        "term1": "bipolar depression",
+        "term2": "junctional rhythm"
+    },
+    {
+        "value": 1,
+        "term1": "mitral stenosis",
+        "term2": "peptic ulcer disease"
+    },
+    {
+        "value": 1,
+        "term1": "acute respiratory distress syndrome",
+        "term2": "celluitis"
+    },
+    {
+        "value": 1,
+        "term1": "spinal cord compression",
+        "term2": "wound compress"
+    },
+    {
+        "value": 1,
+        "term1": "cervical spinal stenosis",
+        "term2": "alcoholic cirrhosis"
+    },
+    {
+        "value": 1,
+        "term1": "autoimmune hepatitis",
+        "term2": "premature labor"
+    },
+    {
+        "value": 1.46,
+        "term1": "cerebral aneurysm",
+        "term2": "pulmonary embolus"
+    },
+    {
+        "value": 1,
+        "term1": "small cell carcinoma of lung",
+        "term2": "type 2 diabetes"
+    },
+    {
+        "value": 1.54,
+        "term1": "hemetemesis",
+        "term2": "xerostomia"
+    },
+    {
+        "value": 2,
+        "term1": "corneal ulcer",
+        "term2": "decubitus ulcer"
+    },
+    {
+        "value": 1,
+        "term1": "dyspnea",
+        "term2": "myalgia"
+    },
+    {
+        "value": 1.08,
+        "term1": "chronic obstructive pulmonary disease",
+        "term2": "haletosis"
+    },
+    {
+        "value": 1,
+        "term1": "osteoarthritis",
+        "term2": "nephrolithiasis"
+    },
+    {
+        "value": 1.08,
+        "term1": "medial collateral ligament tear",
+        "term2": "torsade de pointes"
+    },
+    {
+        "value": 1,
+        "term1": "pulmonary fibrosis",
+        "term2": "appendicitis"
+    },
+    {
+        "value": 1,
+        "term1": "carpal tunnel syndrome",
+        "term2": "alveolitis"
+    },
+    {
+        "value": 1.54,
+        "term1": "erythema nodusum",
+        "term2": "osteoporosis"
+    }
+]

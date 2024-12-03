@@ -1,0 +1,5002 @@
+[
+    {
+        "term1": "display",
+        "term2": "pond",
+        "value": 10.0
+    },
+    {
+        "term1": "graveyard",
+        "term2": "porch",
+        "value": 7.0
+    },
+    {
+        "term1": "hold",
+        "term2": "theatre",
+        "value": 9.0
+    },
+    {
+        "term1": "city",
+        "term2": "small",
+        "value": 21.0
+    },
+    {
+        "term1": "fire",
+        "term2": "sand",
+        "value": 23.0
+    },
+    {
+        "term1": "eat",
+        "term2": "soup",
+        "value": 39.0
+    },
+    {
+        "term1": "collar",
+        "term2": "skirt",
+        "value": 27.0
+    },
+    {
+        "term1": "car",
+        "term2": "garage",
+        "value": 41.0
+    },
+    {
+        "term1": "child",
+        "term2": "fun",
+        "value": 27.0
+    },
+    {
+        "term1": "black",
+        "term2": "bright",
+        "value": 20.0
+    },
+    {
+        "term1": "cute",
+        "term2": "friend",
+        "value": 15.0
+    },
+    {
+        "term1": "mother",
+        "term2": "son",
+        "value": 41.0
+    },
+    {
+        "term1": "design",
+        "term2": "orange",
+        "value": 12.0
+    },
+    {
+        "term1": "jacket",
+        "term2": "stream",
+        "value": 10.0
+    },
+    {
+        "term1": "daisy",
+        "term2": "gravestone",
+        "value": 23.0
+    },
+    {
+        "term1": "flood",
+        "term2": "neon",
+        "value": 10.0
+    },
+    {
+        "term1": "car",
+        "term2": "motor",
+        "value": 41.0
+    },
+    {
+        "term1": "airport",
+        "term2": "flight",
+        "value": 41.0
+    },
+    {
+        "term1": "abstract",
+        "term2": "moon",
+        "value": 15.0
+    },
+    {
+        "term1": "orange",
+        "term2": "strawberry",
+        "value": 37.0
+    },
+    {
+        "term1": "bright",
+        "term2": "glitter",
+        "value": 35.0
+    },
+    {
+        "term1": "evening",
+        "term2": "sunshine",
+        "value": 22.0
+    },
+    {
+        "term1": "brown",
+        "term2": "wet",
+        "value": 12.0
+    },
+    {
+        "term1": "portrait",
+        "term2": "underground",
+        "value": 7.0
+    },
+    {
+        "term1": "friend",
+        "term2": "relax",
+        "value": 20.0
+    },
+    {
+        "term1": "crochet",
+        "term2": "jewelry",
+        "value": 25.0
+    },
+    {
+        "term1": "cactus",
+        "term2": "plant",
+        "value": 42.0
+    },
+    {
+        "term1": "military",
+        "term2": "reflection",
+        "value": 11.0
+    },
+    {
+        "term1": "mill",
+        "term2": "puddle",
+        "value": 9.0
+    },
+    {
+        "term1": "old",
+        "term2": "town",
+        "value": 24.0
+    },
+    {
+        "term1": "outdoor",
+        "term2": "swimming",
+        "value": 27.0
+    },
+    {
+        "term1": "bird",
+        "term2": "insect",
+        "value": 37.0
+    },
+    {
+        "term1": "sticker",
+        "term2": "track",
+        "value": 10.0
+    },
+    {
+        "term1": "drip",
+        "term2": "puddle",
+        "value": 32.0
+    },
+    {
+        "term1": "boardwalk",
+        "term2": "trail",
+        "value": 31.0
+    },
+    {
+        "term1": "dessert",
+        "term2": "frozen",
+        "value": 32.0
+    },
+    {
+        "term1": "sunshine",
+        "term2": "wet",
+        "value": 16.0
+    },
+    {
+        "term1": "hair",
+        "term2": "stencil",
+        "value": 15.0
+    },
+    {
+        "term1": "dark",
+        "term2": "purple",
+        "value": 28.0
+    },
+    {
+        "term1": "mist",
+        "term2": "rain",
+        "value": 41.0
+    },
+    {
+        "term1": "day",
+        "term2": "weather",
+        "value": 27.0
+    },
+    {
+        "term1": "small",
+        "term2": "village",
+        "value": 31.0
+    },
+    {
+        "term1": "hill",
+        "term2": "road",
+        "value": 27.0
+    },
+    {
+        "term1": "metro",
+        "term2": "train",
+        "value": 41.0
+    },
+    {
+        "term1": "country",
+        "term2": "work",
+        "value": 19.0
+    },
+    {
+        "term1": "happy",
+        "term2": "post",
+        "value": 14.0
+    },
+    {
+        "term1": "ceramic",
+        "term2": "ocean",
+        "value": 8.0
+    },
+    {
+        "term1": "cute",
+        "term2": "dirty",
+        "value": 11.0
+    },
+    {
+        "term1": "frozen",
+        "term2": "shop",
+        "value": 13.0
+    },
+    {
+        "term1": "paint",
+        "term2": "sing",
+        "value": 7.0
+    },
+    {
+        "term1": "airplane",
+        "term2": "guitar",
+        "value": 7.0
+    },
+    {
+        "term1": "dessert",
+        "term2": "wine",
+        "value": 23.0
+    },
+    {
+        "term1": "pepper",
+        "term2": "tomato",
+        "value": 27.0
+    },
+    {
+        "term1": "cactus",
+        "term2": "fall",
+        "value": 13.0
+    },
+    {
+        "term1": "bright",
+        "term2": "grey",
+        "value": 16.0
+    },
+    {
+        "term1": "nature",
+        "term2": "snowman",
+        "value": 26.0
+    },
+    {
+        "term1": "bar",
+        "term2": "pub",
+        "value": 44.0
+    },
+    {
+        "term1": "swim",
+        "term2": "underwater",
+        "value": 39.0
+    },
+    {
+        "term1": "explosion",
+        "term2": "stencil",
+        "value": 3.0
+    },
+    {
+        "term1": "jellyfish",
+        "term2": "punk",
+        "value": 6.0
+    },
+    {
+        "term1": "dark",
+        "term2": "shade",
+        "value": 30.0
+    },
+    {
+        "term1": "ceiling",
+        "term2": "door",
+        "value": 23.0
+    },
+    {
+        "term1": "skyline",
+        "term2": "tall",
+        "value": 27.0
+    },
+    {
+        "term1": "porch",
+        "term2": "wall",
+        "value": 24.0
+    },
+    {
+        "term1": "dead",
+        "term2": "hang",
+        "value": 20.0
+    },
+    {
+        "term1": "foot",
+        "term2": "toe",
+        "value": 42.0
+    },
+    {
+        "term1": "aircraft",
+        "term2": "asphalt",
+        "value": 14.0
+    },
+    {
+        "term1": "mist",
+        "term2": "sunlight",
+        "value": 24.0
+    },
+    {
+        "term1": "fire",
+        "term2": "smoke",
+        "value": 44.0
+    },
+    {
+        "term1": "cottage",
+        "term2": "scenery",
+        "value": 24.0
+    },
+    {
+        "term1": "hawk",
+        "term2": "owl",
+        "value": 37.0
+    },
+    {
+        "term1": "furniture",
+        "term2": "room",
+        "value": 33.0
+    },
+    {
+        "term1": "bedroom",
+        "term2": "feline",
+        "value": 8.0
+    },
+    {
+        "term1": "garbage",
+        "term2": "underground",
+        "value": 16.0
+    },
+    {
+        "term1": "daisy",
+        "term2": "foliage",
+        "value": 29.0
+    },
+    {
+        "term1": "snake",
+        "term2": "strawberry",
+        "value": 9.0
+    },
+    {
+        "term1": "crochet",
+        "term2": "knit",
+        "value": 44.0
+    },
+    {
+        "term1": "mallard",
+        "term2": "portrait",
+        "value": 11.0
+    },
+    {
+        "term1": "map",
+        "term2": "weed",
+        "value": 5.0
+    },
+    {
+        "term1": "bike",
+        "term2": "rally",
+        "value": 27.0
+    },
+    {
+        "term1": "hot",
+        "term2": "wet",
+        "value": 29.0
+    },
+    {
+        "term1": "boxer",
+        "term2": "child",
+        "value": 9.0
+    },
+    {
+        "term1": "cold",
+        "term2": "frozen",
+        "value": 42.0
+    },
+    {
+        "term1": "mom",
+        "term2": "snowman",
+        "value": 13.0
+    },
+    {
+        "term1": "desert",
+        "term2": "road",
+        "value": 20.0
+    },
+    {
+        "term1": "plant",
+        "term2": "skate",
+        "value": 10.0
+    },
+    {
+        "term1": "barn",
+        "term2": "owl",
+        "value": 24.0
+    },
+    {
+        "term1": "dessert",
+        "term2": "head",
+        "value": 7.0
+    },
+    {
+        "term1": "marble",
+        "term2": "monkey",
+        "value": 6.0
+    },
+    {
+        "term1": "lighting",
+        "term2": "sleep",
+        "value": 12.0
+    },
+    {
+        "term1": "sit",
+        "term2": "staircase",
+        "value": 23.0
+    },
+    {
+        "term1": "draw",
+        "term2": "wing",
+        "value": 14.0
+    },
+    {
+        "term1": "leave",
+        "term2": "morning",
+        "value": 9.0
+    },
+    {
+        "term1": "dawn",
+        "term2": "sun",
+        "value": 40.0
+    },
+    {
+        "term1": "automobile",
+        "term2": "parking",
+        "value": 41.0
+    },
+    {
+        "term1": "black",
+        "term2": "skirt",
+        "value": 24.0
+    },
+    {
+        "term1": "bathroom",
+        "term2": "floor",
+        "value": 31.0
+    },
+    {
+        "term1": "handwriting",
+        "term2": "pig",
+        "value": 5.0
+    },
+    {
+        "term1": "orange",
+        "term2": "shade",
+        "value": 23.0
+    },
+    {
+        "term1": "live",
+        "term2": "race",
+        "value": 21.0
+    },
+    {
+        "term1": "desert",
+        "term2": "mountain",
+        "value": 31.0
+    },
+    {
+        "term1": "mammal",
+        "term2": "yellow",
+        "value": 7.0
+    },
+    {
+        "term1": "black",
+        "term2": "pencil",
+        "value": 22.0
+    },
+    {
+        "term1": "feather",
+        "term2": "wild",
+        "value": 24.0
+    },
+    {
+        "term1": "bath",
+        "term2": "floor",
+        "value": 24.0
+    },
+    {
+        "term1": "bride",
+        "term2": "wedding",
+        "value": 45.0
+    },
+    {
+        "term1": "dirty",
+        "term2": "hang",
+        "value": 13.0
+    },
+    {
+        "term1": "bike",
+        "term2": "flame",
+        "value": 5.0
+    },
+    {
+        "term1": "aerial",
+        "term2": "clown",
+        "value": 12.0
+    },
+    {
+        "term1": "dark",
+        "term2": "sand",
+        "value": 13.0
+    },
+    {
+        "term1": "canine",
+        "term2": "dog",
+        "value": 44.0
+    },
+    {
+        "term1": "black",
+        "term2": "seat",
+        "value": 19.0
+    },
+    {
+        "term1": "female",
+        "term2": "machine",
+        "value": 5.0
+    },
+    {
+        "term1": "hand",
+        "term2": "leave",
+        "value": 26.0
+    },
+    {
+        "term1": "leather",
+        "term2": "rope",
+        "value": 23.0
+    },
+    {
+        "term1": "escalator",
+        "term2": "subway",
+        "value": 32.0
+    },
+    {
+        "term1": "fly",
+        "term2": "toy",
+        "value": 18.0
+    },
+    {
+        "term1": "bathroom",
+        "term2": "stair",
+        "value": 16.0
+    },
+    {
+        "term1": "art",
+        "term2": "sculpture",
+        "value": 39.0
+    },
+    {
+        "term1": "birthday",
+        "term2": "happy",
+        "value": 36.0
+    },
+    {
+        "term1": "art",
+        "term2": "museum",
+        "value": 43.0
+    },
+    {
+        "term1": "dude",
+        "term2": "kid",
+        "value": 15.0
+    },
+    {
+        "term1": "cow",
+        "term2": "pregnancy",
+        "value": 20.0
+    },
+    {
+        "term1": "diamond",
+        "term2": "stencil",
+        "value": 14.0
+    },
+    {
+        "term1": "purple",
+        "term2": "twig",
+        "value": 7.0
+    },
+    {
+        "term1": "glitter",
+        "term2": "night",
+        "value": 20.0
+    },
+    {
+        "term1": "morning",
+        "term2": "smile",
+        "value": 22.0
+    },
+    {
+        "term1": "cigarette",
+        "term2": "smoke",
+        "value": 43.0
+    },
+    {
+        "term1": "market",
+        "term2": "orange",
+        "value": 19.0
+    },
+    {
+        "term1": "craft",
+        "term2": "game",
+        "value": 25.0
+    },
+    {
+        "term1": "iron",
+        "term2": "rusty",
+        "value": 32.0
+    },
+    {
+        "term1": "cafe",
+        "term2": "pub",
+        "value": 40.0
+    },
+    {
+        "term1": "cross",
+        "term2": "post",
+        "value": 16.0
+    },
+    {
+        "term1": "salad",
+        "term2": "soup",
+        "value": 41.0
+    },
+    {
+        "term1": "military",
+        "term2": "soldier",
+        "value": 40.0
+    },
+    {
+        "term1": "pin",
+        "term2": "truck",
+        "value": 12.0
+    },
+    {
+        "term1": "graffito",
+        "term2": "interior",
+        "value": 19.0
+    },
+    {
+        "term1": "feather",
+        "term2": "insect",
+        "value": 16.0
+    },
+    {
+        "term1": "band",
+        "term2": "guitar",
+        "value": 41.0
+    },
+    {
+        "term1": "ceiling",
+        "term2": "marble",
+        "value": 23.0
+    },
+    {
+        "term1": "building",
+        "term2": "zombie",
+        "value": 7.0
+    },
+    {
+        "term1": "skin",
+        "term2": "television",
+        "value": 8.0
+    },
+    {
+        "term1": "bay",
+        "term2": "chipmunk",
+        "value": 7.0
+    },
+    {
+        "term1": "bud",
+        "term2": "flower",
+        "value": 46.0
+    },
+    {
+        "term1": "construction",
+        "term2": "interior",
+        "value": 33.0
+    },
+    {
+        "term1": "harbour",
+        "term2": "sea",
+        "value": 42.0
+    },
+    {
+        "term1": "night",
+        "term2": "sit",
+        "value": 11.0
+    },
+    {
+        "term1": "cold",
+        "term2": "drip",
+        "value": 23.0
+    },
+    {
+        "term1": "cold",
+        "term2": "sun",
+        "value": 20.0
+    },
+    {
+        "term1": "sea",
+        "term2": "swim",
+        "value": 39.0
+    },
+    {
+        "term1": "steel",
+        "term2": "town",
+        "value": 18.0
+    },
+    {
+        "term1": "sock",
+        "term2": "white",
+        "value": 28.0
+    },
+    {
+        "term1": "gun",
+        "term2": "picture",
+        "value": 7.0
+    },
+    {
+        "term1": "nail",
+        "term2": "wolf",
+        "value": 15.0
+    },
+    {
+        "term1": "chocolate",
+        "term2": "wig",
+        "value": 5.0
+    },
+    {
+        "term1": "pattern",
+        "term2": "time",
+        "value": 16.0
+    },
+    {
+        "term1": "soup",
+        "term2": "wool",
+        "value": 4.0
+    },
+    {
+        "term1": "fun",
+        "term2": "happy",
+        "value": 41.0
+    },
+    {
+        "term1": "beauty",
+        "term2": "peacock",
+        "value": 29.0
+    },
+    {
+        "term1": "line",
+        "term2": "metro",
+        "value": 27.0
+    },
+    {
+        "term1": "canine",
+        "term2": "pet",
+        "value": 36.0
+    },
+    {
+        "term1": "purple",
+        "term2": "stripe",
+        "value": 10.0
+    },
+    {
+        "term1": "brown",
+        "term2": "orange",
+        "value": 34.0
+    },
+    {
+        "term1": "guy",
+        "term2": "walk",
+        "value": 21.0
+    },
+    {
+        "term1": "misty",
+        "term2": "sunny",
+        "value": 21.0
+    },
+    {
+        "term1": "boxer",
+        "term2": "swimming",
+        "value": 12.0
+    },
+    {
+        "term1": "scenery",
+        "term2": "sunset",
+        "value": 39.0
+    },
+    {
+        "term1": "arch",
+        "term2": "brick",
+        "value": 22.0
+    },
+    {
+        "term1": "ski",
+        "term2": "skirt",
+        "value": 7.0
+    },
+    {
+        "term1": "vintage",
+        "term2": "zebra",
+        "value": 8.0
+    },
+    {
+        "term1": "spiral",
+        "term2": "staircase",
+        "value": 37.0
+    },
+    {
+        "term1": "blonde",
+        "term2": "hair",
+        "value": 39.0
+    },
+    {
+        "term1": "art",
+        "term2": "collage",
+        "value": 33.0
+    },
+    {
+        "term1": "sunny",
+        "term2": "sunset",
+        "value": 40.0
+    },
+    {
+        "term1": "rice",
+        "term2": "soup",
+        "value": 28.0
+    },
+    {
+        "term1": "decoration",
+        "term2": "tulip",
+        "value": 25.0
+    },
+    {
+        "term1": "chair",
+        "term2": "ipod",
+        "value": 5.0
+    },
+    {
+        "term1": "ink",
+        "term2": "organ",
+        "value": 9.0
+    },
+    {
+        "term1": "bakery",
+        "term2": "cafe",
+        "value": 33.0
+    },
+    {
+        "term1": "orange",
+        "term2": "white",
+        "value": 30.0
+    },
+    {
+        "term1": "cheetah",
+        "term2": "lion",
+        "value": 40.0
+    },
+    {
+        "term1": "fly",
+        "term2": "keyboard",
+        "value": 9.0
+    },
+    {
+        "term1": "cute",
+        "term2": "sexy",
+        "value": 25.0
+    },
+    {
+        "term1": "game",
+        "term2": "husky",
+        "value": 6.0
+    },
+    {
+        "term1": "blossom",
+        "term2": "daffodil",
+        "value": 43.0
+    },
+    {
+        "term1": "bead",
+        "term2": "chess",
+        "value": 11.0
+    },
+    {
+        "term1": "floor",
+        "term2": "staircase",
+        "value": 31.0
+    },
+    {
+        "term1": "bikini",
+        "term2": "ivy",
+        "value": 12.0
+    },
+    {
+        "term1": "boardwalk",
+        "term2": "park",
+        "value": 29.0
+    },
+    {
+        "term1": "patio",
+        "term2": "sit",
+        "value": 28.0
+    },
+    {
+        "term1": "feather",
+        "term2": "owl",
+        "value": 37.0
+    },
+    {
+        "term1": "feather",
+        "term2": "wing",
+        "value": 34.0
+    },
+    {
+        "term1": "bath",
+        "term2": "panorama",
+        "value": 7.0
+    },
+    {
+        "term1": "key",
+        "term2": "palace",
+        "value": 23.0
+    },
+    {
+        "term1": "foliage",
+        "term2": "petal",
+        "value": 41.0
+    },
+    {
+        "term1": "jacket",
+        "term2": "jean",
+        "value": 35.0
+    },
+    {
+        "term1": "sailing",
+        "term2": "shore",
+        "value": 35.0
+    },
+    {
+        "term1": "hummingbird",
+        "term2": "pelican",
+        "value": 32.0
+    },
+    {
+        "term1": "key",
+        "term2": "stone",
+        "value": 21.0
+    },
+    {
+        "term1": "craft",
+        "term2": "van",
+        "value": 10.0
+    },
+    {
+        "term1": "beach",
+        "term2": "shore",
+        "value": 42.0
+    },
+    {
+        "term1": "face",
+        "term2": "stand",
+        "value": 12.0
+    },
+    {
+        "term1": "foliage",
+        "term2": "twig",
+        "value": 32.0
+    },
+    {
+        "term1": "book",
+        "term2": "copper",
+        "value": 9.0
+    },
+    {
+        "term1": "game",
+        "term2": "scooter",
+        "value": 17.0
+    },
+    {
+        "term1": "pregnancy",
+        "term2": "pregnant",
+        "value": 48.0
+    },
+    {
+        "term1": "frost",
+        "term2": "protest",
+        "value": 7.0
+    },
+    {
+        "term1": "live",
+        "term2": "old",
+        "value": 26.0
+    },
+    {
+        "term1": "mural",
+        "term2": "taxi",
+        "value": 11.0
+    },
+    {
+        "term1": "door",
+        "term2": "interior",
+        "value": 30.0
+    },
+    {
+        "term1": "salad",
+        "term2": "tomato",
+        "value": 36.0
+    },
+    {
+        "term1": "handle",
+        "term2": "tram",
+        "value": 17.0
+    },
+    {
+        "term1": "camel",
+        "term2": "desert",
+        "value": 29.0
+    },
+    {
+        "term1": "fabric",
+        "term2": "photo",
+        "value": 12.0
+    },
+    {
+        "term1": "eagle",
+        "term2": "feather",
+        "value": 44.0
+    },
+    {
+        "term1": "fall",
+        "term2": "stop",
+        "value": 27.0
+    },
+    {
+        "term1": "bathroom",
+        "term2": "room",
+        "value": 37.0
+    },
+    {
+        "term1": "night",
+        "term2": "sunset",
+        "value": 43.0
+    },
+    {
+        "term1": "friend",
+        "term2": "stop",
+        "value": 10.0
+    },
+    {
+        "term1": "hot",
+        "term2": "water",
+        "value": 28.0
+    },
+    {
+        "term1": "parking",
+        "term2": "underground",
+        "value": 26.0
+    },
+    {
+        "term1": "concert",
+        "term2": "piano",
+        "value": 34.0
+    },
+    {
+        "term1": "pizza",
+        "term2": "railway",
+        "value": 10.0
+    },
+    {
+        "term1": "nail",
+        "term2": "rusty",
+        "value": 23.0
+    },
+    {
+        "term1": "eat",
+        "term2": "truck",
+        "value": 9.0
+    },
+    {
+        "term1": "ruin",
+        "term2": "swimsuit",
+        "value": 13.0
+    },
+    {
+        "term1": "grave",
+        "term2": "graveyard",
+        "value": 44.0
+    },
+    {
+        "term1": "desert",
+        "term2": "scenery",
+        "value": 33.0
+    },
+    {
+        "term1": "subway",
+        "term2": "train",
+        "value": 43.0
+    },
+    {
+        "term1": "river",
+        "term2": "scenery",
+        "value": 28.0
+    },
+    {
+        "term1": "cop",
+        "term2": "dirty",
+        "value": 18.0
+    },
+    {
+        "term1": "blossom",
+        "term2": "tree",
+        "value": 35.0
+    },
+    {
+        "term1": "home",
+        "term2": "wet",
+        "value": 10.0
+    },
+    {
+        "term1": "light",
+        "term2": "lighting",
+        "value": 46.0
+    },
+    {
+        "term1": "evening",
+        "term2": "friend",
+        "value": 19.0
+    },
+    {
+        "term1": "evening",
+        "term2": "walk",
+        "value": 27.0
+    },
+    {
+        "term1": "ruin",
+        "term2": "shore",
+        "value": 13.0
+    },
+    {
+        "term1": "floor",
+        "term2": "interior",
+        "value": 36.0
+    },
+    {
+        "term1": "paper",
+        "term2": "railway",
+        "value": 9.0
+    },
+    {
+        "term1": "bacon",
+        "term2": "bread",
+        "value": 29.0
+    },
+    {
+        "term1": "aircraft",
+        "term2": "airplane",
+        "value": 46.0
+    },
+    {
+        "term1": "sand",
+        "term2": "sea",
+        "value": 38.0
+    },
+    {
+        "term1": "butterfly",
+        "term2": "hummingbird",
+        "value": 36.0
+    },
+    {
+        "term1": "cute",
+        "term2": "fashion",
+        "value": 17.0
+    },
+    {
+        "term1": "bead",
+        "term2": "redhead",
+        "value": 14.0
+    },
+    {
+        "term1": "donut",
+        "term2": "panda",
+        "value": 3.0
+    },
+    {
+        "term1": "dessert",
+        "term2": "eye",
+        "value": 8.0
+    },
+    {
+        "term1": "knit",
+        "term2": "stitch",
+        "value": 37.0
+    },
+    {
+        "term1": "scenery",
+        "term2": "shore",
+        "value": 23.0
+    },
+    {
+        "term1": "baseball",
+        "term2": "bear",
+        "value": 6.0
+    },
+    {
+        "term1": "cold",
+        "term2": "silver",
+        "value": 15.0
+    },
+    {
+        "term1": "guy",
+        "term2": "kiss",
+        "value": 19.0
+    },
+    {
+        "term1": "bible",
+        "term2": "cottage",
+        "value": 7.0
+    },
+    {
+        "term1": "art",
+        "term2": "drive",
+        "value": 21.0
+    },
+    {
+        "term1": "autumn",
+        "term2": "winter",
+        "value": 37.0
+    },
+    {
+        "term1": "bath",
+        "term2": "sleep",
+        "value": 15.0
+    },
+    {
+        "term1": "paw",
+        "term2": "whisker",
+        "value": 37.0
+    },
+    {
+        "term1": "petal",
+        "term2": "pug",
+        "value": 5.0
+    },
+    {
+        "term1": "dark",
+        "term2": "orange",
+        "value": 23.0
+    },
+    {
+        "term1": "frozen",
+        "term2": "soup",
+        "value": 17.0
+    },
+    {
+        "term1": "bud",
+        "term2": "purple",
+        "value": 19.0
+    },
+    {
+        "term1": "necklace",
+        "term2": "snow",
+        "value": 8.0
+    },
+    {
+        "term1": "track",
+        "term2": "vinyl",
+        "value": 25.0
+    },
+    {
+        "term1": "lantern",
+        "term2": "light",
+        "value": 43.0
+    },
+    {
+        "term1": "stripe",
+        "term2": "violet",
+        "value": 18.0
+    },
+    {
+        "term1": "lunch",
+        "term2": "relax",
+        "value": 21.0
+    },
+    {
+        "term1": "subway",
+        "term2": "underground",
+        "value": 40.0
+    },
+    {
+        "term1": "jacket",
+        "term2": "shirt",
+        "value": 34.0
+    },
+    {
+        "term1": "glitter",
+        "term2": "sunlight",
+        "value": 36.0
+    },
+    {
+        "term1": "grey",
+        "term2": "shade",
+        "value": 38.0
+    },
+    {
+        "term1": "frost",
+        "term2": "plant",
+        "value": 23.0
+    },
+    {
+        "term1": "fashion",
+        "term2": "handwriting",
+        "value": 11.0
+    },
+    {
+        "term1": "porch",
+        "term2": "staircase",
+        "value": 27.0
+    },
+    {
+        "term1": "bucket",
+        "term2": "girl",
+        "value": 4.0
+    },
+    {
+        "term1": "construction",
+        "term2": "downtown",
+        "value": 26.0
+    },
+    {
+        "term1": "angel",
+        "term2": "asphalt",
+        "value": 7.0
+    },
+    {
+        "term1": "canine",
+        "term2": "puppy",
+        "value": 44.0
+    },
+    {
+        "term1": "bloom",
+        "term2": "pink",
+        "value": 28.0
+    },
+    {
+        "term1": "misty",
+        "term2": "mountain",
+        "value": 23.0
+    },
+    {
+        "term1": "cold",
+        "term2": "winter",
+        "value": 43.0
+    },
+    {
+        "term1": "blonde",
+        "term2": "wig",
+        "value": 30.0
+    },
+    {
+        "term1": "fog",
+        "term2": "misty",
+        "value": 41.0
+    },
+    {
+        "term1": "gun",
+        "term2": "stair",
+        "value": 2.0
+    },
+    {
+        "term1": "river",
+        "term2": "valley",
+        "value": 37.0
+    },
+    {
+        "term1": "grape",
+        "term2": "wine",
+        "value": 46.0
+    },
+    {
+        "term1": "blue",
+        "term2": "white",
+        "value": 31.0
+    },
+    {
+        "term1": "match",
+        "term2": "round",
+        "value": 27.0
+    },
+    {
+        "term1": "harbor",
+        "term2": "sea",
+        "value": 38.0
+    },
+    {
+        "term1": "cherry",
+        "term2": "lamb",
+        "value": 8.0
+    },
+    {
+        "term1": "foliage",
+        "term2": "plant",
+        "value": 38.0
+    },
+    {
+        "term1": "bible",
+        "term2": "misty",
+        "value": 3.0
+    },
+    {
+        "term1": "dude",
+        "term2": "sit",
+        "value": 17.0
+    },
+    {
+        "term1": "drug",
+        "term2": "sing",
+        "value": 10.0
+    },
+    {
+        "term1": "guy",
+        "term2": "kid",
+        "value": 23.0
+    },
+    {
+        "term1": "leave",
+        "term2": "walk",
+        "value": 14.0
+    },
+    {
+        "term1": "dress",
+        "term2": "shirt",
+        "value": 37.0
+    },
+    {
+        "term1": "aircraft",
+        "term2": "guy",
+        "value": 14.0
+    },
+    {
+        "term1": "swim",
+        "term2": "swimming",
+        "value": 43.0
+    },
+    {
+        "term1": "fish",
+        "term2": "theatre",
+        "value": 3.0
+    },
+    {
+        "term1": "air",
+        "term2": "fruit",
+        "value": 9.0
+    },
+    {
+        "term1": "airplane",
+        "term2": "flight",
+        "value": 46.0
+    },
+    {
+        "term1": "collage",
+        "term2": "illustration",
+        "value": 31.0
+    },
+    {
+        "term1": "black",
+        "term2": "cigarette",
+        "value": 17.0
+    },
+    {
+        "term1": "shopping",
+        "term2": "store",
+        "value": 41.0
+    },
+    {
+        "term1": "foliage",
+        "term2": "yellow",
+        "value": 30.0
+    },
+    {
+        "term1": "cactus",
+        "term2": "porch",
+        "value": 12.0
+    },
+    {
+        "term1": "puppy",
+        "term2": "skyline",
+        "value": 3.0
+    },
+    {
+        "term1": "skyscraper",
+        "term2": "tall",
+        "value": 38.0
+    },
+    {
+        "term1": "animal",
+        "term2": "cattle",
+        "value": 37.0
+    },
+    {
+        "term1": "bacon",
+        "term2": "burger",
+        "value": 31.0
+    },
+    {
+        "term1": "dirty",
+        "term2": "feel",
+        "value": 23.0
+    },
+    {
+        "term1": "post",
+        "term2": "quote",
+        "value": 22.0
+    },
+    {
+        "term1": "bird",
+        "term2": "wild",
+        "value": 27.0
+    },
+    {
+        "term1": "lunch",
+        "term2": "tea",
+        "value": 29.0
+    },
+    {
+        "term1": "leather",
+        "term2": "weed",
+        "value": 14.0
+    },
+    {
+        "term1": "hummingbird",
+        "term2": "reptile",
+        "value": 22.0
+    },
+    {
+        "term1": "eye",
+        "term2": "iris",
+        "value": 38.0
+    },
+    {
+        "term1": "building",
+        "term2": "roof",
+        "value": 43.0
+    },
+    {
+        "term1": "fun",
+        "term2": "relax",
+        "value": 31.0
+    },
+    {
+        "term1": "animal",
+        "term2": "hand",
+        "value": 14.0
+    },
+    {
+        "term1": "boxer",
+        "term2": "stair",
+        "value": 8.0
+    },
+    {
+        "term1": "pink",
+        "term2": "skirt",
+        "value": 22.0
+    },
+    {
+        "term1": "child",
+        "term2": "ford",
+        "value": 3.0
+    },
+    {
+        "term1": "festival",
+        "term2": "music",
+        "value": 35.0
+    },
+    {
+        "term1": "insect",
+        "term2": "plant",
+        "value": 30.0
+    },
+    {
+        "term1": "collage",
+        "term2": "exhibition",
+        "value": 31.0
+    },
+    {
+        "term1": "black",
+        "term2": "violet",
+        "value": 31.0
+    },
+    {
+        "term1": "ipod",
+        "term2": "rope",
+        "value": 5.0
+    },
+    {
+        "term1": "berry",
+        "term2": "fly",
+        "value": 7.0
+    },
+    {
+        "term1": "dirty",
+        "term2": "rusty",
+        "value": 27.0
+    },
+    {
+        "term1": "orange",
+        "term2": "salad",
+        "value": 24.0
+    },
+    {
+        "term1": "puddle",
+        "term2": "water",
+        "value": 38.0
+    },
+    {
+        "term1": "shade",
+        "term2": "whisker",
+        "value": 9.0
+    },
+    {
+        "term1": "goat",
+        "term2": "milk",
+        "value": 36.0
+    },
+    {
+        "term1": "building",
+        "term2": "sidewalk",
+        "value": 27.0
+    },
+    {
+        "term1": "basket",
+        "term2": "dinner",
+        "value": 23.0
+    },
+    {
+        "term1": "drip",
+        "term2": "rain",
+        "value": 37.0
+    },
+    {
+        "term1": "escalator",
+        "term2": "station",
+        "value": 18.0
+    },
+    {
+        "term1": "cherry",
+        "term2": "fruit",
+        "value": 43.0
+    },
+    {
+        "term1": "architecture",
+        "term2": "construction",
+        "value": 39.0
+    },
+    {
+        "term1": "female",
+        "term2": "race",
+        "value": 19.0
+    },
+    {
+        "term1": "fire",
+        "term2": "flame",
+        "value": 43.0
+    },
+    {
+        "term1": "bathroom",
+        "term2": "sit",
+        "value": 25.0
+    },
+    {
+        "term1": "figure",
+        "term2": "skating",
+        "value": 40.0
+    },
+    {
+        "term1": "lighting",
+        "term2": "small",
+        "value": 8.0
+    },
+    {
+        "term1": "frost",
+        "term2": "rain",
+        "value": 28.0
+    },
+    {
+        "term1": "dirt",
+        "term2": "road",
+        "value": 35.0
+    },
+    {
+        "term1": "canine",
+        "term2": "terrier",
+        "value": 39.0
+    },
+    {
+        "term1": "bright",
+        "term2": "colour",
+        "value": 39.0
+    },
+    {
+        "term1": "patio",
+        "term2": "woman",
+        "value": 11.0
+    },
+    {
+        "term1": "car",
+        "term2": "hawk",
+        "value": 10.0
+    },
+    {
+        "term1": "bag",
+        "term2": "wild",
+        "value": 6.0
+    },
+    {
+        "term1": "downtown",
+        "term2": "metro",
+        "value": 38.0
+    },
+    {
+        "term1": "flight",
+        "term2": "plane",
+        "value": 45.0
+    },
+    {
+        "term1": "sky",
+        "term2": "sunrise",
+        "value": 42.0
+    },
+    {
+        "term1": "beard",
+        "term2": "flamingo",
+        "value": 9.0
+    },
+    {
+        "term1": "show",
+        "term2": "sketch",
+        "value": 25.0
+    },
+    {
+        "term1": "clothes",
+        "term2": "sock",
+        "value": 42.0
+    },
+    {
+        "term1": "crane",
+        "term2": "stair",
+        "value": 12.0
+    },
+    {
+        "term1": "escalator",
+        "term2": "railway",
+        "value": 20.0
+    },
+    {
+        "term1": "outdoor",
+        "term2": "pool",
+        "value": 32.0
+    },
+    {
+        "term1": "cute",
+        "term2": "lady",
+        "value": 23.0
+    },
+    {
+        "term1": "brown",
+        "term2": "violet",
+        "value": 31.0
+    },
+    {
+        "term1": "dirty",
+        "term2": "drip",
+        "value": 21.0
+    },
+    {
+        "term1": "highway",
+        "term2": "traffic",
+        "value": 44.0
+    },
+    {
+        "term1": "feel",
+        "term2": "spiral",
+        "value": 9.0
+    },
+    {
+        "term1": "day",
+        "term2": "plane",
+        "value": 11.0
+    },
+    {
+        "term1": "pregnant",
+        "term2": "woman",
+        "value": 41.0
+    },
+    {
+        "term1": "fruit",
+        "term2": "nut",
+        "value": 33.0
+    },
+    {
+        "term1": "music",
+        "term2": "piano",
+        "value": 44.0
+    },
+    {
+        "term1": "grass",
+        "term2": "stop",
+        "value": 6.0
+    },
+    {
+        "term1": "chicken",
+        "term2": "salad",
+        "value": 30.0
+    },
+    {
+        "term1": "interior",
+        "term2": "wall",
+        "value": 34.0
+    },
+    {
+        "term1": "foot",
+        "term2": "outdoor",
+        "value": 15.0
+    },
+    {
+        "term1": "sit",
+        "term2": "sleep",
+        "value": 19.0
+    },
+    {
+        "term1": "happy",
+        "term2": "idea",
+        "value": 22.0
+    },
+    {
+        "term1": "airport",
+        "term2": "traffic",
+        "value": 32.0
+    },
+    {
+        "term1": "automobile",
+        "term2": "fabric",
+        "value": 7.0
+    },
+    {
+        "term1": "nest",
+        "term2": "wasp",
+        "value": 35.0
+    },
+    {
+        "term1": "cherry",
+        "term2": "orange",
+        "value": 34.0
+    },
+    {
+        "term1": "violet",
+        "term2": "white",
+        "value": 32.0
+    },
+    {
+        "term1": "mist",
+        "term2": "sunshine",
+        "value": 25.0
+    },
+    {
+        "term1": "daffodil",
+        "term2": "spring",
+        "value": 36.0
+    },
+    {
+        "term1": "redhead",
+        "term2": "rusty",
+        "value": 21.0
+    },
+    {
+        "term1": "pregnant",
+        "term2": "round",
+        "value": 27.0
+    },
+    {
+        "term1": "bible",
+        "term2": "leaf",
+        "value": 16.0
+    },
+    {
+        "term1": "cherry",
+        "term2": "grape",
+        "value": 35.0
+    },
+    {
+        "term1": "building",
+        "term2": "sandwich",
+        "value": 14.0
+    },
+    {
+        "term1": "door",
+        "term2": "porch",
+        "value": 30.0
+    },
+    {
+        "term1": "goat",
+        "term2": "pebble",
+        "value": 9.0
+    },
+    {
+        "term1": "costume",
+        "term2": "outfit",
+        "value": 36.0
+    },
+    {
+        "term1": "chess",
+        "term2": "cigarette",
+        "value": 3.0
+    },
+    {
+        "term1": "station",
+        "term2": "underground",
+        "value": 30.0
+    },
+    {
+        "term1": "gasoline",
+        "term2": "pepper",
+        "value": 10.0
+    },
+    {
+        "term1": "forest",
+        "term2": "tropical",
+        "value": 30.0
+    },
+    {
+        "term1": "bread",
+        "term2": "cooking",
+        "value": 34.0
+    },
+    {
+        "term1": "skyline",
+        "term2": "view",
+        "value": 37.0
+    },
+    {
+        "term1": "bird",
+        "term2": "mallard",
+        "value": 37.0
+    },
+    {
+        "term1": "gun",
+        "term2": "quote",
+        "value": 4.0
+    },
+    {
+        "term1": "plane",
+        "term2": "sailing",
+        "value": 26.0
+    },
+    {
+        "term1": "bacon",
+        "term2": "view",
+        "value": 6.0
+    },
+    {
+        "term1": "happy",
+        "term2": "love",
+        "value": 39.0
+    },
+    {
+        "term1": "rain",
+        "term2": "sunshine",
+        "value": 32.0
+    },
+    {
+        "term1": "hair",
+        "term2": "wig",
+        "value": 46.0
+    },
+    {
+        "term1": "bed",
+        "term2": "pillow",
+        "value": 44.0
+    },
+    {
+        "term1": "evening",
+        "term2": "night",
+        "value": 42.0
+    },
+    {
+        "term1": "door",
+        "term2": "lock",
+        "value": 40.0
+    },
+    {
+        "term1": "keyboard",
+        "term2": "soldier",
+        "value": 10.0
+    },
+    {
+        "term1": "beef",
+        "term2": "pepper",
+        "value": 26.0
+    },
+    {
+        "term1": "cute",
+        "term2": "sit",
+        "value": 10.0
+    },
+    {
+        "term1": "hot",
+        "term2": "sunshine",
+        "value": 37.0
+    },
+    {
+        "term1": "palm",
+        "term2": "tree",
+        "value": 37.0
+    },
+    {
+        "term1": "bicycle",
+        "term2": "bike",
+        "value": 45.0
+    },
+    {
+        "term1": "clothes",
+        "term2": "jacket",
+        "value": 43.0
+    },
+    {
+        "term1": "lab",
+        "term2": "spider",
+        "value": 17.0
+    },
+    {
+        "term1": "brown",
+        "term2": "hawk",
+        "value": 21.0
+    },
+    {
+        "term1": "cathedral",
+        "term2": "step",
+        "value": 24.0
+    },
+    {
+        "term1": "foot",
+        "term2": "leg",
+        "value": 41.0
+    },
+    {
+        "term1": "weather",
+        "term2": "winter",
+        "value": 36.0
+    },
+    {
+        "term1": "misty",
+        "term2": "sunshine",
+        "value": 27.0
+    },
+    {
+        "term1": "cold",
+        "term2": "wet",
+        "value": 31.0
+    },
+    {
+        "term1": "breakfast",
+        "term2": "kitchen",
+        "value": 40.0
+    },
+    {
+        "term1": "hang",
+        "term2": "morning",
+        "value": 15.0
+    },
+    {
+        "term1": "bath",
+        "term2": "bedroom",
+        "value": 27.0
+    },
+    {
+        "term1": "door",
+        "term2": "patio",
+        "value": 30.0
+    },
+    {
+        "term1": "daughter",
+        "term2": "graphic",
+        "value": 9.0
+    },
+    {
+        "term1": "frost",
+        "term2": "hot",
+        "value": 18.0
+    },
+    {
+        "term1": "spring",
+        "term2": "sunshine",
+        "value": 34.0
+    },
+    {
+        "term1": "city",
+        "term2": "firework",
+        "value": 23.0
+    },
+    {
+        "term1": "computer",
+        "term2": "farm",
+        "value": 8.0
+    },
+    {
+        "term1": "petal",
+        "term2": "purple",
+        "value": 27.0
+    },
+    {
+        "term1": "step",
+        "term2": "swimsuit",
+        "value": 12.0
+    },
+    {
+        "term1": "crow",
+        "term2": "feather",
+        "value": 42.0
+    },
+    {
+        "term1": "berry",
+        "term2": "foliage",
+        "value": 27.0
+    },
+    {
+        "term1": "auto",
+        "term2": "quote",
+        "value": 16.0
+    },
+    {
+        "term1": "frozen",
+        "term2": "salad",
+        "value": 20.0
+    },
+    {
+        "term1": "garbage",
+        "term2": "jean",
+        "value": 8.0
+    },
+    {
+        "term1": "engine",
+        "term2": "gasoline",
+        "value": 43.0
+    },
+    {
+        "term1": "pebble",
+        "term2": "sand",
+        "value": 40.0
+    },
+    {
+        "term1": "fly",
+        "term2": "sexy",
+        "value": 6.0
+    },
+    {
+        "term1": "garden",
+        "term2": "kitchen",
+        "value": 24.0
+    },
+    {
+        "term1": "beef",
+        "term2": "cattle",
+        "value": 41.0
+    },
+    {
+        "term1": "dessert",
+        "term2": "fruit",
+        "value": 38.0
+    },
+    {
+        "term1": "hawk",
+        "term2": "wild",
+        "value": 31.0
+    },
+    {
+        "term1": "key",
+        "term2": "misty",
+        "value": 4.0
+    },
+    {
+        "term1": "race",
+        "term2": "racing",
+        "value": 42.0
+    },
+    {
+        "term1": "drip",
+        "term2": "wet",
+        "value": 38.0
+    },
+    {
+        "term1": "dirty",
+        "term2": "tear",
+        "value": 16.0
+    },
+    {
+        "term1": "meat",
+        "term2": "potato",
+        "value": 37.0
+    },
+    {
+        "term1": "fun",
+        "term2": "game",
+        "value": 35.0
+    },
+    {
+        "term1": "meat",
+        "term2": "soup",
+        "value": 29.0
+    },
+    {
+        "term1": "bacon",
+        "term2": "chicken",
+        "value": 36.0
+    },
+    {
+        "term1": "kitten",
+        "term2": "travel",
+        "value": 6.0
+    },
+    {
+        "term1": "salad",
+        "term2": "sweet",
+        "value": 20.0
+    },
+    {
+        "term1": "beauty",
+        "term2": "scenery",
+        "value": 37.0
+    },
+    {
+        "term1": "soup",
+        "term2": "view",
+        "value": 9.0
+    },
+    {
+        "term1": "haircut",
+        "term2": "smile",
+        "value": 18.0
+    },
+    {
+        "term1": "garden",
+        "term2": "smoke",
+        "value": 14.0
+    },
+    {
+        "term1": "city",
+        "term2": "round",
+        "value": 15.0
+    },
+    {
+        "term1": "tall",
+        "term2": "tower",
+        "value": 34.0
+    },
+    {
+        "term1": "bird",
+        "term2": "owl",
+        "value": 39.0
+    },
+    {
+        "term1": "boat",
+        "term2": "sailing",
+        "value": 42.0
+    },
+    {
+        "term1": "arm",
+        "term2": "outdoor",
+        "value": 9.0
+    },
+    {
+        "term1": "poodle",
+        "term2": "terrier",
+        "value": 39.0
+    },
+    {
+        "term1": "bacon",
+        "term2": "soup",
+        "value": 32.0
+    },
+    {
+        "term1": "happy",
+        "term2": "kid",
+        "value": 29.0
+    },
+    {
+        "term1": "game",
+        "term2": "sign",
+        "value": 14.0
+    },
+    {
+        "term1": "berry",
+        "term2": "raspberry",
+        "value": 42.0
+    },
+    {
+        "term1": "escalator",
+        "term2": "metro",
+        "value": 26.0
+    },
+    {
+        "term1": "bed",
+        "term2": "sleep",
+        "value": 42.0
+    },
+    {
+        "term1": "journal",
+        "term2": "squirrel",
+        "value": 6.0
+    },
+    {
+        "term1": "guy",
+        "term2": "sport",
+        "value": 31.0
+    },
+    {
+        "term1": "brick",
+        "term2": "rabbit",
+        "value": 5.0
+    },
+    {
+        "term1": "bench",
+        "term2": "boardwalk",
+        "value": 26.0
+    },
+    {
+        "term1": "ceiling",
+        "term2": "wall",
+        "value": 35.0
+    },
+    {
+        "term1": "smoking",
+        "term2": "vine",
+        "value": 9.0
+    },
+    {
+        "term1": "auto",
+        "term2": "bright",
+        "value": 11.0
+    },
+    {
+        "term1": "beef",
+        "term2": "lamb",
+        "value": 34.0
+    },
+    {
+        "term1": "glitter",
+        "term2": "scenery",
+        "value": 26.0
+    },
+    {
+        "term1": "leave",
+        "term2": "rusty",
+        "value": 11.0
+    },
+    {
+        "term1": "snow",
+        "term2": "sunshine",
+        "value": 24.0
+    },
+    {
+        "term1": "fishing",
+        "term2": "shore",
+        "value": 30.0
+    },
+    {
+        "term1": "chicken",
+        "term2": "star",
+        "value": 9.0
+    },
+    {
+        "term1": "pepper",
+        "term2": "soup",
+        "value": 27.0
+    },
+    {
+        "term1": "relax",
+        "term2": "restaurant",
+        "value": 16.0
+    },
+    {
+        "term1": "abstract",
+        "term2": "frog",
+        "value": 4.0
+    },
+    {
+        "term1": "breakfast",
+        "term2": "sleep",
+        "value": 24.0
+    },
+    {
+        "term1": "clothes",
+        "term2": "jean",
+        "value": 39.0
+    },
+    {
+        "term1": "animal",
+        "term2": "zoo",
+        "value": 41.0
+    },
+    {
+        "term1": "red",
+        "term2": "uniform",
+        "value": 16.0
+    },
+    {
+        "term1": "canine",
+        "term2": "lick",
+        "value": 25.0
+    },
+    {
+        "term1": "patio",
+        "term2": "room",
+        "value": 26.0
+    },
+    {
+        "term1": "nest",
+        "term2": "reptile",
+        "value": 27.0
+    },
+    {
+        "term1": "bikini",
+        "term2": "sculpture",
+        "value": 7.0
+    },
+    {
+        "term1": "feline",
+        "term2": "kitty",
+        "value": 44.0
+    },
+    {
+        "term1": "ink",
+        "term2": "pencil",
+        "value": 32.0
+    },
+    {
+        "term1": "man",
+        "term2": "woman",
+        "value": 42.0
+    },
+    {
+        "term1": "band",
+        "term2": "piano",
+        "value": 33.0
+    },
+    {
+        "term1": "crab",
+        "term2": "ink",
+        "value": 6.0
+    },
+    {
+        "term1": "monkey",
+        "term2": "restaurant",
+        "value": 5.0
+    },
+    {
+        "term1": "black",
+        "term2": "colour",
+        "value": 35.0
+    },
+    {
+        "term1": "aquarium",
+        "term2": "tank",
+        "value": 43.0
+    },
+    {
+        "term1": "belly",
+        "term2": "dirty",
+        "value": 13.0
+    },
+    {
+        "term1": "apple",
+        "term2": "fruit",
+        "value": 44.0
+    },
+    {
+        "term1": "butterfly",
+        "term2": "dragonfly",
+        "value": 40.0
+    },
+    {
+        "term1": "weather",
+        "term2": "wet",
+        "value": 33.0
+    },
+    {
+        "term1": "concert",
+        "term2": "musician",
+        "value": 45.0
+    },
+    {
+        "term1": "happy",
+        "term2": "stand",
+        "value": 17.0
+    },
+    {
+        "term1": "decoration",
+        "term2": "wood",
+        "value": 33.0
+    },
+    {
+        "term1": "cocktail",
+        "term2": "dandelion",
+        "value": 10.0
+    },
+    {
+        "term1": "burger",
+        "term2": "mountain",
+        "value": 5.0
+    },
+    {
+        "term1": "beef",
+        "term2": "deer",
+        "value": 26.0
+    },
+    {
+        "term1": "car",
+        "term2": "park",
+        "value": 33.0
+    },
+    {
+        "term1": "ceramic",
+        "term2": "church",
+        "value": 15.0
+    },
+    {
+        "term1": "dog",
+        "term2": "terrier",
+        "value": 45.0
+    },
+    {
+        "term1": "kiss",
+        "term2": "rusty",
+        "value": 8.0
+    },
+    {
+        "term1": "stripe",
+        "term2": "urban",
+        "value": 15.0
+    },
+    {
+        "term1": "guy",
+        "term2": "people",
+        "value": 36.0
+    },
+    {
+        "term1": "bedroom",
+        "term2": "cottage",
+        "value": 37.0
+    },
+    {
+        "term1": "hamster",
+        "term2": "lock",
+        "value": 15.0
+    },
+    {
+        "term1": "paw",
+        "term2": "pet",
+        "value": 37.0
+    },
+    {
+        "term1": "fall",
+        "term2": "tear",
+        "value": 31.0
+    },
+    {
+        "term1": "dark",
+        "term2": "pink",
+        "value": 22.0
+    },
+    {
+        "term1": "morning",
+        "term2": "relax",
+        "value": 23.0
+    },
+    {
+        "term1": "dessert",
+        "term2": "tomato",
+        "value": 14.0
+    },
+    {
+        "term1": "cliff",
+        "term2": "sea",
+        "value": 27.0
+    },
+    {
+        "term1": "dude",
+        "term2": "time",
+        "value": 8.0
+    },
+    {
+        "term1": "family",
+        "term2": "town",
+        "value": 16.0
+    },
+    {
+        "term1": "bright",
+        "term2": "sun",
+        "value": 45.0
+    },
+    {
+        "term1": "footprint",
+        "term2": "tile",
+        "value": 23.0
+    },
+    {
+        "term1": "track",
+        "term2": "yellow",
+        "value": 10.0
+    },
+    {
+        "term1": "cafe",
+        "term2": "donut",
+        "value": 30.0
+    },
+    {
+        "term1": "dark",
+        "term2": "flamingo",
+        "value": 14.0
+    },
+    {
+        "term1": "cafe",
+        "term2": "child",
+        "value": 11.0
+    },
+    {
+        "term1": "copper",
+        "term2": "metal",
+        "value": 48.0
+    },
+    {
+        "term1": "jean",
+        "term2": "outfit",
+        "value": 34.0
+    },
+    {
+        "term1": "cooking",
+        "term2": "eat",
+        "value": 35.0
+    },
+    {
+        "term1": "floor",
+        "term2": "kitchen",
+        "value": 27.0
+    },
+    {
+        "term1": "goose",
+        "term2": "swan",
+        "value": 39.0
+    },
+    {
+        "term1": "scenery",
+        "term2": "sketch",
+        "value": 23.0
+    },
+    {
+        "term1": "piano",
+        "term2": "wolf",
+        "value": 5.0
+    },
+    {
+        "term1": "pet",
+        "term2": "terrier",
+        "value": 31.0
+    },
+    {
+        "term1": "party",
+        "term2": "sink",
+        "value": 6.0
+    },
+    {
+        "term1": "flame",
+        "term2": "peacock",
+        "value": 7.0
+    },
+    {
+        "term1": "petal",
+        "term2": "twig",
+        "value": 29.0
+    },
+    {
+        "term1": "tomato",
+        "term2": "whale",
+        "value": 3.0
+    },
+    {
+        "term1": "amphibian",
+        "term2": "pelican",
+        "value": 25.0
+    },
+    {
+        "term1": "snow",
+        "term2": "snowman",
+        "value": 45.0
+    },
+    {
+        "term1": "display",
+        "term2": "scratch",
+        "value": 12.0
+    },
+    {
+        "term1": "arm",
+        "term2": "white",
+        "value": 16.0
+    },
+    {
+        "term1": "door",
+        "term2": "stair",
+        "value": 30.0
+    },
+    {
+        "term1": "feather",
+        "term2": "reptile",
+        "value": 13.0
+    },
+    {
+        "term1": "daughter",
+        "term2": "pub",
+        "value": 9.0
+    },
+    {
+        "term1": "downtown",
+        "term2": "sidewalk",
+        "value": 35.0
+    },
+    {
+        "term1": "moon",
+        "term2": "sky",
+        "value": 37.0
+    },
+    {
+        "term1": "flower",
+        "term2": "pink",
+        "value": 33.0
+    },
+    {
+        "term1": "haircut",
+        "term2": "pyramid",
+        "value": 7.0
+    },
+    {
+        "term1": "rail",
+        "term2": "train",
+        "value": 40.0
+    },
+    {
+        "term1": "drive",
+        "term2": "lego",
+        "value": 6.0
+    },
+    {
+        "term1": "light",
+        "term2": "shed",
+        "value": 18.0
+    },
+    {
+        "term1": "color",
+        "term2": "purple",
+        "value": 37.0
+    },
+    {
+        "term1": "beer",
+        "term2": "wild",
+        "value": 13.0
+    },
+    {
+        "term1": "tree",
+        "term2": "twig",
+        "value": 41.0
+    },
+    {
+        "term1": "bacon",
+        "term2": "wild",
+        "value": 10.0
+    },
+    {
+        "term1": "cute",
+        "term2": "mammal",
+        "value": 20.0
+    },
+    {
+        "term1": "sunglasses",
+        "term2": "weed",
+        "value": 5.0
+    },
+    {
+        "term1": "female",
+        "term2": "makeup",
+        "value": 30.0
+    },
+    {
+        "term1": "day",
+        "term2": "dusk",
+        "value": 38.0
+    },
+    {
+        "term1": "beauty",
+        "term2": "orchid",
+        "value": 23.0
+    },
+    {
+        "term1": "harbour",
+        "term2": "sink",
+        "value": 25.0
+    },
+    {
+        "term1": "room",
+        "term2": "staircase",
+        "value": 31.0
+    },
+    {
+        "term1": "flower",
+        "term2": "purple",
+        "value": 29.0
+    },
+    {
+        "term1": "gull",
+        "term2": "insect",
+        "value": 19.0
+    },
+    {
+        "term1": "panda",
+        "term2": "pig",
+        "value": 26.0
+    },
+    {
+        "term1": "eat",
+        "term2": "seagull",
+        "value": 14.0
+    },
+    {
+        "term1": "daffodil",
+        "term2": "plant",
+        "value": 42.0
+    },
+    {
+        "term1": "country",
+        "term2": "hang",
+        "value": 11.0
+    },
+    {
+        "term1": "grass",
+        "term2": "lawn",
+        "value": 48.0
+    },
+    {
+        "term1": "bed",
+        "term2": "bedroom",
+        "value": 42.0
+    },
+    {
+        "term1": "tea",
+        "term2": "whisker",
+        "value": 5.0
+    },
+    {
+        "term1": "banana",
+        "term2": "foot",
+        "value": 9.0
+    },
+    {
+        "term1": "flower",
+        "term2": "spring",
+        "value": 37.0
+    },
+    {
+        "term1": "guitar",
+        "term2": "keyboard",
+        "value": 33.0
+    },
+    {
+        "term1": "hill",
+        "term2": "river",
+        "value": 23.0
+    },
+    {
+        "term1": "origami",
+        "term2": "white",
+        "value": 18.0
+    },
+    {
+        "term1": "chicken",
+        "term2": "mammal",
+        "value": 25.0
+    },
+    {
+        "term1": "abstract",
+        "term2": "candle",
+        "value": 13.0
+    },
+    {
+        "term1": "hill",
+        "term2": "town",
+        "value": 24.0
+    },
+    {
+        "term1": "frozen",
+        "term2": "meat",
+        "value": 34.0
+    },
+    {
+        "term1": "happy",
+        "term2": "tear",
+        "value": 27.0
+    },
+    {
+        "term1": "orange",
+        "term2": "wet",
+        "value": 8.0
+    },
+    {
+        "term1": "object",
+        "term2": "piano",
+        "value": 19.0
+    },
+    {
+        "term1": "lick",
+        "term2": "marble",
+        "value": 9.0
+    },
+    {
+        "term1": "chess",
+        "term2": "sleep",
+        "value": 6.0
+    },
+    {
+        "term1": "lunch",
+        "term2": "restaurant",
+        "value": 33.0
+    },
+    {
+        "term1": "hummingbird",
+        "term2": "mallard",
+        "value": 37.0
+    },
+    {
+        "term1": "sink",
+        "term2": "sunset",
+        "value": 23.0
+    },
+    {
+        "term1": "play",
+        "term2": "sailing",
+        "value": 15.0
+    },
+    {
+        "term1": "chair",
+        "term2": "word",
+        "value": 6.0
+    },
+    {
+        "term1": "black",
+        "term2": "white",
+        "value": 35.0
+    },
+    {
+        "term1": "foliage",
+        "term2": "lily",
+        "value": 32.0
+    },
+    {
+        "term1": "cattle",
+        "term2": "sheep",
+        "value": 38.0
+    },
+    {
+        "term1": "food",
+        "term2": "meat",
+        "value": 42.0
+    },
+    {
+        "term1": "daffodil",
+        "term2": "rose",
+        "value": 37.0
+    },
+    {
+        "term1": "pub",
+        "term2": "snowman",
+        "value": 4.0
+    },
+    {
+        "term1": "fire",
+        "term2": "movie",
+        "value": 14.0
+    },
+    {
+        "term1": "kitchen",
+        "term2": "sit",
+        "value": 27.0
+    },
+    {
+        "term1": "dandelion",
+        "term2": "foliage",
+        "value": 31.0
+    },
+    {
+        "term1": "poster",
+        "term2": "tank",
+        "value": 9.0
+    },
+    {
+        "term1": "bed",
+        "term2": "sit",
+        "value": 27.0
+    },
+    {
+        "term1": "harbor",
+        "term2": "port",
+        "value": 42.0
+    },
+    {
+        "term1": "jean",
+        "term2": "wash",
+        "value": 21.0
+    },
+    {
+        "term1": "autumn",
+        "term2": "bud",
+        "value": 20.0
+    },
+    {
+        "term1": "gasoline",
+        "term2": "town",
+        "value": 21.0
+    },
+    {
+        "term1": "building",
+        "term2": "interior",
+        "value": 34.0
+    },
+    {
+        "term1": "autumn",
+        "term2": "shade",
+        "value": 23.0
+    },
+    {
+        "term1": "happy",
+        "term2": "sit",
+        "value": 11.0
+    },
+    {
+        "term1": "grass",
+        "term2": "ski",
+        "value": 8.0
+    },
+    {
+        "term1": "family",
+        "term2": "friend",
+        "value": 40.0
+    },
+    {
+        "term1": "butterfly",
+        "term2": "leave",
+        "value": 6.0
+    },
+    {
+        "term1": "cake",
+        "term2": "library",
+        "value": 5.0
+    },
+    {
+        "term1": "feather",
+        "term2": "truck",
+        "value": 1.0
+    },
+    {
+        "term1": "port",
+        "term2": "sweet",
+        "value": 17.0
+    },
+    {
+        "term1": "frog",
+        "term2": "tropical",
+        "value": 26.0
+    },
+    {
+        "term1": "festival",
+        "term2": "whisker",
+        "value": 1.0
+    },
+    {
+        "term1": "fruit",
+        "term2": "potato",
+        "value": 26.0
+    },
+    {
+        "term1": "bus",
+        "term2": "subway",
+        "value": 37.0
+    },
+    {
+        "term1": "butterfly",
+        "term2": "caterpillar",
+        "value": 46.0
+    },
+    {
+        "term1": "feather",
+        "term2": "hummingbird",
+        "value": 37.0
+    },
+    {
+        "term1": "guy",
+        "term2": "happy",
+        "value": 12.0
+    },
+    {
+        "term1": "frost",
+        "term2": "wet",
+        "value": 32.0
+    },
+    {
+        "term1": "shade",
+        "term2": "violet",
+        "value": 25.0
+    },
+    {
+        "term1": "daffodil",
+        "term2": "purple",
+        "value": 28.0
+    },
+    {
+        "term1": "foliage",
+        "term2": "tall",
+        "value": 23.0
+    },
+    {
+        "term1": "sit",
+        "term2": "stop",
+        "value": 27.0
+    },
+    {
+        "term1": "highway",
+        "term2": "road",
+        "value": 46.0
+    },
+    {
+        "term1": "dirty",
+        "term2": "guy",
+        "value": 19.0
+    },
+    {
+        "term1": "orange",
+        "term2": "pink",
+        "value": 33.0
+    },
+    {
+        "term1": "path",
+        "term2": "sunflower",
+        "value": 16.0
+    },
+    {
+        "term1": "flight",
+        "term2": "jaguar",
+        "value": 16.0
+    },
+    {
+        "term1": "cafe",
+        "term2": "draw",
+        "value": 11.0
+    },
+    {
+        "term1": "bay",
+        "term2": "cliff",
+        "value": 29.0
+    },
+    {
+        "term1": "grave",
+        "term2": "hat",
+        "value": 2.0
+    },
+    {
+        "term1": "bloom",
+        "term2": "tulip",
+        "value": 43.0
+    },
+    {
+        "term1": "coin",
+        "term2": "ticket",
+        "value": 26.0
+    },
+    {
+        "term1": "moon",
+        "term2": "sun",
+        "value": 36.0
+    },
+    {
+        "term1": "downtown",
+        "term2": "lock",
+        "value": 14.0
+    },
+    {
+        "term1": "match",
+        "term2": "moss",
+        "value": 11.0
+    },
+    {
+        "term1": "daisy",
+        "term2": "grass",
+        "value": 36.0
+    },
+    {
+        "term1": "door",
+        "term2": "floor",
+        "value": 28.0
+    },
+    {
+        "term1": "happy",
+        "term2": "walk",
+        "value": 14.0
+    },
+    {
+        "term1": "line",
+        "term2": "lunch",
+        "value": 29.0
+    },
+    {
+        "term1": "cold",
+        "term2": "mist",
+        "value": 27.0
+    },
+    {
+        "term1": "clock",
+        "term2": "pink",
+        "value": 9.0
+    },
+    {
+        "term1": "harbour",
+        "term2": "ship",
+        "value": 34.0
+    },
+    {
+        "term1": "dead",
+        "term2": "guy",
+        "value": 14.0
+    },
+    {
+        "term1": "graphic",
+        "term2": "illustration",
+        "value": 37.0
+    },
+    {
+        "term1": "grey",
+        "term2": "pink",
+        "value": 32.0
+    },
+    {
+        "term1": "break",
+        "term2": "glitter",
+        "value": 10.0
+    },
+    {
+        "term1": "outfit",
+        "term2": "rock",
+        "value": 10.0
+    },
+    {
+        "term1": "carrot",
+        "term2": "salad",
+        "value": 39.0
+    },
+    {
+        "term1": "spring",
+        "term2": "winter",
+        "value": 36.0
+    },
+    {
+        "term1": "bottle",
+        "term2": "glass",
+        "value": 39.0
+    },
+    {
+        "term1": "ruin",
+        "term2": "skyline",
+        "value": 24.0
+    },
+    {
+        "term1": "hotel",
+        "term2": "sand",
+        "value": 18.0
+    },
+    {
+        "term1": "cottage",
+        "term2": "outfit",
+        "value": 14.0
+    },
+    {
+        "term1": "grey",
+        "term2": "yellow",
+        "value": 30.0
+    },
+    {
+        "term1": "badge",
+        "term2": "metro",
+        "value": 20.0
+    },
+    {
+        "term1": "kiss",
+        "term2": "stop",
+        "value": 12.0
+    },
+    {
+        "term1": "breakfast",
+        "term2": "lunch",
+        "value": 37.0
+    },
+    {
+        "term1": "flower",
+        "term2": "weather",
+        "value": 27.0
+    },
+    {
+        "term1": "skull",
+        "term2": "storm",
+        "value": 5.0
+    },
+    {
+        "term1": "splash",
+        "term2": "swim",
+        "value": 42.0
+    },
+    {
+        "term1": "frost",
+        "term2": "grass",
+        "value": 24.0
+    },
+    {
+        "term1": "color",
+        "term2": "violet",
+        "value": 42.0
+    },
+    {
+        "term1": "match",
+        "term2": "stadium",
+        "value": 29.0
+    },
+    {
+        "term1": "dark",
+        "term2": "pod",
+        "value": 22.0
+    },
+    {
+        "term1": "forest",
+        "term2": "frog",
+        "value": 31.0
+    },
+    {
+        "term1": "dragonfly",
+        "term2": "underwater",
+        "value": 18.0
+    },
+    {
+        "term1": "misty",
+        "term2": "weather",
+        "value": 37.0
+    },
+    {
+        "term1": "puddle",
+        "term2": "street",
+        "value": 25.0
+    },
+    {
+        "term1": "machine",
+        "term2": "sketch",
+        "value": 11.0
+    },
+    {
+        "term1": "lick",
+        "term2": "rusty",
+        "value": 5.0
+    },
+    {
+        "term1": "amphibian",
+        "term2": "stork",
+        "value": 16.0
+    },
+    {
+        "term1": "alley",
+        "term2": "street",
+        "value": 37.0
+    },
+    {
+        "term1": "face",
+        "term2": "guy",
+        "value": 23.0
+    },
+    {
+        "term1": "kiss",
+        "term2": "sit",
+        "value": 14.0
+    },
+    {
+        "term1": "cooking",
+        "term2": "diner",
+        "value": 32.0
+    },
+    {
+        "term1": "exhibition",
+        "term2": "work",
+        "value": 23.0
+    },
+    {
+        "term1": "foliage",
+        "term2": "shade",
+        "value": 29.0
+    },
+    {
+        "term1": "fruit",
+        "term2": "sunflower",
+        "value": 21.0
+    },
+    {
+        "term1": "lens",
+        "term2": "storm",
+        "value": 10.0
+    },
+    {
+        "term1": "grave",
+        "term2": "memorial",
+        "value": 37.0
+    },
+    {
+        "term1": "light",
+        "term2": "shadow",
+        "value": 37.0
+    },
+    {
+        "term1": "frost",
+        "term2": "spring",
+        "value": 24.0
+    },
+    {
+        "term1": "bloom",
+        "term2": "twig",
+        "value": 30.0
+    },
+    {
+        "term1": "bacon",
+        "term2": "potato",
+        "value": 28.0
+    },
+    {
+        "term1": "animal",
+        "term2": "mural",
+        "value": 14.0
+    },
+    {
+        "term1": "cat",
+        "term2": "feline",
+        "value": 48.0
+    },
+    {
+        "term1": "chopper",
+        "term2": "poppy",
+        "value": 7.0
+    },
+    {
+        "term1": "pigeon",
+        "term2": "reading",
+        "value": 6.0
+    },
+    {
+        "term1": "church",
+        "term2": "graveyard",
+        "value": 27.0
+    },
+    {
+        "term1": "smile",
+        "term2": "walk",
+        "value": 18.0
+    },
+    {
+        "term1": "apple",
+        "term2": "cherry",
+        "value": 38.0
+    },
+    {
+        "term1": "flight",
+        "term2": "fly",
+        "value": 42.0
+    },
+    {
+        "term1": "dirty",
+        "term2": "eagle",
+        "value": 8.0
+    },
+    {
+        "term1": "dog",
+        "term2": "sailing",
+        "value": 9.0
+    },
+    {
+        "term1": "cross",
+        "term2": "mug",
+        "value": 11.0
+    },
+    {
+        "term1": "fruit",
+        "term2": "orange",
+        "value": 41.0
+    },
+    {
+        "term1": "museum",
+        "term2": "scratch",
+        "value": 7.0
+    },
+    {
+        "term1": "cottage",
+        "term2": "patio",
+        "value": 27.0
+    },
+    {
+        "term1": "makeup",
+        "term2": "skull",
+        "value": 15.0
+    },
+    {
+        "term1": "lighting",
+        "term2": "person",
+        "value": 13.0
+    },
+    {
+        "term1": "rusty",
+        "term2": "tear",
+        "value": 7.0
+    },
+    {
+        "term1": "day",
+        "term2": "time",
+        "value": 39.0
+    },
+    {
+        "term1": "candy",
+        "term2": "chocolate",
+        "value": 46.0
+    },
+    {
+        "term1": "hang",
+        "term2": "mom",
+        "value": 5.0
+    },
+    {
+        "term1": "patio",
+        "term2": "pool",
+        "value": 28.0
+    },
+    {
+        "term1": "misty",
+        "term2": "rain",
+        "value": 39.0
+    },
+    {
+        "term1": "cafe",
+        "term2": "shop",
+        "value": 39.0
+    },
+    {
+        "term1": "gun",
+        "term2": "pizza",
+        "value": 4.0
+    },
+    {
+        "term1": "airplane",
+        "term2": "camera",
+        "value": 13.0
+    },
+    {
+        "term1": "berry",
+        "term2": "fruit",
+        "value": 41.0
+    },
+    {
+        "term1": "sit",
+        "term2": "smile",
+        "value": 14.0
+    },
+    {
+        "term1": "abandon",
+        "term2": "ruin",
+        "value": 32.0
+    },
+    {
+        "term1": "branch",
+        "term2": "twig",
+        "value": 45.0
+    },
+    {
+        "term1": "art",
+        "term2": "exhibition",
+        "value": 34.0
+    },
+    {
+        "term1": "pet",
+        "term2": "puppy",
+        "value": 38.0
+    },
+    {
+        "term1": "figure",
+        "term2": "spiral",
+        "value": 19.0
+    },
+    {
+        "term1": "morning",
+        "term2": "sky",
+        "value": 33.0
+    },
+    {
+        "term1": "green",
+        "term2": "grey",
+        "value": 36.0
+    },
+    {
+        "term1": "dessert",
+        "term2": "noodle",
+        "value": 22.0
+    },
+    {
+        "term1": "lick",
+        "term2": "stop",
+        "value": 9.0
+    },
+    {
+        "term1": "orange",
+        "term2": "shop",
+        "value": 13.0
+    },
+    {
+        "term1": "cold",
+        "term2": "summer",
+        "value": 19.0
+    },
+    {
+        "term1": "summer",
+        "term2": "weather",
+        "value": 40.0
+    },
+    {
+        "term1": "misty",
+        "term2": "sky",
+        "value": 22.0
+    },
+    {
+        "term1": "drop",
+        "term2": "fun",
+        "value": 7.0
+    },
+    {
+        "term1": "autumn",
+        "term2": "foliage",
+        "value": 37.0
+    },
+    {
+        "term1": "cute",
+        "term2": "music",
+        "value": 14.0
+    },
+    {
+        "term1": "clothes",
+        "term2": "sexy",
+        "value": 27.0
+    },
+    {
+        "term1": "match",
+        "term2": "play",
+        "value": 30.0
+    },
+    {
+        "term1": "belly",
+        "term2": "stripe",
+        "value": 11.0
+    },
+    {
+        "term1": "coast",
+        "term2": "shore",
+        "value": 40.0
+    },
+    {
+        "term1": "leather",
+        "term2": "sunshine",
+        "value": 5.0
+    },
+    {
+        "term1": "rain",
+        "term2": "sunny",
+        "value": 32.0
+    },
+    {
+        "term1": "cute",
+        "term2": "fun",
+        "value": 19.0
+    },
+    {
+        "term1": "dragonfly",
+        "term2": "pond",
+        "value": 32.0
+    },
+    {
+        "term1": "clothes",
+        "term2": "skyline",
+        "value": 10.0
+    },
+    {
+        "term1": "metro",
+        "term2": "railway",
+        "value": 37.0
+    },
+    {
+        "term1": "mallard",
+        "term2": "poster",
+        "value": 7.0
+    },
+    {
+        "term1": "smoke",
+        "term2": "sun",
+        "value": 25.0
+    },
+    {
+        "term1": "makeup",
+        "term2": "town",
+        "value": 19.0
+    },
+    {
+        "term1": "bright",
+        "term2": "star",
+        "value": 33.0
+    },
+    {
+        "term1": "cone",
+        "term2": "hill",
+        "value": 20.0
+    },
+    {
+        "term1": "colorful",
+        "term2": "outfit",
+        "value": 30.0
+    },
+    {
+        "term1": "band",
+        "term2": "play",
+        "value": 37.0
+    },
+    {
+        "term1": "bay",
+        "term2": "parking",
+        "value": 14.0
+    },
+    {
+        "term1": "downtown",
+        "term2": "urban",
+        "value": 36.0
+    },
+    {
+        "term1": "bird",
+        "term2": "shade",
+        "value": 19.0
+    },
+    {
+        "term1": "crane",
+        "term2": "wild",
+        "value": 25.0
+    },
+    {
+        "term1": "orange",
+        "term2": "violet",
+        "value": 33.0
+    },
+    {
+        "term1": "dirty",
+        "term2": "hand",
+        "value": 24.0
+    },
+    {
+        "term1": "abandon",
+        "term2": "button",
+        "value": 9.0
+    },
+    {
+        "term1": "cheetah",
+        "term2": "flame",
+        "value": 6.0
+    },
+    {
+        "term1": "misty",
+        "term2": "sunset",
+        "value": 22.0
+    },
+    {
+        "term1": "potato",
+        "term2": "rice",
+        "value": 34.0
+    },
+    {
+        "term1": "miniature",
+        "term2": "paint",
+        "value": 19.0
+    },
+    {
+        "term1": "cemetery",
+        "term2": "grave",
+        "value": 40.0
+    },
+    {
+        "term1": "dessert",
+        "term2": "lunch",
+        "value": 23.0
+    },
+    {
+        "term1": "bathroom",
+        "term2": "dude",
+        "value": 11.0
+    },
+    {
+        "term1": "sport",
+        "term2": "swimming",
+        "value": 34.0
+    },
+    {
+        "term1": "cocktail",
+        "term2": "restaurant",
+        "value": 36.0
+    },
+    {
+        "term1": "restaurant",
+        "term2": "sushi",
+        "value": 33.0
+    },
+    {
+        "term1": "gun",
+        "term2": "jaguar",
+        "value": 7.0
+    },
+    {
+        "term1": "meat",
+        "term2": "moon",
+        "value": 4.0
+    },
+    {
+        "term1": "wash",
+        "term2": "water",
+        "value": 37.0
+    },
+    {
+        "term1": "mug",
+        "term2": "vehicle",
+        "value": 8.0
+    },
+    {
+        "term1": "rope",
+        "term2": "shore",
+        "value": 13.0
+    },
+    {
+        "term1": "dragon",
+        "term2": "furniture",
+        "value": 5.0
+    },
+    {
+        "term1": "cone",
+        "term2": "palm",
+        "value": 19.0
+    },
+    {
+        "term1": "sunrise",
+        "term2": "sunset",
+        "value": 42.0
+    },
+    {
+        "term1": "misty",
+        "term2": "morning",
+        "value": 28.0
+    },
+    {
+        "term1": "hat",
+        "term2": "peel",
+        "value": 12.0
+    },
+    {
+        "term1": "feel",
+        "term2": "guy",
+        "value": 13.0
+    },
+    {
+        "term1": "bacon",
+        "term2": "meat",
+        "value": 44.0
+    },
+    {
+        "term1": "red",
+        "term2": "yellow",
+        "value": 41.0
+    },
+    {
+        "term1": "bakery",
+        "term2": "shop",
+        "value": 39.0
+    },
+    {
+        "term1": "bride",
+        "term2": "dress",
+        "value": 38.0
+    },
+    {
+        "term1": "bakery",
+        "term2": "vehicle",
+        "value": 16.0
+    },
+    {
+        "term1": "bloom",
+        "term2": "violet",
+        "value": 33.0
+    },
+    {
+        "term1": "military",
+        "term2": "tomato",
+        "value": 2.0
+    },
+    {
+        "term1": "brick",
+        "term2": "concrete",
+        "value": 37.0
+    },
+    {
+        "term1": "line",
+        "term2": "underground",
+        "value": 16.0
+    },
+    {
+        "term1": "breakfast",
+        "term2": "staircase",
+        "value": 5.0
+    },
+    {
+        "term1": "colour",
+        "term2": "purple",
+        "value": 38.0
+    },
+    {
+        "term1": "cafe",
+        "term2": "street",
+        "value": 24.0
+    },
+    {
+        "term1": "feather",
+        "term2": "gull",
+        "value": 33.0
+    },
+    {
+        "term1": "costume",
+        "term2": "shirt",
+        "value": 30.0
+    },
+    {
+        "term1": "hockey",
+        "term2": "sport",
+        "value": 42.0
+    },
+    {
+        "term1": "floor",
+        "term2": "sit",
+        "value": 20.0
+    },
+    {
+        "term1": "bird",
+        "term2": "dragonfly",
+        "value": 28.0
+    },
+    {
+        "term1": "kitchen",
+        "term2": "staircase",
+        "value": 16.0
+    },
+    {
+        "term1": "coast",
+        "term2": "harbour",
+        "value": 40.0
+    },
+    {
+        "term1": "holiday",
+        "term2": "travel",
+        "value": 37.0
+    },
+    {
+        "term1": "copper",
+        "term2": "silver",
+        "value": 38.0
+    },
+    {
+        "term1": "coast",
+        "term2": "valley",
+        "value": 25.0
+    },
+    {
+        "term1": "dude",
+        "term2": "sexy",
+        "value": 25.0
+    },
+    {
+        "term1": "rope",
+        "term2": "train",
+        "value": 13.0
+    },
+    {
+        "term1": "gold",
+        "term2": "silver",
+        "value": 40.0
+    },
+    {
+        "term1": "orange",
+        "term2": "purple",
+        "value": 37.0
+    },
+    {
+        "term1": "field",
+        "term2": "skyscraper",
+        "value": 23.0
+    },
+    {
+        "term1": "black",
+        "term2": "purple",
+        "value": 36.0
+    },
+    {
+        "term1": "party",
+        "term2": "sailing",
+        "value": 14.0
+    },
+    {
+        "term1": "bath",
+        "term2": "patio",
+        "value": 22.0
+    },
+    {
+        "term1": "pumpkin",
+        "term2": "road",
+        "value": 7.0
+    },
+    {
+        "term1": "bird",
+        "term2": "parrot",
+        "value": 41.0
+    },
+    {
+        "term1": "architecture",
+        "term2": "design",
+        "value": 39.0
+    },
+    {
+        "term1": "flamingo",
+        "term2": "insect",
+        "value": 20.0
+    },
+    {
+        "term1": "ink",
+        "term2": "tropical",
+        "value": 6.0
+    },
+    {
+        "term1": "deer",
+        "term2": "insect",
+        "value": 23.0
+    },
+    {
+        "term1": "hill",
+        "term2": "rust",
+        "value": 5.0
+    },
+    {
+        "term1": "dude",
+        "term2": "friend",
+        "value": 30.0
+    },
+    {
+        "term1": "gate",
+        "term2": "hotel",
+        "value": 20.0
+    },
+    {
+        "term1": "mist",
+        "term2": "misty",
+        "value": 46.0
+    },
+    {
+        "term1": "rain",
+        "term2": "sun",
+        "value": 30.0
+    },
+    {
+        "term1": "cold",
+        "term2": "rain",
+        "value": 31.0
+    },
+    {
+        "term1": "elephant",
+        "term2": "giraffe",
+        "value": 40.0
+    },
+    {
+        "term1": "amphibian",
+        "term2": "insect",
+        "value": 27.0
+    },
+    {
+        "term1": "guy",
+        "term2": "stop",
+        "value": 7.0
+    },
+    {
+        "term1": "pink",
+        "term2": "white",
+        "value": 33.0
+    },
+    {
+        "term1": "city",
+        "term2": "family",
+        "value": 12.0
+    },
+    {
+        "term1": "cat",
+        "term2": "paw",
+        "value": 43.0
+    },
+    {
+        "term1": "cliff",
+        "term2": "waterfall",
+        "value": 30.0
+    },
+    {
+        "term1": "cold",
+        "term2": "frost",
+        "value": 39.0
+    },
+    {
+        "term1": "harbour",
+        "term2": "port",
+        "value": 45.0
+    },
+    {
+        "term1": "exhibition",
+        "term2": "painting",
+        "value": 31.0
+    },
+    {
+        "term1": "blue",
+        "term2": "bright",
+        "value": 25.0
+    },
+    {
+        "term1": "park",
+        "term2": "skate",
+        "value": 26.0
+    },
+    {
+        "term1": "eat",
+        "term2": "meat",
+        "value": 35.0
+    },
+    {
+        "term1": "brown",
+        "term2": "red",
+        "value": 32.0
+    },
+    {
+        "term1": "bird",
+        "term2": "mammal",
+        "value": 29.0
+    },
+    {
+        "term1": "building",
+        "term2": "concrete",
+        "value": 32.0
+    },
+    {
+        "term1": "ad",
+        "term2": "track",
+        "value": 15.0
+    },
+    {
+        "term1": "guy",
+        "term2": "haircut",
+        "value": 32.0
+    },
+    {
+        "term1": "harbor",
+        "term2": "sink",
+        "value": 24.0
+    },
+    {
+        "term1": "book",
+        "term2": "write",
+        "value": 36.0
+    },
+    {
+        "term1": "cake",
+        "term2": "rusty",
+        "value": 6.0
+    },
+    {
+        "term1": "grey",
+        "term2": "white",
+        "value": 37.0
+    },
+    {
+        "term1": "grave",
+        "term2": "number",
+        "value": 20.0
+    },
+    {
+        "term1": "porch",
+        "term2": "scooter",
+        "value": 12.0
+    },
+    {
+        "term1": "friend",
+        "term2": "sit",
+        "value": 14.0
+    },
+    {
+        "term1": "day",
+        "term2": "morning",
+        "value": 41.0
+    },
+    {
+        "term1": "skin",
+        "term2": "skirt",
+        "value": 21.0
+    },
+    {
+        "term1": "shade",
+        "term2": "tree",
+        "value": 45.0
+    },
+    {
+        "term1": "note",
+        "term2": "rally",
+        "value": 14.0
+    },
+    {
+        "term1": "flag",
+        "term2": "stripe",
+        "value": 28.0
+    },
+    {
+        "term1": "bloom",
+        "term2": "glitter",
+        "value": 19.0
+    },
+    {
+        "term1": "pub",
+        "term2": "restaurant",
+        "value": 39.0
+    },
+    {
+        "term1": "cold",
+        "term2": "wash",
+        "value": 20.0
+    },
+    {
+        "term1": "breakfast",
+        "term2": "night",
+        "value": 15.0
+    },
+    {
+        "term1": "desert",
+        "term2": "smoke",
+        "value": 11.0
+    },
+    {
+        "term1": "eat",
+        "term2": "food",
+        "value": 43.0
+    },
+    {
+        "term1": "painting",
+        "term2": "sculpture",
+        "value": 38.0
+    },
+    {
+        "term1": "cooking",
+        "term2": "soup",
+        "value": 34.0
+    },
+    {
+        "term1": "bucket",
+        "term2": "insect",
+        "value": 13.0
+    },
+    {
+        "term1": "mountain",
+        "term2": "valley",
+        "value": 41.0
+    },
+    {
+        "term1": "happy",
+        "term2": "night",
+        "value": 17.0
+    },
+    {
+        "term1": "foliage",
+        "term2": "rose",
+        "value": 33.0
+    },
+    {
+        "term1": "insect",
+        "term2": "mammal",
+        "value": 25.0
+    },
+    {
+        "term1": "skate",
+        "term2": "vehicle",
+        "value": 22.0
+    },
+    {
+        "term1": "dawn",
+        "term2": "dusk",
+        "value": 38.0
+    },
+    {
+        "term1": "feline",
+        "term2": "pumpkin",
+        "value": 8.0
+    },
+    {
+        "term1": "blossom",
+        "term2": "purple",
+        "value": 31.0
+    },
+    {
+        "term1": "art",
+        "term2": "sailing",
+        "value": 11.0
+    },
+    {
+        "term1": "lunch",
+        "term2": "sunshine",
+        "value": 12.0
+    },
+    {
+        "term1": "barn",
+        "term2": "food",
+        "value": 21.0
+    },
+    {
+        "term1": "meat",
+        "term2": "pepper",
+        "value": 25.0
+    },
+    {
+        "term1": "dessert",
+        "term2": "sandwich",
+        "value": 23.0
+    },
+    {
+        "term1": "food",
+        "term2": "noodle",
+        "value": 36.0
+    },
+    {
+        "term1": "landscape",
+        "term2": "stadium",
+        "value": 18.0
+    },
+    {
+        "term1": "guitar",
+        "term2": "vinyl",
+        "value": 20.0
+    },
+    {
+        "term1": "baseball",
+        "term2": "club",
+        "value": 27.0
+    },
+    {
+        "term1": "sun",
+        "term2": "sunny",
+        "value": 44.0
+    },
+    {
+        "term1": "stream",
+        "term2": "waterfall",
+        "value": 39.0
+    },
+    {
+        "term1": "country",
+        "term2": "library",
+        "value": 17.0
+    },
+    {
+        "term1": "pole",
+        "term2": "weather",
+        "value": 15.0
+    },
+    {
+        "term1": "game",
+        "term2": "rocket",
+        "value": 20.0
+    },
+    {
+        "term1": "gravestone",
+        "term2": "graveyard",
+        "value": 47.0
+    },
+    {
+        "term1": "scenery",
+        "term2": "waterfall",
+        "value": 38.0
+    },
+    {
+        "term1": "burger",
+        "term2": "frozen",
+        "value": 19.0
+    },
+    {
+        "term1": "family",
+        "term2": "live",
+        "value": 25.0
+    },
+    {
+        "term1": "fun",
+        "term2": "stop",
+        "value": 11.0
+    },
+    {
+        "term1": "shirt",
+        "term2": "white",
+        "value": 29.0
+    },
+    {
+        "term1": "car",
+        "term2": "tongue",
+        "value": 4.0
+    },
+    {
+        "term1": "bath",
+        "term2": "wash",
+        "value": 41.0
+    },
+    {
+        "term1": "burn",
+        "term2": "flame",
+        "value": 46.0
+    },
+    {
+        "term1": "beef",
+        "term2": "meat",
+        "value": 43.0
+    },
+    {
+        "term1": "haircut",
+        "term2": "hang",
+        "value": 15.0
+    },
+    {
+        "term1": "face",
+        "term2": "hang",
+        "value": 10.0
+    },
+    {
+        "term1": "lip",
+        "term2": "tongue",
+        "value": 41.0
+    },
+    {
+        "term1": "paint",
+        "term2": "picture",
+        "value": 37.0
+    },
+    {
+        "term1": "guy",
+        "term2": "wire",
+        "value": 13.0
+    },
+    {
+        "term1": "cliff",
+        "term2": "shore",
+        "value": 21.0
+    },
+    {
+        "term1": "purple",
+        "term2": "white",
+        "value": 36.0
+    },
+    {
+        "term1": "downtown",
+        "term2": "ruin",
+        "value": 20.0
+    },
+    {
+        "term1": "coast",
+        "term2": "hill",
+        "value": 28.0
+    },
+    {
+        "term1": "valley",
+        "term2": "village",
+        "value": 25.0
+    },
+    {
+        "term1": "dragonfly",
+        "term2": "wine",
+        "value": 4.0
+    },
+    {
+        "term1": "cloud",
+        "term2": "sunlight",
+        "value": 30.0
+    },
+    {
+        "term1": "band",
+        "term2": "outfit",
+        "value": 22.0
+    },
+    {
+        "term1": "clothes",
+        "term2": "transformer",
+        "value": 9.0
+    },
+    {
+        "term1": "painting",
+        "term2": "work",
+        "value": 18.0
+    },
+    {
+        "term1": "flower",
+        "term2": "garden",
+        "value": 48.0
+    },
+    {
+        "term1": "bread",
+        "term2": "eat",
+        "value": 38.0
+    },
+    {
+        "term1": "cottage",
+        "term2": "garden",
+        "value": 27.0
+    },
+    {
+        "term1": "amphibian",
+        "term2": "hummingbird",
+        "value": 20.0
+    },
+    {
+        "term1": "jean",
+        "term2": "map",
+        "value": 8.0
+    },
+    {
+        "term1": "stand",
+        "term2": "walk",
+        "value": 28.0
+    },
+    {
+        "term1": "port",
+        "term2": "ship",
+        "value": 43.0
+    },
+    {
+        "term1": "ceiling",
+        "term2": "staircase",
+        "value": 32.0
+    },
+    {
+        "term1": "lick",
+        "term2": "paw",
+        "value": 29.0
+    },
+    {
+        "term1": "guitar",
+        "term2": "sing",
+        "value": 34.0
+    },
+    {
+        "term1": "cloud",
+        "term2": "ripple",
+        "value": 27.0
+    },
+    {
+        "term1": "lighting",
+        "term2": "panda",
+        "value": 9.0
+    },
+    {
+        "term1": "brick",
+        "term2": "ceiling",
+        "value": 28.0
+    },
+    {
+        "term1": "lily",
+        "term2": "purple",
+        "value": 27.0
+    },
+    {
+        "term1": "alley",
+        "term2": "bloom",
+        "value": 10.0
+    },
+    {
+        "term1": "book",
+        "term2": "smoking",
+        "value": 8.0
+    },
+    {
+        "term1": "petal",
+        "term2": "tulip",
+        "value": 41.0
+    },
+    {
+        "term1": "kitchen",
+        "term2": "wedding",
+        "value": 5.0
+    },
+    {
+        "term1": "station",
+        "term2": "subway",
+        "value": 47.0
+    },
+    {
+        "term1": "couple",
+        "term2": "makeup",
+        "value": 18.0
+    },
+    {
+        "term1": "face",
+        "term2": "smile",
+        "value": 38.0
+    },
+    {
+        "term1": "art",
+        "term2": "graphic",
+        "value": 39.0
+    },
+    {
+        "term1": "reptile",
+        "term2": "rodent",
+        "value": 30.0
+    },
+    {
+        "term1": "car",
+        "term2": "vehicle",
+        "value": 46.0
+    },
+    {
+        "term1": "cross",
+        "term2": "outfit",
+        "value": 12.0
+    },
+    {
+        "term1": "circle",
+        "term2": "sport",
+        "value": 13.0
+    },
+    {
+        "term1": "berry",
+        "term2": "strawberry",
+        "value": 44.0
+    },
+    {
+        "term1": "blossom",
+        "term2": "violet",
+        "value": 30.0
+    },
+    {
+        "term1": "angel",
+        "term2": "gasoline",
+        "value": 1.0
+    },
+    {
+        "term1": "club",
+        "term2": "hockey",
+        "value": 30.0
+    },
+    {
+        "term1": "amphibian",
+        "term2": "bird",
+        "value": 29.0
+    },
+    {
+        "term1": "floor",
+        "term2": "porch",
+        "value": 31.0
+    },
+    {
+        "term1": "jump",
+        "term2": "leg",
+        "value": 31.0
+    },
+    {
+        "term1": "hawk",
+        "term2": "mammal",
+        "value": 24.0
+    },
+    {
+        "term1": "chapel",
+        "term2": "whisker",
+        "value": 6.0
+    },
+    {
+        "term1": "miniature",
+        "term2": "painting",
+        "value": 23.0
+    },
+    {
+        "term1": "lily",
+        "term2": "petal",
+        "value": 36.0
+    },
+    {
+        "term1": "market",
+        "term2": "sushi",
+        "value": 22.0
+    },
+    {
+        "term1": "rabbit",
+        "term2": "stop",
+        "value": 9.0
+    },
+    {
+        "term1": "husky",
+        "term2": "play",
+        "value": 14.0
+    },
+    {
+        "term1": "cafe",
+        "term2": "lunch",
+        "value": 40.0
+    },
+    {
+        "term1": "flower",
+        "term2": "yellow",
+        "value": 31.0
+    },
+    {
+        "term1": "shirt",
+        "term2": "show",
+        "value": 10.0
+    },
+    {
+        "term1": "footprint",
+        "term2": "scooter",
+        "value": 10.0
+    },
+    {
+        "term1": "chocolate",
+        "term2": "squirrel",
+        "value": 5.0
+    },
+    {
+        "term1": "bright",
+        "term2": "mist",
+        "value": 15.0
+    },
+    {
+        "term1": "horse",
+        "term2": "work",
+        "value": 21.0
+    },
+    {
+        "term1": "cat",
+        "term2": "whisker",
+        "value": 40.0
+    },
+    {
+        "term1": "dude",
+        "term2": "husky",
+        "value": 16.0
+    },
+    {
+        "term1": "bed",
+        "term2": "patio",
+        "value": 20.0
+    },
+    {
+        "term1": "ceiling",
+        "term2": "patio",
+        "value": 16.0
+    },
+    {
+        "term1": "cloud",
+        "term2": "rain",
+        "value": 40.0
+    },
+    {
+        "term1": "amphibian",
+        "term2": "wild",
+        "value": 24.0
+    },
+    {
+        "term1": "bride",
+        "term2": "photographer",
+        "value": 31.0
+    },
+    {
+        "term1": "bathroom",
+        "term2": "patio",
+        "value": 20.0
+    },
+    {
+        "term1": "shade",
+        "term2": "twig",
+        "value": 22.0
+    },
+    {
+        "term1": "rock",
+        "term2": "sing",
+        "value": 22.0
+    },
+    {
+        "term1": "pink",
+        "term2": "yellow",
+        "value": 36.0
+    },
+    {
+        "term1": "street",
+        "term2": "town",
+        "value": 32.0
+    },
+    {
+        "term1": "machine",
+        "term2": "wash",
+        "value": 35.0
+    },
+    {
+        "term1": "hotel",
+        "term2": "relax",
+        "value": 29.0
+    },
+    {
+        "term1": "brown",
+        "term2": "green",
+        "value": 38.0
+    },
+    {
+        "term1": "drip",
+        "term2": "water",
+        "value": 36.0
+    },
+    {
+        "term1": "dusk",
+        "term2": "gull",
+        "value": 17.0
+    },
+    {
+        "term1": "dirt",
+        "term2": "gymnastics",
+        "value": 8.0
+    },
+    {
+        "term1": "hair",
+        "term2": "lizard",
+        "value": 11.0
+    },
+    {
+        "term1": "breakfast",
+        "term2": "people",
+        "value": 17.0
+    },
+    {
+        "term1": "sunshine",
+        "term2": "weather",
+        "value": 37.0
+    },
+    {
+        "term1": "glitter",
+        "term2": "vintage",
+        "value": 16.0
+    },
+    {
+        "term1": "morning",
+        "term2": "night",
+        "value": 37.0
+    },
+    {
+        "term1": "baseball",
+        "term2": "cheetah",
+        "value": 6.0
+    },
+    {
+        "term1": "brick",
+        "term2": "skyscraper",
+        "value": 26.0
+    },
+    {
+        "term1": "butterfly",
+        "term2": "stadium",
+        "value": 7.0
+    },
+    {
+        "term1": "foot",
+        "term2": "tall",
+        "value": 30.0
+    },
+    {
+        "term1": "bus",
+        "term2": "rail",
+        "value": 26.0
+    },
+    {
+        "term1": "makeup",
+        "term2": "race",
+        "value": 7.0
+    },
+    {
+        "term1": "friend",
+        "term2": "leave",
+        "value": 10.0
+    },
+    {
+        "term1": "doodle",
+        "term2": "scratch",
+        "value": 28.0
+    },
+    {
+        "term1": "clothes",
+        "term2": "dress",
+        "value": 45.0
+    },
+    {
+        "term1": "sweet",
+        "term2": "wine",
+        "value": 26.0
+    },
+    {
+        "term1": "cloud",
+        "term2": "sunshine",
+        "value": 34.0
+    },
+    {
+        "term1": "iris",
+        "term2": "necklace",
+        "value": 13.0
+    },
+    {
+        "term1": "strawberry",
+        "term2": "sweet",
+        "value": 44.0
+    },
+    {
+        "term1": "house",
+        "term2": "windmill",
+        "value": 18.0
+    },
+    {
+        "term1": "city",
+        "term2": "live",
+        "value": 32.0
+    },
+    {
+        "term1": "insect",
+        "term2": "reptile",
+        "value": 34.0
+    },
+    {
+        "term1": "ice",
+        "term2": "snow",
+        "value": 46.0
+    }
+]

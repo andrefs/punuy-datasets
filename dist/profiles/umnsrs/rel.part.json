@@ -1,0 +1,3524 @@
+[
+    {
+        "value": 797.5,
+        "stddev": 191.719413031997,
+        "term1": "Carbatrol",
+        "term2": "Dilantin"
+    },
+    {
+        "value": 417.25,
+        "stddev": 288.876415329001,
+        "term1": "Cardiomyopathy",
+        "term2": "Tylenol"
+    },
+    {
+        "value": 1273,
+        "stddev": 126.438390794357,
+        "term1": "Coccidioidomycosis",
+        "term2": "Histoplasmosis"
+    },
+    {
+        "value": 1111.25,
+        "stddev": 235.712218605655,
+        "term1": "Leucovorin",
+        "term2": "Methotrexate"
+    },
+    {
+        "value": 1294.75,
+        "stddev": 79.9306991503682,
+        "term1": "Angina",
+        "term2": "Plavix"
+    },
+    {
+        "value": 1303.25,
+        "stddev": 79.5167697197683,
+        "term1": "Dyslipidemia",
+        "term2": "Atherosclerosis"
+    },
+    {
+        "value": 833.5,
+        "stddev": 335.666997682723,
+        "term1": "Rheumatism",
+        "term2": "Sluggishness"
+    },
+    {
+        "value": 990,
+        "stddev": 433.262814774897,
+        "term1": "Zofran",
+        "term2": "Ipecac Syrup"
+    },
+    {
+        "value": 616.25,
+        "stddev": 499.880902482448,
+        "term1": "Nystagmus",
+        "term2": "Incontinence"
+    },
+    {
+        "value": 708.75,
+        "stddev": 397.51677113467,
+        "term1": "Emaciation",
+        "term2": "Carboplatin"
+    },
+    {
+        "value": 860.25,
+        "stddev": 455.950563840716,
+        "term1": "Zovirax",
+        "term2": "Famvir"
+    },
+    {
+        "value": 990.25,
+        "stddev": 413.50725507541,
+        "term1": "Insulin",
+        "term2": "Avandia"
+    },
+    {
+        "value": 669,
+        "stddev": 313.22728701908,
+        "term1": "Cluttering",
+        "term2": "Mannerism"
+    },
+    {
+        "value": 1456.75,
+        "stddev": 110.101089912861,
+        "term1": "Nausea",
+        "term2": "Vomiting"
+    },
+    {
+        "value": 704.75,
+        "stddev": 449.447345822252,
+        "term1": "Ketonuria",
+        "term2": "Chyluria"
+    },
+    {
+        "value": 1306.25,
+        "stddev": 56.8411529322433,
+        "term1": "Convulsion",
+        "term2": "Ethanol"
+    },
+    {
+        "value": 1277,
+        "stddev": 247.242121546201,
+        "term1": "Parasitemia",
+        "term2": "Malaria"
+    },
+    {
+        "value": 1439.5,
+        "stddev": 125.837196408693,
+        "term1": "Proteinuria",
+        "term2": "Diabetes"
+    },
+    {
+        "value": 776,
+        "stddev": 443.855081454897,
+        "term1": "Gastroenteritis",
+        "term2": "Cromolyn"
+    },
+    {
+        "value": 710.5,
+        "stddev": 476.429428142301,
+        "term1": "Hypoproteinemia",
+        "term2": "Hunger"
+    },
+    {
+        "value": 1261.5,
+        "stddev": 324.356285587315,
+        "term1": "Insulin",
+        "term2": "Glucagen"
+    },
+    {
+        "value": 1306,
+        "stddev": 84.5419028253643,
+        "term1": "Regurgitation",
+        "term2": "Protonix"
+    },
+    {
+        "value": 361,
+        "stddev": 289.555981921746,
+        "term1": "Cataracts",
+        "term2": "Epilepsy"
+    },
+    {
+        "value": 499.25,
+        "stddev": 639.533358525313,
+        "term1": "Cataracts",
+        "term2": "Wheezing"
+    },
+    {
+        "value": 837.25,
+        "stddev": 407.934941708438,
+        "term1": "Methadone",
+        "term2": "Ultram"
+    },
+    {
+        "value": 787.5,
+        "stddev": 351.486841858981,
+        "term1": "Diabetes",
+        "term2": "Psoriasis"
+    },
+    {
+        "value": 1173.5,
+        "stddev": 377.816975090674,
+        "term1": "Blanching",
+        "term2": "Pallor"
+    },
+    {
+        "value": 1171.75,
+        "stddev": 293.088581604038,
+        "term1": "Thirsty",
+        "term2": "Lasix"
+    },
+    {
+        "value": 441.25,
+        "stddev": 313.179793941648,
+        "term1": "Photosensitization",
+        "term2": "Aphonia"
+    },
+    {
+        "value": 964.75,
+        "stddev": 425.897777250207,
+        "term1": "Polyuria",
+        "term2": "Chyluria"
+    },
+    {
+        "value": 470,
+        "stddev": 261.530112988925,
+        "term1": "Psoriasis",
+        "term2": "Meningism"
+    },
+    {
+        "value": 663.75,
+        "stddev": 532.817276371553,
+        "term1": "Virilism",
+        "term2": "Drooling"
+    },
+    {
+        "value": 1168.75,
+        "stddev": 180.642141631828,
+        "term1": "Psoriasis",
+        "term2": "Arthritis"
+    },
+    {
+        "value": 865.75,
+        "stddev": 541.163176254014,
+        "term1": "Tuberculosis",
+        "term2": "Clubbing"
+    },
+    {
+        "value": 1063.75,
+        "stddev": 472.353945680567,
+        "term1": "Pancreatitis",
+        "term2": "Diabetes"
+    },
+    {
+        "value": 1441.25,
+        "stddev": 44.0936503365281,
+        "term1": "Coumadin",
+        "term2": "Vitamin K"
+    },
+    {
+        "value": 582.25,
+        "stddev": 531.119807576407,
+        "term1": "Dementias",
+        "term2": "Psoriasis"
+    },
+    {
+        "value": 804,
+        "stddev": 584.219707530195,
+        "term1": "Peritonitis",
+        "term2": "Grimaces"
+    },
+    {
+        "value": 1469.25,
+        "stddev": 91.0398264497467,
+        "term1": "Anemia",
+        "term2": "Iron"
+    },
+    {
+        "value": 1247,
+        "stddev": 138.074858923218,
+        "term1": "Encephalitis",
+        "term2": "Meningism"
+    },
+    {
+        "value": 1470.5,
+        "stddev": 85.457591821909,
+        "term1": "Exophthalmos",
+        "term2": "Hyperthyroidism"
+    },
+    {
+        "value": 1417.25,
+        "stddev": 19.0853346839923,
+        "term1": "Obesity",
+        "term2": "Diabetes"
+    },
+    {
+        "value": 778.25,
+        "stddev": 577.49480517144,
+        "term1": "Thromboembolism",
+        "term2": "Hemoptysis"
+    },
+    {
+        "value": 1370.5,
+        "stddev": 18.411952639522,
+        "term1": "Pneumoniae",
+        "term2": "Ceftiaxone"
+    },
+    {
+        "value": 906,
+        "stddev": 355.457451743524,
+        "term1": "Cardura",
+        "term2": "Hytrin"
+    },
+    {
+        "value": 573.75,
+        "stddev": 417.274789557193,
+        "term1": "Cataracts",
+        "term2": "Glucophage"
+    },
+    {
+        "value": 998.5,
+        "stddev": 400.043747607684,
+        "term1": "Seizures",
+        "term2": "Carbatrol"
+    },
+    {
+        "value": 1190,
+        "stddev": 266.600825205024,
+        "term1": "Cardialgia",
+        "term2": "Nitroglycerine"
+    },
+    {
+        "value": 463.75,
+        "stddev": 432.59632838633,
+        "term1": "Cataracts",
+        "term2": "Insulin"
+    },
+    {
+        "value": 1187,
+        "stddev": 266.091462972164,
+        "term1": "Anemia",
+        "term2": "Reticulocytosis"
+    },
+    {
+        "value": 1234.75,
+        "stddev": 270.427285359053,
+        "term1": "Convulsion",
+        "term2": "Carbatrol"
+    },
+    {
+        "value": 824,
+        "stddev": 416.005608936546,
+        "term1": "Garlic",
+        "term2": "Fish Oil"
+    },
+    {
+        "value": 1355.5,
+        "stddev": 188.493147532388,
+        "term1": "Dyslipidemia",
+        "term2": "Fish Oil"
+    },
+    {
+        "value": 931.25,
+        "stddev": 248.659573178539,
+        "term1": "Hemophilia",
+        "term2": "Hemoptysis"
+    },
+    {
+        "value": 1126,
+        "stddev": 227.51849741651,
+        "term1": "Nitroglycerine",
+        "term2": "Morphine"
+    },
+    {
+        "value": 1248,
+        "stddev": 173.929104330855,
+        "term1": "Fibrillation",
+        "term2": "Angina"
+    },
+    {
+        "value": 1295.5,
+        "stddev": 110.204355630801,
+        "term1": "Cefoxitin",
+        "term2": "Ceftiaxone"
+    },
+    {
+        "value": 1485,
+        "stddev": 81.6986331995014,
+        "term1": "Diabetes",
+        "term2": "Insulin"
+    },
+    {
+        "value": 871.25,
+        "stddev": 325.134203060828,
+        "term1": "Pallor",
+        "term2": "Aspirin"
+    },
+    {
+        "value": 253.25,
+        "stddev": 62.1523665411597,
+        "term1": "Earache",
+        "term2": "Crowning"
+    },
+    {
+        "value": 525.75,
+        "stddev": 298.568110599017,
+        "term1": "Herpes",
+        "term2": "Cholestasis"
+    },
+    {
+        "value": 358.25,
+        "stddev": 111.568738154258,
+        "term1": "Cardiomyopathy",
+        "term2": "Rogaine"
+    },
+    {
+        "value": 1273,
+        "stddev": 153.792067415716,
+        "term1": "Asthenia",
+        "term2": "Weakness"
+    },
+    {
+        "value": 770,
+        "stddev": 153.070789723796,
+        "term1": "Endep",
+        "term2": "Prozac"
+    },
+    {
+        "value": 1261.5,
+        "stddev": 125.487051124807,
+        "term1": "Dyslipidemia",
+        "term2": "Cholestyramine"
+    },
+    {
+        "value": 406.25,
+        "stddev": 204.483699431846,
+        "term1": "Rabies",
+        "term2": "Acne"
+    },
+    {
+        "value": 753,
+        "stddev": 554.627202121689,
+        "term1": "Plague",
+        "term2": "Adenitis"
+    },
+    {
+        "value": 816.25,
+        "stddev": 434.286675672495,
+        "term1": "Chyluria",
+        "term2": "Menouria"
+    },
+    {
+        "value": 1244,
+        "stddev": 304.730482011017,
+        "term1": "Alcohol",
+        "term2": "Antabuse"
+    },
+    {
+        "value": 1209.75,
+        "stddev": 142.871445712571,
+        "term1": "Codeine",
+        "term2": "Narcan"
+    },
+    {
+        "value": 853.25,
+        "stddev": 412.573528800221,
+        "term1": "Cardialgia",
+        "term2": "Lithobid"
+    },
+    {
+        "value": 1352,
+        "stddev": 148.835479641112,
+        "term1": "Coumadin",
+        "term2": "Aspirin"
+    },
+    {
+        "value": 824.75,
+        "stddev": 368.748672313994,
+        "term1": "Vancocin",
+        "term2": "Glucotrol"
+    },
+    {
+        "value": 1280,
+        "stddev": 136.552798091678,
+        "term1": "Myelosuppression",
+        "term2": "Chloramphenicol"
+    },
+    {
+        "value": 664,
+        "stddev": 467.809077865461,
+        "term1": "Cirrhosis",
+        "term2": "Hernia"
+    },
+    {
+        "value": 1238,
+        "stddev": 156.93523080133,
+        "term1": "Agranulocytosis",
+        "term2": "Leukopenia"
+    },
+    {
+        "value": 959.5,
+        "stddev": 460.343712168781,
+        "term1": "Flumazenil",
+        "term2": "Valium"
+    },
+    {
+        "value": 1084.25,
+        "stddev": 241.855845494791,
+        "term1": "Allergy.",
+        "term2": "Heparin"
+    },
+    {
+        "value": 948,
+        "stddev": 398.010050124366,
+        "term1": "Coccidioses",
+        "term2": "Meningitis"
+    },
+    {
+        "value": 275.5,
+        "stddev": 106.202636502113,
+        "term1": "Aneurysm",
+        "term2": "Osteoporosis"
+    },
+    {
+        "value": 630.5,
+        "stddev": 530.599974871214,
+        "term1": "Osteoporosis",
+        "term2": "Thrombus"
+    },
+    {
+        "value": 473.5,
+        "stddev": 282.636987435591,
+        "term1": "Sciatica",
+        "term2": "Actonel"
+    },
+    {
+        "value": 1170.5,
+        "stddev": 514.184467547073,
+        "term1": "Atherosclerosis",
+        "term2": "Ischemias"
+    },
+    {
+        "value": 1285.75,
+        "stddev": 271.120360725638,
+        "term1": "Fibrillation",
+        "term2": "Thrombus"
+    },
+    {
+        "value": 443.5,
+        "stddev": 449.133610410087,
+        "term1": "Thrombocytopenia",
+        "term2": "Sciatica"
+    },
+    {
+        "value": 1325.75,
+        "stddev": 74.6653645719799,
+        "term1": "Encephalitis",
+        "term2": "Meningitis"
+    },
+    {
+        "value": 354,
+        "stddev": 199.708120349007,
+        "term1": "Urethrorrhea",
+        "term2": "Tremor"
+    },
+    {
+        "value": 1011,
+        "stddev": 358.666047087445,
+        "term1": "Albumin",
+        "term2": "Heparin"
+    },
+    {
+        "value": 1085.5,
+        "stddev": 466.705117463551,
+        "term1": "Polyuria",
+        "term2": "Insulin"
+    },
+    {
+        "value": 610,
+        "stddev": 408.967806393934,
+        "term1": "Snoring",
+        "term2": "Stridor"
+    },
+    {
+        "value": 353.5,
+        "stddev": 175.477443944609,
+        "term1": "Psoriasis",
+        "term2": "Coreg"
+    },
+    {
+        "value": 282.25,
+        "stddev": 135.160090263361,
+        "term1": "Haemorrhoids",
+        "term2": "Infertility"
+    },
+    {
+        "value": 1135.25,
+        "stddev": 472.932958603366,
+        "term1": "Epilepsy",
+        "term2": "Phenobarbital"
+    },
+    {
+        "value": 856.75,
+        "stddev": 456.318876079729,
+        "term1": "Epilepsy",
+        "term2": "Alcohol"
+    },
+    {
+        "value": 699.75,
+        "stddev": 515.133882273984,
+        "term1": "Snoring",
+        "term2": "Loperamide"
+    },
+    {
+        "value": 815.5,
+        "stddev": 484.667927554527,
+        "term1": "Asthenia",
+        "term2": "Cachexia"
+    },
+    {
+        "value": 816.75,
+        "stddev": 463.801951267995,
+        "term1": "Seizures",
+        "term2": "Wellbutrin"
+    },
+    {
+        "value": 1266.25,
+        "stddev": 176.634037867375,
+        "term1": "Pneumoniae",
+        "term2": "Septicemia"
+    },
+    {
+        "value": 527.25,
+        "stddev": 304.972539747434,
+        "term1": "Exophthalmos",
+        "term2": "Hepatosplenomegaly"
+    },
+    {
+        "value": 570.25,
+        "stddev": 540.562901057777,
+        "term1": "Hernias",
+        "term2": "Dementia"
+    },
+    {
+        "value": 365.25,
+        "stddev": 232.465588851339,
+        "term1": "Synthroid",
+        "term2": "Lidocaine"
+    },
+    {
+        "value": 1341.5,
+        "stddev": 126.033064444745,
+        "term1": "Pneumoniae",
+        "term2": "Dyspnea"
+    },
+    {
+        "value": 1002.75,
+        "stddev": 241.17680236706,
+        "term1": "Bandemia",
+        "term2": "Meningism"
+    },
+    {
+        "value": 528.5,
+        "stddev": 340.425713874065,
+        "term1": "Glaucoma",
+        "term2": "Fibrillation"
+    },
+    {
+        "value": 1233,
+        "stddev": 297.441310737653,
+        "term1": "Seasickness",
+        "term2": "Carsickness"
+    },
+    {
+        "value": 917.5,
+        "stddev": 576.519152616228,
+        "term1": "Arthralgia",
+        "term2": "Clubbing"
+    },
+    {
+        "value": 1109,
+        "stddev": 484.727414808227,
+        "term1": "Acetylcysteine",
+        "term2": "Tylenol"
+    },
+    {
+        "value": 1139,
+        "stddev": 310.641272209602,
+        "term1": "Thrombophilias",
+        "term2": "Thromboembolism"
+    },
+    {
+        "value": 427.25,
+        "stddev": 269.549469794816,
+        "term1": "Goiter",
+        "term2": "Motrin"
+    },
+    {
+        "value": 418.75,
+        "stddev": 300.863618050881,
+        "term1": "Hemophilia",
+        "term2": "Glucotrol"
+    },
+    {
+        "value": 1173,
+        "stddev": 334.967660130547,
+        "term1": "Pseudoophthalmoplegia",
+        "term2": "Ophthalmalgia"
+    },
+    {
+        "value": 415,
+        "stddev": 285.373439548953,
+        "term1": "Dysuria",
+        "term2": "Plavix"
+    },
+    {
+        "value": 414.5,
+        "stddev": 290.000574712074,
+        "term1": "Underexertion",
+        "term2": "Virilism"
+    },
+    {
+        "value": 540.25,
+        "stddev": 316.017272734682,
+        "term1": "Aneurysm",
+        "term2": "Silvadene"
+    },
+    {
+        "value": 772.25,
+        "stddev": 199.89726528061,
+        "term1": "Colchicine",
+        "term2": "Prednisolone"
+    },
+    {
+        "value": 462.5,
+        "stddev": 286.61297946883,
+        "term1": "Hernia",
+        "term2": "Sinemet"
+    },
+    {
+        "value": 488.5,
+        "stddev": 288.904251728261,
+        "term1": "Overnutrition",
+        "term2": "Seizures"
+    },
+    {
+        "value": 473.5,
+        "stddev": 310.76303941535,
+        "term1": "Cataracts",
+        "term2": "Pancreatitis"
+    },
+    {
+        "value": 1514.5,
+        "stddev": 111.147049743422,
+        "term1": "Ethanol",
+        "term2": "Alcohol"
+    },
+    {
+        "value": 1121,
+        "stddev": 366.173001007265,
+        "term1": "Hyperthyroidism",
+        "term2": "Seizures"
+    },
+    {
+        "value": 899.25,
+        "stddev": 446.919362599862,
+        "term1": "Folic Acid",
+        "term2": "Primatine"
+    },
+    {
+        "value": 695.75,
+        "stddev": 529.337557707745,
+        "term1": "Esmolol",
+        "term2": "Amiodarone"
+    },
+    {
+        "value": 1134.75,
+        "stddev": 238.218911927664,
+        "term1": "Infertility",
+        "term2": "Carboplatin"
+    },
+    {
+        "value": 1150.25,
+        "stddev": 232.05943922481,
+        "term1": "Tremor",
+        "term2": "Sinemet"
+    },
+    {
+        "value": 615.75,
+        "stddev": 547.014548861972,
+        "term1": "Diabetes",
+        "term2": "Codeine"
+    },
+    {
+        "value": 277.25,
+        "stddev": 100.523214565923,
+        "term1": "Coumadin",
+        "term2": "Aloe Vera"
+    },
+    {
+        "value": 1054.75,
+        "stddev": 448.279953451709,
+        "term1": "Pancreatitis",
+        "term2": "Insulin"
+    },
+    {
+        "value": 668.25,
+        "stddev": 493.421641870993,
+        "term1": "Gastroenteritis",
+        "term2": "Insulin"
+    },
+    {
+        "value": 789.5,
+        "stddev": 312.623842127671,
+        "term1": "Histoplasmosis",
+        "term2": "Prednisolone"
+    },
+    {
+        "value": 1070,
+        "stddev": 516.026485108403,
+        "term1": "Clubbing",
+        "term2": "Dyspnea"
+    },
+    {
+        "value": 651.25,
+        "stddev": 477.500698079769,
+        "term1": "Hemiplegia",
+        "term2": "Plavix"
+    },
+    {
+        "value": 595.25,
+        "stddev": 328.178178230465,
+        "term1": "Mycosis",
+        "term2": "Lipitor"
+    },
+    {
+        "value": 825.5,
+        "stddev": 406.582914873051,
+        "term1": "Rheumatism",
+        "term2": "Colchicine"
+    },
+    {
+        "value": 664,
+        "stddev": 443.040254002576,
+        "term1": "Dyspnea",
+        "term2": "Penicillin"
+    },
+    {
+        "value": 1040,
+        "stddev": 532.663120555572,
+        "term1": "Cirrhosis",
+        "term2": "Hematemesis"
+    },
+    {
+        "value": 1210.5,
+        "stddev": 291.017181623354,
+        "term1": "Hemicrania",
+        "term2": "Headache"
+    },
+    {
+        "value": 618.5,
+        "stddev": 513.685052666839,
+        "term1": "Atherosclerosis",
+        "term2": "Heartburn"
+    },
+    {
+        "value": 1389,
+        "stddev": 37.8505834389203,
+        "term1": "Sluggishness",
+        "term2": "Fatigue"
+    },
+    {
+        "value": 794.75,
+        "stddev": 660.760861936198,
+        "term1": "Cardiomyopathies",
+        "term2": "Syncope"
+    },
+    {
+        "value": 1285,
+        "stddev": 150.441572268661,
+        "term1": "Anoxemia",
+        "term2": "Seizures"
+    },
+    {
+        "value": 897,
+        "stddev": 465.120056186214,
+        "term1": "Seasickness",
+        "term2": "Ethanol"
+    },
+    {
+        "value": 371.5,
+        "stddev": 104.872938994449,
+        "term1": "Dyslipidemia",
+        "term2": "Iron"
+    },
+    {
+        "value": 678.5,
+        "stddev": 515.160492791648,
+        "term1": "Thalassemia",
+        "term2": "Tremor"
+    },
+    {
+        "value": 831,
+        "stddev": 407.22066090348,
+        "term1": "Convulsion",
+        "term2": "Wellbutrin"
+    },
+    {
+        "value": 474.5,
+        "stddev": 234.066229943578,
+        "term1": "Angina",
+        "term2": "Levophed"
+    },
+    {
+        "value": 601.75,
+        "stddev": 270.413726229519,
+        "term1": "Sandimmune",
+        "term2": "Prednisolone"
+    },
+    {
+        "value": 1068.25,
+        "stddev": 248.054261537001,
+        "term1": "Spasm",
+        "term2": "Sciatica"
+    },
+    {
+        "value": 1006,
+        "stddev": 476.652913554507,
+        "term1": "Anovulation",
+        "term2": "Mittelschmerz"
+    },
+    {
+        "value": 318.25,
+        "stddev": 145.561842527498,
+        "term1": "Ischemias",
+        "term2": "Aloe Vera"
+    },
+    {
+        "value": 702.5,
+        "stddev": 347.762850229866,
+        "term1": "Bronchitis",
+        "term2": "Singulair"
+    },
+    {
+        "value": 1329.75,
+        "stddev": 140.148433217547,
+        "term1": "Lipitor",
+        "term2": "Lovastatin"
+    },
+    {
+        "value": 1265.75,
+        "stddev": 173.015172745051,
+        "term1": "Pneumoniae",
+        "term2": "Weakness"
+    },
+    {
+        "value": 325.75,
+        "stddev": 95.7231250360469,
+        "term1": "Spasm",
+        "term2": "Lasix"
+    },
+    {
+        "value": 657.25,
+        "stddev": 444.940726389482,
+        "term1": "Torticollis",
+        "term2": "Erythromycin"
+    },
+    {
+        "value": 1258.25,
+        "stddev": 154.227915761058,
+        "term1": "Dermatitis",
+        "term2": "Allergy."
+    },
+    {
+        "value": 752.5,
+        "stddev": 238.708329696864,
+        "term1": "Silvadene",
+        "term2": "Ketamine"
+    },
+    {
+        "value": 1399.5,
+        "stddev": 40.4680944284095,
+        "term1": "Arteriosclerosis",
+        "term2": "Ischemias"
+    },
+    {
+        "value": 635.5,
+        "stddev": 378.79677928937,
+        "term1": "Hemochromatosis",
+        "term2": "Polyuria"
+    },
+    {
+        "value": 787.25,
+        "stddev": 376.530985887395,
+        "term1": "Metatarsalgia",
+        "term2": "Toothache"
+    },
+    {
+        "value": 1163.75,
+        "stddev": 251.874803556582,
+        "term1": "Dehydration",
+        "term2": "Starvation"
+    },
+    {
+        "value": 362.75,
+        "stddev": 93.3072880326076,
+        "term1": "Colitis",
+        "term2": "Epilepsy"
+    },
+    {
+        "value": 1459.5,
+        "stddev": 74.9510951665596,
+        "term1": "Diabetes",
+        "term2": "Polydipsia"
+    },
+    {
+        "value": 1363.25,
+        "stddev": 43.392587692677,
+        "term1": "Ketonuria",
+        "term2": "Starvation"
+    },
+    {
+        "value": 736.5,
+        "stddev": 134.363933652847,
+        "term1": "Coreg",
+        "term2": "Atacand"
+    },
+    {
+        "value": 1347,
+        "stddev": 91.6042211545589,
+        "term1": "Banana Bag",
+        "term2": "Vitamin B1"
+    },
+    {
+        "value": 1224.75,
+        "stddev": 292.986205591094,
+        "term1": "Hypothyroidism",
+        "term2": "Weakness"
+    },
+    {
+        "value": 1218,
+        "stddev": 299.257971211016,
+        "term1": "Thalassemia",
+        "term2": "Hemoglobinopathy"
+    },
+    {
+        "value": 812.25,
+        "stddev": 322.624007166237,
+        "term1": "Mycoses",
+        "term2": "Meningitis"
+    },
+    {
+        "value": 1382.75,
+        "stddev": 142.31508470058,
+        "term1": "Pallor",
+        "term2": "Iron"
+    },
+    {
+        "value": 943,
+        "stddev": 449.814776695179,
+        "term1": "Maculopapule",
+        "term2": "Macule"
+    },
+    {
+        "value": 1308.25,
+        "stddev": 44.6420952315935,
+        "term1": "Heartburn",
+        "term2": "Motrin"
+    },
+    {
+        "value": 399.75,
+        "stddev": 229.501452428229,
+        "term1": "Aloe Vera",
+        "term2": "Vicodin"
+    },
+    {
+        "value": 1119.75,
+        "stddev": 429.241482151947,
+        "term1": "Codeine",
+        "term2": "Robitussin"
+    },
+    {
+        "value": 586.5,
+        "stddev": 549.626236637226,
+        "term1": "Acetylcysteine",
+        "term2": "Adenosine"
+    },
+    {
+        "value": 997.75,
+        "stddev": 409.627778192186,
+        "term1": "Cromolyn",
+        "term2": "Prednisolone"
+    },
+    {
+        "value": 1337.75,
+        "stddev": 135.298127604684,
+        "term1": "Ceftazidime",
+        "term2": "Ceftiaxone"
+    },
+    {
+        "value": 1462.75,
+        "stddev": 55.6619259458384,
+        "term1": "Pain",
+        "term2": "Morphine"
+    },
+    {
+        "value": 737,
+        "stddev": 456.713622890026,
+        "term1": "Narcan",
+        "term2": "Duragesic"
+    },
+    {
+        "value": 1230.25,
+        "stddev": 305.386503740206,
+        "term1": "Agranulocytosis",
+        "term2": "Myelosuppression"
+    },
+    {
+        "value": 593.5,
+        "stddev": 484.905832782682,
+        "term1": "Dysuria",
+        "term2": "Hemoptysis"
+    },
+    {
+        "value": 656.25,
+        "stddev": 294.2146325389,
+        "term1": "Vasculitis",
+        "term2": "Hemiplegia"
+    },
+    {
+        "value": 475,
+        "stddev": 287.225811282111,
+        "term1": "Sleeplessness",
+        "term2": "Dextran"
+    },
+    {
+        "value": 1307.75,
+        "stddev": 295.26979188532,
+        "term1": "Colchicine",
+        "term2": "Probenecid"
+    },
+    {
+        "value": 1187,
+        "stddev": 185.996415736075,
+        "term1": "Cirrhosis",
+        "term2": "Anemia"
+    },
+    {
+        "value": 439.5,
+        "stddev": 250.408333194671,
+        "term1": "Starvation",
+        "term2": "Mittelschmerz"
+    },
+    {
+        "value": 716.25,
+        "stddev": 146.577340222378,
+        "term1": "Cleocin",
+        "term2": "Rogaine"
+    },
+    {
+        "value": 1378.75,
+        "stddev": 38.6123900667476,
+        "term1": "Hepatitis",
+        "term2": "Tylenol"
+    },
+    {
+        "value": 239,
+        "stddev": 103.166532040838,
+        "term1": "Hernias",
+        "term2": "Earache"
+    },
+    {
+        "value": 452.5,
+        "stddev": 269.333127062627,
+        "term1": "Arthralgia",
+        "term2": "Atacand"
+    },
+    {
+        "value": 578.5,
+        "stddev": 463.572719933633,
+        "term1": "Goiter",
+        "term2": "Scleroderma"
+    },
+    {
+        "value": 1387.25,
+        "stddev": 99.6840843197482,
+        "term1": "Ataxia",
+        "term2": "Ethanol"
+    },
+    {
+        "value": 1270.25,
+        "stddev": 244.596777029734,
+        "term1": "zoonosis",
+        "term2": "Babesiosis"
+    },
+    {
+        "value": 827.75,
+        "stddev": 573.059842715692,
+        "term1": "Pertussis",
+        "term2": "Leprosy"
+    },
+    {
+        "value": 1350.25,
+        "stddev": 173.430821943506,
+        "term1": "Rhonchi",
+        "term2": "Rales"
+    },
+    {
+        "value": 622.75,
+        "stddev": 274.036950063308,
+        "term1": "Angina",
+        "term2": "Primatine"
+    },
+    {
+        "value": 1357.75,
+        "stddev": 106.899875272768,
+        "term1": "Atherosclerosis",
+        "term2": "Angina"
+    },
+    {
+        "value": 1294.5,
+        "stddev": 105.604608485299,
+        "term1": "Hepatitis",
+        "term2": "Hematemesis"
+    },
+    {
+        "value": 1189.25,
+        "stddev": 480.009288104581,
+        "term1": "Narcan",
+        "term2": "Morphine"
+    },
+    {
+        "value": 726.75,
+        "stddev": 105.265933077452,
+        "term1": "Menouria",
+        "term2": "Menophania"
+    },
+    {
+        "value": 947.25,
+        "stddev": 509.167539551898,
+        "term1": "Diarrhea",
+        "term2": "Colchicine"
+    },
+    {
+        "value": 1049.75,
+        "stddev": 427.921624443854,
+        "term1": "Myositis",
+        "term2": "Myopathy"
+    },
+    {
+        "value": 582,
+        "stddev": 285.174800195716,
+        "term1": "Bronchitis",
+        "term2": "Loperamide"
+    },
+    {
+        "value": 1061,
+        "stddev": 508.928940684912,
+        "term1": "Dysuria",
+        "term2": "Cipro"
+    },
+    {
+        "value": 1110.75,
+        "stddev": 359.966086365554,
+        "term1": "Levaquin",
+        "term2": "Avelox"
+    },
+    {
+        "value": 1394.75,
+        "stddev": 103.840823699866,
+        "term1": "Diabetes",
+        "term2": "Ketonuria"
+    },
+    {
+        "value": 1427.75,
+        "stddev": 99.5569351342905,
+        "term1": "Dehydration",
+        "term2": "Gastroenteritis"
+    },
+    {
+        "value": 845.5,
+        "stddev": 453.438345680351,
+        "term1": "Hyperacusis",
+        "term2": "Bleomycin"
+    },
+    {
+        "value": 717.5,
+        "stddev": 359.360079400407,
+        "term1": "Chloramphenicol",
+        "term2": "Ceftiaxone"
+    },
+    {
+        "value": 1122.25,
+        "stddev": 175.949566637716,
+        "term1": "Cefaclor",
+        "term2": "Cefoxitin"
+    },
+    {
+        "value": 688,
+        "stddev": 392.184480400062,
+        "term1": "Erythromycin",
+        "term2": "Lidocaine"
+    },
+    {
+        "value": 1107.75,
+        "stddev": 113.913344257817,
+        "term1": "Catatonia",
+        "term2": "Lethargy"
+    },
+    {
+        "value": 279.5,
+        "stddev": 76.4613191969203,
+        "term1": "Allergy.",
+        "term2": "Heartburn"
+    },
+    {
+        "value": 1399.75,
+        "stddev": 28.3004711385989,
+        "term1": "Polydipsia",
+        "term2": "Polyuria"
+    },
+    {
+        "value": 1142.75,
+        "stddev": 489.316104374258,
+        "term1": "Cirrhosis",
+        "term2": "Lipitor"
+    },
+    {
+        "value": 676.25,
+        "stddev": 505.685920310226,
+        "term1": "Stridor",
+        "term2": "Snoring"
+    },
+    {
+        "value": 895.5,
+        "stddev": 549.271335498222,
+        "term1": "Atenolol",
+        "term2": "Lasix"
+    },
+    {
+        "value": 815.5,
+        "stddev": 287.120764371603,
+        "term1": "Prostatism",
+        "term2": "Cipro"
+    },
+    {
+        "value": 1319.25,
+        "stddev": 106.952871240873,
+        "term1": "Photophobia",
+        "term2": "Meningism"
+    },
+    {
+        "value": 1299.25,
+        "stddev": 179.174728500794,
+        "term1": "Dehydration",
+        "term2": "Dysentery"
+    },
+    {
+        "value": 1420.5,
+        "stddev": 44.5308881564246,
+        "term1": "Enalapril",
+        "term2": "Lisinopril"
+    },
+    {
+        "value": 487,
+        "stddev": 335.557247972185,
+        "term1": "Reticulocytosis",
+        "term2": "Hematemesis"
+    },
+    {
+        "value": 806,
+        "stddev": 451.048408340686,
+        "term1": "Uremias",
+        "term2": "Hypersomnolence"
+    },
+    {
+        "value": 756,
+        "stddev": 465.608562349677,
+        "term1": "Myopathy",
+        "term2": "Trembling"
+    },
+    {
+        "value": 582,
+        "stddev": 285.008771794834,
+        "term1": "Uremias",
+        "term2": "Lithobid"
+    },
+    {
+        "value": 1243.5,
+        "stddev": 200.094144508695,
+        "term1": "Ketonuria",
+        "term2": "Insulin"
+    },
+    {
+        "value": 867.5,
+        "stddev": 387.112817319878,
+        "term1": "Pyorrhea",
+        "term2": "Prostatism"
+    },
+    {
+        "value": 932,
+        "stddev": 440.489878809188,
+        "term1": "Blastomycoses",
+        "term2": "Seizures"
+    },
+    {
+        "value": 807.5,
+        "stddev": 202.768340724088,
+        "term1": "Candidiasis",
+        "term2": "Prostatorrhea"
+    },
+    {
+        "value": 1344.75,
+        "stddev": 200.058949645682,
+        "term1": "Heparin",
+        "term2": "Protamine Sulfate"
+    },
+    {
+        "value": 1048.25,
+        "stddev": 251.177725923299,
+        "term1": "Cardiomyopathy",
+        "term2": "Rales"
+    },
+    {
+        "value": 958.5,
+        "stddev": 352.934838178381,
+        "term1": "Mycosis",
+        "term2": "Pain"
+    },
+    {
+        "value": 319.25,
+        "stddev": 107.270297224659,
+        "term1": "Proteinuria",
+        "term2": "Rogaine"
+    },
+    {
+        "value": 1364,
+        "stddev": 86.9712596206356,
+        "term1": "Angina",
+        "term2": "Dyspnea"
+    },
+    {
+        "value": 698.5,
+        "stddev": 365.24375422449,
+        "term1": "Bacteremia",
+        "term2": "Amauroses"
+    },
+    {
+        "value": 1425.5,
+        "stddev": 61.4573022512378,
+        "term1": "Dyslipidemia",
+        "term2": "Lipitor"
+    },
+    {
+        "value": 517,
+        "stddev": 191.126485169726,
+        "term1": "Uremias",
+        "term2": "Emaciation"
+    },
+    {
+        "value": 326.25,
+        "stddev": 108.29396720655,
+        "term1": "Osteoporosis",
+        "term2": "Cardiomyopathy"
+    },
+    {
+        "value": 1368.75,
+        "stddev": 179.485143303469,
+        "term1": "Hyperemesis",
+        "term2": "Nausea"
+    },
+    {
+        "value": 764.5,
+        "stddev": 441.607291606468,
+        "term1": "Parasitemia",
+        "term2": "Cardialgia"
+    },
+    {
+        "value": 1126.75,
+        "stddev": 564.560817509209,
+        "term1": "Neuropathy",
+        "term2": "Insulin"
+    },
+    {
+        "value": 1151.75,
+        "stddev": 617.278097780895,
+        "term1": "Heartburn",
+        "term2": "Waterbrash"
+    },
+    {
+        "value": 299.5,
+        "stddev": 115.81162866195,
+        "term1": "Seasickness",
+        "term2": "Clubbing"
+    },
+    {
+        "value": 1550.5,
+        "stddev": 105.922927955503,
+        "term1": "Iron",
+        "term2": "Iron"
+    },
+    {
+        "value": 345,
+        "stddev": 273.310568157667,
+        "term1": "Cholelithiasis",
+        "term2": "Bronchitis"
+    },
+    {
+        "value": 564.25,
+        "stddev": 320.326265964355,
+        "term1": "Keflex",
+        "term2": "Xenical"
+    },
+    {
+        "value": 1214,
+        "stddev": 314.852346346665,
+        "term1": "Brucellosis",
+        "term2": "zoonosis"
+    },
+    {
+        "value": 1165.5,
+        "stddev": 612.442378241959,
+        "term1": "Albuterol",
+        "term2": "Singulair"
+    },
+    {
+        "value": 1028.75,
+        "stddev": 400.759591276366,
+        "term1": "Bacitracin",
+        "term2": "Vancocin"
+    },
+    {
+        "value": 1152,
+        "stddev": 514.239243932238,
+        "term1": "Hyperinsulinism",
+        "term2": "Diabetes"
+    },
+    {
+        "value": 492.75,
+        "stddev": 265.055182933668,
+        "term1": "Haldol",
+        "term2": "Bacitracin"
+    },
+    {
+        "value": 1182.25,
+        "stddev": 247.816296208838,
+        "term1": "Atenolol",
+        "term2": "Toprol-XR"
+    },
+    {
+        "value": 1427.75,
+        "stddev": 93.7563331194219,
+        "term1": "Starvation",
+        "term2": "Anorexia"
+    },
+    {
+        "value": 553.5,
+        "stddev": 526.536165266293,
+        "term1": "Angina",
+        "term2": "Diarrhea"
+    },
+    {
+        "value": 857.5,
+        "stddev": 202.462342177502,
+        "term1": "Sodium Bicarb",
+        "term2": "Nolvadex"
+    },
+    {
+        "value": 1093.5,
+        "stddev": 223.394270293578,
+        "term1": "Lasix",
+        "term2": "Mannitol"
+    },
+    {
+        "value": 856.25,
+        "stddev": 516.90642286588,
+        "term1": "Uremias",
+        "term2": "Pyorrhea"
+    },
+    {
+        "value": 779.75,
+        "stddev": 475.129017566106,
+        "term1": "Incontinence",
+        "term2": "Lasix"
+    },
+    {
+        "value": 749,
+        "stddev": 89.5805038312839,
+        "term1": "Plavix",
+        "term2": "Foradil"
+    },
+    {
+        "value": 1380.25,
+        "stddev": 177.150359864156,
+        "term1": "Thromboembolism",
+        "term2": "Heparin"
+    },
+    {
+        "value": 411.25,
+        "stddev": 249.628223564564,
+        "term1": "Exophthalmos",
+        "term2": "Prostatism"
+    },
+    {
+        "value": 300,
+        "stddev": 126.630696647114,
+        "term1": "Uremias",
+        "term2": "Aspirin"
+    },
+    {
+        "value": 746,
+        "stddev": 281.333728277764,
+        "term1": "Sinemet",
+        "term2": "Gifulvin"
+    },
+    {
+        "value": 829.5,
+        "stddev": 563.88799124176,
+        "term1": "Allergy.",
+        "term2": "Bacitracin"
+    },
+    {
+        "value": 379.75,
+        "stddev": 241.836549484702,
+        "term1": "Hernia",
+        "term2": "Goiter"
+    },
+    {
+        "value": 1028.75,
+        "stddev": 296.397677678711,
+        "term1": "Dehydration",
+        "term2": "Syncope"
+    },
+    {
+        "value": 305.75,
+        "stddev": 175.298554852381,
+        "term1": "Pyorrhea",
+        "term2": "Snoring"
+    },
+    {
+        "value": 329.5,
+        "stddev": 93.2398341196866,
+        "term1": "Reticulocytosis",
+        "term2": "Coumadin"
+    },
+    {
+        "value": 527.25,
+        "stddev": 584.453804846884,
+        "term1": "Fish-mouthing",
+        "term2": "Polyuria"
+    },
+    {
+        "value": 1340,
+        "stddev": 154.542335084382,
+        "term1": "Arthritis",
+        "term2": "Rheumatism"
+    },
+    {
+        "value": 446.5,
+        "stddev": 283.111874235846,
+        "term1": "Sciatica",
+        "term2": "Fosamax"
+    },
+    {
+        "value": 1072.5,
+        "stddev": 466.047565526667,
+        "term1": "Deafness",
+        "term2": "Otitis"
+    },
+    {
+        "value": 1452,
+        "stddev": 107.718769642683,
+        "term1": "Infertility",
+        "term2": "Anovulation"
+    },
+    {
+        "value": 916,
+        "stddev": 278.022780841187,
+        "term1": "Bronchitis",
+        "term2": "Serevent"
+    },
+    {
+        "value": 1272.5,
+        "stddev": 265.882806263712,
+        "term1": "Mycosis",
+        "term2": "Histoplasmosis"
+    },
+    {
+        "value": 787.25,
+        "stddev": 10.9962114688045,
+        "term1": "Vivarin",
+        "term2": "Theophyllin"
+    },
+    {
+        "value": 681.5,
+        "stddev": 294.401653075069,
+        "term1": "Sacrocoxalgia",
+        "term2": "Waterbrash"
+    },
+    {
+        "value": 864.5,
+        "stddev": 90.4451951920794,
+        "term1": "Xenical",
+        "term2": "Glucophage"
+    },
+    {
+        "value": 1043,
+        "stddev": 544.887144278519,
+        "term1": "Cataracts",
+        "term2": "Diabetes"
+    },
+    {
+        "value": 1070.25,
+        "stddev": 541.415659790762,
+        "term1": "Overnutrition",
+        "term2": "Malnutrition"
+    },
+    {
+        "value": 1386.75,
+        "stddev": 31.6478013980961,
+        "term1": "Convulsion",
+        "term2": "Epilepsy"
+    },
+    {
+        "value": 420,
+        "stddev": 268.951048829832,
+        "term1": "Cyanosis",
+        "term2": "Folic Acid"
+    },
+    {
+        "value": 411.5,
+        "stddev": 294.351830298369,
+        "term1": "Infertility",
+        "term2": "Blepharospasm"
+    },
+    {
+        "value": 1471.75,
+        "stddev": 59.1347331664451,
+        "term1": "Neuropathy",
+        "term2": "Diabetes"
+    },
+    {
+        "value": 666.75,
+        "stddev": 542.11337990006,
+        "term1": "Erythromycin",
+        "term2": "Allopurinol"
+    },
+    {
+        "value": 1511,
+        "stddev": 121.701821405159,
+        "term1": "Heartburn",
+        "term2": "Protonix"
+    },
+    {
+        "value": 1389.75,
+        "stddev": 208.327266578333,
+        "term1": "Pallor",
+        "term2": "Weakness"
+    },
+    {
+        "value": 732.75,
+        "stddev": 592.524190786053,
+        "term1": "Hyperextension",
+        "term2": "Lopid"
+    },
+    {
+        "value": 1473,
+        "stddev": 70.057119552548,
+        "term1": "Hypothyroidism",
+        "term2": "Synthroid"
+    },
+    {
+        "value": 1044.25,
+        "stddev": 479.274712456228,
+        "term1": "Grimaces",
+        "term2": "Hemiballismus"
+    },
+    {
+        "value": 597.5,
+        "stddev": 391.437095840443,
+        "term1": "Dextran",
+        "term2": "amphetamine"
+    },
+    {
+        "value": 1157,
+        "stddev": 379.65335065908,
+        "term1": "Dysentery",
+        "term2": "Dizziness"
+    },
+    {
+        "value": 1261.75,
+        "stddev": 212.991979504707,
+        "term1": "Exophthalmos",
+        "term2": "Synthroid"
+    },
+    {
+        "value": 1399.5,
+        "stddev": 169.810678894664,
+        "term1": "Infertility",
+        "term2": "Anovulation"
+    },
+    {
+        "value": 1398.25,
+        "stddev": 123.064684888341,
+        "term1": "Dizziness",
+        "term2": "Vertigo"
+    },
+    {
+        "value": 1301.25,
+        "stddev": 91.3359184548992,
+        "term1": "Dyslipidemia",
+        "term2": "Angina"
+    },
+    {
+        "value": 718.25,
+        "stddev": 356.597228443146,
+        "term1": "Giardiasis",
+        "term2": "Avitaminoses"
+    },
+    {
+        "value": 1424,
+        "stddev": 145.590750621963,
+        "term1": "Goiter",
+        "term2": "Hypothyroidism"
+    },
+    {
+        "value": 1253.25,
+        "stddev": 292.839404224682,
+        "term1": "Paresis",
+        "term2": "Paraparesis"
+    },
+    {
+        "value": 392.5,
+        "stddev": 279.769548021224,
+        "term1": "Seizures",
+        "term2": "Aloe Vera"
+    },
+    {
+        "value": 1350.5,
+        "stddev": 217.492528607306,
+        "term1": "Zoloft",
+        "term2": "Prozac"
+    },
+    {
+        "value": 276.5,
+        "stddev": 84.2318229649578,
+        "term1": "Peritonitis",
+        "term2": "Ataxia"
+    },
+    {
+        "value": 850.25,
+        "stddev": 418.292859927906,
+        "term1": "Actonel",
+        "term2": "Fosamax"
+    },
+    {
+        "value": 670,
+        "stddev": 242.744035285456,
+        "term1": "Arthralgia",
+        "term2": "Chyluria"
+    },
+    {
+        "value": 511.5,
+        "stddev": 477.503577648028,
+        "term1": "Clubbing",
+        "term2": "Constipation"
+    },
+    {
+        "value": 1329.75,
+        "stddev": 176.051838956598,
+        "term1": "Plavix",
+        "term2": "Lipitor"
+    },
+    {
+        "value": 752.25,
+        "stddev": 82.0543519057135,
+        "term1": "Hematocolpometra",
+        "term2": "Pallor"
+    },
+    {
+        "value": 727.25,
+        "stddev": 189.823382823789,
+        "term1": "Primatine",
+        "term2": "Levophed"
+    },
+    {
+        "value": 1023.5,
+        "stddev": 530.503220222711,
+        "term1": "Constipation",
+        "term2": "Diarrhea"
+    },
+    {
+        "value": 722,
+        "stddev": 244.036882458369,
+        "term1": "Leukopenia",
+        "term2": "Pneumonia"
+    },
+    {
+        "value": 1256,
+        "stddev": 140.463518395347,
+        "term1": "Angina",
+        "term2": "Toprol-XR"
+    },
+    {
+        "value": 249,
+        "stddev": 95.9826373187707,
+        "term1": "Cataracts",
+        "term2": "Narcan"
+    },
+    {
+        "value": 514.25,
+        "stddev": 300.492235063293,
+        "term1": "Beconase",
+        "term2": "Cardizem"
+    },
+    {
+        "value": 1115,
+        "stddev": 176.357591274093,
+        "term1": "Agitation",
+        "term2": "Morphine"
+    },
+    {
+        "value": 1208.5,
+        "stddev": 123.273408865551,
+        "term1": "Anosmia",
+        "term2": "Aphonia"
+    },
+    {
+        "value": 943.5,
+        "stddev": 387.723698871589,
+        "term1": "Drooling",
+        "term2": "Sinemet"
+    },
+    {
+        "value": 1291.5,
+        "stddev": 174.200076540358,
+        "term1": "Syncope",
+        "term2": "Weakness"
+    },
+    {
+        "value": 1298.25,
+        "stddev": 81.9323908272343,
+        "term1": "Regurgitation",
+        "term2": "Heartburn"
+    },
+    {
+        "value": 899.5,
+        "stddev": 292.625471664151,
+        "term1": "Activase",
+        "term2": "Streptase"
+    },
+    {
+        "value": 720.5,
+        "stddev": 183.154761517867,
+        "term1": "Atacand",
+        "term2": "Avapro"
+    },
+    {
+        "value": 343.5,
+        "stddev": 313.972928769345,
+        "term1": "Acne",
+        "term2": "Ataxia"
+    },
+    {
+        "value": 753.5,
+        "stddev": 575.191852051702,
+        "term1": "Catatonia",
+        "term2": "Narcan"
+    },
+    {
+        "value": 1277,
+        "stddev": 228.207507910381,
+        "term1": "Arthralgia",
+        "term2": "Tylenol"
+    },
+    {
+        "value": 261,
+        "stddev": 155.220273589932,
+        "term1": "Blepharospasm",
+        "term2": "Bedwetting"
+    },
+    {
+        "value": 1168.5,
+        "stddev": 351.102549122048,
+        "term1": "Photopsia",
+        "term2": "Headache"
+    },
+    {
+        "value": 1483.25,
+        "stddev": 121.472562059641,
+        "term1": "Meningitis",
+        "term2": "Headache"
+    },
+    {
+        "value": 1069.25,
+        "stddev": 278.730903680713,
+        "term1": "Glyburide",
+        "term2": "Avandia"
+    },
+    {
+        "value": 1179,
+        "stddev": 182.893411581719,
+        "term1": "Atherosclerosis",
+        "term2": "Cardialgia"
+    },
+    {
+        "value": 431.25,
+        "stddev": 351.04831101526,
+        "term1": "Anosmia",
+        "term2": "Catch"
+    },
+    {
+        "value": 1456.5,
+        "stddev": 92.3778472723124,
+        "term1": "HYPEREMESIS",
+        "term2": "Zofran"
+    },
+    {
+        "value": 1111.5,
+        "stddev": 506.852049418763,
+        "term1": "Earache",
+        "term2": "Dysacusis"
+    },
+    {
+        "value": 1475.5,
+        "stddev": 65.8002026339332,
+        "term1": "HYPEREMESIS",
+        "term2": "Vomiting"
+    },
+    {
+        "value": 717.75,
+        "stddev": 450.888289934436,
+        "term1": "Thrombophilias",
+        "term2": "Hemoptysis"
+    },
+    {
+        "value": 560,
+        "stddev": 215.646315371567,
+        "term1": "Heartburn",
+        "term2": "Eructation"
+    },
+    {
+        "value": 978.75,
+        "stddev": 411.284471706223,
+        "term1": "Obesity",
+        "term2": "Xenical"
+    },
+    {
+        "value": 601.25,
+        "stddev": 262.489841073263,
+        "term1": "Glucotrol",
+        "term2": "Motrin"
+    },
+    {
+        "value": 416,
+        "stddev": 304.161141502329,
+        "term1": "Atherosclerosis",
+        "term2": "Influenzae"
+    },
+    {
+        "value": 505,
+        "stddev": 348.668897379735,
+        "term1": "Scapulalgia",
+        "term2": "Halitosis"
+    },
+    {
+        "value": 1370.5,
+        "stddev": 144.981608028973,
+        "term1": "Hepatomegaly",
+        "term2": "Hepatosplenomegaly"
+    },
+    {
+        "value": 1252.25,
+        "stddev": 152.226530758165,
+        "term1": "Hypersomnolence",
+        "term2": "Snoring"
+    },
+    {
+        "value": 1044.75,
+        "stddev": 339.780689072623,
+        "term1": "Prostatorrhea",
+        "term2": "Cipro"
+    },
+    {
+        "value": 873,
+        "stddev": 481.244913393032,
+        "term1": "Flatulence",
+        "term2": "Halitosis"
+    },
+    {
+        "value": 565.75,
+        "stddev": 277.251239852954,
+        "term1": "Urolithiasis",
+        "term2": "Amyloidosis"
+    },
+    {
+        "value": 604.75,
+        "stddev": 214.279218155502,
+        "term1": "Zovirax",
+        "term2": "Paxil"
+    },
+    {
+        "value": 673.75,
+        "stddev": 358.827140370773,
+        "term1": "Flushing",
+        "term2": "Iron"
+    },
+    {
+        "value": 448.5,
+        "stddev": 239.118520124784,
+        "term1": "Mittelschmerz",
+        "term2": "Aphonia"
+    },
+    {
+        "value": 857.25,
+        "stddev": 481.625286573148,
+        "term1": "Hemochromatosis",
+        "term2": "Arthritis"
+    },
+    {
+        "value": 529.75,
+        "stddev": 316.237647980123,
+        "term1": "Clubbing",
+        "term2": "Vitamin K"
+    },
+    {
+        "value": 292.25,
+        "stddev": 135.603281671204,
+        "term1": "Mittelschmerz",
+        "term2": "Toothache"
+    },
+    {
+        "value": 1249,
+        "stddev": 295.460093188008,
+        "term1": "Thirsty",
+        "term2": "Hunger"
+    },
+    {
+        "value": 1054.25,
+        "stddev": 238.014530368771,
+        "term1": "Sciatica",
+        "term2": "Motrin"
+    },
+    {
+        "value": 1066.5,
+        "stddev": 301.671454842295,
+        "term1": "Bronchitis",
+        "term2": "Pneumonia"
+    },
+    {
+        "value": 774.75,
+        "stddev": 446.02344856147,
+        "term1": "Candidiasis",
+        "term2": "Medrol"
+    },
+    {
+        "value": 1073.25,
+        "stddev": 156.303924028371,
+        "term1": "Digoxin",
+        "term2": "Cardizem"
+    },
+    {
+        "value": 1034,
+        "stddev": 251.380190150298,
+        "term1": "Xanax",
+        "term2": "Ativan"
+    },
+    {
+        "value": 919.5,
+        "stddev": 441.771056845813,
+        "term1": "Dyspnea",
+        "term2": "Medrol"
+    },
+    {
+        "value": 1033.75,
+        "stddev": 401.292391322504,
+        "term1": "Hypothyroidism",
+        "term2": "comatose"
+    },
+    {
+        "value": 1099.5,
+        "stddev": 381.825876545841,
+        "term1": "Diabetes",
+        "term2": "Prednisolone"
+    },
+    {
+        "value": 519.25,
+        "stddev": 433.979550209454,
+        "term1": "Thromboembolism",
+        "term2": "Dermatitis"
+    },
+    {
+        "value": 333,
+        "stddev": 200.69379661564,
+        "term1": "Pancreatitis",
+        "term2": "Flatulence"
+    },
+    {
+        "value": 761,
+        "stddev": 498.137196630272,
+        "term1": "Epilepsy",
+        "term2": "Carbatrol"
+    },
+    {
+        "value": 246.25,
+        "stddev": 164.495947265173,
+        "term1": "Clubbing",
+        "term2": "Garlic"
+    },
+    {
+        "value": 379,
+        "stddev": 189.108434502536,
+        "term1": "Rheumatism",
+        "term2": "Sleeplessness"
+    },
+    {
+        "value": 720.5,
+        "stddev": 342.100862319872,
+        "term1": "Rheumatism",
+        "term2": "Prednisolone"
+    },
+    {
+        "value": 1279.25,
+        "stddev": 154.48705447383,
+        "term1": "Diabetes",
+        "term2": "Hyperglycemia"
+    },
+    {
+        "value": 664.5,
+        "stddev": 139.90592077059,
+        "term1": "Hemicrania",
+        "term2": "Nitroglycerine"
+    },
+    {
+        "value": 1148.5,
+        "stddev": 194.51221041364,
+        "term1": "Thromboembolism",
+        "term2": "Fibrillation"
+    },
+    {
+        "value": 987.75,
+        "stddev": 445.755818806665,
+        "term1": "Hemoptysis",
+        "term2": "Coumadin"
+    },
+    {
+        "value": 771,
+        "stddev": 511.860658122241,
+        "term1": "Osteoporosis",
+        "term2": "Actonel"
+    },
+    {
+        "value": 494.75,
+        "stddev": 212.303831022115,
+        "term1": "Angina",
+        "term2": "Activase"
+    },
+    {
+        "value": 1231.25,
+        "stddev": 240.741043447103,
+        "term1": "Dizziness",
+        "term2": "Fatigue"
+    },
+    {
+        "value": 543.25,
+        "stddev": 463.69053976404,
+        "term1": "Ataxia",
+        "term2": "Constipation"
+    },
+    {
+        "value": 1185.75,
+        "stddev": 366.862712741429,
+        "term1": "Mycosis",
+        "term2": "Coccidioses"
+    },
+    {
+        "value": 823.75,
+        "stddev": 477.150133605766,
+        "term1": "Sciatica",
+        "term2": "Underexertion"
+    },
+    {
+        "value": 884.5,
+        "stddev": 431.234275075625,
+        "term1": "Catapres",
+        "term2": "Toprol-XR"
+    },
+    {
+        "value": 753.75,
+        "stddev": 140.027080714172,
+        "term1": "Lisinopril",
+        "term2": "Altace"
+    },
+    {
+        "value": 879.75,
+        "stddev": 359.602905994932,
+        "term1": "Appendicitis",
+        "term2": "Cefazolin"
+    },
+    {
+        "value": 1281.75,
+        "stddev": 83.2601345182675,
+        "term1": "Ceftiaxone",
+        "term2": "Cefoxitin"
+    },
+    {
+        "value": 544.5,
+        "stddev": 198.387667627468,
+        "term1": "Hemicrania",
+        "term2": "Tylenol"
+    },
+    {
+        "value": 1322,
+        "stddev": 165.684439019883,
+        "term1": "Plavix",
+        "term2": "Coumadin"
+    },
+    {
+        "value": 1409.75,
+        "stddev": 88.1981670255492,
+        "term1": "Gastroenteritis",
+        "term2": "Dysentery"
+    },
+    {
+        "value": 747.75,
+        "stddev": 470.555965498969,
+        "term1": "Epilepsy",
+        "term2": "Hepatomegaly"
+    },
+    {
+        "value": 957.25,
+        "stddev": 538.903439093375,
+        "term1": "Hypoproteinemia",
+        "term2": "Hunger"
+    },
+    {
+        "value": 843.5,
+        "stddev": 288.774998917843,
+        "term1": "Dyspnea",
+        "term2": "Serevent"
+    },
+    {
+        "value": 652,
+        "stddev": 171.786689433922,
+        "term1": "Prilosec",
+        "term2": "Glucophage"
+    },
+    {
+        "value": 773,
+        "stddev": 315.105273414034,
+        "term1": "Pneumonia",
+        "term2": "Meningitis"
+    },
+    {
+        "value": 1180.25,
+        "stddev": 431.803485395845,
+        "term1": "Medrol",
+        "term2": "Prednisolone"
+    },
+    {
+        "value": 971.25,
+        "stddev": 425.262565951907,
+        "term1": "Ischemias",
+        "term2": "Lipitor"
+    },
+    {
+        "value": 774.75,
+        "stddev": 374.331737901023,
+        "term1": "Metatarsalgia",
+        "term2": "Catapres"
+    },
+    {
+        "value": 732.25,
+        "stddev": 348.71800928544,
+        "term1": "Scapulalgia",
+        "term2": "Nitroglycerine"
+    },
+    {
+        "value": 1302.75,
+        "stddev": 193.375929215608,
+        "term1": "Mycosis",
+        "term2": "Blastomycoses"
+    },
+    {
+        "value": 1479.25,
+        "stddev": 93.6709666865886,
+        "term1": "Nausea",
+        "term2": "Zofran"
+    },
+    {
+        "value": 726.25,
+        "stddev": 430.795678560808,
+        "term1": "Weakness",
+        "term2": "Zocor"
+    },
+    {
+        "value": 1303,
+        "stddev": 231.405848384752,
+        "term1": "Carboplatin",
+        "term2": "Cisplatin"
+    },
+    {
+        "value": 1225.75,
+        "stddev": 264.649926002887,
+        "term1": "Neuropathy",
+        "term2": "Syphilis"
+    },
+    {
+        "value": 1310,
+        "stddev": 184.61672008064,
+        "term1": "Syphilis",
+        "term2": "Penicillin"
+    },
+    {
+        "value": 1064.25,
+        "stddev": 494.80324372421,
+        "term1": "Isosorbide",
+        "term2": "Toprol-XR"
+    },
+    {
+        "value": 1109.5,
+        "stddev": 394.537281719569,
+        "term1": "Doxycyline",
+        "term2": "Penicillin"
+    },
+    {
+        "value": 482,
+        "stddev": 229.229142998878,
+        "term1": "Uremias",
+        "term2": "Motrin"
+    },
+    {
+        "value": 839,
+        "stddev": 457.257768295594,
+        "term1": "Rales",
+        "term2": "Cyanosis"
+    },
+    {
+        "value": 489.5,
+        "stddev": 400.167048451852,
+        "term1": "Hyperextension",
+        "term2": "Hunger"
+    },
+    {
+        "value": 448.25,
+        "stddev": 229.725016777306,
+        "term1": "Mittelschmerz",
+        "term2": "Actonel"
+    },
+    {
+        "value": 345.5,
+        "stddev": 129.322594055847,
+        "term1": "Pancreatitis",
+        "term2": "Cataract"
+    },
+    {
+        "value": 318.25,
+        "stddev": 110.261431758042,
+        "term1": "Pancreatitis",
+        "term2": "Maculopapule"
+    },
+    {
+        "value": 360.25,
+        "stddev": 112.158741671496,
+        "term1": "Waterbrash",
+        "term2": "Anoxemia"
+    },
+    {
+        "value": 1325.5,
+        "stddev": 119.912468075676,
+        "term1": "Thromboembolism",
+        "term2": "Dyspnea"
+    },
+    {
+        "value": 1350,
+        "stddev": 182.871539611827,
+        "term1": "Hepatitis",
+        "term2": "Hepatomegaly"
+    },
+    {
+        "value": 846.75,
+        "stddev": 407.135829095565,
+        "term1": "Hyperacusis",
+        "term2": "Aphonia"
+    },
+    {
+        "value": 509.25,
+        "stddev": 200.805668910683,
+        "term1": "Thrombocytopenia",
+        "term2": "Heartburn"
+    },
+    {
+        "value": 1263,
+        "stddev": 184.208215524353,
+        "term1": "Appendicitis",
+        "term2": "Peritonitis"
+    },
+    {
+        "value": 1058.5,
+        "stddev": 378.240223491192,
+        "term1": "Opisthotonus",
+        "term2": "Seizures"
+    },
+    {
+        "value": 522,
+        "stddev": 194.999145297272,
+        "term1": "Dobutamine",
+        "term2": "Oxycontin"
+    },
+    {
+        "value": 742,
+        "stddev": 431.274854356245,
+        "term1": "Metatarsalgia",
+        "term2": "Colchicine"
+    },
+    {
+        "value": 528,
+        "stddev": 195.954076252575,
+        "term1": "Plendil",
+        "term2": "Norvasc"
+    },
+    {
+        "value": 1174.5,
+        "stddev": 301.623938042059,
+        "term1": "Bandemia",
+        "term2": "Granulocytosis"
+    },
+    {
+        "value": 1121,
+        "stddev": 100.608150763246,
+        "term1": "Levophed",
+        "term2": "Propofol"
+    },
+    {
+        "value": 650.75,
+        "stddev": 351.569220306139,
+        "term1": "Chills",
+        "term2": "Snoring"
+    },
+    {
+        "value": 531,
+        "stddev": 263.607030761068,
+        "term1": "Camelpox",
+        "term2": "Echinacea"
+    },
+    {
+        "value": 654.5,
+        "stddev": 225.751338128186,
+        "term1": "Overnutrition",
+        "term2": "Sandimmune"
+    },
+    {
+        "value": 1036.5,
+        "stddev": 337.54061484015,
+        "term1": "Leukopenia",
+        "term2": "Bleomycin"
+    },
+    {
+        "value": 1071.25,
+        "stddev": 227.769437516684,
+        "term1": "Synthroid",
+        "term2": "Armor Thyroid"
+    },
+    {
+        "value": 546.25,
+        "stddev": 145.518326451802,
+        "term1": "Atherosclerosis",
+        "term2": "Urethrorrhea"
+    },
+    {
+        "value": 929.75,
+        "stddev": 463.778233641899,
+        "term1": "Fibrillation",
+        "term2": "Synthroid"
+    },
+    {
+        "value": 603.75,
+        "stddev": 201.703371315405,
+        "term1": "Pyorrhea",
+        "term2": "Zovirax"
+    },
+    {
+        "value": 706.5,
+        "stddev": 188.344542439293,
+        "term1": "Albenza",
+        "term2": "Vermox"
+    },
+    {
+        "value": 765.75,
+        "stddev": 476.705621951325,
+        "term1": "Thrombophilias",
+        "term2": "Coumadin"
+    },
+    {
+        "value": 455,
+        "stddev": 241.529846326839,
+        "term1": "Atherosclerosis",
+        "term2": "Toothache"
+    },
+    {
+        "value": 917,
+        "stddev": 482.104414693193,
+        "term1": "Clonus",
+        "term2": "Spasm"
+    },
+    {
+        "value": 884.75,
+        "stddev": 379.057053753126,
+        "term1": "Pyorrhea",
+        "term2": "Nephritis"
+    },
+    {
+        "value": 1064.5,
+        "stddev": 521.78699357752,
+        "term1": "Dyspnea",
+        "term2": "Narcan"
+    },
+    {
+        "value": 864.75,
+        "stddev": 440.820730758737,
+        "term1": "Parasitemia",
+        "term2": "Medrol"
+    },
+    {
+        "value": 297.5,
+        "stddev": 66.7957084449792,
+        "term1": "Brucellosis",
+        "term2": "Narcan"
+    },
+    {
+        "value": 903.75,
+        "stddev": 329.629463691178,
+        "term1": "Dysuria",
+        "term2": "Urethrorrhea"
+    },
+    {
+        "value": 1199.25,
+        "stddev": 247.532321121909,
+        "term1": "Thalassemia",
+        "term2": "Iron"
+    },
+    {
+        "value": 869.5,
+        "stddev": 596.671601469351,
+        "term1": "Tuberculosis",
+        "term2": "Pallor"
+    },
+    {
+        "value": 972.75,
+        "stddev": 504.586546920678,
+        "term1": "Nitroglycerine",
+        "term2": "Toprol-XR"
+    },
+    {
+        "value": 416.25,
+        "stddev": 355.010211120751,
+        "term1": "Allergy.",
+        "term2": "Meningism"
+    },
+    {
+        "value": 564,
+        "stddev": 264.519690508413,
+        "term1": "Hyperoxia",
+        "term2": "Xenical"
+    },
+    {
+        "value": 508,
+        "stddev": 414.498090063955,
+        "term1": "Constipation",
+        "term2": "Cardizem"
+    },
+    {
+        "value": 1161.25,
+        "stddev": 269.323071174132,
+        "term1": "Candidiasis",
+        "term2": "Mycosis"
+    },
+    {
+        "value": 1119.75,
+        "stddev": 451.655750175581,
+        "term1": "Zocor",
+        "term2": "Fish Oil"
+    },
+    {
+        "value": 1099.5,
+        "stddev": 507.294457555636,
+        "term1": "comatose",
+        "term2": "Anoxemia"
+    },
+    {
+        "value": 1128.25,
+        "stddev": 163.701710437002,
+        "term1": "Angina",
+        "term2": "Cardialgia"
+    },
+    {
+        "value": 438.75,
+        "stddev": 314.167020335787,
+        "term1": "Deafness",
+        "term2": "Blepharospasm"
+    },
+    {
+        "value": 438.75,
+        "stddev": 253.180271743278,
+        "term1": "Vasculitis",
+        "term2": "Convulsion"
+    },
+    {
+        "value": 342.25,
+        "stddev": 149.24113597352,
+        "term1": "Syncope",
+        "term2": "Xanax"
+    },
+    {
+        "value": 404.75,
+        "stddev": 297.548175371093,
+        "term1": "Gonorrhea",
+        "term2": "Xenical"
+    },
+    {
+        "value": 446,
+        "stddev": 255.085606545463,
+        "term1": "Hyperoxia",
+        "term2": "Xenical"
+    },
+    {
+        "value": 1303.75,
+        "stddev": 175.397405910122,
+        "term1": "Schistosomiasis",
+        "term2": "Parasitemia"
+    },
+    {
+        "value": 1436,
+        "stddev": 50.8789412887755,
+        "term1": "Lipitor",
+        "term2": "Zocor"
+    },
+    {
+        "value": 221,
+        "stddev": 112.933608815091,
+        "term1": "Snoring",
+        "term2": "Welts"
+    },
+    {
+        "value": 444.75,
+        "stddev": 279.264957820824,
+        "term1": "Anoxemia",
+        "term2": "Ataxia"
+    },
+    {
+        "value": 330.25,
+        "stddev": 376.729235216311,
+        "term1": "comatose",
+        "term2": "Cataracts"
+    },
+    {
+        "value": 652.25,
+        "stddev": 202.699079096741,
+        "term1": "Wellbutrin",
+        "term2": "Endep"
+    },
+    {
+        "value": 391,
+        "stddev": 274.302752447,
+        "term1": "Anosmia",
+        "term2": "Constipation"
+    },
+    {
+        "value": 1002.25,
+        "stddev": 440.437188105939,
+        "term1": "Headache",
+        "term2": "Flushing"
+    },
+    {
+        "value": 685.25,
+        "stddev": 407.588333984181,
+        "term1": "Bandemia",
+        "term2": "Nausea"
+    },
+    {
+        "value": 296.25,
+        "stddev": 126.212453162647,
+        "term1": "Bleomycin",
+        "term2": "Antabuse"
+    },
+    {
+        "value": 770.75,
+        "stddev": 560.676005669347,
+        "term1": "Avitaminoses",
+        "term2": "Starvation"
+    },
+    {
+        "value": 550,
+        "stddev": 340.858719510983,
+        "term1": "Mycosis",
+        "term2": "Medrol"
+    },
+    {
+        "value": 1188.75,
+        "stddev": 237.390501073653,
+        "term1": "Polyarthritides",
+        "term2": "Arthralgia"
+    },
+    {
+        "value": 1287.25,
+        "stddev": 193.980024744817,
+        "term1": "Cardiomyopathy",
+        "term2": "Angina"
+    },
+    {
+        "value": 1092.75,
+        "stddev": 358.351201104912,
+        "term1": "Cirrhosis",
+        "term2": "Zocor"
+    },
+    {
+        "value": 1429.5,
+        "stddev": 125.969573045769,
+        "term1": "Hunger",
+        "term2": "Starvation"
+    },
+    {
+        "value": 1197.25,
+        "stddev": 241.777273539098,
+        "term1": "Hypothyroidism",
+        "term2": "comatose"
+    },
+    {
+        "value": 1059,
+        "stddev": 376.19764309026,
+        "term1": "Hyperoxia",
+        "term2": "Anoxemia"
+    },
+    {
+        "value": 1363,
+        "stddev": 78.6256955454131,
+        "term1": "Ischemias",
+        "term2": "Isosorbide"
+    },
+    {
+        "value": 460.75,
+        "stddev": 401.904943156132,
+        "term1": "Anovulation",
+        "term2": "Torticollis"
+    },
+    {
+        "value": 1338.5,
+        "stddev": 160.271644404118,
+        "term1": "Tuberculosis",
+        "term2": "Hemoptysis"
+    },
+    {
+        "value": 1368.25,
+        "stddev": 113.20298877091,
+        "term1": "Fibrillation",
+        "term2": "Angina"
+    },
+    {
+        "value": 1309.5,
+        "stddev": 146.124376246174,
+        "term1": "Hypothyroidism",
+        "term2": "Tiredness"
+    },
+    {
+        "value": 1364,
+        "stddev": 199.526105226025,
+        "term1": "Syphilis",
+        "term2": "Dementias"
+    },
+    {
+        "value": 465,
+        "stddev": 338.872640776246,
+        "term1": "Drooling",
+        "term2": "Chills"
+    },
+    {
+        "value": 482.75,
+        "stddev": 465.777754585453,
+        "term1": "Arthritis",
+        "term2": "Underexertion"
+    },
+    {
+        "value": 1439.75,
+        "stddev": 155.482850072497,
+        "term1": "Diabetes",
+        "term2": "Polyuria"
+    },
+    {
+        "value": 1269.75,
+        "stddev": 256.622128170325,
+        "term1": "Hemoptysis",
+        "term2": "Hematemesis"
+    },
+    {
+        "value": 987.5,
+        "stddev": 514.904845578287,
+        "term1": "Pallor",
+        "term2": "Albumin"
+    },
+    {
+        "value": 1432.5,
+        "stddev": 113.966369308377,
+        "term1": "Syphilis",
+        "term2": "Gonorrhea"
+    },
+    {
+        "value": 460.75,
+        "stddev": 222.390609813754,
+        "term1": "Cataracts",
+        "term2": "Scapulalgia"
+    },
+    {
+        "value": 469.25,
+        "stddev": 392.965117196595,
+        "term1": "Epilepsy",
+        "term2": "Ativan"
+    },
+    {
+        "value": 252.5,
+        "stddev": 92.5796953980731,
+        "term1": "Camelpox",
+        "term2": "Snoring"
+    },
+    {
+        "value": 680.5,
+        "stddev": 457.34997540177,
+        "term1": "Adenitis",
+        "term2": "Stridor"
+    },
+    {
+        "value": 1395.75,
+        "stddev": 170.376788325171,
+        "term1": "Heartburn",
+        "term2": "Pepcid"
+    },
+    {
+        "value": 1064,
+        "stddev": 352.42777037761,
+        "term1": "Pyorrhea",
+        "term2": "Dysuria"
+    },
+    {
+        "value": 1027,
+        "stddev": 468.48906070473,
+        "term1": "Clubbing",
+        "term2": "Spiriva"
+    },
+    {
+        "value": 262.75,
+        "stddev": 123.785769241325,
+        "term1": "Asthma",
+        "term2": "Urolithiasis"
+    },
+    {
+        "value": 1353,
+        "stddev": 75.6218663262595,
+        "term1": "Thromboembolism",
+        "term2": "Coumadin"
+    },
+    {
+        "value": 293,
+        "stddev": 69.6371548337045,
+        "term1": "Fibrillation",
+        "term2": "Halitosis"
+    },
+    {
+        "value": 1061,
+        "stddev": 556.911722507856,
+        "term1": "Glomerulosclerosis",
+        "term2": "Proteinuria"
+    },
+    {
+        "value": 1349.75,
+        "stddev": 155.624280453491,
+        "term1": "Nocturia",
+        "term2": "Diabetes"
+    },
+    {
+        "value": 658.5,
+        "stddev": 227.168806544091,
+        "term1": "Seizures",
+        "term2": "Calamine"
+    },
+    {
+        "value": 833.75,
+        "stddev": 274.470854554723,
+        "term1": "Scapulalgia",
+        "term2": "Metatarsalgia"
+    },
+    {
+        "value": 1406.5,
+        "stddev": 130.81666560496,
+        "term1": "Allopurinol",
+        "term2": "Colchicine"
+    },
+    {
+        "value": 899.25,
+        "stddev": 492.898485153552,
+        "term1": "Hemochromatosis",
+        "term2": "Arthralgia"
+    },
+    {
+        "value": 1274.75,
+        "stddev": 298.33244878826,
+        "term1": "Amantadine",
+        "term2": "Tamiflu"
+    },
+    {
+        "value": 1295.5,
+        "stddev": 75.562336297038,
+        "term1": "Meningitis",
+        "term2": "Ceftiaxone"
+    },
+    {
+        "value": 1078.75,
+        "stddev": 435.431873737634,
+        "term1": "Pneumonia",
+        "term2": "Cyanosis"
+    },
+    {
+        "value": 1226.75,
+        "stddev": 209.519092208801,
+        "term1": "Thromboembolism",
+        "term2": "Syncope"
+    },
+    {
+        "value": 311,
+        "stddev": 79.5277729266114,
+        "term1": "Cluttering",
+        "term2": "Nitroglycerine"
+    },
+    {
+        "value": 1224.5,
+        "stddev": 301.414996309075,
+        "term1": "Tremor",
+        "term2": "Sinemet"
+    },
+    {
+        "value": 515.25,
+        "stddev": 226.835292668491,
+        "term1": "Epilepsy",
+        "term2": "Anosmia"
+    },
+    {
+        "value": 612,
+        "stddev": 368.199221436801,
+        "term1": "Lymphadenitis",
+        "term2": "Camelpox"
+    },
+    {
+        "value": 943.75,
+        "stddev": 362.857524840444,
+        "term1": "Agitation",
+        "term2": "Synthroid"
+    },
+    {
+        "value": 535.25,
+        "stddev": 566.727080112935,
+        "term1": "Anovulation",
+        "term2": "Emaciation"
+    },
+    {
+        "value": 516.25,
+        "stddev": 329.108264861276,
+        "term1": "Erythema",
+        "term2": "Dilantin"
+    },
+    {
+        "value": 570.25,
+        "stddev": 459.700174026506,
+        "term1": "Dehydration",
+        "term2": "Candidiases"
+    },
+    {
+        "value": 409.5,
+        "stddev": 288.915789345846,
+        "term1": "Rales",
+        "term2": "Hyperacusis"
+    },
+    {
+        "value": 409.75,
+        "stddev": 291.748036268741,
+        "term1": "Cortisone",
+        "term2": "Adenosine"
+    },
+    {
+        "value": 1423.75,
+        "stddev": 89.7306153625023,
+        "term1": "Headache",
+        "term2": "Tylenol"
+    },
+    {
+        "value": 1254,
+        "stddev": 208.745459032446,
+        "term1": "Arthritis",
+        "term2": "Metatarsalgia"
+    },
+    {
+        "value": 528,
+        "stddev": 560.150574994498,
+        "term1": "Erythema",
+        "term2": "Tremor"
+    },
+    {
+        "value": 1439.75,
+        "stddev": 106.781318590847,
+        "term1": "Obesity",
+        "term2": "Snoring"
+    },
+    {
+        "value": 1414.75,
+        "stddev": 132.96208732818,
+        "term1": "Dyspnea",
+        "term2": "Cyanosis"
+    },
+    {
+        "value": 252.25,
+        "stddev": 121.120807460981,
+        "term1": "Allergy.",
+        "term2": "Torticollis"
+    },
+    {
+        "value": 974.5,
+        "stddev": 388.725695917657,
+        "term1": "Uremias",
+        "term2": "Nausea"
+    },
+    {
+        "value": 1023,
+        "stddev": 413.456164544683,
+        "term1": "Prostatism",
+        "term2": "Prostatorrhea"
+    },
+    {
+        "value": 525.75,
+        "stddev": 187.927956054086,
+        "term1": "Posseting",
+        "term2": "Regurgitation"
+    },
+    {
+        "value": 785,
+        "stddev": 470.004964512788,
+        "term1": "Gastroenteritis",
+        "term2": "Seizures"
+    },
+    {
+        "value": 1313.5,
+        "stddev": 169.110417577787,
+        "term1": "comatose",
+        "term2": "Hyperglycemia"
+    },
+    {
+        "value": 1341.25,
+        "stddev": 174.864471329465,
+        "term1": "Weakness",
+        "term2": "Emaciation"
+    },
+    {
+        "value": 1315.75,
+        "stddev": 184.480125397471,
+        "term1": "Thirsty",
+        "term2": "Hunger"
+    },
+    {
+        "value": 1375.5,
+        "stddev": 161.043472391774,
+        "term1": "Anemia",
+        "term2": "Iron"
+    },
+    {
+        "value": 1139,
+        "stddev": 485.097241110824,
+        "term1": "Angina",
+        "term2": "Heartburn"
+    },
+    {
+        "value": 1146.75,
+        "stddev": 520.769542760199,
+        "term1": "Dyspnea",
+        "term2": "Spiriva"
+    },
+    {
+        "value": 615.75,
+        "stddev": 232.584572431908,
+        "term1": "Dyslipidemia",
+        "term2": "Activase"
+    },
+    {
+        "value": 444,
+        "stddev": 285.74230814961,
+        "term1": "Hyperinsulinism",
+        "term2": "Snoring"
+    },
+    {
+        "value": 640.25,
+        "stddev": 336.645585148536,
+        "term1": "Leukopenia",
+        "term2": "Penicillin"
+    },
+    {
+        "value": 1225.5,
+        "stddev": 198.703296399431,
+        "term1": "Meningitis",
+        "term2": "Meningism"
+    },
+    {
+        "value": 799,
+        "stddev": 198.304479693896,
+        "term1": "Weakness",
+        "term2": "Glucagen"
+    },
+    {
+        "value": 662.5,
+        "stddev": 260.468168240702,
+        "term1": "Constipation",
+        "term2": "Calan"
+    },
+    {
+        "value": 1191.5,
+        "stddev": 204.033493982401,
+        "term1": "Fibrillation",
+        "term2": "Atenolol"
+    },
+    {
+        "value": 1354.25,
+        "stddev": 112.411075966739,
+        "term1": "Dyslipidemia",
+        "term2": "Hyperlipidemia"
+    },
+    {
+        "value": 1309,
+        "stddev": 127.781062759706,
+        "term1": "Wheezing",
+        "term2": "Stridor"
+    },
+    {
+        "value": 1179,
+        "stddev": 349.137031359704,
+        "term1": "Waterbrash",
+        "term2": "Regurgitation"
+    },
+    {
+        "value": 1248,
+        "stddev": 289.061700449345,
+        "term1": "Pallor",
+        "term2": "Blanching"
+    },
+    {
+        "value": 798,
+        "stddev": 537.471239540623,
+        "term1": "Hemoptysis",
+        "term2": "Protamine Sulfate"
+    },
+    {
+        "value": 1379.5,
+        "stddev": 74.0877857679658,
+        "term1": "Rales",
+        "term2": "Lasix"
+    },
+    {
+        "value": 926.5,
+        "stddev": 420.146403054935,
+        "term1": "Anemia",
+        "term2": "Coumadin"
+    },
+    {
+        "value": 641.75,
+        "stddev": 217.159503591254,
+        "term1": "Formication",
+        "term2": "Paresthesia"
+    },
+    {
+        "value": 1017.5,
+        "stddev": 128.987079456303,
+        "term1": "Actonel",
+        "term2": "Insulin"
+    },
+    {
+        "value": 1575,
+        "stddev": 112.011904129278,
+        "term1": "Sinemet",
+        "term2": "Sinemet"
+    },
+    {
+        "value": 1286.25,
+        "stddev": 255.681279460712,
+        "term1": "Dermatitis",
+        "term2": "Aloe Vera"
+    },
+    {
+        "value": 831.25,
+        "stddev": 353.300981223281,
+        "term1": "Coccidioses",
+        "term2": "Medrol"
+    },
+    {
+        "value": 588,
+        "stddev": 368.40195439221,
+        "term1": "Blepharospasm",
+        "term2": "Mittelschmerz"
+    },
+    {
+        "value": 1363.5,
+        "stddev": 142.764374641108,
+        "term1": "Tiredness",
+        "term2": "Hypersomnolence"
+    },
+    {
+        "value": 1433.25,
+        "stddev": 202.000618810933,
+        "term1": "Polyuria",
+        "term2": "Ketonuria"
+    },
+    {
+        "value": 268,
+        "stddev": 77.1664866808556,
+        "term1": "Toothache",
+        "term2": "Ataxia"
+    },
+    {
+        "value": 241.5,
+        "stddev": 45.0370218079896,
+        "term1": "Mannitol",
+        "term2": "Tylenol"
+    },
+    {
+        "value": 848,
+        "stddev": 491.739090711053,
+        "term1": "Otitis",
+        "term2": "Meningism"
+    },
+    {
+        "value": 752,
+        "stddev": 272.40533523899,
+        "term1": "Clonus",
+        "term2": "Wellbutrin"
+    },
+    {
+        "value": 488.5,
+        "stddev": 255.690568200445,
+        "term1": "Ataxia",
+        "term2": "Ketamine"
+    },
+    {
+        "value": 358.25,
+        "stddev": 170.496089886738,
+        "term1": "Penicillin",
+        "term2": "Motrin"
+    },
+    {
+        "value": 1276.5,
+        "stddev": 307.230098351925,
+        "term1": "Fish Oil",
+        "term2": "Zocor"
+    },
+    {
+        "value": 679.5,
+        "stddev": 487.626564767207,
+        "term1": "Nocturia",
+        "term2": "Ethanol"
+    },
+    {
+        "value": 555.75,
+        "stddev": 256.223047363035,
+        "term1": "Mycosis",
+        "term2": "Prostatism"
+    },
+    {
+        "value": 215.5,
+        "stddev": 31.288975694324,
+        "term1": "Dementia",
+        "term2": "Aloe Vera"
+    },
+    {
+        "value": 257,
+        "stddev": 65.2686754883229,
+        "term1": "Dysentery",
+        "term2": "Esmolol"
+    },
+    {
+        "value": 637,
+        "stddev": 399.45546268222,
+        "term1": "Plague",
+        "term2": "Vivarin"
+    },
+    {
+        "value": 555.25,
+        "stddev": 334.901353635166,
+        "term1": "Rabies",
+        "term2": "Silvadene"
+    },
+    {
+        "value": 1315.5,
+        "stddev": 319.755635863806,
+        "term1": "Banana Bag",
+        "term2": "Alcohol"
+    },
+    {
+        "value": 1354,
+        "stddev": 173.865848668832,
+        "term1": "Influenza",
+        "term2": "Pneumoniae"
+    },
+    {
+        "value": 585,
+        "stddev": 406.930788545997,
+        "term1": "Rabies",
+        "term2": "Head-Face-Neck-Syndrome"
+    },
+    {
+        "value": 226.75,
+        "stddev": 72.0341354266619,
+        "term1": "Giardiasis",
+        "term2": "Mannerism"
+    },
+    {
+        "value": 321.75,
+        "stddev": 125.175543404719,
+        "term1": "Psoriasis",
+        "term2": "Atherosclerosis"
+    },
+    {
+        "value": 500,
+        "stddev": 262.580781221069,
+        "term1": "Propranolol",
+        "term2": "Bactroban"
+    },
+    {
+        "value": 518.75,
+        "stddev": 370.530588031092,
+        "term1": "Toothache",
+        "term2": "Hytrin"
+    },
+    {
+        "value": 1255.25,
+        "stddev": 94.4117753955159,
+        "term1": "Dermatomyositis",
+        "term2": "Myopathy"
+    },
+    {
+        "value": 788.25,
+        "stddev": 323.320661263706,
+        "term1": "Starvation",
+        "term2": "Cisplatin"
+    },
+    {
+        "value": 1332,
+        "stddev": 220.639978245104,
+        "term1": "Anovulation",
+        "term2": "Amenorrhoea"
+    },
+    {
+        "value": 460.75,
+        "stddev": 233.29577078607,
+        "term1": "Camelpox",
+        "term2": "Waterbrash"
+    },
+    {
+        "value": 1359.5,
+        "stddev": 123.780720092697,
+        "term1": "Agranulocytosis",
+        "term2": "Anemia"
+    },
+    {
+        "value": 1377.5,
+        "stddev": 133.978854052919,
+        "term1": "Torticollis",
+        "term2": "Spasm"
+    },
+    {
+        "value": 603.75,
+        "stddev": 263.886812857331,
+        "term1": "Tiredness",
+        "term2": "Calan"
+    },
+    {
+        "value": 593.25,
+        "stddev": 276.11757761263,
+        "term1": "Calamine",
+        "term2": "Bleomycin"
+    },
+    {
+        "value": 638.75,
+        "stddev": 213.24848573124,
+        "term1": "Hemochromatosis",
+        "term2": "Vermox"
+    },
+    {
+        "value": 619.75,
+        "stddev": 382.097173504333,
+        "term1": "Anovulation",
+        "term2": "Sinemet"
+    },
+    {
+        "value": 474.25,
+        "stddev": 375.635794354052,
+        "term1": "Hyperextension",
+        "term2": "Bacitracin"
+    },
+    {
+        "value": 1104,
+        "stddev": 201.241148873683,
+        "term1": "Albuterol",
+        "term2": "Serevent"
+    },
+    {
+        "value": 1127.25,
+        "stddev": 157.010349977318,
+        "term1": "Arthritis",
+        "term2": "Amyloidoses"
+    },
+    {
+        "value": 710.25,
+        "stddev": 169.549157080378,
+        "term1": "Cyanosis",
+        "term2": "Primatine"
+    },
+    {
+        "value": 1351,
+        "stddev": 72.3371734771733,
+        "term1": "Pepcid",
+        "term2": "Zantac"
+    },
+    {
+        "value": 829.5,
+        "stddev": 297.734221524276,
+        "term1": "Calan",
+        "term2": "Echinacea"
+    },
+    {
+        "value": 477.5,
+        "stddev": 360.944594086128,
+        "term1": "Epilepsy",
+        "term2": "Ischemia"
+    },
+    {
+        "value": 1463,
+        "stddev": 157.397585750227,
+        "term1": "Carsickness",
+        "term2": "Nausea"
+    },
+    {
+        "value": 1135,
+        "stddev": 383.698666490603,
+        "term1": "zoonosis",
+        "term2": "Plague"
+    },
+    {
+        "value": 989.5,
+        "stddev": 385.782754064167,
+        "term1": "Meningism",
+        "term2": "Zovirax"
+    },
+    {
+        "value": 1005.25,
+        "stddev": 525.215114659381,
+        "term1": "Abortions.spontaneous",
+        "term2": "Listeriosis"
+    },
+    {
+        "value": 818.5,
+        "stddev": 311.309599380852,
+        "term1": "Epilepsy",
+        "term2": "Actonel"
+    }
+]

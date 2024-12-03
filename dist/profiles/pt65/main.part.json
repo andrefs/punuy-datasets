@@ -1,0 +1,327 @@
+[
+    {
+        "term1": "cordão",
+        "term2": "sorriso",
+        "value": 0.26
+    },
+    {
+        "term1": "galo",
+        "term2": "viagem",
+        "value": 0.14
+    },
+    {
+        "term1": "almoço",
+        "term2": "barbante",
+        "value": 0.22
+    },
+    {
+        "term1": "fruta",
+        "term2": "forno",
+        "value": 0.92
+    },
+    {
+        "term1": "autógrafo",
+        "term2": "costa",
+        "value": 0.48
+    },
+    {
+        "term1": "automóvel",
+        "term2": "bruxo",
+        "value": 0.28
+    },
+    {
+        "term1": "monte",
+        "term2": "fogão",
+        "value": 0.26
+    },
+    {
+        "term1": "risada",
+        "term2": "instrumento",
+        "value": 0.7
+    },
+    {
+        "term1": "manicômio",
+        "term2": "fruta",
+        "value": 0.24
+    },
+    {
+        "term1": "manicômio",
+        "term2": "monge",
+        "value": 0.64
+    },
+    {
+        "term1": "cemitério",
+        "term2": "hospício",
+        "value": 1.14
+    },
+    {
+        "term1": "cálice",
+        "term2": "mágico",
+        "value": 1.26
+    },
+    {
+        "term1": "menino",
+        "term2": "galo",
+        "value": 0.92
+    },
+    {
+        "term1": "almofada",
+        "term2": "bijuteria",
+        "value": 0.68
+    },
+    {
+        "term1": "monge",
+        "term2": "escravo",
+        "value": 0.9
+    },
+    {
+        "term1": "manicômio",
+        "term2": "cemitério",
+        "value": 1.16
+    },
+    {
+        "term1": "litoral",
+        "term2": "floresta",
+        "value": 1.52
+    },
+    {
+        "term1": "risada",
+        "term2": "rapaz",
+        "value": 1.06
+    },
+    {
+        "term1": "costa",
+        "term2": "bosque",
+        "value": 1.14
+    },
+    {
+        "term1": "monge",
+        "term2": "oráculo",
+        "value": 1.76
+    },
+    {
+        "term1": "menino",
+        "term2": "sensato",
+        "value": 1.08
+    },
+    {
+        "term1": "automóvel",
+        "term2": "almofada",
+        "value": 0.78
+    },
+    {
+        "term1": "monte",
+        "term2": "costa",
+        "value": 1.22
+    },
+    {
+        "term1": "rapaz",
+        "term2": "bruxo",
+        "value": 1.56
+    },
+    {
+        "term1": "floresta",
+        "term2": "cemitério",
+        "value": 0.88
+    },
+    {
+        "term1": "comida",
+        "term2": "galo",
+        "value": 1.38
+    },
+    {
+        "term1": "cemitério",
+        "term2": "bosque",
+        "value": 1.0
+    },
+    {
+        "term1": "costa",
+        "term2": "viagem",
+        "value": 1.6
+    },
+    {
+        "term1": "pássaro",
+        "term2": "bosque",
+        "value": 1.98
+    },
+    {
+        "term1": "litoral",
+        "term2": "colina",
+        "value": 1.44
+    },
+    {
+        "term1": "forno",
+        "term2": "instrumento",
+        "value": 1.28
+    },
+    {
+        "term1": "grua",
+        "term2": "galo",
+        "value": 0.04
+    },
+    {
+        "term1": "colina",
+        "term2": "bosque",
+        "value": 1.64
+    },
+    {
+        "term1": "carro",
+        "term2": "jornada",
+        "value": 1.56
+    },
+    {
+        "term1": "cemitério",
+        "term2": "monte",
+        "value": 0.88
+    },
+    {
+        "term1": "cálice",
+        "term2": "bijuteria",
+        "value": 0.66
+    },
+    {
+        "term1": "mágico",
+        "term2": "oráculo",
+        "value": 2.08
+    },
+    {
+        "term1": "grua",
+        "term2": "instrumento",
+        "value": 2.0
+    },
+    {
+        "term1": "irmão",
+        "term2": "rapaz",
+        "value": 2.42
+    },
+    {
+        "term1": "sensato",
+        "term2": "bruxo",
+        "value": 0.84
+    },
+    {
+        "term1": "oráculo",
+        "term2": "sensato",
+        "value": 1.18
+    },
+    {
+        "term1": "pássaro",
+        "term2": "grua",
+        "value": 0.24
+    },
+    {
+        "term1": "pássaro",
+        "term2": "galo",
+        "value": 2.5
+    },
+    {
+        "term1": "comida",
+        "term2": "fruta",
+        "value": 3.32
+    },
+    {
+        "term1": "irmão",
+        "term2": "monge",
+        "value": 1.84
+    },
+    {
+        "term1": "manicômio",
+        "term2": "hospício",
+        "value": 3.76
+    },
+    {
+        "term1": "forno",
+        "term2": "fogão",
+        "value": 3.68
+    },
+    {
+        "term1": "mágico",
+        "term2": "bruxo",
+        "value": 3.4
+    },
+    {
+        "term1": "colina",
+        "term2": "monte",
+        "value": 3.56
+    },
+    {
+        "term1": "cordão",
+        "term2": "barbante",
+        "value": 3.84
+    },
+    {
+        "term1": "cálice",
+        "term2": "taça",
+        "value": 3.78
+    },
+    {
+        "term1": "risada",
+        "term2": "sorriso",
+        "value": 3.64
+    },
+    {
+        "term1": "servo",
+        "term2": "escravo",
+        "value": 3.58
+    },
+    {
+        "term1": "jornada",
+        "term2": "viagem",
+        "value": 3.64
+    },
+    {
+        "term1": "autógrafo",
+        "term2": "assinatura",
+        "value": 3.64
+    },
+    {
+        "term1": "litoral",
+        "term2": "costa",
+        "value": 3.74
+    },
+    {
+        "term1": "floresta",
+        "term2": "bosque",
+        "value": 3.76
+    },
+    {
+        "term1": "instrumento",
+        "term2": "ferramenta",
+        "value": 3.64
+    },
+    {
+        "term1": "galo",
+        "term2": "galo",
+        "value": 4.0
+    },
+    {
+        "term1": "menino",
+        "term2": "rapaz",
+        "value": 3.58
+    },
+    {
+        "term1": "almofada",
+        "term2": "travesseiro",
+        "value": 3.38
+    },
+    {
+        "term1": "cemitério",
+        "term2": "cemitério",
+        "value": 4.0
+    },
+    {
+        "term1": "automóvel",
+        "term2": "carro",
+        "value": 3.92
+    },
+    {
+        "term1": "meio-dia",
+        "term2": "almoço",
+        "value": 3.22
+    },
+    {
+        "term1": "jóia",
+        "term2": "bijuteria",
+        "value": 3.34
+    }
+]

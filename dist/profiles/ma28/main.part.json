@@ -1,0 +1,142 @@
+[
+    {
+        "term1": "peak oil",
+        "term2": "apocalypse",
+        "value": 0.056
+    },
+    {
+        "term1": "bobo",
+        "term2": "bohemian",
+        "value": 0.185
+    },
+    {
+        "term1": "windmills",
+        "term2": "offshore",
+        "value": 0.278
+    },
+    {
+        "term1": "copyleft",
+        "term2": "copyright",
+        "value": 0.283
+    },
+    {
+        "term1": "whalewatching",
+        "term2": "birdwatching",
+        "value": 0.31
+    },
+    {
+        "term1": "tweet",
+        "term2": "snippet",
+        "value": 0.314
+    },
+    {
+        "term1": "subprime",
+        "term2": "risky business",
+        "value": 0.336
+    },
+    {
+        "term1": "imo",
+        "term2": "in my opinion",
+        "value": 0.376
+    },
+    {
+        "term1": "buzzword",
+        "term2": "neologism",
+        "value": 0.383
+    },
+    {
+        "term1": "quantitave easing",
+        "term2": "money flood",
+        "value": 0.41
+    },
+    {
+        "term1": "glamping",
+        "term2": "luxury camping",
+        "value": 0.463
+    },
+    {
+        "term1": "slumdog",
+        "term2": "underprivileged",
+        "value": 0.482
+    },
+    {
+        "term1": "i18n",
+        "term2": "internationalization",
+        "value": 0.518
+    },
+    {
+        "term1": "vuvuzela",
+        "term2": "soccer horn",
+        "value": 0.523
+    },
+    {
+        "term1": "pda",
+        "term2": "computer",
+        "value": 0.526
+    },
+    {
+        "term1": "sustainable",
+        "term2": "renewable",
+        "value": 0.536
+    },
+    {
+        "term1": "sudoku",
+        "term2": "number place",
+        "value": 0.538
+    },
+    {
+        "term1": "terabyte",
+        "term2": "gigabyte",
+        "value": 0.573
+    },
+    {
+        "term1": "ceo",
+        "term2": "chief executive officer",
+        "value": 0.603
+    },
+    {
+        "term1": "tanorexia",
+        "term2": "tanning addiction",
+        "value": 0.608
+    },
+    {
+        "term1": "the big apple",
+        "term2": "New York",
+        "value": 0.641
+    },
+    {
+        "term1": "asap",
+        "term2": "as soon as possible",
+        "value": 0.661
+    },
+    {
+        "term1": "qwerty",
+        "term2": "keyboard",
+        "value": 0.676
+    },
+    {
+        "term1": "thx",
+        "term2": "thanks",
+        "value": 0.784
+    },
+    {
+        "term1": "vlog",
+        "term2": "video blog",
+        "value": 0.788
+    },
+    {
+        "term1": "wifi",
+        "term2": "wireless network",
+        "value": 0.9
+    },
+    {
+        "term1": "hi-tech",
+        "term2": "high technology",
+        "value": 0.903
+    },
+    {
+        "term1": "app",
+        "term2": "application",
+        "value": 0.915
+    }
+]
