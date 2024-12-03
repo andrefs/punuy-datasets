@@ -24,4 +24,4 @@ The second word in the pair
 
 ## Defined in
 
-[types.ts:280](https://github.com/andrefs/punuy-datasets/blob/93db997464122cc74e2f33727445c155bb8f825e/src/lib/types.ts#L280)
+[types.ts:280](https://github.com/andrefs/punuy-datasets/blob/a5529137d6e45de71d8ccaf7915fe18c54d37b97/src/lib/types.ts#L280)
