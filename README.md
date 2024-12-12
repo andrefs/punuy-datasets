@@ -11,48 +11,48 @@ A collection of quantitative datasets, gathered from the academic literature, fo
 
 | ID | Name | Year | Language | Domain | Sim/Rel | References 
 | --- | --- | --- | --- | --- | --- | --- |  
-| rg65 | Rubenstein and Goodenough (1965) | 1965 | en | general | sim | [paper 📑](https://dl.acm.org/doi/pdf/10.1145/365628.365657), [website 🌐](https://dl.acm.org/doi/pdf/10.1145/365628.365657) | 
-| mc30 | Miller and Charles (1991) | 1991 | en | general | sim | [paper 📑](https://sci-hub.se/https://doi.org/10.1080/01690969108406936) | 
-| ws353 | WordSimilarity-353 | 2002 | en | general | sim | [paper 📑](https://www.cs.tau.ac.il/~ruppin/p116-finkelstein.pdf), [website 🌐](https://www.cs.technion.ac.il/~gabr/resources/data/wordsim353/) | 
-| yp130 | YP-130 | 2005 | en | general | sim | [paper 📑](http://david.wardpowers.info/Research/AI/papers/200601-GWC-VerbSimWN.pdf) | 
-| bg100k | Princeton Evocation Data 0.4 | 2006 | en | general | sim | [paper 📑](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=bfeebec5eb0aacd24eb91c94687dfe47b461f5b4), [website 🌐](https://wordnet.cs.princeton.edu/downloads/evocation/release-0.4) | 
-| mesh2 | MeSH2 | 2006 | en | biomedical | sim | [paper 📑](https://users.uop.gr/~praftop/papers/pdf/wms06-PVHR.pdf), [website 🌐](https://www.intelligence.tuc.gr/similarity/datasets.php) | 
-| zie55 | Ziegler et al. (2006) | 2006 | en | general | rel | [paper 📑](https://web.archive.org/web/20070824183036id_/http://www.informatik.uni-freiburg.de/~ksimon/papers/CIKM-06-Proximity.pdf) | 
-| mayoSRS | MayoSRS | 2007 | en | biomedical | rel | [paper 📑](https://www.sciencedirect.com/science/article/pii/S1532046406000645?via%3Dihub), [website 🌐](https://conservancy.umn.edu/handle/11299/196265) | 
-| minimayoSRS | MiniMayoSRS | 2007 | en | biomedical | rel | [paper 📑](https://www.sciencedirect.com/science/article/pii/S1532046406000645?via%3Dihub), [website 🌐](https://conservancy.umn.edu/handle/11299/196265) | 
-| gm30 | Gracia and Mena (2008) | 2008 | en | general | rel | [paper 📑](https://oa.upm.es/6549/1/Web-based_Measure.pdf) | 
-| ps65 | Pirro and Seco (2008) | 2008 | en | general | sim | [paper 📑](https://dl.acm.org/doi/abs/10.1007/978-3-540-88873-4_25) | 
-| ws353Rel | WordSim-353 Relatedness Gold Standard | 2009 | en | general | rel | [paper 📑](https://aclanthology.org/N09-1003.pdf), [website 🌐](http://alfonseca.org/eng/research/wordsim353.html) | 
-| ws353Sim | WordSim-353 Similarity Gold Standard | 2009 | en | general | sim | [paper 📑](https://aclanthology.org/N09-1003.pdf), [website 🌐](http://alfonseca.org/eng/research/wordsim353.html) | 
-| umnsrs | UMNSRS | 2010 | en | biomedical | rel/sim | [paper 📑](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3041430/pdf/amia-2010_sympproc_0572.pdf), [website 🌐](https://conservancy.umn.edu/handle/11299/196265) | 
-| mt287 | MT287 | 2011 | en | general | rel | [paper 📑](http://www.kiraradinsky.com/files/Radinsky-TemporalSemantics.pdf), [website 🌐](http://www.kiraradinsky.com/Datasets.html) | 
-| atlasify240 | Atlasify240 | 2012 | en | general | rel | [paper 📑](https://www.brenthecht.com/papers/bhecht_sigir2012_ExpSpatialization_SRplusE.pdf), [website 🌐](https://users.cs.northwestern.edu/~ddowney/data_code.html) | 
-| mturk771 | MTurk771 | 2012 | en | general | rel | [paper 📑](https://www-ai.cs.tu-dortmund.de/LEHRE/FACHPROJEKT/WS1213/WordCorrelations.pdf), [website 🌐](http://www2.mta.ac.il/~gideon/datasets/mturk_771.html) | 
-| reword26 | REWOrD | 2012 | en | general | rel | [paper 📑](https://cdn.aaai.org/ojs/8107/8107-13-11634-1-2-20201228.pdf), [website 🌐](https://relwod.wordpress.com/datasets/) | 
-| scws2003 | SCWS | 2012 | en | general | rel | [paper 📑](https://aclanthology.org/P12-1092.pdf), [website 🌐](https://ai.stanford.edu/~ehhuang/) | 
-| ma28 | Martinez & Aldana | 2013 | en | general | sim | [paper 📑](https://hal.science/hal-01628399/file/article.pdf), [website 🌐](https://hal.science/hal-01628399/file/article.pdf) | 
-| rel122 | Rel-122 | 2013 | en | general | rel | [paper 📑](https://aclanthology.org/P13-2154.pdf), [website 🌐](https://www.cs.ucf.edu/~seansz/rel-122/) | 
-| srw2034 | Stanford Rare Word (RW) Similarity Dataset | 2013 | en | biomedical | sim | [paper 📑](https://nlp.stanford.edu/~lmthang/data/papers/conll13_morpho.pdf), [website 🌐](https://nlp.stanford.edu/~lmthang/morphoNLM/) | 
-| wp300 | WP300 | 2013 | en | general | sim | [paper 📑](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/CIKM841-Li.pdf), [website 🌐](http://adapt.seiee.sjtu.edu.cn/similarity/) | 
-| baker143 | Baker 143 | 2014 | en | general | sim | [paper 📑](https://aclanthology.org/D14-1034.pdf), [website 🌐](https://github.com/sb895/verb-similarity-dataset) | 
-| geresid50 | GeReSiD | 2014 | en | geographical | rel/sim | [paper 📑](https://arxiv.org/pdf/1402.3371), [website 🌐](https://github.com/ucd-spatial/Datasets/tree/master/geresid-geo_relatedness_similarity_dataset) | 
-| men3000 | MEN | 2014 | en | general | rel | [paper 📑](https://core.ac.uk/download/pdf/35317232.pdf), [website 🌐](https://staff.fnwi.uva.nl/e.bruni/MEN) | 
-| pt65 | PT65 | 2014 | pt | general | rel | [paper 📑](https://hal.science/hal-02089290/file/leitzkegranada_22675.pdf), [website 🌐](http://www.inf.pucrs.br/linatural/wikimodels/similarity.html) | 
-| sl7576 | SL7576 | 2014 | en | general | sim | [paper 📑](https://aclanthology.org/P14-1068.pdf), [website 🌐](https://sites.google.com/view/carinasilberer) | 
-| simlex999 | SimLex-999 | 2015 | en | general | sim | [paper 📑](https://aclanthology.org/J15-4004.pdf), [website 🌐](https://fh295.github.io/simlex.html) | 
-| tr9856 | TR9856 | 2015 | en | general | rel | [paper 📑](https://aclanthology.org/P15-2069.pdf), [website 🌐](https://developer.ibm.com/exchanges/data/all/multi-word-term-relatedness-benchmark/) | 
-| simverb3500 | SimVerb-3500 | 2016 | en | general | sim | [paper 📑](https://aclanthology.org/D16-1235.pdf), [website 🌐](https://www.repository.cam.ac.uk/items/8a568201-0fa4-4e54-81b1-f920102492ea) | 
-| umnsrsMod | UMNSRS (modified) | 2016 | en | biomedical | rel/sim | [paper 📑](https://academic.oup.com/bioinformatics/article/32/23/3635/2525643), [website 🌐](https://conservancy.umn.edu/handle/11299/196265) | 
-| lxrw2034 | LX-Rare Word Similarity Dataset | 2017 | pt | general | sim | [paper 📑](https://www.grupocole.org/cole/library/ps/QueCarRodGarSilCorRenPerCamBra2017a.pdf), [website 🌐](https://portulanclarin.net/repository/browse/lx-rare-word-similarity-dataset/f8dd0332e6d911e6a2aa782bcb074135a226cf379cf746a8976dd3420f5a2813/) | 
-| lxsimlex999 | LX-SimLex-999 | 2017 | pt | general | sim | [paper 📑](https://www.grupocole.org/cole/library/ps/QueCarRodGarSilCorRenPerCamBra2017a.pdf), [website 🌐](https://portulanclarin.net/repository/browse/lx-simlex-999/4ab1ea58e6d311e6a2aa782bcb0741351e920e18429e4d3e9d229a58030812fe/) | 
-| lxws353 | LX-WordSim-353 | 2017 | pt | general | rel | [paper 📑](https://www.grupocole.org/cole/library/ps/QueCarRodGarSilCorRenPerCamBra2017a.pdf), [website 🌐](https://portulanclarin.net/repository/browse/lx-wordsim-353/c4e08b72e6dd11e6a2aa782bcb074135a5ac38ba70a14fb3adbd5782b21dacb0/) | 
-| semeval17 | SemEval-2017 Task 2.1 | 2017 | en | general | sim | [paper 📑](https://aclanthology.org/S17-2002.pdf), [website 🌐](https://alt.qcri.org/semeval2017/task2/) | 
-| card660 | Card-660 | 2018 | en | general | sim | [paper 📑](https://pilehvar.github.io/card-660/Card-660.pdf), [website 🌐](https://pilehvar.github.io/card-660/) | 
-| gtrd | GTRD | 2018 | en | geographical | rel | [paper 📑](https://pdfs.semanticscholar.org/f8f1/b82386147b6a9142b2cff2dc662a3e614d80.pdf), [website 🌐](https://github.com/czgbjy/GTRD) | 
-| word19k | Wikipedia Oriented Relatedness Dataset | 2018 | en | general | rel | [paper 📑](https://aclanthology.org/L18-1408.pdf), [website 🌐](https://developer.ibm.com/exchanges/data/all/wikipedia-oriented-relatedness/) | 
-| multisimlex | Multi-SimLex | 2020 | en | general | sim | [paper 📑](https://multisimlex.com/Multi-SimLex-Paper.pdf), [website 🌐](https://multisimlex.com/) | 
-| emocon | Emotion concepts 2022 | 2022 | en | general | sim | [paper 📑](https://escholarship.org/content/qt8vj3d366/qt8vj3d366.pdf), [website 🌐](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6DPPKH) | 
-| pap900 | PAP900 | 2024 | pt | general | rel/sim | [website 🌐](https://github.com/andrefs/PAP900) | 
+| [rg65](./profiles/rg65) | Rubenstein and Goodenough (1965) | 1965 | en | general | sim | [paper 📑](https://dl.acm.org/doi/pdf/10.1145/365628.365657), [website 🌐](https://dl.acm.org/doi/pdf/10.1145/365628.365657) | 
+| [mc30](./profiles/mc30) | Miller and Charles (1991) | 1991 | en | general | sim | [paper 📑](https://sci-hub.se/https://doi.org/10.1080/01690969108406936) | 
+| [ws353](./profiles/ws353) | WordSimilarity-353 | 2002 | en | general | sim | [paper 📑](https://www.cs.tau.ac.il/~ruppin/p116-finkelstein.pdf), [website 🌐](https://www.cs.technion.ac.il/~gabr/resources/data/wordsim353/) | 
+| [yp130](./profiles/yp130) | YP-130 | 2005 | en | general | sim | [paper 📑](http://david.wardpowers.info/Research/AI/papers/200601-GWC-VerbSimWN.pdf) | 
+| [bg100k](./profiles/bg100k) | Princeton Evocation Data 0.4 | 2006 | en | general | sim | [paper 📑](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=bfeebec5eb0aacd24eb91c94687dfe47b461f5b4), [website 🌐](https://wordnet.cs.princeton.edu/downloads/evocation/release-0.4) | 
+| [mesh2](./profiles/mesh2) | MeSH2 | 2006 | en | biomedical | sim | [paper 📑](https://users.uop.gr/~praftop/papers/pdf/wms06-PVHR.pdf), [website 🌐](https://www.intelligence.tuc.gr/similarity/datasets.php) | 
+| [zie55](./profiles/zie55) | Ziegler et al. (2006) | 2006 | en | general | rel | [paper 📑](https://web.archive.org/web/20070824183036id_/http://www.informatik.uni-freiburg.de/~ksimon/papers/CIKM-06-Proximity.pdf) | 
+| [mayoSRS](./profiles/mayoSRS) | MayoSRS | 2007 | en | biomedical | rel | [paper 📑](https://www.sciencedirect.com/science/article/pii/S1532046406000645?via%3Dihub), [website 🌐](https://conservancy.umn.edu/handle/11299/196265) | 
+| [minimayoSRS](./profiles/minimayoSRS) | MiniMayoSRS | 2007 | en | biomedical | rel | [paper 📑](https://www.sciencedirect.com/science/article/pii/S1532046406000645?via%3Dihub), [website 🌐](https://conservancy.umn.edu/handle/11299/196265) | 
+| [gm30](./profiles/gm30) | Gracia and Mena (2008) | 2008 | en | general | rel | [paper 📑](https://oa.upm.es/6549/1/Web-based_Measure.pdf) | 
+| [ps65](./profiles/ps65) | Pirro and Seco (2008) | 2008 | en | general | sim | [paper 📑](https://dl.acm.org/doi/abs/10.1007/978-3-540-88873-4_25) | 
+| [ws353Rel](./profiles/ws353Rel) | WordSim-353 Relatedness Gold Standard | 2009 | en | general | rel | [paper 📑](https://aclanthology.org/N09-1003.pdf), [website 🌐](http://alfonseca.org/eng/research/wordsim353.html) | 
+| [ws353Sim](./profiles/ws353Sim) | WordSim-353 Similarity Gold Standard | 2009 | en | general | sim | [paper 📑](https://aclanthology.org/N09-1003.pdf), [website 🌐](http://alfonseca.org/eng/research/wordsim353.html) | 
+| [umnsrs](./profiles/umnsrs) | UMNSRS | 2010 | en | biomedical | rel/sim | [paper 📑](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3041430/pdf/amia-2010_sympproc_0572.pdf), [website 🌐](https://conservancy.umn.edu/handle/11299/196265) | 
+| [mt287](./profiles/mt287) | MT287 | 2011 | en | general | rel | [paper 📑](http://www.kiraradinsky.com/files/Radinsky-TemporalSemantics.pdf), [website 🌐](http://www.kiraradinsky.com/Datasets.html) | 
+| [atlasify240](./profiles/atlasify240) | Atlasify240 | 2012 | en | general | rel | [paper 📑](https://www.brenthecht.com/papers/bhecht_sigir2012_ExpSpatialization_SRplusE.pdf), [website 🌐](https://users.cs.northwestern.edu/~ddowney/data_code.html) | 
+| [mturk771](./profiles/mturk771) | MTurk771 | 2012 | en | general | rel | [paper 📑](https://www-ai.cs.tu-dortmund.de/LEHRE/FACHPROJEKT/WS1213/WordCorrelations.pdf), [website 🌐](http://www2.mta.ac.il/~gideon/datasets/mturk_771.html) | 
+| [reword26](./profiles/reword26) | REWOrD | 2012 | en | general | rel | [paper 📑](https://cdn.aaai.org/ojs/8107/8107-13-11634-1-2-20201228.pdf), [website 🌐](https://relwod.wordpress.com/datasets/) | 
+| [scws2003](./profiles/scws2003) | SCWS | 2012 | en | general | rel | [paper 📑](https://aclanthology.org/P12-1092.pdf), [website 🌐](https://ai.stanford.edu/~ehhuang/) | 
+| [ma28](./profiles/ma28) | Martinez & Aldana | 2013 | en | general | sim | [paper 📑](https://hal.science/hal-01628399/file/article.pdf), [website 🌐](https://hal.science/hal-01628399/file/article.pdf) | 
+| [rel122](./profiles/rel122) | Rel-122 | 2013 | en | general | rel | [paper 📑](https://aclanthology.org/P13-2154.pdf), [website 🌐](https://www.cs.ucf.edu/~seansz/rel-122/) | 
+| [srw2034](./profiles/srw2034) | Stanford Rare Word (RW) Similarity Dataset | 2013 | en | biomedical | sim | [paper 📑](https://nlp.stanford.edu/~lmthang/data/papers/conll13_morpho.pdf), [website 🌐](https://nlp.stanford.edu/~lmthang/morphoNLM/) | 
+| [wp300](./profiles/wp300) | WP300 | 2013 | en | general | sim | [paper 📑](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/CIKM841-Li.pdf), [website 🌐](http://adapt.seiee.sjtu.edu.cn/similarity/) | 
+| [baker143](./profiles/baker143) | Baker 143 | 2014 | en | general | sim | [paper 📑](https://aclanthology.org/D14-1034.pdf), [website 🌐](https://github.com/sb895/verb-similarity-dataset) | 
+| [geresid50](./profiles/geresid50) | GeReSiD | 2014 | en | geographical | rel/sim | [paper 📑](https://arxiv.org/pdf/1402.3371), [website 🌐](https://github.com/ucd-spatial/Datasets/tree/master/geresid-geo_relatedness_similarity_dataset) | 
+| [men3000](./profiles/men3000) | MEN | 2014 | en | general | rel | [paper 📑](https://core.ac.uk/download/pdf/35317232.pdf), [website 🌐](https://staff.fnwi.uva.nl/e.bruni/MEN) | 
+| [pt65](./profiles/pt65) | PT65 | 2014 | pt | general | rel | [paper 📑](https://hal.science/hal-02089290/file/leitzkegranada_22675.pdf), [website 🌐](http://www.inf.pucrs.br/linatural/wikimodels/similarity.html) | 
+| [sl7576](./profiles/sl7576) | SL7576 | 2014 | en | general | sim | [paper 📑](https://aclanthology.org/P14-1068.pdf), [website 🌐](https://sites.google.com/view/carinasilberer) | 
+| [simlex999](./profiles/simlex999) | SimLex-999 | 2015 | en | general | sim | [paper 📑](https://aclanthology.org/J15-4004.pdf), [website 🌐](https://fh295.github.io/simlex.html) | 
+| [tr9856](./profiles/tr9856) | TR9856 | 2015 | en | general | rel | [paper 📑](https://aclanthology.org/P15-2069.pdf), [website 🌐](https://developer.ibm.com/exchanges/data/all/multi-word-term-relatedness-benchmark/) | 
+| [simverb3500](./profiles/simverb3500) | SimVerb-3500 | 2016 | en | general | sim | [paper 📑](https://aclanthology.org/D16-1235.pdf), [website 🌐](https://www.repository.cam.ac.uk/items/8a568201-0fa4-4e54-81b1-f920102492ea) | 
+| [umnsrsMod](./profiles/umnsrsMod) | UMNSRS (modified) | 2016 | en | biomedical | rel/sim | [paper 📑](https://academic.oup.com/bioinformatics/article/32/23/3635/2525643), [website 🌐](https://conservancy.umn.edu/handle/11299/196265) | 
+| [lxrw2034](./profiles/lxrw2034) | LX-Rare Word Similarity Dataset | 2017 | pt | general | sim | [paper 📑](https://www.grupocole.org/cole/library/ps/QueCarRodGarSilCorRenPerCamBra2017a.pdf), [website 🌐](https://portulanclarin.net/repository/browse/lx-rare-word-similarity-dataset/f8dd0332e6d911e6a2aa782bcb074135a226cf379cf746a8976dd3420f5a2813/) | 
+| [lxsimlex999](./profiles/lxsimlex999) | LX-SimLex-999 | 2017 | pt | general | sim | [paper 📑](https://www.grupocole.org/cole/library/ps/QueCarRodGarSilCorRenPerCamBra2017a.pdf), [website 🌐](https://portulanclarin.net/repository/browse/lx-simlex-999/4ab1ea58e6d311e6a2aa782bcb0741351e920e18429e4d3e9d229a58030812fe/) | 
+| [lxws353](./profiles/lxws353) | LX-WordSim-353 | 2017 | pt | general | rel | [paper 📑](https://www.grupocole.org/cole/library/ps/QueCarRodGarSilCorRenPerCamBra2017a.pdf), [website 🌐](https://portulanclarin.net/repository/browse/lx-wordsim-353/c4e08b72e6dd11e6a2aa782bcb074135a5ac38ba70a14fb3adbd5782b21dacb0/) | 
+| [semeval17](./profiles/semeval17) | SemEval-2017 Task 2.1 | 2017 | en | general | sim | [paper 📑](https://aclanthology.org/S17-2002.pdf), [website 🌐](https://alt.qcri.org/semeval2017/task2/) | 
+| [card660](./profiles/card660) | Card-660 | 2018 | en | general | sim | [paper 📑](https://pilehvar.github.io/card-660/Card-660.pdf), [website 🌐](https://pilehvar.github.io/card-660/) | 
+| [gtrd](./profiles/gtrd) | GTRD | 2018 | en | geographical | rel | [paper 📑](https://pdfs.semanticscholar.org/f8f1/b82386147b6a9142b2cff2dc662a3e614d80.pdf), [website 🌐](https://github.com/czgbjy/GTRD) | 
+| [word19k](./profiles/word19k) | Wikipedia Oriented Relatedness Dataset | 2018 | en | general | rel | [paper 📑](https://aclanthology.org/L18-1408.pdf), [website 🌐](https://developer.ibm.com/exchanges/data/all/wikipedia-oriented-relatedness/) | 
+| [multisimlex](./profiles/multisimlex) | Multi-SimLex | 2020 | en | general | sim | [paper 📑](https://multisimlex.com/Multi-SimLex-Paper.pdf), [website 🌐](https://multisimlex.com/) | 
+| [emocon](./profiles/emocon) | Emotion concepts 2022 | 2022 | en | general | sim | [paper 📑](https://escholarship.org/content/qt8vj3d366/qt8vj3d366.pdf), [website 🌐](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6DPPKH) | 
+| [pap900](./profiles/pap900) | PAP900 | 2024 | pt | general | rel/sim | [website 🌐](https://github.com/andrefs/PAP900) | 
 
 <!-- datasets-section-end -->
 

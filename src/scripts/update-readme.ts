@@ -111,7 +111,7 @@ function getTableFields(dsInfo: DsInfo) {
   }
 
   return {
-    id: dsInfo.id,
+    id: `[${dsInfo.id}](./profiles/${dsInfo.id})`,
     name: dsInfo.name,
     year: dsInfo.year,
     lang: dsInfo.lang,
