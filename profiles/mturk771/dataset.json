@@ -43,9 +43,9 @@
         },
         "interAnnoAgreement": [
           {
-            "method": "pearson",
+            "metric": "pearson",
             "value": 0.8957,
-            "metric": "CBRGM",
+            "method": "ARRGMA",
             "description": "To verify the agreement between raters, following Snow et al. [21], we randomly split the raters into two groups, each including 10 Mechanical Turk workers. We then averaged the numeric judgements for each word pair among the raters in each of the two sets, thus yielding a (771 element long) vector of average judgments for each set. Finally, we computed the correlation between the vectors of the two sets. We repeated this process 1000 times, and over these 1000 random splits the mean correlation between the two sets of raters was 0.8957, with extremely small variance, attesting to the quality of the collected data"
           }
         ]

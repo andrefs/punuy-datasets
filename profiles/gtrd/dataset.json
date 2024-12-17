@@ -40,14 +40,14 @@
         },
         "interAnnoAgreement": [
           {
-            "method": "pearson",
+            "metric": "pearson",
             "value": 0.86,
-            "metric": "unclear"
+            "method": "unclear"
           },
           {
-            "method": "spearman",
+            "metric": "spearman",
             "value": 0.858,
-            "metric": "unclear"
+            "method": "unclear"
           }
         ]
       }

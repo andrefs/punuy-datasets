@@ -37,9 +37,9 @@
         },
         "interAnnoAgreement": [
           {
-            "method": "pearson",
+            "metric": "pearson",
             "value": 0.769,
-            "metric": "AMIAA"
+            "method": "AMIAA"
           }
         ]
       }

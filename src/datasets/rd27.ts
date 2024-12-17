@@ -1,8 +1,8 @@
 import { DatasetProfile, Partition } from "../lib/types";
 import { lazyPartition } from "../lib/lazy-partition";
-import dataset from "../../profiles/ws353Rel/dataset.json";
+import dataset from "../../profiles/rd27/dataset.json";
 import path from "path";
-const folder = "../../profiles/ws353Rel";
+const folder = "../../profiles/rd27";
 
 const ds = {
   ...dataset,

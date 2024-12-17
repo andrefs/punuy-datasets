@@ -34,14 +34,14 @@
         },
         "interAnnoAgreement": [
           {
-            "method": "spearman",
+            "metric": "spearman",
             "value": 0.698,
-            "metric": "APIAA"
+            "method": "APIAA"
           },
           {
-            "method": "spearman",
+            "metric": "spearman",
             "value": 0.794,
-            "metric": "AMIAA"
+            "method": "AMIAA"
           }
         ]
       }

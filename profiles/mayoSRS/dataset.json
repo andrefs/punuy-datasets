@@ -44,9 +44,9 @@
         },
         "interAnnoAgreement": [
           {
-            "method": "pearson",
+            "metric": "pearson",
             "value": 0.51,
-            "metric": "unclear"
+            "method": "unclear"
           }
         ]
       }

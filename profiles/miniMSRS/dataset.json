@@ -1,5 +1,5 @@
 {
-  "id": "minimayoSRS",
+  "id": "miniMSRS",
   "metadata": {
     "name": "MiniMayoSRS",
     "authors": "Pedersen T., Pakhomov S.V.S., Patwardhan S., Chute C.G.",
@@ -25,7 +25,8 @@
   },
   "partitions": [
     {
-      "id": "physicians",
+      "id": "phy",
+      "origName": "physicians",
       "relationType": "relatedness",
       "scale": {
         "value": {
@@ -40,15 +41,16 @@
         },
         "interAnnoAgreement": [
           {
-            "method": "pearson",
+            "metric": "pearson",
             "value": 0.68,
-            "metric": "unclear"
+            "method": "unclear"
           }
         ]
       }
     },
     {
-      "id": "coders",
+      "id": "cod",
+      "origName": "coders",
       "relationType": "relatedness",
       "scale": {
         "value": {
@@ -63,9 +65,9 @@
         },
         "interAnnoAgreement": [
           {
-            "method": "pearson",
+            "metric": "pearson",
             "value": 0.78,
-            "metric": "unclear"
+            "method": "unclear"
           }
         ]
       }

@@ -37,9 +37,9 @@
         },
         "interAnnoAgreement": [
           {
-            "method": "spearman",
+            "metric": "spearman",
             "value": 0.76,
-            "metric": "APIAA",
+            "method": "APIAA",
             "description": "We measured inter-subject agreement as the average pairwise correlation coefficient (Spearman’s ρ) between the ratings of all annotators for each task."
           }
         ]
