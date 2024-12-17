@@ -1,0 +1,147 @@
+[
+    {
+        "value": 4,
+        "term1": "Renal failure",
+        "term2": "Kidney failure"
+    },
+    {
+        "value": 3.3,
+        "term1": "Abortion",
+        "term2": "Miscarriage"
+    },
+    {
+        "value": 3,
+        "term1": "Heart",
+        "term2": "Myocardium"
+    },
+    {
+        "value": 2.8,
+        "term1": "Stroke",
+        "term2": "Infarct"
+    },
+    {
+        "value": 2.2,
+        "term1": "Delusion",
+        "term2": "Schizophrenia"
+    },
+    {
+        "value": 2,
+        "term1": "Calcification",
+        "term2": "Stenosis"
+    },
+    {
+        "value": 1.8,
+        "term1": "Tumor metastasis",
+        "term2": "Adenocarcinoma"
+    },
+    {
+        "value": 1.4,
+        "term1": "Congestive heart failure",
+        "term2": "Pulmonary edema"
+    },
+    {
+        "value": 1.4,
+        "term1": "Pulmonary fibrosis",
+        "term2": "Malignant tumor of lung"
+    },
+    {
+        "value": 1.3,
+        "term1": "Diarrhea",
+        "term2": "Stomach cramps"
+    },
+    {
+        "value": 1.3,
+        "term1": "Mitral stenosis",
+        "term2": "Atrial fibrillation"
+    },
+    {
+        "value": 1.3,
+        "term1": "Brain tumor",
+        "term2": "Intracranial hemorrhage"
+    },
+    {
+        "value": 1.2,
+        "term1": "Antibiotic",
+        "term2": "Allergy"
+    },
+    {
+        "value": 1.2,
+        "term1": "Pulmonary embolus",
+        "term2": "Myocardial infarction"
+    },
+    {
+        "value": 1.1,
+        "term1": "Carpal tunnel syndrome",
+        "term2": "Osteoarthritis"
+    },
+    {
+        "value": 1.1,
+        "term1": "Rheumatoid arthritis",
+        "term2": "Lupus"
+    },
+    {
+        "value": 1,
+        "term1": "Acne",
+        "term2": "Syringe"
+    },
+    {
+        "value": 1,
+        "term1": "Diabetes mellitus",
+        "term2": "Hypertension"
+    },
+    {
+        "value": 1,
+        "term1": "Cortisone",
+        "term2": "Total knee replacement"
+    },
+    {
+        "value": 1,
+        "term1": "Cholangiocarcinoma",
+        "term2": "Colonoscopy"
+    },
+    {
+        "value": 1,
+        "term1": "Lymphoid hyperplasia",
+        "term2": "Laryngeal cancer"
+    },
+    {
+        "value": 1,
+        "term1": "Appendicitis",
+        "term2": "Osteoporosis"
+    },
+    {
+        "value": 1,
+        "term1": "Depression",
+        "term2": "Cellulitis"
+    },
+    {
+        "value": 1,
+        "term1": "Hyperlipidemia",
+        "term2": "Tumor metastasis"
+    },
+    {
+        "value": 1,
+        "term1": "Multiple sclerosis",
+        "term2": "Psychosis"
+    },
+    {
+        "value": 1,
+        "term1": "Peptic ulcer disease",
+        "term2": "Myopia"
+    },
+    {
+        "value": 1,
+        "term1": "Rectal polyp",
+        "term2": "Aorta"
+    },
+    {
+        "value": 1,
+        "term1": "Varicose vein",
+        "term2": "Entire knee meniscus"
+    },
+    {
+        "value": 1,
+        "term1": "Xerostomia",
+        "term2": "Alcoholic cirrhosis"
+    }
+]

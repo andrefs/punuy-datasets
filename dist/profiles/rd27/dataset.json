@@ -1,0 +1,95 @@
+{
+    "id": "rd27",
+    "metadata": {
+        "name": "Resnik and Diab 2000",
+        "authors": "Philip Resnik and Mona Diab",
+        "license": {
+            "name": "Apache-2.0",
+            "url": "https://www.apache.org/licenses/LICENSE-2.0"
+        },
+        "urls": ["https://github.com/psresnik/verb_similarity_2000"],
+        "papers": [
+            {
+                "title": "Measuring Verb Similarity",
+                "url": "https://escholarship.org/content/qt9bw0t5sb/qt9bw0t5sb.pdf"
+            }
+        ],
+        "date": "2000",
+        "description": "(...) human ratings of similarity for pairs of verbs (...)",
+        "downloadUrls": [
+            "https://github.com/psresnik/verb_similarity_2000/raw/refs/heads/main/diab_resnik_verb_similarity_data-DISTRIB.xls"
+        ],
+        "languages": ["en"],
+        "domain": "general",
+        "relationTypes": ["similarity"]
+    },
+    "partitions": [
+        {
+            "id": "cont",
+            "origName": "refcontext",
+            "relationType": "similarity",
+            "scale": {
+                "value": {
+                    "max": 5,
+                    "min": 0
+                },
+                "values": {
+                    "max": 5,
+                    "min": 0
+                }
+            },
+            "metrics": {
+                "annotators": {
+                    "total": 5,
+                    "minEachPair": 5
+                },
+                "interAnnoAgreement": [
+                    {
+                        "metric": "pearson",
+                        "method": "APIAA",
+                        "value": 0.653080952586427
+                    },
+                    {
+                        "metric": "pearson",
+                        "method": "ALOOA",
+                        "value": 0.792588908579945
+                    }
+                ]
+            }
+        },
+        {
+            "id": "nocont",
+            "origName": "refnocontext",
+            "relationType": "similarity",
+            "scale": {
+                "value": {
+                    "max": 5,
+                    "min": 0
+                },
+                "values": {
+                    "max": 5,
+                    "min": 0
+                }
+            },
+            "metrics": {
+                "annotators": {
+                    "total": 5,
+                    "minEachPair": 5
+                },
+                "interAnnoAgreement": [
+                    {
+                        "metric": "pearson",
+                        "method": "APIAA",
+                        "value": 0.661119556746584
+                    },
+                    {
+                        "metric": "pearson",
+                        "method": "ALOOA",
+                        "value": 0.764165878312202
+                    }
+                ]
+            }
+        }
+    ],
+    "originalInstructions": ""
+}

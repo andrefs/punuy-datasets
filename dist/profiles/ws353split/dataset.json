@@ -1,68 +1,44 @@
 {
-    "id": "ws353",
+    "id": "ws353split",
     "metadata": {
-        "name": "WordSimilarity-353",
-        "authors": "Lev Finkelstein, Evgeniy Gabrilovich, Yossi Matias, Ehud Rivlin, Zach Solan, Gadi Wolfman, and Eytan Ruppin",
-        "urls": [
-            "https://www.cs.technion.ac.il/~gabr/resources/data/wordsim353/",
-            "https://gabrilovich.com/resources/data/wordsim353/wordsim353.html"
-        ],
+        "name": "WordSim-353 Similarity and Relatedness Gold Standard",
+        "authors": "Eneko Agirre, Enrique Alfonseca, Keith Hall, Jana Kravalova, Marius Pasca, Aitor Soroa",
+        "urls": ["http://alfonseca.org/eng/research/wordsim353.html"],
         "papers": [
             {
-                "title": "Placing Search in Context: The Concept Revisited",
-                "url": "https://www.cs.tau.ac.il/~ruppin/p116-finkelstein.pdf"
+                "title": "A Study on Similarity and Relatedness Using Distributional and WordNet-based Approaches",
+                "url": "https://aclanthology.org/N09-1003.pdf"
             }
         ],
-        "date": "2002",
-        "description": "The WordSimilarity-353 Test Collection contains two sets of English word pairs along with human-assigned similarity judgements. The collection can be used to train and/or test computer algorithms implementing semantic similarity measures (i.e., algorithms that numerically estimate similarity of natural language words).",
-        "downloadUrls": [
-            "https://gabrilovich.com/resources/data/wordsim353/wordsim353.zip"
-        ],
+        "date": "2009",
+        "description": "The final goldstandards for measuring similarity and relatedness, in the same format as the WordSim353 distribution.",
+        "downloadUrls": ["http://alfonseca.org/pubs/ws353simrel.tar.gz"],
         "languages": ["en"],
         "domain": "general",
-        "relationTypes": ["similarity"]
+        "relationTypes": ["similarity", "relatedness"]
     },
     "partitions": [
         {
-            "id": "set1",
-            "relationType": "similarity",
+            "id": "rel",
+            "origName": "wordsim_relatedness_goldstandard",
+            "relationType": "relatedness",
             "scale": {
                 "value": {
-                    "min": 0,
-                    "max": 10
-                },
-                "values": {
                     "min": 0,
                     "max": 10
                 }
             },
             "metrics": {
                 "annotators": {
-                    "total": 13,
+                    "total": 29,
                     "minEachPair": 13
                 },
                 "interAnnoAgreement": []
             }
         },
         {
-            "id": "set2",
-            "relationType": "similarity",
-            "scale": {
-                "value": {
-                    "min": 0,
-                    "max": 10
-                }
-            },
-            "metrics": {
-                "annotators": {
-                    "total": 16,
-                    "minEachPair": 16
-                },
-                "interAnnoAgreement": []
-            }
-        },
-        {
-            "id": "combined",
+            "id": "sim",
+            "origName": "wordsim_similarity_goldstandard",
             "relationType": "similarity",
             "scale": {
                 "value": {
@@ -78,8 +54,8 @@
                 "interAnnoAgreement": [
                     {
                         "metric": "spearman",
-                        "value": 0.611,
-                        "method": "APIAA"
+                        "value": 0.667,
+                        "method": "unclear"
                     }
                 ]
             }

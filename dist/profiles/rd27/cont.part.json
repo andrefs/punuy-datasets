@@ -1,0 +1,164 @@
+[
+    {
+        "term1": "wiggled",
+        "term2": "rotated",
+        "values": [3, 4, 1, 2, 1],
+        "value": 2.5
+    },
+    {
+        "term1": "pricked",
+        "term2": "composed",
+        "values": [0, 0, 0, 0, 0],
+        "value": 0
+    },
+    {
+        "term1": "crinkled",
+        "term2": "boggled",
+        "values": [0, 0, 2, 0, 0],
+        "value": 0.5
+    },
+    {
+        "term1": "hacked",
+        "term2": "unfolded",
+        "values": [0, 0, 0, 0, 0],
+        "value": 0
+    },
+    {
+        "term1": "washed",
+        "term2": "sapped",
+        "values": [1, 0, 1, 0, 0],
+        "value": 0.5
+    },
+    {
+        "term1": "compressed",
+        "term2": "unionized",
+        "values": [3, 0, 1, 1, 0],
+        "value": 1.25
+    },
+    {
+        "term1": "percolated",
+        "term2": "unionized",
+        "values": [0, 0, 0, 0, 0],
+        "value": 0
+    },
+    {
+        "term1": "chilled",
+        "term2": "toughened",
+        "values": [1, 0, 2, 1, 0],
+        "value": 1
+    },
+    {
+        "term1": "filled",
+        "term2": "injected",
+        "values": [3, 1, 3, 4, 1],
+        "value": 2.75
+    },
+    {
+        "term1": "whisked",
+        "term2": "deflated",
+        "values": [1, 0, 1, 0, 0],
+        "value": 0.5
+    },
+    {
+        "term1": "composed",
+        "term2": "manufactured",
+        "values": [4, 1, 4, 4, 1],
+        "value": 3.25
+    },
+    {
+        "term1": "obsessed",
+        "term2": "disillusioned",
+        "values": [0, 0, 0, 0, 0],
+        "value": 0
+    },
+    {
+        "term1": "loosened",
+        "term2": "inflated",
+        "values": [0, 1, 1, 0, 0],
+        "value": 0.5
+    },
+    {
+        "term1": "swaggered",
+        "term2": "waddled",
+        "values": [3, 0, 3, 1, 1],
+        "value": 1.75
+    },
+    {
+        "term1": "loosened",
+        "term2": "opened",
+        "values": [4, 0, 3, 0, 2],
+        "value": 1.75
+    },
+    {
+        "term1": "displeased",
+        "term2": "disillusioned",
+        "values": [1, 0, 2, 0, 1],
+        "value": 0.75
+    },
+    {
+        "term1": "dissolved",
+        "term2": "dissipated",
+        "values": [5, 2, 5, 4, 1],
+        "value": 4
+    },
+    {
+        "term1": "plunged",
+        "term2": "bathed",
+        "values": [3, 2, 1, 0, 2],
+        "value": 1.5
+    },
+    {
+        "term1": "leaned",
+        "term2": "knelt",
+        "values": [3, 1, 2, 1, 2],
+        "value": 1.75
+    },
+    {
+        "term1": "embellished",
+        "term2": "decorated",
+        "values": [5, 4, 5, 3, 3],
+        "value": 4.25
+    },
+    {
+        "term1": "neutralized",
+        "term2": "energized",
+        "values": [0, 0, 0, 0, 1],
+        "value": 0
+    },
+    {
+        "term1": "initiated",
+        "term2": "entered",
+        "values": [4, 0, 4, 2, 3],
+        "value": 2.5
+    },
+    {
+        "term1": "opened",
+        "term2": "inflated",
+        "values": [3, 0, 0, 0, 1],
+        "value": 0.75
+    },
+    {
+        "term1": "unfolded",
+        "term2": "divorced",
+        "values": [2, 0, 0, 0, 1],
+        "value": 0.5
+    },
+    {
+        "term1": "bathed",
+        "term2": "knelt",
+        "values": [0, 0, 0, 0, 0],
+        "value": 0
+    },
+    {
+        "term1": "festooned",
+        "term2": "decorated",
+        "values": [4, 5, 5, 3, 4],
+        "value": 4.25
+    },
+    {
+        "term1": "wove",
+        "term2": "enriched",
+        "values": [0, 0, 1, 0, 1],
+        "value": 0.25
+    }
+]

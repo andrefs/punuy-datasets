@@ -21,13 +21,9 @@
         "downloadUrls": [
             "https://dax-cdn.cdn.appdomain.cloud/dax-multi-word-term-relatedness/1.0.2/multi-word-term-relatedness.tar.gz"
         ],
-        "languages": [
-            "en"
-        ],
+        "languages": ["en"],
         "domain": "general",
-        "relationTypes": [
-            "relatedness"
-        ]
+        "relationTypes": ["relatedness"]
     },
     "partitions": [
         {
@@ -47,9 +43,9 @@
                 },
                 "interAnnoAgreement": [
                     {
-                        "method": "pearson",
+                        "metric": "pearson",
                         "value": 0.8,
-                        "metric": "ARRGMA",
+                        "method": "ARRGMA",
                         "description": "To evaluate annotator agreement we followed (Halawi et al., 2012; Snow et al., 2008) and divided the annotators into two equally sized groups and measured the correlation between the results of each group. The largest subset of pairs for which the same 10 annotators labeled all pairs contained roughly 2,900 pairs. On this subset, we considered all possible splits of the annotators to groups of size 5, and for each split measured the correlation of the relatedness scores obtained by the two groups. The average Pearson correlation was 0.80. These results indicate that in spite of the admitted vagueness of the task, the average annotation score obtained by different sets of annotators is relatively stable and consistent."
                     }
                 ]

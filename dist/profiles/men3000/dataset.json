@@ -79,9 +79,9 @@
                 },
                 "interAnnoAgreement": [
                     {
-                        "method": "spearman",
+                        "metric": "spearman",
                         "value": 0.68,
-                        "metric": "other",
+                        "method": "other",
                         "description": "Because raters saw the MEN pairs matched to different random items, with the number of pairs also varying from rater to rater, it is not possible to compute annotator agreement scores for MEN. However, to get a sense of human agreement, the first and third author rated all 3,000 pairs (presented in different random orders) on a standard 1-7 Likert scale. The Spearman correlation of the two authors is at 0.68 [...]"
                     }
                 ]
