@@ -15,7 +15,7 @@ A collection of quantitative lexical semantic relations datasets, gathered from 
 | --- | --- | --- | --- | --- | --- | --- |  
 | 1 | [rg65](./profiles/rg65) | Rubenstein and Goodenough (1965) | 1965 | general | sim | [paper 📑](https://dl.acm.org/doi/pdf/10.1145/365628.365657), [website 🌐](https://dl.acm.org/doi/pdf/10.1145/365628.365657) | 
 | 2 | [mc30](./profiles/mc30) | Miller and Charles (1991) | 1991 | general | sim | [paper 📑](https://sci-hub.se/https://doi.org/10.1080/01690969108406936) | 
-| 3 | [resnik30](./profiles/resnik30) | Miller and Charles Replication | 1999 | general | sim | [paper 📑](https://jair.org/index.php/jair/article/view/10236/24361), [website 🌐](https://jair.org/index.php/jair/article/view/10236/24361) | 
+| 3 | [resnik28](./profiles/resnik28) | Miller and Charles Replication | 1999 | general | sim | [paper 📑](https://jair.org/index.php/jair/article/view/10236/24361), [website 🌐](https://jair.org/index.php/jair/article/view/10236/24361) | 
 | 4 | [rd27](./profiles/rd27) | Resnik and Diab 2000 | 2000 | general | sim | [paper 📑](https://escholarship.org/content/qt9bw0t5sb/qt9bw0t5sb.pdf), [website 🌐](https://github.com/psresnik/verb_similarity_2000) | 
 | 5 | [ws353](./profiles/ws353) | WordSimilarity-353 | 2002 | general | sim | [paper 📑](https://www.cs.tau.ac.il/~ruppin/p116-finkelstein.pdf), [website 🌐](https://www.cs.technion.ac.il/~gabr/resources/data/wordsim353/) | 
 | 6 | [yp130](./profiles/yp130) | YP-130 | 2005 | general | sim | [paper 📑](http://david.wardpowers.info/Research/AI/papers/200601-GWC-VerbSimWN.pdf) | 

@@ -1,9 +1,11 @@
 {
-  "id": "resnik30",
+  "id": "resnik28",
   "metadata": {
     "name": "Miller and Charles Replication",
     "authors": "PhilipResnik",
-    "urls": ["https://jair.org/index.php/jair/article/view/10236/24361"],
+    "urls": [
+      "https://jair.org/index.php/jair/article/view/10236/24361"
+    ],
     "papers": [
       {
         "title": "Semantic Similarity in a Taxonomy:An Information-Based Measure and its Application to Problems of Ambiguity in Natural Language",
@@ -15,9 +17,13 @@
     "downloadUrls": [
       "https://jair.org/index.php/jair/article/view/10236/24361"
     ],
-    "languages": ["en"],
+    "languages": [
+      "en"
+    ],
     "domain": "general",
-    "relationTypes": ["similarity"]
+    "relationTypes": [
+      "similarity"
+    ]
   },
   "partitions": [
     {
