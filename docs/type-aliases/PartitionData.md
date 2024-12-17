@@ -1,4 +1,4 @@
-[**punuy-datasets**](../README.md) • **Docs**
+[**punuy-datasets**](../README.md)
 
 ***
 
@@ -6,7 +6,7 @@
 
 # Type Alias: PartitionData
 
-> **PartitionData**: `object` & `object` \| `object`
+> **PartitionData**: `object` & \{ `stddev`: `number`; `value`: `number`; `values`: (`number` \| `null`)[]; \} \| \{ `value`: `number`; `values`: `number`[]; \}
 
 ## Type declaration
 
@@ -24,4 +24,4 @@ The second word in the pair
 
 ## Defined in
 
-[types.ts:281](https://github.com/andrefs/punuy-datasets/blob/4f59ba96fe929b822a3781d9ca2d47cb95e269c6/src/lib/types.ts#L281)
+[types.ts:280](https://github.com/andrefs/punuy-datasets/blob/d7d272910a926f6d377b1ed06f45abd703d90b54/src/lib/types.ts#L280)
