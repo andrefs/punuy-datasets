@@ -2,7 +2,7 @@
 
 [![Node.js CI](https://github.com/andrefs/punuy-datasets/actions/workflows/node.js.yml/badge.svg)](https://github.com/andrefs/punuy-datasets/actions/workflows/node.js.yml)
 
-A collection of quantitative datasets, gathered from the academic literature, for the evaluation of semantic measures between concepts or entities. Currently focused on the English and Portuguese languages.
+A collection of quantitative lexical semantic relations datasets, gathered from the academic literature, for the evaluation of semantic measures between concepts or entities. Currently focused on the English and Portuguese languages.
 
 ## Datasets
 
