@@ -59,7 +59,7 @@
     "ajv-formats": "3.0.1",
     "eslint": "9.17.0",
     "eslint-config-prettier": "9.1.0",
-    "prettier": "3.3.3",
+    "prettier": "3.4.2",
     "ts-node": "10.9.2",
     "typedoc": "0.26.11",
     "typedoc-plugin-markdown": "4.2.9",
