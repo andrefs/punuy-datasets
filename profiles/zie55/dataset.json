@@ -12,19 +12,13 @@
     ],
     "date": "2006",
     "description": "",
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "domain": "general",
     "downloadUrls": [
       "https://web.archive.org/web/20070824183036id_/http://www.informatik.uni-freiburg.de/~ksimon/papers/CIKM-06-Proximity.pdf"
     ],
-    "relationTypes": [
-      "relatedness"
-    ],
-    "tags": [
-      "entities"
-    ]
+    "relationTypes": ["relatedness"],
+    "tags": ["entities"]
   },
   "partitions": [
     {

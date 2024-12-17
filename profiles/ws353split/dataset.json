@@ -3,9 +3,7 @@
   "metadata": {
     "name": "WordSim-353 Similarity and Relatedness Gold Standard",
     "authors": "Eneko Agirre, Enrique Alfonseca, Keith Hall, Jana Kravalova, Marius Pasca, Aitor Soroa",
-    "urls": [
-      "http://alfonseca.org/eng/research/wordsim353.html"
-    ],
+    "urls": ["http://alfonseca.org/eng/research/wordsim353.html"],
     "papers": [
       {
         "title": "A Study on Similarity and Relatedness Using Distributional and WordNet-based Approaches",
@@ -14,17 +12,10 @@
     ],
     "date": "2009",
     "description": "The final goldstandards for measuring similarity and relatedness, in the same format as the WordSim353 distribution.",
-    "downloadUrls": [
-      "http://alfonseca.org/pubs/ws353simrel.tar.gz"
-    ],
-    "languages": [
-      "en"
-    ],
+    "downloadUrls": ["http://alfonseca.org/pubs/ws353simrel.tar.gz"],
+    "languages": ["en"],
     "domain": "general",
-    "relationTypes": [
-      "similarity",
-      "relatedness"
-    ]
+    "relationTypes": ["similarity", "relatedness"]
   },
   "partitions": [
     {

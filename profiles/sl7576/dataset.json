@@ -3,9 +3,7 @@
   "metadata": {
     "name": "SL7576",
     "authors": "Carina Silberer, Mirella Lapata",
-    "urls": [
-      "https://sites.google.com/view/carinasilberer"
-    ],
+    "urls": ["https://sites.google.com/view/carinasilberer"],
     "papers": [
       {
         "title": "Learning Grounded Meaning Representations with Autoencoders",
@@ -17,16 +15,10 @@
     "downloadUrls": [
       "https://drive.google.com/file/d/1qYc2R9vRB8i1WirDrDsL5gU3A81Dh2Fa/view?usp=sharing"
     ],
-    "relationTypes": [
-      "similarity"
-    ],
-    "languages": [
-      "en"
-    ],
+    "relationTypes": ["similarity"],
+    "languages": ["en"],
     "domain": "general",
-    "tags": [
-      "mturk"
-    ]
+    "tags": ["mturk"]
   },
   "partitions": [
     {
