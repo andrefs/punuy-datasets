@@ -1,6 +1,6 @@
 import bg100k from "./datasets/bg100k";
 import mayoSRS from "./datasets/mayoSRS";
-import minimayoSRS from "./datasets/minimayoSRS";
+import miniMSRS from "./datasets/miniMSRS";
 import umnsrs from "./datasets/umnsrs";
 import umnsrsMod from "./datasets/umnsrsMod";
 
@@ -55,7 +55,7 @@ export * from "./lib/types";
 export {
   bg100k,
   mayoSRS,
-  minimayoSRS,
+  miniMSRS,
   umnsrs,
   umnsrsMod,
   //
