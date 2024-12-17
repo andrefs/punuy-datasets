@@ -1,0 +1,46 @@
+{
+  "id": "ali27",
+  "metadata": {
+    "name": "Ali et al. 2018",
+    "authors": "Ashraf Ali, Fayez Alfayez, Hani Alquhayz",
+    "urls": [],
+    "papers": [
+      {
+        "title": "Semantic similarity measures between words: A brief survey",
+        "url": "https://www.researchgate.net/profile/Ashraf-Ali-31/publication/329755771_SEMANTIC_SIMILARITY_MEASURES_BETWEEN_WORDS_A_BRIEF_SURVEY/links/5c192917458515a4c7e7831e/SEMANTIC-SIMILARITY-MEASURES-BETWEEN-WORDS-A-BRIEF-SURVEY.pdf"
+      }
+    ],
+    "date": "2018",
+    "description": "(...) this new dataset is to evaluate terms that are not commonly included in dictionaries but frequently used by people today.",
+    "downloadUrls": [
+      "https://www.researchgate.net/profile/Ashraf-Ali-31/publication/329755771_SEMANTIC_SIMILARITY_MEASURES_BETWEEN_WORDS_A_BRIEF_SURVEY/links/5c192917458515a4c7e7831e/SEMANTIC-SIMILARITY-MEASURES-BETWEEN-WORDS-A-BRIEF-SURVEY.pdf"
+    ],
+    "languages": [
+      "en"
+    ],
+    "domain": "general",
+    "relationTypes": [
+      "similarity"
+    ]
+  },
+  "partitions": [
+    {
+      "id": "main",
+      "relationType": "similarity",
+      "scale": {
+        "value": {
+          "max": 1,
+          "min": 0
+        }
+      },
+      "metrics": {
+        "annotators": {
+          "total": 30,
+          "minEachPair": 30
+        },
+        "interAnnoAgreement": []
+      }
+    }
+  ],
+  "originalInstructions": ""
+}
