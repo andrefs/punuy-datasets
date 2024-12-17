@@ -48,4 +48,4 @@ Intra annotator agreement metrics
 
 ## Defined in
 
-[types.ts:246](https://github.com/andrefs/punuy-datasets/blob/ff04f8a57f18aef925244d1f8f095caac2dbfbf2/src/lib/types.ts#L246)
+[types.ts:247](https://github.com/andrefs/punuy-datasets/blob/728f37f13c647ce5730b08f32b7d0d69f32fa0c1/src/lib/types.ts#L247)

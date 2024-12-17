@@ -1,5 +1,5 @@
 {
-  "id": "minimayoSRS",
+  "id": "miniMSRS",
   "metadata": {
     "name": "MiniMayoSRS",
     "authors": "Pedersen T., Pakhomov S.V.S., Patwardhan S., Chute C.G.",
@@ -7,7 +7,9 @@
       "name": "CC0 1.0 Universal",
       "url": "https://creativecommons.org/publicdomain/zero/1.0/"
     },
-    "urls": ["https://conservancy.umn.edu/handle/11299/196265"],
+    "urls": [
+      "https://conservancy.umn.edu/handle/11299/196265"
+    ],
     "papers": [
       {
         "title": "Measures of semantic similarity and relatedness in the biomedical domain",
@@ -19,13 +21,18 @@
     "downloadUrls": [
       "https://conservancy.umn.edu/bitstream/handle/11299/196265/MiniMayoSRS.csv?sequence=2&isAllowed=y"
     ],
-    "languages": ["en"],
+    "languages": [
+      "en"
+    ],
     "domain": "biomedical",
-    "relationTypes": ["relatedness"]
+    "relationTypes": [
+      "relatedness"
+    ]
   },
   "partitions": [
     {
-      "id": "physicians",
+      "id": "phy",
+      "origName": "physicians",
       "relationType": "relatedness",
       "scale": {
         "value": {
@@ -40,15 +47,16 @@
         },
         "interAnnoAgreement": [
           {
-            "method": "pearson",
+            "metric": "pearson",
             "value": 0.68,
-            "metric": "unclear"
+            "method": "unclear"
           }
         ]
       }
     },
     {
-      "id": "coders",
+      "id": "cod",
+      "origName": "coders",
       "relationType": "relatedness",
       "scale": {
         "value": {
@@ -63,9 +71,9 @@
         },
         "interAnnoAgreement": [
           {
-            "method": "pearson",
+            "metric": "pearson",
             "value": 0.78,
-            "metric": "unclear"
+            "method": "unclear"
           }
         ]
       }

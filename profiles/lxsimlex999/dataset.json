@@ -22,9 +22,13 @@
     "downloadUrls": [
       "https://portulanclarin.net/repository/browse/lx-simlex-999/4ab1ea58e6d311e6a2aa782bcb0741351e920e18429e4d3e9d229a58030812fe/"
     ],
-    "languages": ["pt"],
+    "languages": [
+      "pt"
+    ],
     "domain": "general",
-    "relationTypes": ["similarity"]
+    "relationTypes": [
+      "similarity"
+    ]
   },
   "partitions": [
     {
@@ -43,9 +47,9 @@
         },
         "interAnnoAgreement": [
           {
-            "method": "spearman",
+            "metric": "spearman",
             "value": 0.688,
-            "metric": "APIAA",
+            "method": "APIAA",
             "description": "As it was done for English, we computed the inter-rater agreement using Spearman ρ correlation coefficient between the annotators. The inter-rater agreement in Portuguese was ρ = 0.688, which is in line with the value of the SimLex-999 inter-rater agreement (ρ = 0.67). In LX-SimLex-999, two native-speakers assigned a score to each pair, on the other hand, in SimLex-999, there were 500 annotators giving a score to each pair."
           }
         ]

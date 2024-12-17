@@ -18,9 +18,13 @@
     "downloadUrls": [
       "https://gabrilovich.com/resources/data/wordsim353/wordsim353.zip"
     ],
-    "languages": ["en"],
+    "languages": [
+      "en"
+    ],
     "domain": "general",
-    "relationTypes": ["similarity"]
+    "relationTypes": [
+      "similarity"
+    ]
   },
   "partitions": [
     {
@@ -77,9 +81,9 @@
         },
         "interAnnoAgreement": [
           {
-            "method": "spearman",
+            "metric": "spearman",
             "value": 0.611,
-            "metric": "APIAA"
+            "method": "APIAA"
           }
         ]
       }

@@ -21,9 +21,13 @@
     "downloadUrls": [
       "https://www.repository.cam.ac.uk/bitstreams/8b6bfa68-4256-4e2d-9d06-628748b2daea/download"
     ],
-    "languages": ["en"],
+    "languages": [
+      "en"
+    ],
     "domain": "general",
-    "relationTypes": ["similarity"]
+    "relationTypes": [
+      "similarity"
+    ]
   },
   "partitions": [
     {
@@ -76,15 +80,15 @@
         },
         "interAnnoAgreement": [
           {
-            "method": "spearman",
+            "metric": "spearman",
             "value": 0.86,
-            "metric": "AMIAA",
+            "method": "AMIAA",
             "description": "A complementary measure would smooth individual annotator effects. For this aim, our IAA-2 (mean) measure compares the average correlation of a human rater with the average of all the other raters. [...] SimVerb-3500 obtains [...] ρ = 0.86 (IAA-2) [...]"
           },
           {
-            "method": "spearman",
+            "metric": "spearman",
             "value": 0.84,
-            "metric": "APIAA",
+            "method": "APIAA",
             "description": "IAA-1 (pairwise) computes the average pairwise Spearman’s ρ correlation between any two raters – a common choice in previous data collection in distributional semantics (Padó et al., 2007; Reisinger and Mooney, 2010a; Silberer and Lapata, 2014; Hill et al., 2015). [...] SimVerb-3500 obtains ρ = 0.84 (IAA-1) [...]"
           }
         ]

@@ -32,7 +32,7 @@
   "partitions": [
     {
       "id": "cont",
-      "name": "refcontext",
+      "origName": "refcontext",
       "relationType": "similarity",
       "scale": {
         "value": {
@@ -51,12 +51,12 @@
         },
         "interAnnoAgreement": [
           {
-            "metric": "Pearson",
+            "metric": "pearson",
             "method": "APIAA",
             "value": 0.653080952586427
           },
           {
-            "metric": "Pearson",
+            "metric": "pearson",
             "method": "ALOOA",
             "value": 0.792588908579945
           }
@@ -65,7 +65,7 @@
     },
     {
       "id": "nocont",
-      "name": "refnocontext",
+      "origName": "refnocontext",
       "relationType": "similarity",
       "scale": {
         "value": {
@@ -84,12 +84,12 @@
         },
         "interAnnoAgreement": [
           {
-            "metric": "Pearson",
+            "metric": "pearson",
             "method": "APIAA",
             "value": 0.661119556746584
           },
           {
-            "metric": "Pearson",
+            "metric": "pearson",
             "method": "ALOOA",
             "value": 0.764165878312202
           }

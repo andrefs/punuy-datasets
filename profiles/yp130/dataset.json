@@ -12,12 +12,16 @@
     ],
     "date": "2005",
     "description": "",
-    "languages": ["en"],
+    "languages": [
+      "en"
+    ],
     "downloadUrls": [
       "http://david.wardpowers.info/Research/AI/papers/200601-GWC-130verbpairs.txt"
     ],
     "domain": "general",
-    "relationTypes": ["similarity"]
+    "relationTypes": [
+      "similarity"
+    ]
   },
   "partitions": [
     {
@@ -36,9 +40,9 @@
         },
         "interAnnoAgreement": [
           {
-            "method": "pearson",
+            "metric": "pearson",
             "value": 0.866,
-            "metric": "APIAA",
+            "method": "APIAA",
             "description": "Six colleagues (2 academic staffs and 4 postgraduates) voluntarily rated these pairs for similarity. The average correlation among these six subjects was r = 0.866."
           }
         ]

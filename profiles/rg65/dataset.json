@@ -3,7 +3,9 @@
   "metadata": {
     "name": "Rubenstein and Goodenough (1965)",
     "authors": "Herbert Rubenstein and John B. Goodenough",
-    "urls": ["https://dl.acm.org/doi/pdf/10.1145/365628.365657"],
+    "urls": [
+      "https://dl.acm.org/doi/pdf/10.1145/365628.365657"
+    ],
     "papers": [
       {
         "title": " Contextual Correlates of Synonymy",
@@ -12,10 +14,16 @@
     ],
     "date": "1965",
     "description": "",
-    "downloadUrls": ["https://dl.acm.org/doi/pdf/10.1145/365628.365657"],
-    "languages": ["en"],
+    "downloadUrls": [
+      "https://dl.acm.org/doi/pdf/10.1145/365628.365657"
+    ],
+    "languages": [
+      "en"
+    ],
     "domain": "general",
-    "relationTypes": ["similarity"]
+    "relationTypes": [
+      "similarity"
+    ]
   },
   "partitions": [
     {
@@ -34,17 +42,17 @@
         },
         "interAnnoAgreement": [
           {
-            "method": "pearson",
+            "metric": "pearson",
             "value": 0.99,
-            "metric": "other",
+            "method": "other",
             "description": "A second group of 36 subjects (Group II) front the same general population as Group participated only in the second session but gave judgments on all 65 pairs. Accordingly for each of the 65 pairs of words judged by both groups of subjects in the second session a mean judgment was calculated for Groups I and iI independently. The correlation between these two sets of means came to r=.99."
           }
         ],
         "intraAnnoAgreement": [
           {
-            "method": "pearson",
+            "metric": "pearson",
             "value": 0.85,
-            "metric": "other"
+            "method": "other"
           }
         ]
       }

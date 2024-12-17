@@ -12,13 +12,19 @@
     ],
     "date": "2006",
     "description": "",
-    "languages": ["en"],
+    "languages": [
+      "en"
+    ],
     "domain": "general",
     "downloadUrls": [
       "https://web.archive.org/web/20070824183036id_/http://www.informatik.uni-freiburg.de/~ksimon/papers/CIKM-06-Proximity.pdf"
     ],
-    "relationTypes": ["relatedness"],
-    "tags": ["entities"]
+    "relationTypes": [
+      "relatedness"
+    ],
+    "tags": [
+      "entities"
+    ]
   },
   "partitions": [
     {
@@ -37,9 +43,9 @@
         },
         "interAnnoAgreement": [
           {
-            "method": "pearson",
+            "metric": "pearson",
             "value": 0.7027,
-            "metric": "APIAA",
+            "method": "APIAA",
             "description": "We thus computed the inter-subject correlation, i.e., the Pearson correlation coefficient p(~vi, ~vj) (see Section 4.2.2) for every unordered pair {i, j} ∈ Bz ×Bz of human subjects, represented by their proximity rating vectors. Pair similarity scores were summed up and averaged afterwards:"
           }
         ]
@@ -61,9 +67,9 @@
         },
         "interAnnoAgreement": [
           {
-            "method": "pearson",
+            "metric": "pearson",
             "value": 0.7091,
-            "metric": "APIAA",
+            "method": "APIAA",
             "description": "We thus computed the inter-subject correlation, i.e., the Pearson correlation coefficient p(~vi, ~vj) (see Section 4.2.2) for every unordered pair {i, j} ∈ Bz ×Bz of human subjects, represented by their proximity rating vectors. Pair similarity scores were summed up and averaged afterwards:"
           }
         ]

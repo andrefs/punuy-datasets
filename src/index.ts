@@ -10,43 +10,42 @@ import rg65 from "./datasets/rg65";
 import srw2034 from "./datasets/srw2034";
 import ws353 from "./datasets/ws353";
 
-import ws353Rel from "./datasets/ws353Rel";
-import ws353Sim from "./datasets/ws353Sim";
+import ws353split from "./datasets/ws353split";
 import yp130 from "./datasets/yp130";
 import ps65 from "./datasets/ps65";
 import mesh2 from "./datasets/mesh2";
-
 import zie55 from "./datasets/zie55";
+
 import gm30 from "./datasets/gm30";
 import mturk771 from "./datasets/mturk771";
 import scws2003 from "./datasets/scws2003";
 import reword26 from "./datasets/reword26";
-
 import atlasify240 from "./datasets/atlasify240";
+
 import men3000 from "./datasets/men3000";
 import wp300 from "./datasets/wp300";
 import rel122 from "./datasets/rel122";
 import ma28 from "./datasets/ma28";
-
 import sl7576 from "./datasets/sl7576";
+
 import simlex999 from "./datasets/simlex999";
 import baker143 from "./datasets/baker143";
 import geresid50 from "./datasets/geresid50";
 import simverb3500 from "./datasets/simverb3500";
-
 import gtrd from "./datasets/gtrd";
+
 import word19k from "./datasets/word19k";
 import tr9856 from "./datasets/tr9856";
 import semeval17 from "./datasets/semeval17";
 import pt65 from "./datasets/pt65";
-
 import lxws353 from "./datasets/lxws353";
+
 import lxsimlex999 from "./datasets/lxsimlex999";
 import lxrw2034 from "./datasets/lxrw2034";
 import pap900 from "./datasets/pap900";
 import multisimlex from "./datasets/multisimlex";
-
 import emocon from "./datasets/emocon";
+
 import card660 from "./datasets/card660";
 import ali27 from "./datasets/ali27";
 import rd27 from "./datasets/rd27";
@@ -66,43 +65,42 @@ export {
   srw2034,
   ws353,
   //
-  ws353Sim,
-  ws353Rel,
+  ws353split,
   yp130,
   ps65,
   mesh2,
-  //
   zie55,
+  //
   gm30,
   mturk771,
   scws2003,
   reword26,
-  //
   atlasify240,
+  //
   men3000,
   wp300,
   rel122,
   ma28,
-  //
   sl7576,
+  //
   simlex999,
   baker143,
   geresid50,
   simverb3500,
-  //
   gtrd,
+  //
   word19k,
   tr9856,
   semeval17,
   pt65,
-  //
   lxws353,
+  //
   lxsimlex999,
   lxrw2034,
   pap900,
   multisimlex,
-  //
   emocon,
+  //
   card660,
   ali27,
   rd27,
