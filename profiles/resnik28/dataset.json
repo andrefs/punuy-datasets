@@ -1,0 +1,42 @@
+{
+  "id": "resnik30",
+  "metadata": {
+    "name": "Miller and Charles Replication",
+    "authors": "PhilipResnik",
+    "urls": ["https://jair.org/index.php/jair/article/view/10236/24361"],
+    "papers": [
+      {
+        "title": "Semantic Similarity in a Taxonomy:An Information-Based Measure and its Application to Problems of Ambiguity in Natural Language",
+        "url": "https://jair.org/index.php/jair/article/view/10236/24361"
+      }
+    ],
+    "date": "1999",
+    "description": "(...) replicated Miller and Charles's experiment, giving ten subjects the same 30 noun pairs",
+    "downloadUrls": [
+      "https://jair.org/index.php/jair/article/view/10236/24361"
+    ],
+    "languages": ["en"],
+    "domain": "general",
+    "relationTypes": ["similarity"]
+  },
+  "partitions": [
+    {
+      "id": "main",
+      "relationType": "similarity",
+      "scale": {
+        "value": {
+          "max": 4,
+          "min": 0
+        }
+      },
+      "metrics": {
+        "annotators": {
+          "total": 10,
+          "minEachPair": 10
+        },
+        "interAnnoAgreement": []
+      }
+    }
+  ],
+  "originalInstructions": ""
+}
