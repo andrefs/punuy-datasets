@@ -5,10 +5,10 @@ import path from "path";
 const ignoreDS: string[] = [
   //"bg100k"
 ];
-const datasetsENSectionStart = "<!-- datasets-section-start#EN -->";
-const datasetsENSectionEnd = "<!-- datasets-section-end#EN -->";
-const datasetsPTSectionStart = "<!-- datasets-section-start#PT -->";
-const datasetsPTSectionEnd = "<!-- datasets-section-end#PT -->";
+const datasetsENSectionStart = "<!-- datasets-section-start-EN -->";
+const datasetsENSectionEnd = "<!-- datasets-section-end-EN -->";
+const datasetsPTSectionStart = "<!-- datasets-section-start-PT -->";
+const datasetsPTSectionEnd = "<!-- datasets-section-end-PT -->";
 
 /* eslint-disable @typescript-eslint/no-unused-vars */
 interface DsInfo {
@@ -130,7 +130,7 @@ function getTableFields(dsInfo: DsInfo) {
 
 function genTableHeader() {
   let res = `| # | ID | Name | Year  | Domain | Sim/Rel | References \n`;
-  res += `| --- | --- | --- | --- | --- | --- |  \n`;
+  res += `| --- | --- | --- | --- | --- | --- | --- |  \n`;
   return res;
 }
 
@@ -148,8 +148,8 @@ async function main() {
     readme.substring(end, readme.length);
 
   // portuguese
-  start = readme.indexOf(datasetsPTSectionStart);
-  end = readme.indexOf(datasetsPTSectionEnd) + datasetsPTSectionEnd.length;
+  start = newReadme.indexOf(datasetsPTSectionStart);
+  end = newReadme.indexOf(datasetsPTSectionEnd) + datasetsPTSectionEnd.length;
   datasetsSection = await generateDatasetsSection("pt");
 
   newReadme =
