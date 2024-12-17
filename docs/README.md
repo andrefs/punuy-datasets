@@ -1,4 +1,4 @@
-**punuy-datasets** • **Docs**
+**punuy-datasets**
 
 ***
 
