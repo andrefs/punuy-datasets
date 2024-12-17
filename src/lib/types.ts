@@ -222,16 +222,17 @@ export type AnnotatorAgreement = {
   /**
    * The method used to calculate the correlation coefficient: Pearson's or Spearman's
    */
-  method: "spearman" | "pearson";
+  metric: "spearman" | "pearson";
   /**
    * How the value was calculated:
    * - APIAA: Average Pairwise Inter-Annotator Agreement
    * - AMIAA: Average Mean Inter-Annotator Agreement
-   * - CBRGM: Correlation Between Randomized Group Means
+   * - ARRGMA: Average Repeated Randomized Group Means Agreement
+   * - ALOOA: Leave-One-Out Agreement
    * - other: another method
    * - unclear: the method was not described in the paper
    */
-  metric: "APIAA" | "AMIAA" | "CBRGM" | "other" | "unclear";
+  method: "APIAA" | "AMIAA" | "ARRGMA" | "ALOOA" | "other" | "unclear";
   /**
    * The value of the correlation coefficient
    */
@@ -288,7 +289,7 @@ export type PartitionData = {
    */
   term2: string;
 } & (
-  | {
+    | {
       /**
        * The averaged numeric value of the semantic relation for the pair
        */
@@ -306,7 +307,7 @@ export type PartitionData = {
        */
       values?: (number | null)[];
     }
-  | {
+    | {
       /**
        * The averaged numeric value of the semantic relation for the pair
        */
@@ -319,4 +320,4 @@ export type PartitionData = {
        */
       values: number[];
     }
-);
+  );
