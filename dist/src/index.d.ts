@@ -40,5 +40,6 @@ import pap900 from "./datasets/pap900";
 import multisimlex from "./datasets/multisimlex";
 import emocon from "./datasets/emocon";
 import card660 from "./datasets/card660";
+import ali27 from "./datasets/ali27";
 export * from "./lib/types";
-export { bg100k, mayoSRS, minimayoSRS, umnsrs, umnsrsMod, mc30, mt287, rg65, srw2034, ws353, ws353Sim, ws353Rel, yp130, ps65, mesh2, zie55, gm30, mturk771, scws2003, reword26, atlasify240, men3000, wp300, rel122, ma28, sl7576, simlex999, baker143, geresid50, simverb3500, gtrd, word19k, tr9856, semeval17, pt65, lxws353, lxsimlex999, lxrw2034, pap900, multisimlex, emocon, card660, };
+export { bg100k, mayoSRS, minimayoSRS, umnsrs, umnsrsMod, mc30, mt287, rg65, srw2034, ws353, ws353Sim, ws353Rel, yp130, ps65, mesh2, zie55, gm30, mturk771, scws2003, reword26, atlasify240, men3000, wp300, rel122, ma28, sl7576, simlex999, baker143, geresid50, simverb3500, gtrd, word19k, tr9856, semeval17, pt65, lxws353, lxsimlex999, lxrw2034, pap900, multisimlex, emocon, card660, ali27, };

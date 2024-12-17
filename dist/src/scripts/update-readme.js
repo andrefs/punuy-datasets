@@ -133,7 +133,7 @@ function getTableFields(dsInfo) {
         references.push(`[website 🌐](${dsInfo.website})`);
     }
     return {
-        id: dsInfo.id,
+        id: `[${dsInfo.id}](./profiles/${dsInfo.id})`,
         name: dsInfo.name,
         year: dsInfo.year,
         lang: dsInfo.lang,

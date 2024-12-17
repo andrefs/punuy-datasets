@@ -1,0 +1,137 @@
+[
+    {
+        "term1": "Delay",
+        "term2": "racism",
+        "value": 0.119
+    },
+    {
+        "term1": "Production",
+        "term2": "hike",
+        "value": 0.175
+    },
+    {
+        "term1": "Volunteer",
+        "term2": "motto",
+        "value": 0.256
+    },
+    {
+        "term1": "Prejudice",
+        "term2": "recognition",
+        "value": 0.3
+    },
+    {
+        "term1": "tweet",
+        "term2": "snippet",
+        "value": 0.315
+    },
+    {
+        "term1": "Btw",
+        "term2": "by the way",
+        "value": 0.451
+    },
+    {
+        "term1": "investigation",
+        "term2": "effort",
+        "value": 0.459
+    },
+    {
+        "term1": "Slumdog",
+        "term2": "underprivileged",
+        "value": 0.492
+    },
+    {
+        "term1": "Secretary",
+        "term2": "senate",
+        "value": 0.506
+    },
+    {
+        "term1": "PDA",
+        "term2": "computer",
+        "value": 0.565
+    },
+    {
+        "term1": "Life",
+        "term2": "lesson",
+        "value": 0.594
+    },
+    {
+        "term1": "Weapon",
+        "term2": "secret",
+        "value": 0.606
+    },
+    {
+        "term1": "Skin",
+        "term2": "eye",
+        "value": 0.622
+    },
+    {
+        "term1": "TBA",
+        "term2": "to be announced",
+        "value": 0.625
+    },
+    {
+        "term1": "Governor",
+        "term2": "office",
+        "value": 0.634
+    },
+    {
+        "term1": "FYI",
+        "term2": "for your information",
+        "value": 0.635
+    },
+    {
+        "term1": "Qwerty",
+        "term2": "keyboard",
+        "value": 0.665
+    },
+    {
+        "term1": "FAQ",
+        "term2": "frequently asked questions",
+        "value": 0.71
+    },
+    {
+        "term1": "Thx",
+        "term2": "thanks",
+        "value": 0.785
+    },
+    {
+        "term1": "Treatment",
+        "term2": "recovery",
+        "value": 0.791
+    },
+    {
+        "term1": "Credit",
+        "term2": "card",
+        "value": 0.806
+    },
+    {
+        "term1": "War",
+        "term2": "troops",
+        "value": 0.813
+    },
+    {
+        "term1": "Nature",
+        "term2": "environment",
+        "value": 0.831
+    },
+    {
+        "term1": "Weather",
+        "term2": "forecast",
+        "value": 0.834
+    },
+    {
+        "term1": "Seafood",
+        "term2": "lobster",
+        "value": 0.87
+    },
+    {
+        "term1": "Liquid",
+        "term2": "water",
+        "value": 0.885
+    },
+    {
+        "term1": "Wi-Fi",
+        "term2": "wireless network",
+        "value": 0.915
+    }
+]
