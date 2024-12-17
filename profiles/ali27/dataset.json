@@ -15,13 +15,9 @@
     "downloadUrls": [
       "https://www.researchgate.net/profile/Ashraf-Ali-31/publication/329755771_SEMANTIC_SIMILARITY_MEASURES_BETWEEN_WORDS_A_BRIEF_SURVEY/links/5c192917458515a4c7e7831e/SEMANTIC-SIMILARITY-MEASURES-BETWEEN-WORDS-A-BRIEF-SURVEY.pdf"
     ],
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "domain": "general",
-    "relationTypes": [
-      "similarity"
-    ]
+    "relationTypes": ["similarity"]
   },
   "partitions": [
     {
