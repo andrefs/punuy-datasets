@@ -42,4 +42,4 @@ The value of the correlation coefficient
 
 ## Defined in
 
-[types.ts:221](https://github.com/andrefs/punuy-datasets/blob/05d9015ad73a7764ffa8d3b9a873726bb86486a6/src/lib/types.ts#L221)
+[types.ts:221](https://github.com/andrefs/punuy-datasets/blob/3623d098574f318c1a4505449b81b9032dc37e4a/src/lib/types.ts#L221)
