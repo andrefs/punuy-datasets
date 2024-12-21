@@ -5,7 +5,7 @@
   "scripts": {
     "typecheck": "tsc -b tsconfig.json",
     "typecheck:watch": "tsc -b tsconfig.json --watch",
-    "build": "./src/scripts/compile-schema && tsc",
+    "build": "rm -rf ./dist && ./src/scripts/compile-schema && tsc",
     "preversion": "ts-node src/scripts/update-readme.ts && npm run lint",
     "postversion": "git push && git push --tags && gh release create v$npm_package_version --title v$npm_package_version --generate-notes",
     "prepublishOnly": "npm test",
