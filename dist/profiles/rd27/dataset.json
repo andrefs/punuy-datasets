@@ -7,7 +7,9 @@
             "name": "Apache-2.0",
             "url": "https://www.apache.org/licenses/LICENSE-2.0"
         },
-        "urls": ["https://github.com/psresnik/verb_similarity_2000"],
+        "urls": [
+            "https://github.com/psresnik/verb_similarity_2000"
+        ],
         "papers": [
             {
                 "title": "Measuring Verb Similarity",
@@ -19,9 +21,13 @@
         "downloadUrls": [
             "https://github.com/psresnik/verb_similarity_2000/raw/refs/heads/main/diab_resnik_verb_similarity_data-DISTRIB.xls"
         ],
-        "languages": ["en"],
+        "languages": [
+            "en"
+        ],
         "domain": "general",
-        "relationTypes": ["similarity"]
+        "relationTypes": [
+            "similarity"
+        ]
     },
     "partitions": [
         {
@@ -51,7 +57,7 @@
                     },
                     {
                         "metric": "pearson",
-                        "method": "ALOOA",
+                        "method": "ARRGMA",
                         "value": 0.792588908579945
                     }
                 ]
@@ -84,7 +90,7 @@
                     },
                     {
                         "metric": "pearson",
-                        "method": "ALOOA",
+                        "method": "ARRGMA",
                         "value": 0.764165878312202
                     }
                 ]

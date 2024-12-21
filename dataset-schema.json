@@ -72,9 +72,8 @@
                                         "type": "string"
                                     },
                                     "method": {
-                                        "description": "How the value was calculated:\n- APIAA: Average Pairwise Inter-Annotator Agreement\n- AMIAA: Average Mean Inter-Annotator Agreement\n- ARRGMA: Average Repeated Randomized Group Means Agreement\n- ALOOA: Leave-One-Out Agreement\n- other: another method\n- unclear: the method was not described in the paper",
+                                        "description": "How the value was calculated:\n- APIAA: Average Pairwise Inter-Annotator Agreement\n- AMIAA: Average Mean Inter-Annotator Agreement\n- ARRGMA: Average Repeated Randomized Group Means Agreement\n- other: another method\n- unclear: the method was not described in the paper",
                                         "enum": [
-                                            "ALOOA",
                                             "AMIAA",
                                             "APIAA",
                                             "ARRGMA",
@@ -115,9 +114,8 @@
                                         "type": "string"
                                     },
                                     "method": {
-                                        "description": "How the value was calculated:\n- APIAA: Average Pairwise Inter-Annotator Agreement\n- AMIAA: Average Mean Inter-Annotator Agreement\n- ARRGMA: Average Repeated Randomized Group Means Agreement\n- ALOOA: Leave-One-Out Agreement\n- other: another method\n- unclear: the method was not described in the paper",
+                                        "description": "How the value was calculated:\n- APIAA: Average Pairwise Inter-Annotator Agreement\n- AMIAA: Average Mean Inter-Annotator Agreement\n- ARRGMA: Average Repeated Randomized Group Means Agreement\n- other: another method\n- unclear: the method was not described in the paper",
                                         "enum": [
-                                            "ALOOA",
                                             "AMIAA",
                                             "APIAA",
                                             "ARRGMA",

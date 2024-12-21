@@ -228,11 +228,10 @@ export type AnnotatorAgreement = {
    * - APIAA: Average Pairwise Inter-Annotator Agreement
    * - AMIAA: Average Mean Inter-Annotator Agreement
    * - ARRGMA: Average Repeated Randomized Group Means Agreement
-   * - ALOOA: Leave-One-Out Agreement
    * - other: another method
    * - unclear: the method was not described in the paper
    */
-  method: "APIAA" | "AMIAA" | "ARRGMA" | "ALOOA" | "other" | "unclear";
+  method: "APIAA" | "AMIAA" | "ARRGMA" | "other" | "unclear";
   /**
    * The value of the correlation coefficient
    */
@@ -289,7 +288,7 @@ export type PartitionData = {
    */
   term2: string;
 } & (
-  | {
+    | {
       /**
        * The averaged numeric value of the semantic relation for the pair
        */
@@ -307,7 +306,7 @@ export type PartitionData = {
        */
       values?: (number | null)[];
     }
-  | {
+    | {
       /**
        * The averaged numeric value of the semantic relation for the pair
        */
@@ -320,4 +319,4 @@ export type PartitionData = {
        */
       values: number[];
     }
-);
+  );

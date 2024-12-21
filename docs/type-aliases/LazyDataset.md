@@ -16,4 +16,4 @@
 
 ## Defined in
 
-[types.ts:3](https://github.com/andrefs/punuy-datasets/blob/d746e3ef5656601a702664bcd21cf211063ba139/src/lib/types.ts#L3)
+[types.ts:3](https://github.com/andrefs/punuy-datasets/blob/f2ef4ee5d4153505790dfb59e0688e79780dc46e/src/lib/types.ts#L3)
