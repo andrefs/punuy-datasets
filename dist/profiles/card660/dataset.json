@@ -3,9 +3,7 @@
     "metadata": {
         "name": "Card-660",
         "authors": "M.T. Pilehvar, D. Kartsaklis, V. Prokhorov, and N. Collier",
-        "urls": [
-            "https://pilehvar.github.io/card-660/"
-        ],
+        "urls": ["https://pilehvar.github.io/card-660/"],
         "papers": [
             {
                 "title": "Card-660: Cambridge Rare Word Dataset -- a Reliable Benchmark for Infrequent Word Representation Models",
@@ -14,16 +12,10 @@
         ],
         "date": "2018",
         "description": "Card-660 is a challenging, yet reliable, benchmark for the evaluation of subword and rare word representation techniques. The dataset provides multiple advantages over existing benchmarks, including a very high inter-annotator agreement (IAA) of around 0.90, which is substantially higher than that for existing rare word datasets (Stanford Rare Word Similarity, with an estimated IAA of 0.41).",
-        "downloadUrls": [
-            "https://pilehvar.github.io/card-660/card-660.zip"
-        ],
-        "languages": [
-            "en"
-        ],
+        "downloadUrls": ["https://pilehvar.github.io/card-660/card-660.zip"],
+        "languages": ["en"],
         "domain": "general",
-        "relationTypes": [
-            "similarity"
-        ]
+        "relationTypes": ["similarity"]
     },
     "partitions": [
         {
