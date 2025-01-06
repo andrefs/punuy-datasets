@@ -50,6 +50,7 @@ import card660 from "./datasets/card660";
 import ali27 from "./datasets/ali27";
 import rd27 from "./datasets/rd27";
 import resnik28 from "./datasets/resnik28";
+import sstars13 from "./datasets/sstars13";
 
 export * from "./lib/types";
 
@@ -106,4 +107,6 @@ export {
   ali27,
   rd27,
   resnik28,
+  sstars13,
+  //
 };

@@ -1,0 +1,59 @@
+{
+  "id": "sstars13",
+  "metadata": {
+    "name": "Shooting-Stars",
+    "license": {
+      "name": "CC BY-ND 4.0",
+      "url": "https://creativecommons.org/licenses/by-nd/4.0/"
+    },
+    "authors": "A. F. Santos, J. P. Leal",
+    "urls": [
+      "https://github.com/andrefs/grettir-datasets/blob/main/stars-2021115.txt"
+    ],
+    "papers": [
+      {
+        "title": "A game with a purpose for building crowdsourced semantic relations datasets for named entities",
+        "url": "https://drive.google.com/file/d/1PNlPMH2lQx3BJI8kEAQjVeLoiezeY1x8/view"
+      }
+    ],
+    "date": "2023",
+    "description": "Pairs of music artists sorted by relatedness",
+    "downloadUrls": [
+      "https://raw.githubusercontent.com/andrefs/grettir-datasets/refs/heads/main/stars-2021115.txt"
+    ],
+    "languages": [
+      "en"
+    ],
+    "domain": "general",
+    "relationTypes": [
+      "relatedness"
+    ]
+  },
+  "partitions": [
+    {
+      "id": "main",
+      "origName": "main",
+      "relationType": "relatedness",
+      "scale": {
+        "value": {
+          "min": 1,
+          "max": 13
+        }
+      },
+      "metrics": {
+        "annotators": {
+          "total": 1001,
+          "minEachPair": null
+        },
+        "interAnnoAgreement": [
+          {
+            "metric": "pearson",
+            "value": 0.693,
+            "method": "other"
+          }
+        ]
+      }
+    }
+  ],
+  "originalInstructions": ""
+}
