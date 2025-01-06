@@ -56,4 +56,4 @@ The minimum value of the scale
 
 ## Defined in
 
-[types.ts:187](https://github.com/andrefs/punuy-datasets/blob/62395e22607c10316d273a1041b6312c8db74143/src/lib/types.ts#L187)
+[types.ts:187](https://github.com/andrefs/punuy-datasets/blob/488b54fe92414f0a7dd9fb89b53ed2e061e97053/src/lib/types.ts#L187)
