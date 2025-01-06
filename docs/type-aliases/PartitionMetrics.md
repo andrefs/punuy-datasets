@@ -1,4 +1,4 @@
-[**punuy-datasets**](../README.md) • **Docs**
+[**punuy-datasets**](../README.md)
 
 ***
 
@@ -8,6 +8,8 @@
 
 > **PartitionMetrics**: `object`
 
+Defined in: [types.ts:246](https://github.com/andrefs/punuy-datasets/blob/a59e12be452ddcfc246ad1c567beef2f78e13a55/src/lib/types.ts#L246)
+
 ## Type declaration
 
 ### annotators
@@ -16,19 +18,19 @@
 
 The number of annotators
 
-### annotators.fixedColumns?
+#### annotators.fixedColumns?
 
 > `optional` **fixedColumns**: `boolean`
 
 Whether each column in .values corresponds to a single annotator
 
-### annotators.minEachPair
+#### annotators.minEachPair
 
 > **minEachPair**: `number` \| `null`
 
 The minimum number of annotators for each pair
 
-### annotators.total
+#### annotators.total
 
 > **total**: `number` \| `null`
 
@@ -45,7 +47,3 @@ Inter annotator agreement metrics
 > `optional` **intraAnnoAgreement**: [`AnnotatorAgreement`](AnnotatorAgreement.md)[]
 
 Intra annotator agreement metrics
-
-## Defined in
-
-[types.ts:246](https://github.com/andrefs/punuy-datasets/blob/488b54fe92414f0a7dd9fb89b53ed2e061e97053/src/lib/types.ts#L246)

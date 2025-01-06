@@ -61,8 +61,8 @@
     "eslint-config-prettier": "9.1.0",
     "prettier": "3.4.2",
     "ts-node": "10.9.2",
-    "typedoc": "0.26.11",
-    "typedoc-plugin-markdown": "4.2.9",
+    "typedoc": "0.27.6",
+    "typedoc-plugin-markdown": "4.4.1",
     "typescript-json-schema": "0.65.1"
   },
   "overrides": {
@@ -72,6 +72,6 @@
     "patch-package": "8.0.0",
     "pino": "9.6.0",
     "pino-pretty": "13.0.0",
-    "typescript-eslint": "8.12.2"
+    "typescript-eslint": "8.19.0"
   }
 }

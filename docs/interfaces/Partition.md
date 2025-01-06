@@ -1,4 +1,4 @@
-[**punuy-datasets**](../README.md) • **Docs**
+[**punuy-datasets**](../README.md)
 
 ***
 
@@ -6,17 +6,17 @@
 
 # Interface: Partition
 
+Defined in: [types.ts:150](https://github.com/andrefs/punuy-datasets/blob/a59e12be452ddcfc246ad1c567beef2f78e13a55/src/lib/types.ts#L150)
+
 ## Properties
 
 ### data
 
 > **data**: [`PartitionDataArray`](../type-aliases/PartitionDataArray.md)
 
+Defined in: [types.ts:179](https://github.com/andrefs/punuy-datasets/blob/a59e12be452ddcfc246ad1c567beef2f78e13a55/src/lib/types.ts#L179)
+
 The data for the partition
-
-#### Defined in
-
-[types.ts:179](https://github.com/andrefs/punuy-datasets/blob/488b54fe92414f0a7dd9fb89b53ed2e061e97053/src/lib/types.ts#L179)
 
 ***
 
@@ -24,11 +24,9 @@ The data for the partition
 
 > `optional` **description**: `string`
 
+Defined in: [types.ts:164](https://github.com/andrefs/punuy-datasets/blob/a59e12be452ddcfc246ad1c567beef2f78e13a55/src/lib/types.ts#L164)
+
 A description of the partition
-
-#### Defined in
-
-[types.ts:164](https://github.com/andrefs/punuy-datasets/blob/488b54fe92414f0a7dd9fb89b53ed2e061e97053/src/lib/types.ts#L164)
 
 ***
 
@@ -36,11 +34,9 @@ A description of the partition
 
 > **id**: `string`
 
+Defined in: [types.ts:154](https://github.com/andrefs/punuy-datasets/blob/a59e12be452ddcfc246ad1c567beef2f78e13a55/src/lib/types.ts#L154)
+
 An identifier for the partition
-
-#### Defined in
-
-[types.ts:154](https://github.com/andrefs/punuy-datasets/blob/488b54fe92414f0a7dd9fb89b53ed2e061e97053/src/lib/types.ts#L154)
 
 ***
 
@@ -48,11 +44,9 @@ An identifier for the partition
 
 > **metrics**: [`PartitionMetrics`](../type-aliases/PartitionMetrics.md)
 
+Defined in: [types.ts:184](https://github.com/andrefs/punuy-datasets/blob/a59e12be452ddcfc246ad1c567beef2f78e13a55/src/lib/types.ts#L184)
+
 Evaluation metrics for the partition
-
-#### Defined in
-
-[types.ts:184](https://github.com/andrefs/punuy-datasets/blob/488b54fe92414f0a7dd9fb89b53ed2e061e97053/src/lib/types.ts#L184)
 
 ***
 
@@ -60,11 +54,9 @@ Evaluation metrics for the partition
 
 > `optional` **origName**: `string`
 
+Defined in: [types.ts:159](https://github.com/andrefs/punuy-datasets/blob/a59e12be452ddcfc246ad1c567beef2f78e13a55/src/lib/types.ts#L159)
+
 Original name of the partition
-
-#### Defined in
-
-[types.ts:159](https://github.com/andrefs/punuy-datasets/blob/488b54fe92414f0a7dd9fb89b53ed2e061e97053/src/lib/types.ts#L159)
 
 ***
 
@@ -72,11 +64,9 @@ Original name of the partition
 
 > **relationType**: [`RelationType`](../type-aliases/RelationType.md)
 
+Defined in: [types.ts:169](https://github.com/andrefs/punuy-datasets/blob/a59e12be452ddcfc246ad1c567beef2f78e13a55/src/lib/types.ts#L169)
+
 Which type of semantic relation is used to compare the words
-
-#### Defined in
-
-[types.ts:169](https://github.com/andrefs/punuy-datasets/blob/488b54fe92414f0a7dd9fb89b53ed2e061e97053/src/lib/types.ts#L169)
 
 ***
 
@@ -84,8 +74,6 @@ Which type of semantic relation is used to compare the words
 
 > **scale**: [`PartitionScale`](../type-aliases/PartitionScale.md)
 
+Defined in: [types.ts:174](https://github.com/andrefs/punuy-datasets/blob/a59e12be452ddcfc246ad1c567beef2f78e13a55/src/lib/types.ts#L174)
+
 The scale of the semantic relation values
-
-#### Defined in
-
-[types.ts:174](https://github.com/andrefs/punuy-datasets/blob/488b54fe92414f0a7dd9fb89b53ed2e061e97053/src/lib/types.ts#L174)

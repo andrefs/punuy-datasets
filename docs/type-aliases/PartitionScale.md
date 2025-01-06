@@ -1,4 +1,4 @@
-[**punuy-datasets**](../README.md) • **Docs**
+[**punuy-datasets**](../README.md)
 
 ***
 
@@ -8,6 +8,8 @@
 
 > **PartitionScale**: `object`
 
+Defined in: [types.ts:187](https://github.com/andrefs/punuy-datasets/blob/a59e12be452ddcfc246ad1c567beef2f78e13a55/src/lib/types.ts#L187)
+
 ## Type declaration
 
 ### value
@@ -16,17 +18,17 @@
 
 The scale for the .value property
 
-### value.max
+#### value.max
 
 > **max**: `number`
 
 The maximum value of the scale
 
-#### Minimum
+##### Minimum
 
 1
 
-### value.min
+#### value.min
 
 > **min**: `number`
 
@@ -38,22 +40,18 @@ The minimum value of the scale
 
 The scale for the .values property (if different from the .value scale)
 
-### values.max
+#### values.max
 
 > **max**: `number`
 
 The maximum value of the scale
 
-#### Minimum
+##### Minimum
 
 1
 
-### values.min
+#### values.min
 
 > **min**: `number`
 
 The minimum value of the scale
-
-## Defined in
-
-[types.ts:187](https://github.com/andrefs/punuy-datasets/blob/488b54fe92414f0a7dd9fb89b53ed2e061e97053/src/lib/types.ts#L187)
