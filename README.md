@@ -52,6 +52,7 @@ A collection of quantitative lexical semantic relations datasets, gathered from 
 | 37 | [word19k](./profiles/word19k) | Wikipedia Oriented Relatedness Dataset | 2018 | general | rel | [paper 📑](https://aclanthology.org/L18-1408.pdf), [website 🌐](https://developer.ibm.com/exchanges/data/all/wikipedia-oriented-relatedness/) | 
 | 38 | [multisimlex](./profiles/multisimlex) | Multi-SimLex | 2020 | general | sim | [paper 📑](https://multisimlex.com/Multi-SimLex-Paper.pdf), [website 🌐](https://multisimlex.com/) | 
 | 39 | [emocon](./profiles/emocon) | Emotion concepts 2022 | 2022 | general | sim | [paper 📑](https://escholarship.org/content/qt8vj3d366/qt8vj3d366.pdf), [website 🌐](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6DPPKH) | 
+| 40 | [sstars13](./profiles/sstars13) | Shooting-Stars | 2023 | general | rel | [paper 📑](https://drive.google.com/file/d/1PNlPMH2lQx3BJI8kEAQjVeLoiezeY1x8/view), [website 🌐](https://github.com/andrefs/grettir-datasets/blob/main/stars-2021115.txt) | 
 
 <!-- datasets-section-end-EN -->
 
@@ -135,7 +136,7 @@ Open a [GitHub issue](https://github.com/andrefs/punuy-datasets/issues) or, pref
 
 The MIT License (MIT)
 
-Copyright (c) 2019 André Santos <andrefs@andrefs.com>
+Copyright (c) 2025 André Santos <andrefs@andrefs.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
