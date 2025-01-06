@@ -22,7 +22,7 @@ false
 
 #### Defined in
 
-[types.ts:129](https://github.com/andrefs/punuy-datasets/blob/bf77d365972562cc283d62d784414ffd2f200fea/src/lib/types.ts#L129)
+[types.ts:129](https://github.com/andrefs/punuy-datasets/blob/187afbe5b9a5a97d76ead3d0c2be6d503f2eddf3/src/lib/types.ts#L129)
 
 ***
 
@@ -34,7 +34,7 @@ The name of the license
 
 #### Defined in
 
-[types.ts:116](https://github.com/andrefs/punuy-datasets/blob/bf77d365972562cc283d62d784414ffd2f200fea/src/lib/types.ts#L116)
+[types.ts:116](https://github.com/andrefs/punuy-datasets/blob/187afbe5b9a5a97d76ead3d0c2be6d503f2eddf3/src/lib/types.ts#L116)
 
 ***
 
@@ -50,4 +50,4 @@ uri
 
 #### Defined in
 
-[types.ts:123](https://github.com/andrefs/punuy-datasets/blob/bf77d365972562cc283d62d784414ffd2f200fea/src/lib/types.ts#L123)
+[types.ts:123](https://github.com/andrefs/punuy-datasets/blob/187afbe5b9a5a97d76ead3d0c2be6d503f2eddf3/src/lib/types.ts#L123)
