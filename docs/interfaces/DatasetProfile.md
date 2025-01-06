@@ -6,11 +6,15 @@
 
 # Interface: DatasetProfile
 
+Defined in: [types.ts:7](https://github.com/andrefs/punuy-datasets/blob/bad5b25f5ca3c55073a98a732d8e5b9a110a5b8a/src/lib/types.ts#L7)
+
 ## Properties
 
 ### id
 
 > **id**: `string`
+
+Defined in: [types.ts:13](https://github.com/andrefs/punuy-datasets/blob/bad5b25f5ca3c55073a98a732d8e5b9a110a5b8a/src/lib/types.ts#L13)
 
 An identifier for the dataset
 
@@ -18,21 +22,15 @@ An identifier for the dataset
 
 3
 
-#### Defined in
-
-[types.ts:13](https://github.com/andrefs/punuy-datasets/blob/187afbe5b9a5a97d76ead3d0c2be6d503f2eddf3/src/lib/types.ts#L13)
-
 ***
 
 ### metadata
 
 > **metadata**: [`Metadata`](Metadata.md)
 
+Defined in: [types.ts:18](https://github.com/andrefs/punuy-datasets/blob/bad5b25f5ca3c55073a98a732d8e5b9a110a5b8a/src/lib/types.ts#L18)
+
 Metadata for the dataset
-
-#### Defined in
-
-[types.ts:18](https://github.com/andrefs/punuy-datasets/blob/187afbe5b9a5a97d76ead3d0c2be6d503f2eddf3/src/lib/types.ts#L18)
 
 ***
 
@@ -40,11 +38,9 @@ Metadata for the dataset
 
 > `optional` **originalInstructions**: `string`
 
+Defined in: [types.ts:23](https://github.com/andrefs/punuy-datasets/blob/bad5b25f5ca3c55073a98a732d8e5b9a110a5b8a/src/lib/types.ts#L23)
+
 The original instructions given to the annotators
-
-#### Defined in
-
-[types.ts:23](https://github.com/andrefs/punuy-datasets/blob/187afbe5b9a5a97d76ead3d0c2be6d503f2eddf3/src/lib/types.ts#L23)
 
 ***
 
@@ -52,8 +48,6 @@ The original instructions given to the annotators
 
 > **partitions**: [`Partition`](Partition.md)[]
 
+Defined in: [types.ts:28](https://github.com/andrefs/punuy-datasets/blob/bad5b25f5ca3c55073a98a732d8e5b9a110a5b8a/src/lib/types.ts#L28)
+
 The partitions containing the dataset data
-
-#### Defined in
-
-[types.ts:28](https://github.com/andrefs/punuy-datasets/blob/187afbe5b9a5a97d76ead3d0c2be6d503f2eddf3/src/lib/types.ts#L28)

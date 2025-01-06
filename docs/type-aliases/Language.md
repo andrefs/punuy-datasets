@@ -8,6 +8,4 @@
 
 > **Language**: `"pt"` \| `"en"`
 
-## Defined in
-
-[types.ts:133](https://github.com/andrefs/punuy-datasets/blob/187afbe5b9a5a97d76ead3d0c2be6d503f2eddf3/src/lib/types.ts#L133)
+Defined in: [types.ts:133](https://github.com/andrefs/punuy-datasets/blob/bad5b25f5ca3c55073a98a732d8e5b9a110a5b8a/src/lib/types.ts#L133)
