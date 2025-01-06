@@ -1,4 +1,4 @@
-[**punuy-datasets**](../README.md)
+[**punuy-datasets**](../README.md) • **Docs**
 
 ***
 
@@ -10,4 +10,4 @@
 
 ## Defined in
 
-[types.ts:1](https://github.com/andrefs/punuy-datasets/blob/bf77d365972562cc283d62d784414ffd2f200fea/src/lib/types.ts#L1)
+[types.ts:1](https://github.com/andrefs/punuy-datasets/blob/62395e22607c10316d273a1041b6312c8db74143/src/lib/types.ts#L1)

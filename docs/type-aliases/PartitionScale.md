@@ -1,4 +1,4 @@
-[**punuy-datasets**](../README.md)
+[**punuy-datasets**](../README.md) • **Docs**
 
 ***
 
@@ -16,17 +16,17 @@
 
 The scale for the .value property
 
-#### value.max
+### value.max
 
 > **max**: `number`
 
 The maximum value of the scale
 
-##### Minimum
+#### Minimum
 
 1
 
-#### value.min
+### value.min
 
 > **min**: `number`
 
@@ -38,17 +38,17 @@ The minimum value of the scale
 
 The scale for the .values property (if different from the .value scale)
 
-#### values.max
+### values.max
 
 > **max**: `number`
 
 The maximum value of the scale
 
-##### Minimum
+#### Minimum
 
 1
 
-#### values.min
+### values.min
 
 > **min**: `number`
 
@@ -56,4 +56,4 @@ The minimum value of the scale
 
 ## Defined in
 
-[types.ts:187](https://github.com/andrefs/punuy-datasets/blob/bf77d365972562cc283d62d784414ffd2f200fea/src/lib/types.ts#L187)
+[types.ts:187](https://github.com/andrefs/punuy-datasets/blob/62395e22607c10316d273a1041b6312c8db74143/src/lib/types.ts#L187)

@@ -1,4 +1,4 @@
-[**punuy-datasets**](../README.md)
+[**punuy-datasets**](../README.md) • **Docs**
 
 ***
 
@@ -16,19 +16,19 @@
 
 The number of annotators
 
-#### annotators.fixedColumns?
+### annotators.fixedColumns?
 
 > `optional` **fixedColumns**: `boolean`
 
 Whether each column in .values corresponds to a single annotator
 
-#### annotators.minEachPair
+### annotators.minEachPair
 
 > **minEachPair**: `number` \| `null`
 
 The minimum number of annotators for each pair
 
-#### annotators.total
+### annotators.total
 
 > **total**: `number` \| `null`
 
@@ -48,4 +48,4 @@ Intra annotator agreement metrics
 
 ## Defined in
 
-[types.ts:246](https://github.com/andrefs/punuy-datasets/blob/bf77d365972562cc283d62d784414ffd2f200fea/src/lib/types.ts#L246)
+[types.ts:246](https://github.com/andrefs/punuy-datasets/blob/62395e22607c10316d273a1041b6312c8db74143/src/lib/types.ts#L246)
