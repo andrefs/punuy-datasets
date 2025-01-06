@@ -16,7 +16,7 @@ The data for the partition
 
 #### Defined in
 
-[types.ts:179](https://github.com/andrefs/punuy-datasets/blob/f2ef4ee5d4153505790dfb59e0688e79780dc46e/src/lib/types.ts#L179)
+[types.ts:179](https://github.com/andrefs/punuy-datasets/blob/bf77d365972562cc283d62d784414ffd2f200fea/src/lib/types.ts#L179)
 
 ***
 
@@ -28,7 +28,7 @@ A description of the partition
 
 #### Defined in
 
-[types.ts:164](https://github.com/andrefs/punuy-datasets/blob/f2ef4ee5d4153505790dfb59e0688e79780dc46e/src/lib/types.ts#L164)
+[types.ts:164](https://github.com/andrefs/punuy-datasets/blob/bf77d365972562cc283d62d784414ffd2f200fea/src/lib/types.ts#L164)
 
 ***
 
@@ -40,7 +40,7 @@ An identifier for the partition
 
 #### Defined in
 
-[types.ts:154](https://github.com/andrefs/punuy-datasets/blob/f2ef4ee5d4153505790dfb59e0688e79780dc46e/src/lib/types.ts#L154)
+[types.ts:154](https://github.com/andrefs/punuy-datasets/blob/bf77d365972562cc283d62d784414ffd2f200fea/src/lib/types.ts#L154)
 
 ***
 
@@ -52,7 +52,7 @@ Evaluation metrics for the partition
 
 #### Defined in
 
-[types.ts:184](https://github.com/andrefs/punuy-datasets/blob/f2ef4ee5d4153505790dfb59e0688e79780dc46e/src/lib/types.ts#L184)
+[types.ts:184](https://github.com/andrefs/punuy-datasets/blob/bf77d365972562cc283d62d784414ffd2f200fea/src/lib/types.ts#L184)
 
 ***
 
@@ -64,7 +64,7 @@ Original name of the partition
 
 #### Defined in
 
-[types.ts:159](https://github.com/andrefs/punuy-datasets/blob/f2ef4ee5d4153505790dfb59e0688e79780dc46e/src/lib/types.ts#L159)
+[types.ts:159](https://github.com/andrefs/punuy-datasets/blob/bf77d365972562cc283d62d784414ffd2f200fea/src/lib/types.ts#L159)
 
 ***
 
@@ -76,7 +76,7 @@ Which type of semantic relation is used to compare the words
 
 #### Defined in
 
-[types.ts:169](https://github.com/andrefs/punuy-datasets/blob/f2ef4ee5d4153505790dfb59e0688e79780dc46e/src/lib/types.ts#L169)
+[types.ts:169](https://github.com/andrefs/punuy-datasets/blob/bf77d365972562cc283d62d784414ffd2f200fea/src/lib/types.ts#L169)
 
 ***
 
@@ -88,4 +88,4 @@ The scale of the semantic relation values
 
 #### Defined in
 
-[types.ts:174](https://github.com/andrefs/punuy-datasets/blob/f2ef4ee5d4153505790dfb59e0688e79780dc46e/src/lib/types.ts#L174)
+[types.ts:174](https://github.com/andrefs/punuy-datasets/blob/bf77d365972562cc283d62d784414ffd2f200fea/src/lib/types.ts#L174)
