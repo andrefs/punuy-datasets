@@ -8,4 +8,4 @@
 
 > **PartitionDataArray**: [`PartitionData`](PartitionData.md)[]
 
-Defined in: [types.ts:278](https://github.com/andrefs/punuy-datasets/blob/bad5b25f5ca3c55073a98a732d8e5b9a110a5b8a/src/lib/types.ts#L278)
+Defined in: [types.ts:278](https://github.com/andrefs/punuy-datasets/blob/7f53d17cb7c3e06d14c7db45646846c8f9f9c044/src/lib/types.ts#L278)
