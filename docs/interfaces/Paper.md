@@ -6,7 +6,7 @@
 
 # Interface: Paper
 
-Defined in: [types.ts:136](https://github.com/andrefs/punuy-datasets/blob/06dd2bc3cdd665f7d6b4f2da5ac5c5bfc3957fc2/src/lib/types.ts#L136)
+Defined in: [types.ts:136](https://github.com/andrefs/punuy-datasets/blob/bd54b333c7e6c096df36b67623c01a1a17d6edf6/src/lib/types.ts#L136)
 
 ## Properties
 
@@ -14,7 +14,7 @@ Defined in: [types.ts:136](https://github.com/andrefs/punuy-datasets/blob/06dd2b
 
 > **title**: `string`
 
-Defined in: [types.ts:140](https://github.com/andrefs/punuy-datasets/blob/06dd2bc3cdd665f7d6b4f2da5ac5c5bfc3957fc2/src/lib/types.ts#L140)
+Defined in: [types.ts:140](https://github.com/andrefs/punuy-datasets/blob/bd54b333c7e6c096df36b67623c01a1a17d6edf6/src/lib/types.ts#L140)
 
 The title of the paper
 
@@ -24,7 +24,7 @@ The title of the paper
 
 > `optional` **url**: `string`
 
-Defined in: [types.ts:147](https://github.com/andrefs/punuy-datasets/blob/06dd2bc3cdd665f7d6b4f2da5ac5c5bfc3957fc2/src/lib/types.ts#L147)
+Defined in: [types.ts:147](https://github.com/andrefs/punuy-datasets/blob/bd54b333c7e6c096df36b67623c01a1a17d6edf6/src/lib/types.ts#L147)
 
 The URL where the paper can be found
 

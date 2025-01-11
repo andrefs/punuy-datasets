@@ -131,7 +131,7 @@ export interface License {
 
 export type Domain = "general" | "geographical" | "biomedical";
 export type Language = "pt" | "en";
-export type RelationType = "similarity" | "relatedness";
+export type RelationType = "similarity" | "relatedness" | "evocation";
 
 export interface Paper {
   /**
@@ -288,7 +288,7 @@ export type PartitionData = {
    */
   term2: string;
 } & (
-  | {
+    | {
       /**
        * The averaged numeric value of the semantic relation for the pair
        */
@@ -306,7 +306,7 @@ export type PartitionData = {
        */
       values?: (number | null)[];
     }
-  | {
+    | {
       /**
        * The averaged numeric value of the semantic relation for the pair
        */
@@ -319,4 +319,4 @@ export type PartitionData = {
        */
       values: number[];
     }
-);
+  );
