@@ -21,13 +21,9 @@
         "downloadUrls": [
             "https://raw.githubusercontent.com/andrefs/grettir-datasets/refs/heads/main/stars-2021115.txt"
         ],
-        "languages": [
-            "en"
-        ],
+        "languages": ["en"],
         "domain": "general",
-        "relationTypes": [
-            "relatedness"
-        ]
+        "relationTypes": ["relatedness"]
     },
     "partitions": [
         {

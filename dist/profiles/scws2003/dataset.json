@@ -15,12 +15,12 @@
         "downloadUrls": ["http://www-nlp.stanford.edu/~ehhuang/SCWS.zip"],
         "languages": ["en"],
         "domain": "general",
-        "relationTypes": ["relatedness"]
+        "relationTypes": ["similarity"]
     },
     "partitions": [
         {
             "id": "main",
-            "relationType": "relatedness",
+            "relationType": "similarity",
             "scale": {
                 "value": {
                     "max": 10.0,
