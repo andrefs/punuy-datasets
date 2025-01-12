@@ -1,0 +1,172 @@
+[
+  {
+    "term1": "England",
+    "term2": "United States",
+    "value": 12.84
+  },
+  {
+    "term1": "United States",
+    "term2": "England",
+    "value": 11.4
+  },
+  {
+    "term1": "prunes",
+    "term2": "apples",
+    "value": 9.84
+  },
+  {
+    "term1": "apples",
+    "term2": "prunes",
+    "value": 8.77
+  },
+  {
+    "term1": "Albert Einstein",
+    "term2": "Benjamin Franklin",
+    "value": 11.16
+  },
+  {
+    "term1": "Benjamin Franklin",
+    "term2": "Albert Einstein",
+    "value": 11.88
+  },
+  {
+    "term1": "blimps",
+    "term2": "cars",
+    "value": 5.0
+  },
+  {
+    "term1": "cars",
+    "term2": "blimps",
+    "value": 6.12
+  },
+  {
+    "term1": "squirrels",
+    "term2": "mice",
+    "value": 10.84
+  },
+  {
+    "term1": "mice",
+    "term2": "squirrels",
+    "value": 11.94
+  },
+  {
+    "term1": "physics",
+    "term2": "philosophy",
+    "value": 5.53
+  },
+  {
+    "term1": "philosophy",
+    "term2": "physics",
+    "value": 5.65
+  },
+  {
+    "term1": "doctors",
+    "term2": "engineers",
+    "value": 9.79
+  },
+  {
+    "term1": "engineers",
+    "term2": "doctors",
+    "value": 10.94
+  },
+  {
+    "term1": "China",
+    "term2": "Korea",
+    "value": 12.21
+  },
+  {
+    "term1": "Korea",
+    "term2": "China",
+    "value": 11.35
+  },
+  {
+    "term1": "cows",
+    "term2": "dogs",
+    "value": 8.37
+  },
+  {
+    "term1": "dogs",
+    "term2": "cows",
+    "value": 7.47
+  },
+  {
+    "term1": "chocolate bars",
+    "term2": "popcorn",
+    "value": 7.11
+  },
+  {
+    "term1": "popcorn",
+    "term2": "chocolate bars",
+    "value": 7.47
+  },
+  {
+    "term1": "Wisconsin",
+    "term2": "Michigan",
+    "value": 11.26
+  },
+  {
+    "term1": "Michigan",
+    "term2": "Wisconsin",
+    "value": 11.65
+  },
+  {
+    "term1": "pencils",
+    "term2": "crayons",
+    "value": 12.68
+  },
+  {
+    "term1": "crayons",
+    "term2": "pencils",
+    "value": 15.13
+  },
+  {
+    "term1": "Spanish",
+    "term2": "English",
+    "value": 8.16
+  },
+  {
+    "term1": "English",
+    "term2": "Spanish",
+    "value": 7.94
+  },
+  {
+    "term1": "skateboards",
+    "term2": "bicycles",
+    "value": 10.37
+  },
+  {
+    "term1": "bicycles",
+    "term2": "skateboards",
+    "value": 11.24
+  },
+  {
+    "term1": "frisbees",
+    "term2": "boomerangs",
+    "value": 11.16
+  },
+  {
+    "term1": "boomerangs",
+    "term2": "frisbees",
+    "value": 12.94
+  },
+  {
+    "term1": "Russia",
+    "term2": "Poland",
+    "value": 11.21
+  },
+  {
+    "term1": "Poland",
+    "term2": "Russia",
+    "value": 10.39
+  },
+  {
+    "term1": "gorillas",
+    "term2": "elephants",
+    "value": 8.42
+  },
+  {
+    "term1": "elephants",
+    "term2": "gorillas",
+    "value": 7.5
+  }
+]
