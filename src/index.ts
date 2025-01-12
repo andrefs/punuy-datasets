@@ -53,6 +53,7 @@ import resnik28 from "./datasets/resnik28";
 import sstars13 from "./datasets/sstars13";
 
 import tversky42 from "./datasets/tversky42";
+import mervis210 from "./datasets/mervis210";
 
 export * from "./lib/types";
 
@@ -112,4 +113,5 @@ export {
   sstars13,
   //
   tversky42,
+  mervis210,
 };
