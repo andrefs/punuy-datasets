@@ -1,0 +1,47 @@
+{
+  "id": "mervis210",
+  "metadata": {
+    "name": "Mervis 210",
+    "authors": "Mervis, C. B., Rips, L., Rosch, E., Shoben, E. J., & Smith, E. E.",
+    "urls": [],
+    "papers": [
+      {
+        "title": "Nearest neighbor analysis of psychological spaces.",
+        "url": "https://www.researchgate.net/profile/J-Hutchinson-3/publication/232570742_Nearest_Neighbor_Analysis_of_Psychological_Spaces/links/00b4953342b9cc0ed1000000/Nearest-Neighbor-Analysis-of-Psychological-Spaces.pdf?__cf_chl_tk=TYUjnEV._cacEm4VeeXyQfghi_rQs.xukfy5XPyVeuk-1736643598-1.0.1.1-G3dCZbzFacLlfPJ3mLAynHLHfBawHJAQSIYJJPCZTJc"
+      }
+    ],
+    "date": "1975",
+    "description": "(...) the average ratings of relatedness between fruits on a scale from 0 (unrelated) to 4 (highly related).",
+    "downloadUrls": [
+      "https://www.researchgate.net/profile/J-Hutchinson-3/publication/232570742_Nearest_Neighbor_Analysis_of_Psychological_Spaces/links/00b4953342b9cc0ed1000000/Nearest-Neighbor-Analysis-of-Psychological-Spaces.pdf?__cf_chl_tk=TYUjnEV._cacEm4VeeXyQfghi_rQs.xukfy5XPyVeuk-1736643598-1.0.1.1-G3dCZbzFacLlfPJ3mLAynHLHfBawHJAQSIYJJPCZTJc"
+    ],
+    "languages": [
+      "en"
+    ],
+    "domain": "general",
+    "relationTypes": [
+      "relatedness"
+    ]
+  },
+  "partitions": [
+    {
+      "id": "main",
+      "origName": "table-5.1",
+      "relationType": "relatedness",
+      "scale": {
+        "value": {
+          "min": 0,
+          "max": 4
+        }
+      },
+      "metrics": {
+        "annotators": {
+          "total": null,
+          "minEachPair": null
+        },
+        "interAnnoAgreement": []
+      }
+    }
+  ],
+  "originalInstructions": ""
+}

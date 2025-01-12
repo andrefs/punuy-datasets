@@ -52,6 +52,10 @@ import rd27 from "./datasets/rd27";
 import resnik28 from "./datasets/resnik28";
 import sstars13 from "./datasets/sstars13";
 
+import tversky42 from "./datasets/tversky42";
+import mervis210 from "./datasets/mervis210";
+import medin34 from "./datasets/medin34";
+
 export * from "./lib/types";
 
 export {
@@ -109,4 +113,7 @@ export {
   resnik28,
   sstars13,
   //
+  tversky42,
+  mervis210,
+  medin34,
 };

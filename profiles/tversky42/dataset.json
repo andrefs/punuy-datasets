@@ -1,0 +1,47 @@
+{
+  "id": "tversky42",
+  "metadata": {
+    "name": "Tversky42",
+    "authors": "Tversky and Gati",
+    "urls": [],
+    "papers": [
+      {
+        "title": "Studies of similarity",
+        "url": "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=3840ba46475c2c8d39bb786d304584cb84ae0a10#page=92"
+      }
+    ],
+    "date": "1979",
+    "description": "(...) we constructed 21 pairs of countries so that one element of the pair is considerably more prominent than the other (e.g., U.S.A.–Mexico, Belgium–Luxembourg).",
+    "downloadUrls": [
+      "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=3840ba46475c2c8d39bb786d304584cb84ae0a10#page=92"
+    ],
+    "languages": [
+      "en"
+    ],
+    "domain": "general",
+    "relationTypes": [
+      "similarity"
+    ]
+  },
+  "partitions": [
+    {
+      "id": "main",
+      "origName": "table-3.2",
+      "relationType": "similarity",
+      "scale": {
+        "value": {
+          "min": 1,
+          "max": 20
+        }
+      },
+      "metrics": {
+        "annotators": {
+          "total": 154,
+          "minEachPair": 77
+        },
+        "interAnnoAgreement": []
+      }
+    }
+  ],
+  "originalInstructions": ""
+}
