@@ -80,13 +80,13 @@
     "value": 13.49
   },
   {
-    "term1": "W.Germany",
+    "term1": "W. Germany",
     "term2": "Austria",
     "value": 15.6
   },
   {
     "term1": "Austria",
-    "term2": "W.Germany",
+    "term2": "W. Germany",
     "value": 15.2
   },
   {
@@ -121,11 +121,11 @@
   },
   {
     "term1": "China",
-    "term2": "N.Korea",
+    "term2": "N. Korea",
     "value": 13.13
   },
   {
-    "term1": "N.Korea",
+    "term1": "N. Korea",
     "term2": "China",
     "value": 14.22
   },
@@ -181,11 +181,11 @@
   },
   {
     "term1": "U.S.A.",
-    "term2": "W.Germany",
+    "term2": "W. Germany",
     "value": 11.3
   },
   {
-    "term1": "W.Germany",
+    "term1": "W. Germany",
     "term2": "U.S.A.",
     "value": 10.7
   },
@@ -197,7 +197,7 @@
   {
     "term1": "Syria",
     "term2": "U.S.S.R.",
-    "value": 0.51
+    "value": 8.51
   },
   {
     "term1": "France",
