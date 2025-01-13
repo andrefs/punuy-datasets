@@ -8,4 +8,4 @@
 
 > **Domain**: `"general"` \| `"geographical"` \| `"biomedical"`
 
-Defined in: [types.ts:132](https://github.com/andrefs/punuy-datasets/blob/591a8407246ef03682f112f110fef03ef9124e08/src/lib/types.ts#L132)
+Defined in: [types.ts:132](https://github.com/andrefs/punuy-datasets/blob/03851b8f48601847a6d913b268f740f2a64bc939/src/lib/types.ts#L132)
