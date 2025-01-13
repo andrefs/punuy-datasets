@@ -33,6 +33,10 @@
                 "value": {
                     "max": 10,
                     "min": 0
+                },
+                "values": {
+                    "min": 0,
+                    "max": 6
                 }
             },
             "metrics": {
@@ -50,6 +54,10 @@
                 "value": {
                     "max": 10,
                     "min": 0
+                },
+                "values": {
+                    "min": 0,
+                    "max": 6
                 }
             },
             "metrics": {
@@ -67,6 +75,10 @@
                 "value": {
                     "max": 10,
                     "min": 0
+                },
+                "values": {
+                    "min": 0,
+                    "max": 6
                 }
             },
             "metrics": {
