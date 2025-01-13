@@ -21,9 +21,13 @@
     "downloadUrls": [
       "https://www.repository.cam.ac.uk/bitstreams/8b6bfa68-4256-4e2d-9d06-628748b2daea/download"
     ],
-    "languages": ["en"],
+    "languages": [
+      "en"
+    ],
     "domain": "general",
-    "relationTypes": ["similarity"]
+    "relationTypes": [
+      "similarity"
+    ]
   },
   "partitions": [
     {
@@ -33,6 +37,10 @@
         "value": {
           "max": 10,
           "min": 0
+        },
+        "values": {
+          "min": 0,
+          "max": 6
         }
       },
       "metrics": {
@@ -50,6 +58,10 @@
         "value": {
           "max": 10,
           "min": 0
+        },
+        "values": {
+          "min": 0,
+          "max": 6
         }
       },
       "metrics": {
@@ -67,6 +79,10 @@
         "value": {
           "max": 10,
           "min": 0
+        },
+        "values": {
+          "min": 0,
+          "max": 6
         }
       },
       "metrics": {

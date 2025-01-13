@@ -39,6 +39,12 @@
                         "value": 0.673,
                         "method": "APIAA",
                         "description": "As in previous annotation or data collection for computational semantics (Pado, Pado and Erk 2007; Reisinger and Mooney 2010a; Silberer and Lapata 2014) we computed the inter-rater agreement as the average of pairwise Spearman ρ correlations between the ratings of all respondents. . Overall agreement was ρ = 0.67. This compares favorably with the agreement on WS-353 (ρ = 0.61 using the same method). The design of the MEN rating system precludes a conventional calculation of inter-rater agreement (Bruni et al. 2012b). However, two of the creators of MEN who independently rated the data set achieved an agreement of ρ = 0.68."
+                    },
+                    {
+                        "metric": "spearman",
+                        "value": 0.78,
+                        "method": "AMIAA",
+                        "description": "(...) However, it may be fairer to compare the performance of models with the average correlation of a human rater with the average of all the other raters. This number is 0.78."
                     }
                 ]
             }
