@@ -108,7 +108,7 @@ export interface License {
 }
 export type Domain = "general" | "geographical" | "biomedical";
 export type Language = "pt" | "en";
-export type RelationType = "similarity" | "relatedness";
+export type RelationType = "similarity" | "relatedness" | "evocation";
 export interface Paper {
     /**
      * The title of the paper

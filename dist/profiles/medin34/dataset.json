@@ -1,0 +1,42 @@
+{
+    "id": "medin34",
+    "metadata": {
+        "name": "Medin 34",
+        "authors": "Medin, Douglas L and Goldstone, Robert L and Gentner, Dedre",
+        "urls": [],
+        "papers": [
+            {
+                "title": "Respects for similarity",
+                "url": "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=d2c6fea244369a58e597e056eac0eac07c113bb9"
+            }
+        ],
+        "date": "1993",
+        "description": "",
+        "downloadUrls": [
+            "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=d2c6fea244369a58e597e056eac0eac07c113bb9"
+        ],
+        "languages": ["en"],
+        "domain": "general",
+        "relationTypes": ["similarity"]
+    },
+    "partitions": [
+        {
+            "id": "main",
+            "relationType": "similarity",
+            "scale": {
+                "value": {
+                    "min": 1,
+                    "max": 20
+                }
+            },
+            "metrics": {
+                "annotators": {
+                    "total": 36,
+                    "minEachPair": 18
+                },
+                "interAnnoAgreement": []
+            }
+        }
+    ],
+    "originalInstructions": ""
+}

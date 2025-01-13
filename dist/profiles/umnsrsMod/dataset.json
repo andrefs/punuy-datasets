@@ -22,7 +22,7 @@
         ],
         "languages": ["en"],
         "domain": "biomedical",
-        "relationTypes": ["relatedness", "similarity"]
+        "relationTypes": ["similarity", "relatedness"]
     },
     "partitions": [
         {

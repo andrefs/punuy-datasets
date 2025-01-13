@@ -15,13 +15,9 @@
     "downloadUrls": [
       "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=3840ba46475c2c8d39bb786d304584cb84ae0a10#page=92"
     ],
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "domain": "general",
-    "relationTypes": [
-      "similarity"
-    ]
+    "relationTypes": ["similarity"]
   },
   "partitions": [
     {

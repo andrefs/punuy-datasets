@@ -21,7 +21,7 @@
         "downloadUrls": [
             "https://wordnet.cs.princeton.edu/downloads/evocation.zip"
         ],
-        "relationTypes": ["similarity"],
+        "relationTypes": ["evocation"],
         "languages": ["en"],
         "domain": "general",
         "tags": ["mturk"],
@@ -30,7 +30,7 @@
     "partitions": [
         {
             "id": "controlled",
-            "relationType": "similarity",
+            "relationType": "evocation",
             "scale": {
                 "value": {
                     "min": 0,
@@ -52,7 +52,7 @@
         },
         {
             "id": "all",
-            "relationType": "similarity",
+            "relationType": "evocation",
             "scale": {
                 "value": {
                     "min": 0,
@@ -74,7 +74,7 @@
         },
         {
             "id": "most",
-            "relationType": "similarity",
+            "relationType": "evocation",
             "scale": {
                 "value": {
                     "min": 0,
@@ -96,7 +96,7 @@
         },
         {
             "id": "some",
-            "relationType": "similarity",
+            "relationType": "evocation",
             "scale": {
                 "value": {
                     "min": 0,

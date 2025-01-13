@@ -1,0 +1,212 @@
+[
+    {
+        "term1": "U.S.A.",
+        "term2": "Mexico",
+        "value": 6.46
+    },
+    {
+        "term1": "Mexico",
+        "term2": "U.S.A.",
+        "value": 7.65
+    },
+    {
+        "term1": "U.S.S.R.",
+        "term2": "Poland",
+        "value": 15.12
+    },
+    {
+        "term1": "Poland",
+        "term2": "U.S.S.R.",
+        "value": 15.18
+    },
+    {
+        "term1": "China",
+        "term2": "Albania",
+        "value": 8.69
+    },
+    {
+        "term1": "Albania",
+        "term2": "China",
+        "value": 9.16
+    },
+    {
+        "term1": "U.S.A.",
+        "term2": "Israel",
+        "value": 9.7
+    },
+    {
+        "term1": "Israel",
+        "term2": "U.S.A.",
+        "value": 10.65
+    },
+    {
+        "term1": "Japan",
+        "term2": "Philippines",
+        "value": 12.37
+    },
+    {
+        "term1": "Philippines",
+        "term2": "Japan",
+        "value": 11.95
+    },
+    {
+        "term1": "U.S.A.",
+        "term2": "Canada",
+        "value": 16.96
+    },
+    {
+        "term1": "Canada",
+        "term2": "U.S.A.",
+        "value": 17.33
+    },
+    {
+        "term1": "U.S.S.R.",
+        "term2": "Israel",
+        "value": 3.41
+    },
+    {
+        "term1": "Israel",
+        "term2": "U.S.S.R.",
+        "value": 3.69
+    },
+    {
+        "term1": "England",
+        "term2": "Ireland",
+        "value": 13.32
+    },
+    {
+        "term1": "Ireland",
+        "term2": "England",
+        "value": 13.49
+    },
+    {
+        "term1": "W. Germany",
+        "term2": "Austria",
+        "value": 15.6
+    },
+    {
+        "term1": "Austria",
+        "term2": "W. Germany",
+        "value": 15.2
+    },
+    {
+        "term1": "U.S.S.R.",
+        "term2": "France",
+        "value": 5.21
+    },
+    {
+        "term1": "France",
+        "term2": "U.S.S.R.",
+        "value": 5.03
+    },
+    {
+        "term1": "Belgium",
+        "term2": "Luxembourg",
+        "value": 15.54
+    },
+    {
+        "term1": "Luxembourg",
+        "term2": "Belgium",
+        "value": 16.14
+    },
+    {
+        "term1": "U.S.A.",
+        "term2": "U.S.S.R.",
+        "value": 5.84
+    },
+    {
+        "term1": "U.S.S.R.",
+        "term2": "U.S.A.",
+        "value": 6.2
+    },
+    {
+        "term1": "China",
+        "term2": "N. Korea",
+        "value": 13.13
+    },
+    {
+        "term1": "N. Korea",
+        "term2": "China",
+        "value": 14.22
+    },
+    {
+        "term1": "India",
+        "term2": "Ceylon",
+        "value": 13.91
+    },
+    {
+        "term1": "Ceylon",
+        "term2": "India",
+        "value": 13.88
+    },
+    {
+        "term1": "U.S.A.",
+        "term2": "France",
+        "value": 10.42
+    },
+    {
+        "term1": "France",
+        "term2": "U.S.A.",
+        "value": 11.09
+    },
+    {
+        "term1": "U.S.S.R.",
+        "term2": "Cuba",
+        "value": 11.46
+    },
+    {
+        "term1": "Cuba",
+        "term2": "U.S.S.R.",
+        "value": 12.32
+    },
+    {
+        "term1": "England",
+        "term2": "Jordan",
+        "value": 4.97
+    },
+    {
+        "term1": "Jordan",
+        "term2": "England",
+        "value": 6.52
+    },
+    {
+        "term1": "France",
+        "term2": "Israel",
+        "value": 7.48
+    },
+    {
+        "term1": "Israel",
+        "term2": "France",
+        "value": 7.34
+    },
+    {
+        "term1": "U.S.A.",
+        "term2": "W. Germany",
+        "value": 11.3
+    },
+    {
+        "term1": "W. Germany",
+        "term2": "U.S.A.",
+        "value": 10.7
+    },
+    {
+        "term1": "U.S.S.R.",
+        "term2": "Syria",
+        "value": 6.61
+    },
+    {
+        "term1": "Syria",
+        "term2": "U.S.S.R.",
+        "value": 8.51
+    },
+    {
+        "term1": "France",
+        "term2": "Algeria",
+        "value": 7.86
+    },
+    {
+        "term1": "Algeria",
+        "term2": "France",
+        "value": 7.94
+    }
+]
