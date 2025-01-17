@@ -8,7 +8,7 @@
 
 > **PartitionData**: `object` & \{ `stddev`: `number`; `value`: `number`; `values`: (`number` \| `null`)[]; \} \| \{ `value`: `number`; `values`: `number`[]; \}
 
-Defined in: [types.ts:280](https://github.com/andrefs/punuy-datasets/blob/d28c5f2b06a957b4158d4608c14b86af1672c6ac/src/lib/types.ts#L280)
+Defined in: [types.ts:280](https://github.com/andrefs/punuy-datasets/blob/b19dab03780633997e9339b513babde2c4a6a7d8/src/lib/types.ts#L280)
 
 ## Type declaration
 

@@ -6,7 +6,7 @@
 
 # Interface: Metadata
 
-Defined in: [types.ts:31](https://github.com/andrefs/punuy-datasets/blob/d28c5f2b06a957b4158d4608c14b86af1672c6ac/src/lib/types.ts#L31)
+Defined in: [types.ts:31](https://github.com/andrefs/punuy-datasets/blob/b19dab03780633997e9339b513babde2c4a6a7d8/src/lib/types.ts#L31)
 
 ## Properties
 
@@ -14,7 +14,7 @@ Defined in: [types.ts:31](https://github.com/andrefs/punuy-datasets/blob/d28c5f2
 
 > `optional` **authors**: `string`
 
-Defined in: [types.ts:50](https://github.com/andrefs/punuy-datasets/blob/d28c5f2b06a957b4158d4608c14b86af1672c6ac/src/lib/types.ts#L50)
+Defined in: [types.ts:50](https://github.com/andrefs/punuy-datasets/blob/b19dab03780633997e9339b513babde2c4a6a7d8/src/lib/types.ts#L50)
 
 The authors of the dataset
 Examples:
@@ -27,7 +27,7 @@ Examples:
 
 > **date**: `string`
 
-Defined in: [types.ts:62](https://github.com/andrefs/punuy-datasets/blob/d28c5f2b06a957b4158d4608c14b86af1672c6ac/src/lib/types.ts#L62)
+Defined in: [types.ts:62](https://github.com/andrefs/punuy-datasets/blob/b19dab03780633997e9339b513babde2c4a6a7d8/src/lib/types.ts#L62)
 
 The date the dataset was published
 
@@ -39,7 +39,7 @@ The date the dataset was published
 
 > **description**: `string`
 
-Defined in: [types.ts:67](https://github.com/andrefs/punuy-datasets/blob/d28c5f2b06a957b4158d4608c14b86af1672c6ac/src/lib/types.ts#L67)
+Defined in: [types.ts:67](https://github.com/andrefs/punuy-datasets/blob/b19dab03780633997e9339b513babde2c4a6a7d8/src/lib/types.ts#L67)
 
 A description of the dataset
 
@@ -49,7 +49,7 @@ A description of the dataset
 
 > **domain**: [`Domain`](../type-aliases/Domain.md)
 
-Defined in: [types.ts:85](https://github.com/andrefs/punuy-datasets/blob/d28c5f2b06a957b4158d4608c14b86af1672c6ac/src/lib/types.ts#L85)
+Defined in: [types.ts:85](https://github.com/andrefs/punuy-datasets/blob/b19dab03780633997e9339b513babde2c4a6a7d8/src/lib/types.ts#L85)
 
 The domain of the dataset
 
@@ -59,7 +59,7 @@ The domain of the dataset
 
 > **downloadUrls**: `string`[]
 
-Defined in: [types.ts:74](https://github.com/andrefs/punuy-datasets/blob/d28c5f2b06a957b4158d4608c14b86af1672c6ac/src/lib/types.ts#L74)
+Defined in: [types.ts:74](https://github.com/andrefs/punuy-datasets/blob/b19dab03780633997e9339b513babde2c4a6a7d8/src/lib/types.ts#L74)
 
 URL(s) to download the dataset files
 
@@ -71,7 +71,7 @@ URL(s) to download the dataset files
 
 > **languages**: [`Language`](../type-aliases/Language.md)[]
 
-Defined in: [types.ts:79](https://github.com/andrefs/punuy-datasets/blob/d28c5f2b06a957b4158d4608c14b86af1672c6ac/src/lib/types.ts#L79)
+Defined in: [types.ts:79](https://github.com/andrefs/punuy-datasets/blob/b19dab03780633997e9339b513babde2c4a6a7d8/src/lib/types.ts#L79)
 
 The languages used in the dataset
 
@@ -81,7 +81,7 @@ The languages used in the dataset
 
 > `optional` **license**: [`License`](License.md)
 
-Defined in: [types.ts:103](https://github.com/andrefs/punuy-datasets/blob/d28c5f2b06a957b4158d4608c14b86af1672c6ac/src/lib/types.ts#L103)
+Defined in: [types.ts:103](https://github.com/andrefs/punuy-datasets/blob/b19dab03780633997e9339b513babde2c4a6a7d8/src/lib/types.ts#L103)
 
 The license of the dataset
 
@@ -91,7 +91,7 @@ The license of the dataset
 
 > **name**: `string`
 
-Defined in: [types.ts:35](https://github.com/andrefs/punuy-datasets/blob/d28c5f2b06a957b4158d4608c14b86af1672c6ac/src/lib/types.ts#L35)
+Defined in: [types.ts:35](https://github.com/andrefs/punuy-datasets/blob/b19dab03780633997e9339b513babde2c4a6a7d8/src/lib/types.ts#L35)
 
 The name of the dataset
 
@@ -101,7 +101,7 @@ The name of the dataset
 
 > **papers**: [`Paper`](Paper.md)[]
 
-Defined in: [types.ts:55](https://github.com/andrefs/punuy-datasets/blob/d28c5f2b06a957b4158d4608c14b86af1672c6ac/src/lib/types.ts#L55)
+Defined in: [types.ts:55](https://github.com/andrefs/punuy-datasets/blob/b19dab03780633997e9339b513babde2c4a6a7d8/src/lib/types.ts#L55)
 
 Information about the scientific papers describing the dataset
 
@@ -111,7 +111,7 @@ Information about the scientific papers describing the dataset
 
 > **relationTypes**: [`RelationType`](../type-aliases/RelationType.md)[]
 
-Defined in: [types.ts:90](https://github.com/andrefs/punuy-datasets/blob/d28c5f2b06a957b4158d4608c14b86af1672c6ac/src/lib/types.ts#L90)
+Defined in: [types.ts:90](https://github.com/andrefs/punuy-datasets/blob/b19dab03780633997e9339b513babde2c4a6a7d8/src/lib/types.ts#L90)
 
 Which type of semantic relations are used to compare the words
 
@@ -121,7 +121,7 @@ Which type of semantic relations are used to compare the words
 
 > `optional` **tags**: `string`[]
 
-Defined in: [types.ts:98](https://github.com/andrefs/punuy-datasets/blob/d28c5f2b06a957b4158d4608c14b86af1672c6ac/src/lib/types.ts#L98)
+Defined in: [types.ts:98](https://github.com/andrefs/punuy-datasets/blob/b19dab03780633997e9339b513babde2c4a6a7d8/src/lib/types.ts#L98)
 
 Tags for the dataset content
 Examples:
@@ -134,7 +134,7 @@ Examples:
 
 > **urls**: `string`[]
 
-Defined in: [types.ts:42](https://github.com/andrefs/punuy-datasets/blob/d28c5f2b06a957b4158d4608c14b86af1672c6ac/src/lib/types.ts#L42)
+Defined in: [types.ts:42](https://github.com/andrefs/punuy-datasets/blob/b19dab03780633997e9339b513babde2c4a6a7d8/src/lib/types.ts#L42)
 
 Web sites containing information about the dataset
 
@@ -146,7 +146,7 @@ Web sites containing information about the dataset
 
 > `optional` **version**: `string`
 
-Defined in: [types.ts:109](https://github.com/andrefs/punuy-datasets/blob/d28c5f2b06a957b4158d4608c14b86af1672c6ac/src/lib/types.ts#L109)
+Defined in: [types.ts:109](https://github.com/andrefs/punuy-datasets/blob/b19dab03780633997e9339b513babde2c4a6a7d8/src/lib/types.ts#L109)
 
 The version of the dataset
 
