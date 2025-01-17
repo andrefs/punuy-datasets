@@ -8,4 +8,4 @@
 
 > **RelationType**: `"similarity"` \| `"relatedness"` \| `"evocation"`
 
-Defined in: [types.ts:134](https://github.com/andrefs/punuy-datasets/blob/bdd78c46ad85bc7fc2f360b65ab10e63644e7219/src/lib/types.ts#L134)
+Defined in: [types.ts:134](https://github.com/andrefs/punuy-datasets/blob/76d61bbccf9e8ad4d0bd6011f9626170740706c9/src/lib/types.ts#L134)
