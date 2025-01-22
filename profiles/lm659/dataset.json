@@ -1,0 +1,72 @@
+{
+  "id": "lm659",
+  "metadata": {
+    "name": "Landrigan & Mirman (2015)",
+    "authors": "Jon-Frederick Landrigan, Daniel Mirman",
+    "urls": [
+      "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FKTQ4C"
+    ],
+    "papers": [
+      {
+        "title": "Taxonomic and Thematic Relatedness Ratings for 659 Word Pairs",
+        "url": "https://openpsychologydata.metajnl.com/articles/10.5334/jopd.24"
+      }
+    ],
+    "date": "2015",
+    "description": "This data set is comprised of 300 target words, paired with taxonomically related and/or thematically related words for a total of 659 pairs. Each pair has been normed through online surveys for both their taxonomic similarity and thematic relatedness.",
+    "downloadUrls": [
+      "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FKTQ4C#"
+    ],
+    "languages": [
+      "en"
+    ],
+    "domain": "general",
+    "relationTypes": [
+      "similarity",
+      "relatedness"
+    ],
+    "license": {
+      "name": "CC 1.0 Universal",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  },
+  "partitions": [
+    {
+      "id": "sim",
+      "origName": "Taxonomic",
+      "relationType": "similarity",
+      "scale": {
+        "value": {
+          "min": 1,
+          "max": 7
+        }
+      },
+      "metrics": {
+        "annotators": {
+          "total": 81,
+          "minEachPair": 2
+        },
+        "interAnnoAgreement": []
+      }
+    },
+    {
+      "id": "rel",
+      "origName": "Thematic",
+      "relationType": "relatedness",
+      "scale": {
+        "value": {
+          "min": 1,
+          "max": 7
+        }
+      },
+      "metrics": {
+        "annotators": {
+          "total": 78,
+          "minEachPair": 5
+        },
+        "interAnnoAgreement": []
+      }
+    }
+  ],
+  "originalInstructions": "# The instructions for the taxonomic survey were:\n\nThank you for participating. In this survey you will be presented with a number of word pairs and asked to rate the similarity of the two words on a scale from 1 (not at all similar) to 7 (very similar). Using the radio buttons below each word pair select 1, 2, 3, 4, 5, 6, or 7 to rate the similarity between the words. Two words are similar if they look alike or belong to the same category. For example, DOTS and STRIPES are similar (both are types of patterns or designs). However, SHIRT and STRIPES would not be similar. Even though STRIPES are often found on SHIRTS, a SHIRT is a type of clothing while STRIPES are not. Another example is ZEBRA and STRIPES, these two words are also not very similar, because they belong to different categories, animal and pattern categories respectively. Please use the full range of the scale (1, 2, 3, 4, 5, 6, or 7) in indicating your responses. Only the buttons below the word pair will work for rating the items. Please make sure to rate all the pairs in the survey.\n\n#The thematic survey instructions were:\n\nThank you for participating. In this survey you will be presented with a number of word pairs and asked to rate how connected and or related the two words are on a scale from 1(not related at all) to 7 (very related). Using the radio buttons below each word pair select 1, 2, 3, 4, 5, 6 or 7 to rate the relatedness between the two words. Two words are connected or related if they occur in the same time or place, however, this does not mean they will share similar physical features. For example HELMET and MOTORCYCLE are related (one wears a HELMET while riding a MOTORCYCLE, although they are different shapes and sizes). Whereas CHRISTMAS-TREES and PALM-TREES are not related, because even though they are both trees and share similar features they do not occur in the same time or place. Please use the full range of the scale (1, 2, 3, 4, 5, 6, or 7) in indicating your responses. Only the buttons below the word pair will work for rating the items. Please make sure to rate all the pairs in this survey."
+}
