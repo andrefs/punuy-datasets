@@ -17,7 +17,7 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.medin34 = exports.mervis210 = exports.tversky42 = exports.sstars13 = exports.resnik28 = exports.rd27 = exports.ali27 = exports.card660 = exports.emocon = exports.multisimlex = exports.pap900 = exports.lxrw2034 = exports.lxsimlex999 = exports.lxws353 = exports.pt65 = exports.semeval17 = exports.tr9856 = exports.word19k = exports.gtrd = exports.simverb3500 = exports.geresid50 = exports.baker143 = exports.simlex999 = exports.sl7576 = exports.ma28 = exports.rel122 = exports.wp300 = exports.men3000 = exports.atlasify240 = exports.reword26 = exports.scws2003 = exports.mturk771 = exports.gm30 = exports.zie55 = exports.mesh2 = exports.ps65 = exports.yp130 = exports.ws353split = exports.ws353 = exports.srw2034 = exports.rg65 = exports.mt287 = exports.mc30 = exports.umnsrsMod = exports.umnsrs = exports.miniMSRS = exports.mayoSRS = exports.bg100k = void 0;
+exports.lm659 = exports.medin34 = exports.mervis210 = exports.tversky42 = exports.sstars13 = exports.resnik28 = exports.rd27 = exports.ali27 = exports.card660 = exports.emocon = exports.multisimlex = exports.pap900 = exports.lxrw2034 = exports.lxsimlex999 = exports.lxws353 = exports.pt65 = exports.semeval17 = exports.tr9856 = exports.word19k = exports.gtrd = exports.simverb3500 = exports.geresid50 = exports.baker143 = exports.simlex999 = exports.sl7576 = exports.ma28 = exports.rel122 = exports.wp300 = exports.men3000 = exports.atlasify240 = exports.reword26 = exports.scws2003 = exports.mturk771 = exports.gm30 = exports.zie55 = exports.mesh2 = exports.ps65 = exports.yp130 = exports.ws353split = exports.ws353 = exports.srw2034 = exports.rg65 = exports.mt287 = exports.mc30 = exports.umnsrsMod = exports.umnsrs = exports.miniMSRS = exports.mayoSRS = exports.bg100k = void 0;
 const bg100k_1 = __importDefault(require("./datasets/bg100k"));
 exports.bg100k = bg100k_1.default;
 const mayoSRS_1 = __importDefault(require("./datasets/mayoSRS"));
@@ -114,5 +114,7 @@ const mervis210_1 = __importDefault(require("./datasets/mervis210"));
 exports.mervis210 = mervis210_1.default;
 const medin34_1 = __importDefault(require("./datasets/medin34"));
 exports.medin34 = medin34_1.default;
+const lm659_1 = __importDefault(require("./datasets/lm659"));
+exports.lm659 = lm659_1.default;
 __exportStar(require("./lib/types"), exports);
 //# sourceMappingURL=index.js.map
