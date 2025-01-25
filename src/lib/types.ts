@@ -229,7 +229,7 @@ export type AnnotatorAgreement = {
   /**
    * The method used to calculate the correlation coefficient: Pearson's or Spearman's
    */
-  metric: "spearman" | "pearson";
+  metric: "spearman" | "pearson" | "unclear";
   /**
    * How the value was calculated:
    * - APIAA: Average Pairwise Inter-Annotator Agreement
