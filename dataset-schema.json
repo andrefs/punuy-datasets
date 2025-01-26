@@ -86,7 +86,8 @@
                                         "description": "The method used to calculate the correlation coefficient: Pearson's or Spearman's",
                                         "enum": [
                                             "pearson",
-                                            "spearman"
+                                            "spearman",
+                                            "unclear"
                                         ],
                                         "type": "string"
                                     },
@@ -128,7 +129,8 @@
                                         "description": "The method used to calculate the correlation coefficient: Pearson's or Spearman's",
                                         "enum": [
                                             "pearson",
-                                            "spearman"
+                                            "spearman",
+                                            "unclear"
                                         ],
                                         "type": "string"
                                     },
@@ -257,6 +259,11 @@
                 },
                 "description": {
                     "description": "A description of the dataset",
+                    "type": "string"
+                },
+                "doi": {
+                    "description": "The DOI of the dataset",
+                    "pattern": "^10\\.[0-9]{4,}\\/.+$",
                     "type": "string"
                 },
                 "domain": {
