@@ -60,7 +60,7 @@
             "metrics": {
                 "annotators": {
                     "total": 206,
-                    "minEachPair": 31
+                    "minEachPair": 30
                 },
                 "interAnnoAgreement": [
                     {

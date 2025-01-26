@@ -34,7 +34,13 @@
                     "total": 10,
                     "minEachPair": 10
                 },
-                "interAnnoAgreement": []
+                "interAnnoAgreement": [
+                    {
+                        "metric": "pearson",
+                        "method": "apiaa",
+                        "value": 0.9
+                    }
+                ]
             }
         }
     ],

@@ -51,6 +51,12 @@ export interface Metadata {
      */
     date: string;
     /**
+     * The DOI of the dataset
+     *
+     * @TJS-pattern ^10\.[0-9]{4,}\/.+$
+     */
+    doi?: string;
+    /**
      * A description of the dataset
      */
     description: string;
@@ -185,7 +191,7 @@ export type AnnotatorAgreement = {
     /**
      * The method used to calculate the correlation coefficient: Pearson's or Spearman's
      */
-    metric: "spearman" | "pearson";
+    metric: "spearman" | "pearson" | "unclear";
     /**
      * How the value was calculated:
      * - APIAA: Average Pairwise Inter-Annotator Agreement

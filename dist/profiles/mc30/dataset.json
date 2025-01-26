@@ -32,13 +32,7 @@
                     "total": 38,
                     "minEachPair": 38
                 },
-                "interAnnoAgreement": [
-                    {
-                        "metric": "pearson",
-                        "value": 0.8848,
-                        "method": "unclear"
-                    }
-                ]
+                "interAnnoAgreement": []
             }
         }
     ],
