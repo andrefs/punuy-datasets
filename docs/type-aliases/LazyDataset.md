@@ -8,7 +8,7 @@
 
 > **LazyDataset**: `Omit`\<[`DatasetProfile`](../interfaces/DatasetProfile.md), `"partitions"`\> & `object`
 
-Defined in: [types.ts:3](https://github.com/andrefs/punuy-datasets/blob/131f93cc8acc767f352ee1220b4641fc6bc41a63/src/lib/types.ts#L3)
+Defined in: [types.ts:3](https://github.com/andrefs/punuy-datasets/blob/4f4a939211d2cce016e60a187467f8bafbe5c3b7/src/lib/types.ts#L3)
 
 ## Type declaration
 
