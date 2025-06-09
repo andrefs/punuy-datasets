@@ -3,7 +3,9 @@
     "metadata": {
         "name": "SCWS",
         "authors": "Eric H. Huang, Richard Socher, Christopher D. Manning, Andrew Y. Ng",
-        "urls": ["https://ai.stanford.edu/~ehhuang/"],
+        "urls": [
+            "https://ai.stanford.edu/~ehhuang/"
+        ],
         "papers": [
             {
                 "title": "Improving Word Representations via Global Context and Multiple Word Prototypes",
@@ -12,10 +14,19 @@
         ],
         "date": "2012",
         "description": "",
-        "downloadUrls": ["http://www-nlp.stanford.edu/~ehhuang/SCWS.zip"],
-        "languages": ["en"],
+        "downloadUrls": [
+            "http://www-nlp.stanford.edu/~ehhuang/SCWS.zip"
+        ],
+        "languages": [
+            "en"
+        ],
         "domain": "general",
-        "relationTypes": ["similarity"]
+        "relationTypes": [
+            "similarity"
+        ],
+        "tags": [
+            "mturk"
+        ]
     },
     "partitions": [
         {

@@ -8,4 +8,4 @@
 
 > **Language**: `"pt"` \| `"en"`
 
-Defined in: [types.ts:140](https://github.com/andrefs/punuy-datasets/blob/4f4a939211d2cce016e60a187467f8bafbe5c3b7/src/lib/types.ts#L140)
+Defined in: [types.ts:140](https://github.com/andrefs/punuy-datasets/blob/a6ff77a13ea2a09a19c0850c23c5155c61e2a136/src/lib/types.ts#L140)
