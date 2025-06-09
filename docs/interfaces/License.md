@@ -6,7 +6,7 @@
 
 # Interface: License
 
-Defined in: [types.ts:119](https://github.com/andrefs/punuy-datasets/blob/a6ff77a13ea2a09a19c0850c23c5155c61e2a136/src/lib/types.ts#L119)
+Defined in: [types.ts:119](https://github.com/andrefs/punuy-datasets/blob/3413d5c3c99ff7a5f3e3119e9e49982cd29a4de8/src/lib/types.ts#L119)
 
 ## Properties
 
@@ -14,7 +14,7 @@ Defined in: [types.ts:119](https://github.com/andrefs/punuy-datasets/blob/a6ff77
 
 > `optional` **cannotRedistribute**: `boolean`
 
-Defined in: [types.ts:136](https://github.com/andrefs/punuy-datasets/blob/a6ff77a13ea2a09a19c0850c23c5155c61e2a136/src/lib/types.ts#L136)
+Defined in: [types.ts:136](https://github.com/andrefs/punuy-datasets/blob/3413d5c3c99ff7a5f3e3119e9e49982cd29a4de8/src/lib/types.ts#L136)
 
 Whether the dataset can be redistributed
 
@@ -30,7 +30,7 @@ false
 
 > **name**: `string`
 
-Defined in: [types.ts:123](https://github.com/andrefs/punuy-datasets/blob/a6ff77a13ea2a09a19c0850c23c5155c61e2a136/src/lib/types.ts#L123)
+Defined in: [types.ts:123](https://github.com/andrefs/punuy-datasets/blob/3413d5c3c99ff7a5f3e3119e9e49982cd29a4de8/src/lib/types.ts#L123)
 
 The name of the license
 
@@ -40,7 +40,7 @@ The name of the license
 
 > **url**: `string`
 
-Defined in: [types.ts:130](https://github.com/andrefs/punuy-datasets/blob/a6ff77a13ea2a09a19c0850c23c5155c61e2a136/src/lib/types.ts#L130)
+Defined in: [types.ts:130](https://github.com/andrefs/punuy-datasets/blob/3413d5c3c99ff7a5f3e3119e9e49982cd29a4de8/src/lib/types.ts#L130)
 
 The URL of the license
 

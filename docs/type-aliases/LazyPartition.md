@@ -8,4 +8,4 @@
 
 > **LazyPartition**: `Omit`\<[`Partition`](../interfaces/Partition.md), `"data"`\>
 
-Defined in: [types.ts:1](https://github.com/andrefs/punuy-datasets/blob/a6ff77a13ea2a09a19c0850c23c5155c61e2a136/src/lib/types.ts#L1)
+Defined in: [types.ts:1](https://github.com/andrefs/punuy-datasets/blob/3413d5c3c99ff7a5f3e3119e9e49982cd29a4de8/src/lib/types.ts#L1)

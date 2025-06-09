@@ -6,7 +6,7 @@
 
 # Interface: Metadata
 
-Defined in: [types.ts:31](https://github.com/andrefs/punuy-datasets/blob/a6ff77a13ea2a09a19c0850c23c5155c61e2a136/src/lib/types.ts#L31)
+Defined in: [types.ts:31](https://github.com/andrefs/punuy-datasets/blob/3413d5c3c99ff7a5f3e3119e9e49982cd29a4de8/src/lib/types.ts#L31)
 
 ## Properties
 
@@ -14,7 +14,7 @@ Defined in: [types.ts:31](https://github.com/andrefs/punuy-datasets/blob/a6ff77a
 
 > `optional` **authors**: `string`
 
-Defined in: [types.ts:50](https://github.com/andrefs/punuy-datasets/blob/a6ff77a13ea2a09a19c0850c23c5155c61e2a136/src/lib/types.ts#L50)
+Defined in: [types.ts:50](https://github.com/andrefs/punuy-datasets/blob/3413d5c3c99ff7a5f3e3119e9e49982cd29a4de8/src/lib/types.ts#L50)
 
 The authors of the dataset
 Examples:
@@ -27,7 +27,7 @@ Examples:
 
 > **date**: `string`
 
-Defined in: [types.ts:62](https://github.com/andrefs/punuy-datasets/blob/a6ff77a13ea2a09a19c0850c23c5155c61e2a136/src/lib/types.ts#L62)
+Defined in: [types.ts:62](https://github.com/andrefs/punuy-datasets/blob/3413d5c3c99ff7a5f3e3119e9e49982cd29a4de8/src/lib/types.ts#L62)
 
 The date the dataset was published
 
@@ -39,7 +39,7 @@ The date the dataset was published
 
 > **description**: `string`
 
-Defined in: [types.ts:74](https://github.com/andrefs/punuy-datasets/blob/a6ff77a13ea2a09a19c0850c23c5155c61e2a136/src/lib/types.ts#L74)
+Defined in: [types.ts:74](https://github.com/andrefs/punuy-datasets/blob/3413d5c3c99ff7a5f3e3119e9e49982cd29a4de8/src/lib/types.ts#L74)
 
 A description of the dataset
 
@@ -49,7 +49,7 @@ A description of the dataset
 
 > `optional` **doi**: `string`
 
-Defined in: [types.ts:69](https://github.com/andrefs/punuy-datasets/blob/a6ff77a13ea2a09a19c0850c23c5155c61e2a136/src/lib/types.ts#L69)
+Defined in: [types.ts:69](https://github.com/andrefs/punuy-datasets/blob/3413d5c3c99ff7a5f3e3119e9e49982cd29a4de8/src/lib/types.ts#L69)
 
 The DOI of the dataset
 
@@ -61,7 +61,7 @@ The DOI of the dataset
 
 > **domain**: [`Domain`](../type-aliases/Domain.md)
 
-Defined in: [types.ts:92](https://github.com/andrefs/punuy-datasets/blob/a6ff77a13ea2a09a19c0850c23c5155c61e2a136/src/lib/types.ts#L92)
+Defined in: [types.ts:92](https://github.com/andrefs/punuy-datasets/blob/3413d5c3c99ff7a5f3e3119e9e49982cd29a4de8/src/lib/types.ts#L92)
 
 The domain of the dataset
 
@@ -71,7 +71,7 @@ The domain of the dataset
 
 > **downloadUrls**: `string`[]
 
-Defined in: [types.ts:81](https://github.com/andrefs/punuy-datasets/blob/a6ff77a13ea2a09a19c0850c23c5155c61e2a136/src/lib/types.ts#L81)
+Defined in: [types.ts:81](https://github.com/andrefs/punuy-datasets/blob/3413d5c3c99ff7a5f3e3119e9e49982cd29a4de8/src/lib/types.ts#L81)
 
 URL(s) to download the dataset files
 
@@ -83,7 +83,7 @@ URL(s) to download the dataset files
 
 > **languages**: [`Language`](../type-aliases/Language.md)[]
 
-Defined in: [types.ts:86](https://github.com/andrefs/punuy-datasets/blob/a6ff77a13ea2a09a19c0850c23c5155c61e2a136/src/lib/types.ts#L86)
+Defined in: [types.ts:86](https://github.com/andrefs/punuy-datasets/blob/3413d5c3c99ff7a5f3e3119e9e49982cd29a4de8/src/lib/types.ts#L86)
 
 The languages used in the dataset
 
@@ -93,7 +93,7 @@ The languages used in the dataset
 
 > `optional` **license**: [`License`](License.md)
 
-Defined in: [types.ts:110](https://github.com/andrefs/punuy-datasets/blob/a6ff77a13ea2a09a19c0850c23c5155c61e2a136/src/lib/types.ts#L110)
+Defined in: [types.ts:110](https://github.com/andrefs/punuy-datasets/blob/3413d5c3c99ff7a5f3e3119e9e49982cd29a4de8/src/lib/types.ts#L110)
 
 The license of the dataset
 
@@ -103,7 +103,7 @@ The license of the dataset
 
 > **name**: `string`
 
-Defined in: [types.ts:35](https://github.com/andrefs/punuy-datasets/blob/a6ff77a13ea2a09a19c0850c23c5155c61e2a136/src/lib/types.ts#L35)
+Defined in: [types.ts:35](https://github.com/andrefs/punuy-datasets/blob/3413d5c3c99ff7a5f3e3119e9e49982cd29a4de8/src/lib/types.ts#L35)
 
 The name of the dataset
 
@@ -113,7 +113,7 @@ The name of the dataset
 
 > **papers**: [`Paper`](Paper.md)[]
 
-Defined in: [types.ts:55](https://github.com/andrefs/punuy-datasets/blob/a6ff77a13ea2a09a19c0850c23c5155c61e2a136/src/lib/types.ts#L55)
+Defined in: [types.ts:55](https://github.com/andrefs/punuy-datasets/blob/3413d5c3c99ff7a5f3e3119e9e49982cd29a4de8/src/lib/types.ts#L55)
 
 Information about the scientific papers describing the dataset
 
@@ -123,7 +123,7 @@ Information about the scientific papers describing the dataset
 
 > **relationTypes**: [`RelationType`](../type-aliases/RelationType.md)[]
 
-Defined in: [types.ts:97](https://github.com/andrefs/punuy-datasets/blob/a6ff77a13ea2a09a19c0850c23c5155c61e2a136/src/lib/types.ts#L97)
+Defined in: [types.ts:97](https://github.com/andrefs/punuy-datasets/blob/3413d5c3c99ff7a5f3e3119e9e49982cd29a4de8/src/lib/types.ts#L97)
 
 Which type of semantic relations are used to compare the words
 
@@ -133,7 +133,7 @@ Which type of semantic relations are used to compare the words
 
 > `optional` **tags**: `string`[]
 
-Defined in: [types.ts:105](https://github.com/andrefs/punuy-datasets/blob/a6ff77a13ea2a09a19c0850c23c5155c61e2a136/src/lib/types.ts#L105)
+Defined in: [types.ts:105](https://github.com/andrefs/punuy-datasets/blob/3413d5c3c99ff7a5f3e3119e9e49982cd29a4de8/src/lib/types.ts#L105)
 
 Tags for the dataset content
 Examples:
@@ -146,7 +146,7 @@ Examples:
 
 > **urls**: `string`[]
 
-Defined in: [types.ts:42](https://github.com/andrefs/punuy-datasets/blob/a6ff77a13ea2a09a19c0850c23c5155c61e2a136/src/lib/types.ts#L42)
+Defined in: [types.ts:42](https://github.com/andrefs/punuy-datasets/blob/3413d5c3c99ff7a5f3e3119e9e49982cd29a4de8/src/lib/types.ts#L42)
 
 Web sites containing information about the dataset
 
@@ -158,7 +158,7 @@ Web sites containing information about the dataset
 
 > `optional` **version**: `string`
 
-Defined in: [types.ts:116](https://github.com/andrefs/punuy-datasets/blob/a6ff77a13ea2a09a19c0850c23c5155c61e2a136/src/lib/types.ts#L116)
+Defined in: [types.ts:116](https://github.com/andrefs/punuy-datasets/blob/3413d5c3c99ff7a5f3e3119e9e49982cd29a4de8/src/lib/types.ts#L116)
 
 The version of the dataset
 
