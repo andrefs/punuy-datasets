@@ -113,7 +113,7 @@ In this cases you have to download the datasets files manually, but after saving
 We can guide you through this process. Just run
 
 ```bash
-tsx src/scripts/download-non-open.ts
+npm run download-non-open
 ```
 
 and follow the instructions provided on the console.
