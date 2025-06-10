@@ -3,3 +3,4 @@ metrics.csv
 .aider*
 .env
 profiles/**/origFiles/
+profiles/lxrw2034/main.part.json
