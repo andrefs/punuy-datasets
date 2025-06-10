@@ -99,9 +99,28 @@ If you want to use another language or just want to access the data files direct
 
 Each dataset has a `dataset.json` file with its metadata and information about its partitions. Then, for each partition with id `p_id`, there is a `p_id.part.json` file containing the pairs and their ratings.
 
+## Non-open datasets
+
+Some datasets have licenses which explicitly prevent them from being redistributed.
+Currently this includes the following datasets:
+
+- lxrw2034
+- lxsimlex999
+- lxws353
+
+In this cases you have to download the datasets files manually, but after saving them in the right folders they can be automatically imported.
+
+We can guide you through this process. Just run
+
+```bash
+npm run download-non-open
+```
+
+and follow the instructions provided on the console.
+
 ## Adding a new dataset
 
-If you can create the dataset profile yourself, PRs are welcome!
+If you can create the dataset profile yourself, [PRs](https://github.com/andrefs/punuy-datasets/pulls) are welcome!
 You can find the dataset schema (in Typescript) [here](./src/lib/types.ts).
 
 Or you can open an [issue](https://github.com/andrefs/punuy-datasets/issues). Please include:
@@ -110,7 +129,7 @@ Or you can open an [issue](https://github.com/andrefs/punuy-datasets/issues). Pl
 1. a link to download the dataset, and
 1. a link to the paper describing it.
 
-I'll get to it as soon as I have some free time ;)
+I'll get to it as soon as I find some free time ;)
 
 ## Types and schema
 
@@ -122,7 +141,8 @@ Automatically generated documentation can be found at [docs/](docs/).
 
 ## Datasets copyright and licenses
 
-Did you find a problem with the licensing of a dataset? We did our best to find and include the licenses to all the datasets and to respect copyrights, but we might have missed something!
+Did you find a problem with the licensing of a dataset?
+We did our best to find and include the licenses to all the datasets and to respect copyrights, but we might have missed something!
 
 Please [open an issue](https://github.com/andrefs/punuy-datasets/issues) and we'll fix it ASAP.
 

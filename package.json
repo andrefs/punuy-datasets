@@ -1,6 +1,6 @@
 {
   "name": "punuy-datasets",
-  "version": "11.1.2",
+  "version": "12.0.0",
   "description": "",
   "scripts": {
     "typecheck": "tsc -b tsconfig.json",
@@ -13,7 +13,8 @@
     "lint": "eslint src",
     "format": "NODE_OPTIONS=--max-old-space-size=4096 prettier --write \"**/*.+(js|ts|json)\"",
     "prepare": "npm run build",
-    "postinstall": "patch-package",
+    "postinstall": "patch-package && echo 'Run `npm run download-non-open` to download non-open datasets.'",
+    "download-non-open": "tsx src/scripts/download-non-open.ts",
     "test": "./src/scripts/validate-schema && ts-node src/scripts/check-chars.ts profiles/"
   },
   "main": "dist/src/index.js",

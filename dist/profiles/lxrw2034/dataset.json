@@ -22,9 +22,28 @@
         "downloadUrls": [
             "https://portulanclarin.net/repository/browse/lx-rare-word-similarity-dataset/f8dd0332e6d911e6a2aa782bcb074135a226cf379cf746a8976dd3420f5a2813/"
         ],
-        "languages": ["pt"],
+        "languages": [
+            "pt"
+        ],
         "domain": "general",
-        "relationTypes": ["similarity"]
+        "relationTypes": [
+            "similarity"
+        ],
+        "nonOpen": {
+            "isNonOpen": true,
+            "files": [
+                {
+                    "origFileName": "LX-Rare Word Similarity Data Set.txt",
+                    "downloadUrl": "https://portulanclarin.net/repository/browse/lx-rare-word-similarity-dataset/f8dd0332e6d911e6a2aa782bcb074135a226cf379cf746a8976dd3420f5a2813/",
+                    "partitionId": "main",
+                    "localFolderPath": [
+                        ".",
+                        "origFiles",
+                        "main"
+                    ]
+                }
+            ]
+        }
     },
     "partitions": [
         {

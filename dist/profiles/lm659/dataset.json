@@ -17,9 +17,17 @@
         "downloadUrls": [
             "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FKTQ4C#"
         ],
-        "languages": ["en"],
+        "tags": [
+            "mturk"
+        ],
+        "languages": [
+            "en"
+        ],
         "domain": "general",
-        "relationTypes": ["similarity", "relatedness"],
+        "relationTypes": [
+            "similarity",
+            "relatedness"
+        ],
         "license": {
             "name": "CC 1.0 Universal",
             "url": "https://creativecommons.org/publicdomain/zero/1.0/"

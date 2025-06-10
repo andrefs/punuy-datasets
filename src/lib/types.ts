@@ -114,6 +114,48 @@ export interface Metadata {
    * @example "1.0"
    */
   version?: string;
+
+  /**
+   * Metadata for non-open datasets
+   */
+  nonOpen?: NonOpen;
+}
+
+export interface NonOpen {
+  /**
+   * Whether the dataset is non-open
+   * @example true
+   */
+  isNonOpen: boolean;
+
+  files?: [
+    {
+      /**
+       * The name of the original file (for informative purposes only)
+       * @example "dataset.csv"
+       */
+      origFileName?: string;
+
+      /**
+       * The URL to download the file
+       *
+       * @format uri
+       */
+      downloadUrl: string;
+
+      /**
+       * The id of the corresponding partition
+       * @example "main"
+       * This is used to match the file with the partition in the dataset profile
+       */
+      partitionId: string;
+
+      /**
+       * The local folder path where the file should be stored
+       */
+      localFolderPath: string[];
+    },
+  ];
 }
 
 export interface License {
