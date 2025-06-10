@@ -14,5 +14,5 @@
     "sourceMap": true,
     "skipLibCheck": true
   },
-  "include": ["src/**/*", "profiles/**/*.json"]
+  "include": ["src/**/*", "profiles/**/*.json", "profiles/**/*.ts"]
 }

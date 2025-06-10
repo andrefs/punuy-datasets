@@ -9,6 +9,7 @@
 - [DatasetProfile](interfaces/DatasetProfile.md)
 - [License](interfaces/License.md)
 - [Metadata](interfaces/Metadata.md)
+- [NonOpen](interfaces/NonOpen.md)
 - [Paper](interfaces/Paper.md)
 - [Partition](interfaces/Partition.md)
 

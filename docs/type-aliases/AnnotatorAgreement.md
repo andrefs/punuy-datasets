@@ -8,7 +8,7 @@
 
 > **AnnotatorAgreement**: `object`
 
-Defined in: [types.ts:228](https://github.com/andrefs/punuy-datasets/blob/3413d5c3c99ff7a5f3e3119e9e49982cd29a4de8/src/lib/types.ts#L228)
+Defined in: [types.ts:270](https://github.com/andrefs/punuy-datasets/blob/7ddf96551580567d72a9e75295036a341f0fe34c/src/lib/types.ts#L270)
 
 ## Type declaration
 

@@ -293,6 +293,10 @@
                     "description": "The name of the dataset",
                     "type": "string"
                 },
+                "nonOpen": {
+                    "$ref": "https://andrefs.com/schemas/2023/SemRelDatasets#/definitions/NonOpen",
+                    "description": "Metadata for non-open datasets"
+                },
                 "papers": {
                     "description": "Information about the scientific papers describing the dataset",
                     "items": {
@@ -337,6 +341,57 @@
                 "papers",
                 "relationTypes",
                 "urls"
+            ],
+            "type": "object"
+        },
+        "NonOpen": {
+            "additionalProperties": false,
+            "properties": {
+                "files": {
+                    "items": [
+                        {
+                            "additionalProperties": false,
+                            "properties": {
+                                "downloadUrl": {
+                                    "description": "The URL to download the file",
+                                    "format": "uri",
+                                    "type": "string"
+                                },
+                                "localFolderPath": {
+                                    "description": "The local folder path where the file should be stored",
+                                    "items": {
+                                        "type": "string"
+                                    },
+                                    "type": "array"
+                                },
+                                "origFileName": {
+                                    "description": "The name of the original file (for informative purposes only)",
+                                    "type": "string"
+                                },
+                                "partitionId": {
+                                    "description": "The id of the corresponding partition",
+                                    "type": "string"
+                                }
+                            },
+                            "required": [
+                                "downloadUrl",
+                                "localFolderPath",
+                                "partitionId"
+                            ],
+                            "type": "object"
+                        }
+                    ],
+                    "maxItems": 1,
+                    "minItems": 1,
+                    "type": "array"
+                },
+                "isNonOpen": {
+                    "description": "Whether the dataset is non-open",
+                    "type": "boolean"
+                }
+            },
+            "required": [
+                "isNonOpen"
             ],
             "type": "object"
         },

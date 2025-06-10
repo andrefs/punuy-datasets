@@ -1,5 +1,5 @@
-import * as datasets from "..";
 import { promises as fs } from "fs";
+import oldFs from "fs";
 import path from "path";
 import * as readline from "node:readline/promises";
 import { stdin as input, stdout as output } from "node:process";
@@ -48,15 +48,13 @@ async function main() {
       {} as Record<string, Record<string, boolean>>
     ) || null;
 
-  console.log("XXXXXXXXXXXx", { dsArgs });
-
   for (const ds of Object.values(datasets)) {
     if (!Object.keys(dsArgs).length || dsArgs[ds.id]) {
-      console.log(`Downloading non-open files for dataset ${ds.id}`);
       if (ds.metadata.nonOpen?.files) {
+        console.log(`Downloading non-open files for dataset ${ds.id}`);
         for (const file of ds.metadata.nonOpen.files) {
           if (
-            dsArgs &&
+            Object.keys(dsArgs).length &&
             !dsArgs[ds.id]?.[file.partitionId] &&
             !dsArgs[ds.id]?._all
           ) {
@@ -65,28 +63,47 @@ async function main() {
           const localPath = path.join(
             __dirname,
             "..",
-            "data",
+            "..",
+            "profiles",
+            ds.id,
             ...file.localFolderPath
           );
+
+          // Ensure the local directory exists
+          if (!oldFs.existsSync(localPath)) {
+            console.log(`Creating directory ${localPath}`);
+            await fs.mkdir(localPath, { recursive: true });
+          }
+
           console.log(
             `You now need to download the file manually and save it to ${localPath}`
           );
           // Wait for user input before proceeding
           await rl.question(
-            "Hit ENTER to open the browser on the download URL"
+            "Press any key to open the download URL in your browser..."
           );
           // Open the download URL in the browser
           await open(file.downloadUrl);
+
+          await rl.question(
+            `Press any key after you have downloaded the file, extracted it (if needed) and saved it to ${localPath}...`
+          );
         }
 
-        const importFn = await import(
-          path.join("..", "..", "profiles", ds.id, "non-open-importer")
+        const importFnPath = path.join(
+          __dirname,
+          "..",
+          "..",
+          "profiles",
+          ds.id,
+          "non-open-importer"
         );
-        console.log("XXXXXXXXXXXXX", importFn.default);
+        const importFn = await import(importFnPath);
 
+        console.log(
+          `Loading non-open files importer for dataset ${ds.id} from ${importFnPath}`
+        );
         await importFn.default(ds);
-      } else {
-        console.warn(`No non-open files found for dataset ${ds.id}`);
       }
     }
   }
