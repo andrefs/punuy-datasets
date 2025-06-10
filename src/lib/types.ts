@@ -337,7 +337,7 @@ export type PartitionData = {
    */
   term2: string;
 } & (
-    | {
+  | {
       /**
        * The averaged numeric value of the semantic relation for the pair
        */
@@ -355,7 +355,7 @@ export type PartitionData = {
        */
       values?: (number | null)[];
     }
-    | {
+  | {
       /**
        * The averaged numeric value of the semantic relation for the pair
        */
@@ -368,4 +368,4 @@ export type PartitionData = {
        */
       values: number[];
     }
-  );
+);
