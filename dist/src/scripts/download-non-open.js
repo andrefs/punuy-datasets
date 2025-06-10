@@ -36,6 +36,7 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 const fs_1 = require("fs");
+const fs_2 = __importDefault(require("fs"));
 const path_1 = __importDefault(require("path"));
 const readline = __importStar(require("node:readline/promises"));
 const node_process_1 = require("node:process");
@@ -82,30 +83,33 @@ function main() {
             }
             return acc;
         }, {}) || null;
-        console.log("XXXXXXXXXXXx", { dsArgs });
         for (const ds of Object.values(datasets)) {
             if (!Object.keys(dsArgs).length || dsArgs[ds.id]) {
-                console.log(`Downloading non-open files for dataset ${ds.id}`);
                 if ((_a = ds.metadata.nonOpen) === null || _a === void 0 ? void 0 : _a.files) {
+                    console.log(`Downloading non-open files for dataset ${ds.id}`);
                     for (const file of ds.metadata.nonOpen.files) {
-                        if (dsArgs &&
+                        if (Object.keys(dsArgs).length &&
                             !((_b = dsArgs[ds.id]) === null || _b === void 0 ? void 0 : _b[file.partitionId]) &&
                             !((_c = dsArgs[ds.id]) === null || _c === void 0 ? void 0 : _c._all)) {
                             continue; // Skip files not specified in args
                         }
-                        const localPath = path_1.default.join(__dirname, "..", "data", ...file.localFolderPath);
+                        const localPath = path_1.default.join(__dirname, "..", "..", "profiles", ds.id, ...file.localFolderPath);
+                        // Ensure the local directory exists
+                        if (!fs_2.default.existsSync(localPath)) {
+                            console.log(`Creating directory ${localPath}`);
+                            yield fs_1.promises.mkdir(localPath, { recursive: true });
+                        }
                         console.log(`You now need to download the file manually and save it to ${localPath}`);
                         // Wait for user input before proceeding
-                        yield rl.question("Hit ENTER to open the browser on the download URL");
+                        yield rl.question("Press any key to open the download URL in your browser...");
                         // Open the download URL in the browser
                         yield (0, open_1.default)(file.downloadUrl);
+                        yield rl.question(`Press any key after you have downloaded the file, extracted it (if needed) and saved it to ${localPath}...`);
                     }
-                    const importFn = yield import(path_1.default.join("..", "..", "profiles", ds.id, "non-open-importer"));
-                    console.log("XXXXXXXXXXXXX", importFn.default);
+                    const importFnPath = path_1.default.join(__dirname, "..", "..", "profiles", ds.id, "non-open-importer");
+                    const importFn = yield import(importFnPath);
+                    console.log(`Loading non-open files importer for dataset ${ds.id} from ${importFnPath}`);
                     yield importFn.default(ds);
-                }
-                else {
-                    console.warn(`No non-open files found for dataset ${ds.id}`);
                 }
             }
         }

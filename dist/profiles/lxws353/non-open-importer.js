@@ -41,10 +41,12 @@ function readCsv(filePath) {
                 for (const line of lines) {
                     if (!line.trim())
                         continue; // skip empty lines
+                    if (line.startsWith("#"))
+                        continue; // skip comments
                     const parts = line.split("\t");
-                    if (parts.length !== 3)
+                    if (parts.length !== 4)
                         continue; // skip malformed lines
-                    const [term1, term2, value] = parts.map(part => part.trim());
+                    const [, term1, term2, value] = parts.map(part => part.trim()); // 1st element is is CATEGORY
                     results.push({ term1, term2, value: parseFloat(value) });
                 }
             })

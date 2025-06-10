@@ -8,7 +8,7 @@
 
 > **PartitionScale**: `object`
 
-Defined in: [types.ts:236](https://github.com/andrefs/punuy-datasets/blob/7ddf96551580567d72a9e75295036a341f0fe34c/src/lib/types.ts#L236)
+Defined in: [types.ts:236](https://github.com/andrefs/punuy-datasets/blob/bb746dfcae5a8272d8127b640c90c9e2c009c2f6/src/lib/types.ts#L236)
 
 ## Type declaration
 

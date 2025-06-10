@@ -3,6 +3,6 @@ metrics.csv
 .aider*
 .env
 profiles/**/origFiles/
-profiles/lxrw2034/*.part.json
-profiles/lxsimlex999/*.part.json
-profiles/lxws353/*.part.json
+**/lxrw2034/*.part.json
+**/lxsimlex999/*.part.json
+**/lxws353/*.part.json

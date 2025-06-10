@@ -38,13 +38,14 @@ function readCsv(filePath) {
                 .on("data", data => {
                 // split the data into lines
                 const lines = data.toString().split("\n");
+                lines.shift(); // remove header line
                 for (const line of lines) {
                     if (!line.trim())
                         continue; // skip empty lines
                     const parts = line.split("\t");
-                    if (parts.length !== 3)
+                    if (parts.length !== 4)
                         continue; // skip malformed lines
-                    const [term1, term2, value] = parts.map(part => part.trim());
+                    const [term1, term2, , value] = parts.map(part => part.trim()); // 3rd element is POS
                     results.push({ term1, term2, value: parseFloat(value) });
                 }
             })
