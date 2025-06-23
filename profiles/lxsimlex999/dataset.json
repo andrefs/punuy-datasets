@@ -22,13 +22,9 @@
     "downloadUrls": [
       "https://portulanclarin.net/repository/browse/lx-simlex-999/4ab1ea58e6d311e6a2aa782bcb0741351e920e18429e4d3e9d229a58030812fe/"
     ],
-    "languages": [
-      "pt"
-    ],
+    "languages": ["pt"],
     "domain": "general",
-    "relationTypes": [
-      "similarity"
-    ],
+    "relationTypes": ["similarity"],
     "nonOpen": {
       "isNonOpen": true,
       "files": [
@@ -36,11 +32,7 @@
           "origFileName": "LX-SimLex-999.txt",
           "downloadUrl": "https://portulanclarin.net/repository/browse/lx-simlex-999/4ab1ea58e6d311e6a2aa782bcb0741351e920e18429e4d3e9d229a58030812fe/",
           "partitionId": "main",
-          "localFolderPath": [
-            ".",
-            "origFiles",
-            "main"
-          ]
+          "localFolderPath": [".", "origFiles", "main"]
         }
       ]
     }
