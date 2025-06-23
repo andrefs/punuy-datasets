@@ -51,6 +51,7 @@ function readProfiles() {
             const fn = path_1.default.join(folder, dsFN, "dataset.json");
             try {
                 yield fs_1.promises.access(fn);
+                // eslint-disable-next-line @typescript-eslint/no-unused-vars
             }
             catch (err) {
                 continue; // Skip if file does not exist

@@ -6,7 +6,7 @@
 
 # Interface: NonOpen
 
-Defined in: [types.ts:124](https://github.com/andrefs/punuy-datasets/blob/6589ba953c3d91e3b83f8180904c2e22e4e51a69/src/lib/types.ts#L124)
+Defined in: [types.ts:124](https://github.com/andrefs/punuy-datasets/blob/86745fd9fdb35df874a6a1e445f369451fa55abb/src/lib/types.ts#L124)
 
 ## Properties
 
@@ -14,7 +14,7 @@ Defined in: [types.ts:124](https://github.com/andrefs/punuy-datasets/blob/6589ba
 
 > `optional` **files**: \[\{ `downloadUrl`: `string`; `localFolderPath`: `string`[]; `origFileName`: `string`; `partitionId`: `string`; \}\]
 
-Defined in: [types.ts:131](https://github.com/andrefs/punuy-datasets/blob/6589ba953c3d91e3b83f8180904c2e22e4e51a69/src/lib/types.ts#L131)
+Defined in: [types.ts:131](https://github.com/andrefs/punuy-datasets/blob/86745fd9fdb35df874a6a1e445f369451fa55abb/src/lib/types.ts#L131)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [types.ts:131](https://github.com/andrefs/punuy-datasets/blob/6589ba
 
 > **isNonOpen**: `boolean`
 
-Defined in: [types.ts:129](https://github.com/andrefs/punuy-datasets/blob/6589ba953c3d91e3b83f8180904c2e22e4e51a69/src/lib/types.ts#L129)
+Defined in: [types.ts:129](https://github.com/andrefs/punuy-datasets/blob/86745fd9fdb35df874a6a1e445f369451fa55abb/src/lib/types.ts#L129)
 
 Whether the dataset is non-open
 

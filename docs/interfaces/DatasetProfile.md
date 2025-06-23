@@ -6,7 +6,7 @@
 
 # Interface: DatasetProfile
 
-Defined in: [types.ts:7](https://github.com/andrefs/punuy-datasets/blob/6589ba953c3d91e3b83f8180904c2e22e4e51a69/src/lib/types.ts#L7)
+Defined in: [types.ts:7](https://github.com/andrefs/punuy-datasets/blob/86745fd9fdb35df874a6a1e445f369451fa55abb/src/lib/types.ts#L7)
 
 ## Properties
 
@@ -14,7 +14,7 @@ Defined in: [types.ts:7](https://github.com/andrefs/punuy-datasets/blob/6589ba95
 
 > **id**: `string`
 
-Defined in: [types.ts:13](https://github.com/andrefs/punuy-datasets/blob/6589ba953c3d91e3b83f8180904c2e22e4e51a69/src/lib/types.ts#L13)
+Defined in: [types.ts:13](https://github.com/andrefs/punuy-datasets/blob/86745fd9fdb35df874a6a1e445f369451fa55abb/src/lib/types.ts#L13)
 
 An identifier for the dataset
 
@@ -28,7 +28,7 @@ An identifier for the dataset
 
 > **metadata**: [`Metadata`](Metadata.md)
 
-Defined in: [types.ts:18](https://github.com/andrefs/punuy-datasets/blob/6589ba953c3d91e3b83f8180904c2e22e4e51a69/src/lib/types.ts#L18)
+Defined in: [types.ts:18](https://github.com/andrefs/punuy-datasets/blob/86745fd9fdb35df874a6a1e445f369451fa55abb/src/lib/types.ts#L18)
 
 Metadata for the dataset
 
@@ -38,7 +38,7 @@ Metadata for the dataset
 
 > `optional` **originalInstructions**: `string`
 
-Defined in: [types.ts:23](https://github.com/andrefs/punuy-datasets/blob/6589ba953c3d91e3b83f8180904c2e22e4e51a69/src/lib/types.ts#L23)
+Defined in: [types.ts:23](https://github.com/andrefs/punuy-datasets/blob/86745fd9fdb35df874a6a1e445f369451fa55abb/src/lib/types.ts#L23)
 
 The original instructions given to the annotators
 
@@ -48,6 +48,6 @@ The original instructions given to the annotators
 
 > **partitions**: [`Partition`](Partition.md)[]
 
-Defined in: [types.ts:28](https://github.com/andrefs/punuy-datasets/blob/6589ba953c3d91e3b83f8180904c2e22e4e51a69/src/lib/types.ts#L28)
+Defined in: [types.ts:28](https://github.com/andrefs/punuy-datasets/blob/86745fd9fdb35df874a6a1e445f369451fa55abb/src/lib/types.ts#L28)
 
 The partitions containing the dataset data
