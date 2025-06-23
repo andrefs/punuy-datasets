@@ -15,6 +15,11 @@ export default async function (ds: DatasetProfile) {
       `Loading non-open file for dataset ${ds.id} from ${localFolderPath}`
     );
     const fileNames = fs.readdirSync(localFolderPath);
+    if (fileNames.length === 0) {
+      throw new Error(
+        `No files found in ${localFolderPath}. Please ensure the file is downloaded and extracted correctly.`
+      );
+    }
     const data = await readCsv(path.join(localFolderPath, fileNames[0]));
 
     // save json to partition data file

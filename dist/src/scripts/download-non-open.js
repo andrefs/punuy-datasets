@@ -107,10 +107,11 @@ function main() {
                         yield (0, open_1.default)(file.downloadUrl);
                         yield rl.question(`Press any key after you have downloaded the file, extracted it (if needed) and saved it to ${localPath}...`);
                     }
-                    const importFnPath = path_1.default.join(__dirname, "..", "..", "profiles", ds.id, "non-open-importer");
+                    const importFnPath = path_1.default.join(__dirname, "..", "..", "profiles", ds.id, "non-open-importer.js" // when converted to js need .js extension
+                    );
                     const importFn = yield import(importFnPath);
                     console.log(`Loading non-open files importer for dataset ${ds.id} from ${importFnPath}`);
-                    yield importFn.default(ds);
+                    yield importFn.default.default(ds); // weird problem when converted to js, so using default.default
                 }
             }
         }

@@ -22,6 +22,9 @@ function default_1(ds) {
             const localFolderPath = path_1.default.join(__dirname, "..", ds.id, ...f.localFolderPath);
             console.log(`Loading non-open file for dataset ${ds.id} from ${localFolderPath}`);
             const fileNames = fs_1.default.readdirSync(localFolderPath);
+            if (fileNames.length === 0) {
+                throw new Error(`No files found in ${localFolderPath}. Please ensure the file is downloaded and extracted correctly.`);
+            }
             const data = yield readCsv(path_1.default.join(localFolderPath, fileNames[0]));
             // save json to partition data file
             const partitionDataFile = path_1.default.join(__dirname, "..", ds.id, `${f.partitionId}.part.json`);

@@ -97,14 +97,14 @@ async function main() {
           "..",
           "profiles",
           ds.id,
-          "non-open-importer"
+          "non-open-importer.js" // when converted to js need .js extension
         );
         const importFn = await import(importFnPath);
 
         console.log(
           `Loading non-open files importer for dataset ${ds.id} from ${importFnPath}`
         );
-        await importFn.default(ds);
+        await importFn.default.default(ds); // weird problem when converted to js, so using default.default
       }
     }
   }
