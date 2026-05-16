@@ -178,7 +178,7 @@ export interface License {
   cannotRedistribute?: boolean;
 }
 
-export type Domain = "general" | "geographical" | "biomedical";
+export type Domain = "general" | "geographical" | "biomedical" | "emotional";
 export type Language = "pt" | "en";
 export type RelationType = "similarity" | "relatedness" | "evocation";
 
@@ -337,7 +337,7 @@ export type PartitionData = {
    */
   term2: string;
 } & (
-  | {
+    | {
       /**
        * The averaged numeric value of the semantic relation for the pair
        */
@@ -355,7 +355,7 @@ export type PartitionData = {
        */
       values?: (number | null)[];
     }
-  | {
+    | {
       /**
        * The averaged numeric value of the semantic relation for the pair
        */
@@ -368,4 +368,4 @@ export type PartitionData = {
        */
       values: number[];
     }
-);
+  );
