@@ -47,5 +47,6 @@ import tversky42 from "./datasets/tversky42";
 import mervis210 from "./datasets/mervis210";
 import medin34 from "./datasets/medin34";
 import lm659 from "./datasets/lm659";
+import kore420 from "./datasets/kore420";
 export * from "./lib/types";
-export { bg100k, mayoSRS, miniMSRS, umnsrs, umnsrsMod, mc30, mt287, rg65, srw2034, ws353, ws353split, yp130, ps65, mesh2, zie55, gm30, mturk771, scws2003, reword26, atlasify240, men3000, wp300, rel122, ma28, sl7576, simlex999, baker143, geresid50, simverb3500, gtrd, word19k, tr9856, semeval17, pt65, lxws353, lxsimlex999, lxrw2034, pap900, multisimlex, emocon, card660, ali27, rd27, resnik28, sstars13, tversky42, mervis210, medin34, lm659, };
+export { bg100k, mayoSRS, miniMSRS, umnsrs, umnsrsMod, mc30, mt287, rg65, srw2034, ws353, ws353split, yp130, ps65, mesh2, zie55, gm30, mturk771, scws2003, reword26, atlasify240, men3000, wp300, rel122, ma28, sl7576, simlex999, baker143, geresid50, simverb3500, gtrd, word19k, tr9856, semeval17, pt65, lxws353, lxsimlex999, lxrw2034, pap900, multisimlex, emocon, card660, ali27, rd27, resnik28, sstars13, tversky42, mervis210, medin34, lm659, kore420, };
