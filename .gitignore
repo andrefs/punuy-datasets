@@ -6,3 +6,4 @@ profiles/**/origFiles/
 **/lxrw2034/*.part.json
 **/lxsimlex999/*.part.json
 **/lxws353/*.part.json
+dist/profiles/*/origFiles
