@@ -13,20 +13,14 @@
       }
     ],
     "date": "2012",
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "description": "We selected 20 seed entities from 4 domains (IT companies, Hollywood celebrities, video games, television series). For each of these entities, we selected 20 entities linked from their Wikipedia article, ranked by human annotators on mechanical turk.",
     "downloadUrls": [
       "https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/ambiverse-nlu/aida/downloads"
     ],
     "domain": "general",
-    "tags": [
-      "entities"
-    ],
-    "relationTypes": [
-      "relatedness"
-    ]
+    "tags": ["entities"],
+    "relationTypes": ["relatedness"]
   },
   "partitions": [
     {

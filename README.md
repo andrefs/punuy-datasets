@@ -33,30 +33,31 @@ A collection of quantitative lexical semantic relations datasets, gathered from 
 | 18 | [umnsrs](./profiles/umnsrs) | UMNSRS | 2010 | biomedical | rel/sim | [paper 📑](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3041430/pdf/amia-2010_sympproc_0572.pdf), [website 🌐](https://conservancy.umn.edu/handle/11299/196265) | 
 | 19 | [mt287](./profiles/mt287) | MT287 | 2011 | general | rel | [paper 📑](http://www.kiraradinsky.com/files/Radinsky-TemporalSemantics.pdf), [website 🌐](http://www.kiraradinsky.com/Datasets.html) | 
 | 20 | [atlasify240](./profiles/atlasify240) | Atlasify240 | 2012 | general | rel | [paper 📑](https://www.brenthecht.com/papers/bhecht_sigir2012_ExpSpatialization_SRplusE.pdf), [website 🌐](https://users.cs.northwestern.edu/~ddowney/data_code.html) | 
-| 21 | [mturk771](./profiles/mturk771) | MTurk771 | 2012 | general | rel | [paper 📑](https://www-ai.cs.tu-dortmund.de/LEHRE/FACHPROJEKT/WS1213/WordCorrelations.pdf), [website 🌐](http://www2.mta.ac.il/~gideon/datasets/mturk_771.html) | 
-| 22 | [reword26](./profiles/reword26) | REWOrD | 2012 | general | rel | [paper 📑](https://cdn.aaai.org/ojs/8107/8107-13-11634-1-2-20201228.pdf), [website 🌐](https://relwod.wordpress.com/datasets/) | 
-| 23 | [scws2003](./profiles/scws2003) | SCWS | 2012 | general | sim | [paper 📑](https://aclanthology.org/P12-1092.pdf), [website 🌐](https://ai.stanford.edu/~ehhuang/) | 
-| 24 | [ma28](./profiles/ma28) | Martinez & Aldana | 2013 | general | sim | [paper 📑](https://hal.science/hal-01628399/file/article.pdf), [website 🌐](https://hal.science/hal-01628399/file/article.pdf) | 
-| 25 | [rel122](./profiles/rel122) | Rel-122 | 2013 | general | rel | [paper 📑](https://aclanthology.org/P13-2154.pdf), [website 🌐](https://www.cs.ucf.edu/~seansz/rel-122/) | 
-| 26 | [srw2034](./profiles/srw2034) | Stanford Rare Word (RW) Similarity Dataset | 2013 | biomedical | sim | [paper 📑](https://nlp.stanford.edu/~lmthang/data/papers/conll13_morpho.pdf), [website 🌐](https://nlp.stanford.edu/~lmthang/morphoNLM/) | 
-| 27 | [wp300](./profiles/wp300) | WP300 | 2013 | general | sim | [paper 📑](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/CIKM841-Li.pdf), [website 🌐](http://adapt.seiee.sjtu.edu.cn/similarity/) | 
-| 28 | [baker143](./profiles/baker143) | Baker 143 | 2014 | general | sim | [paper 📑](https://aclanthology.org/D14-1034.pdf), [website 🌐](https://github.com/sb895/verb-similarity-dataset) | 
-| 29 | [geresid50](./profiles/geresid50) | GeReSiD | 2014 | geographical | rel/sim | [paper 📑](https://arxiv.org/pdf/1402.3371), [website 🌐](https://github.com/ucd-spatial/Datasets/tree/master/geresid-geo_relatedness_similarity_dataset) | 
-| 30 | [men3000](./profiles/men3000) | MEN | 2014 | general | rel | [paper 📑](https://core.ac.uk/download/pdf/35317232.pdf), [website 🌐](https://staff.fnwi.uva.nl/e.bruni/MEN) | 
-| 31 | [sl7576](./profiles/sl7576) | SL7576 | 2014 | general | sim | [paper 📑](https://aclanthology.org/P14-1068.pdf), [website 🌐](https://sites.google.com/view/carinasilberer) | 
-| 32 | [lm659](./profiles/lm659) | Landrigan & Mirman (2015) | 2015 | general | rel/sim | [paper 📑](https://openpsychologydata.metajnl.com/articles/10.5334/jopd.24), [website 🌐](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FKTQ4C) | 
-| 33 | [simlex999](./profiles/simlex999) | SimLex-999 | 2015 | general | sim | [paper 📑](https://aclanthology.org/J15-4004.pdf), [website 🌐](https://fh295.github.io/simlex.html) | 
-| 34 | [tr9856](./profiles/tr9856) | TR9856 | 2015 | general | rel | [paper 📑](https://aclanthology.org/P15-2069.pdf), [website 🌐](https://developer.ibm.com/exchanges/data/all/multi-word-term-relatedness-benchmark/) | 
-| 35 | [simverb3500](./profiles/simverb3500) | SimVerb-3500 | 2016 | general | sim | [paper 📑](https://aclanthology.org/D16-1235.pdf), [website 🌐](https://www.repository.cam.ac.uk/items/8a568201-0fa4-4e54-81b1-f920102492ea) | 
-| 36 | [umnsrsMod](./profiles/umnsrsMod) | UMNSRS (modified) | 2016 | biomedical | rel/sim | [paper 📑](https://academic.oup.com/bioinformatics/article/32/23/3635/2525643), [website 🌐](https://conservancy.umn.edu/handle/11299/196265) | 
-| 37 | [semeval17](./profiles/semeval17) | SemEval-2017 Task 2.1 | 2017 | general | sim | [paper 📑](https://aclanthology.org/S17-2002.pdf), [website 🌐](https://alt.qcri.org/semeval2017/task2/) | 
-| 38 | [ali27](./profiles/ali27) | Ali et al. 2018 | 2018 | general | sim | [paper 📑](https://www.researchgate.net/profile/Ashraf-Ali-31/publication/329755771_SEMANTIC_SIMILARITY_MEASURES_BETWEEN_WORDS_A_BRIEF_SURVEY/links/5c192917458515a4c7e7831e/SEMANTIC-SIMILARITY-MEASURES-BETWEEN-WORDS-A-BRIEF-SURVEY.pdf) | 
-| 39 | [card660](./profiles/card660) | Card-660 | 2018 | general | sim | [paper 📑](https://pilehvar.github.io/card-660/Card-660.pdf), [website 🌐](https://pilehvar.github.io/card-660/) | 
-| 40 | [gtrd](./profiles/gtrd) | GTRD | 2018 | geographical | rel | [paper 📑](https://pdfs.semanticscholar.org/f8f1/b82386147b6a9142b2cff2dc662a3e614d80.pdf), [website 🌐](https://github.com/czgbjy/GTRD) | 
-| 41 | [word19k](./profiles/word19k) | Wikipedia Oriented Relatedness Dataset | 2018 | general | rel | [paper 📑](https://aclanthology.org/L18-1408.pdf), [website 🌐](https://developer.ibm.com/exchanges/data/all/wikipedia-oriented-relatedness/) | 
-| 42 | [multisimlex](./profiles/multisimlex) | Multi-SimLex | 2020 | general | sim | [paper 📑](https://multisimlex.com/Multi-SimLex-Paper.pdf), [website 🌐](https://multisimlex.com/) | 
-| 43 | [emocon](./profiles/emocon) | Emotion concepts 2022 | 2022 | general | sim | [paper 📑](https://escholarship.org/content/qt8vj3d366/qt8vj3d366.pdf), [website 🌐](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6DPPKH) | 
-| 44 | [sstars13](./profiles/sstars13) | Shooting-Stars | 2023 | general | rel | [paper 📑](https://drive.google.com/file/d/1PNlPMH2lQx3BJI8kEAQjVeLoiezeY1x8/view), [website 🌐](https://github.com/andrefs/grettir-datasets/blob/main/stars-2021115.txt) | 
+| 21 | [kore420](./profiles/kore420) | KORE: Related Entities Dataset | 2012 | general | rel | [paper 📑](https://dl.acm.org/doi/pdf/10.1145/2396761.2396832), [website 🌐](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/ambiverse-nlu/aida/downloads) | 
+| 22 | [mturk771](./profiles/mturk771) | MTurk771 | 2012 | general | rel | [paper 📑](https://www-ai.cs.tu-dortmund.de/LEHRE/FACHPROJEKT/WS1213/WordCorrelations.pdf), [website 🌐](http://www2.mta.ac.il/~gideon/datasets/mturk_771.html) | 
+| 23 | [reword26](./profiles/reword26) | REWOrD | 2012 | general | rel | [paper 📑](https://cdn.aaai.org/ojs/8107/8107-13-11634-1-2-20201228.pdf), [website 🌐](https://relwod.wordpress.com/datasets/) | 
+| 24 | [scws2003](./profiles/scws2003) | SCWS | 2012 | general | sim | [paper 📑](https://aclanthology.org/P12-1092.pdf), [website 🌐](https://ai.stanford.edu/~ehhuang/) | 
+| 25 | [ma28](./profiles/ma28) | Martinez & Aldana | 2013 | general | sim | [paper 📑](https://hal.science/hal-01628399/file/article.pdf), [website 🌐](https://hal.science/hal-01628399/file/article.pdf) | 
+| 26 | [rel122](./profiles/rel122) | Rel-122 | 2013 | general | rel | [paper 📑](https://aclanthology.org/P13-2154.pdf), [website 🌐](https://www.cs.ucf.edu/~seansz/rel-122/) | 
+| 27 | [srw2034](./profiles/srw2034) | Stanford Rare Word (RW) Similarity Dataset | 2013 | general | sim | [paper 📑](https://nlp.stanford.edu/~lmthang/data/papers/conll13_morpho.pdf), [website 🌐](https://nlp.stanford.edu/~lmthang/morphoNLM/) | 
+| 28 | [wp300](./profiles/wp300) | WP300 | 2013 | general | sim | [paper 📑](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/CIKM841-Li.pdf), [website 🌐](http://adapt.seiee.sjtu.edu.cn/similarity/) | 
+| 29 | [baker143](./profiles/baker143) | Baker 143 | 2014 | general | sim | [paper 📑](https://aclanthology.org/D14-1034.pdf), [website 🌐](https://github.com/sb895/verb-similarity-dataset) | 
+| 30 | [geresid50](./profiles/geresid50) | GeReSiD | 2014 | geographical | rel/sim | [paper 📑](https://arxiv.org/pdf/1402.3371), [website 🌐](https://github.com/ucd-spatial/Datasets/tree/master/geresid-geo_relatedness_similarity_dataset) | 
+| 31 | [men3000](./profiles/men3000) | MEN | 2014 | general | rel | [paper 📑](https://core.ac.uk/download/pdf/35317232.pdf), [website 🌐](https://staff.fnwi.uva.nl/e.bruni/MEN) | 
+| 32 | [sl7576](./profiles/sl7576) | SL7576 | 2014 | general | sim | [paper 📑](https://aclanthology.org/P14-1068.pdf), [website 🌐](https://sites.google.com/view/carinasilberer) | 
+| 33 | [lm659](./profiles/lm659) | Landrigan & Mirman (2015) | 2015 | general | rel/sim | [paper 📑](https://openpsychologydata.metajnl.com/articles/10.5334/jopd.24), [website 🌐](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FKTQ4C) | 
+| 34 | [simlex999](./profiles/simlex999) | SimLex-999 | 2015 | general | sim | [paper 📑](https://aclanthology.org/J15-4004.pdf), [website 🌐](https://fh295.github.io/simlex.html) | 
+| 35 | [tr9856](./profiles/tr9856) | TR9856 | 2015 | general | rel | [paper 📑](https://aclanthology.org/P15-2069.pdf), [website 🌐](https://developer.ibm.com/exchanges/data/all/multi-word-term-relatedness-benchmark/) | 
+| 36 | [simverb3500](./profiles/simverb3500) | SimVerb-3500 | 2016 | general | sim | [paper 📑](https://aclanthology.org/D16-1235.pdf), [website 🌐](https://www.repository.cam.ac.uk/items/8a568201-0fa4-4e54-81b1-f920102492ea) | 
+| 37 | [umnsrsMod](./profiles/umnsrsMod) | UMNSRS (modified) | 2016 | biomedical | rel/sim | [paper 📑](https://academic.oup.com/bioinformatics/article/32/23/3635/2525643), [website 🌐](https://conservancy.umn.edu/handle/11299/196265) | 
+| 38 | [semeval17](./profiles/semeval17) | SemEval-2017 Task 2.1 | 2017 | general | sim | [paper 📑](https://aclanthology.org/S17-2002.pdf), [website 🌐](https://alt.qcri.org/semeval2017/task2/) | 
+| 39 | [ali27](./profiles/ali27) | Ali et al. 2018 | 2018 | general | sim | [paper 📑](https://www.researchgate.net/profile/Ashraf-Ali-31/publication/329755771_SEMANTIC_SIMILARITY_MEASURES_BETWEEN_WORDS_A_BRIEF_SURVEY/links/5c192917458515a4c7e7831e/SEMANTIC-SIMILARITY-MEASURES-BETWEEN-WORDS-A-BRIEF-SURVEY.pdf) | 
+| 40 | [card660](./profiles/card660) | Card-660 | 2018 | general | sim | [paper 📑](https://pilehvar.github.io/card-660/Card-660.pdf), [website 🌐](https://pilehvar.github.io/card-660/) | 
+| 41 | [gtrd](./profiles/gtrd) | GTRD | 2018 | geographical | rel | [paper 📑](https://pdfs.semanticscholar.org/f8f1/b82386147b6a9142b2cff2dc662a3e614d80.pdf), [website 🌐](https://github.com/czgbjy/GTRD) | 
+| 42 | [word19k](./profiles/word19k) | Wikipedia Oriented Relatedness Dataset | 2018 | general | rel | [paper 📑](https://aclanthology.org/L18-1408.pdf), [website 🌐](https://developer.ibm.com/exchanges/data/all/wikipedia-oriented-relatedness/) | 
+| 43 | [multisimlex](./profiles/multisimlex) | Multi-SimLex | 2020 | general | sim | [paper 📑](https://multisimlex.com/Multi-SimLex-Paper.pdf), [website 🌐](https://multisimlex.com/) | 
+| 44 | [emocon](./profiles/emocon) | Emotion concepts 2022 | 2022 | emotional | sim | [paper 📑](https://escholarship.org/content/qt8vj3d366/qt8vj3d366.pdf), [website 🌐](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6DPPKH) | 
+| 45 | [sstars13](./profiles/sstars13) | Shooting-Stars | 2023 | general | rel | [paper 📑](https://drive.google.com/file/d/1PNlPMH2lQx3BJI8kEAQjVeLoiezeY1x8/view), [website 🌐](https://github.com/andrefs/grettir-datasets/blob/main/stars-2021115.txt) | 
 
 <!-- datasets-section-end-EN -->
 
@@ -71,7 +72,7 @@ A collection of quantitative lexical semantic relations datasets, gathered from 
 | 2 | [lxrw2034](./profiles/lxrw2034) | LX-Rare Word Similarity Dataset | 2017 | general | sim | [paper 📑](https://www.grupocole.org/cole/library/ps/QueCarRodGarSilCorRenPerCamBra2017a.pdf), [website 🌐](https://portulanclarin.net/repository/browse/lx-rare-word-similarity-dataset/f8dd0332e6d911e6a2aa782bcb074135a226cf379cf746a8976dd3420f5a2813/) | 
 | 3 | [lxsimlex999](./profiles/lxsimlex999) | LX-SimLex-999 | 2017 | general | sim | [paper 📑](https://www.grupocole.org/cole/library/ps/QueCarRodGarSilCorRenPerCamBra2017a.pdf), [website 🌐](https://portulanclarin.net/repository/browse/lx-simlex-999/4ab1ea58e6d311e6a2aa782bcb0741351e920e18429e4d3e9d229a58030812fe/) | 
 | 4 | [lxws353](./profiles/lxws353) | LX-WordSim-353 | 2017 | general | rel | [paper 📑](https://www.grupocole.org/cole/library/ps/QueCarRodGarSilCorRenPerCamBra2017a.pdf), [website 🌐](https://portulanclarin.net/repository/browse/lx-wordsim-353/c4e08b72e6dd11e6a2aa782bcb074135a5ac38ba70a14fb3adbd5782b21dacb0/) | 
-| 5 | [pap900](./profiles/pap900) | PAP900 | 2024 | general | rel/sim | [website 🌐](https://github.com/andrefs/PAP900) | 
+| 5 | [pap900](./profiles/pap900) | PAP900 | 2024 | emotional | rel/sim | [website 🌐](https://github.com/andrefs/PAP900) | 
 
 <!-- datasets-section-end-PT -->
 
