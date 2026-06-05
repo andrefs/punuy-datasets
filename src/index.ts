@@ -56,6 +56,7 @@ import tversky42 from "./datasets/tversky42";
 import mervis210 from "./datasets/mervis210";
 import medin34 from "./datasets/medin34";
 import lm659 from "./datasets/lm659";
+import kore420 from "./datasets/kore420";
 
 export * from "./lib/types";
 
@@ -118,4 +119,5 @@ export {
   mervis210,
   medin34,
   lm659,
+  kore420,
 };

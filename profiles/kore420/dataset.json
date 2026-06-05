@@ -1,0 +1,51 @@
+{
+  "id": "kore420",
+  "metadata": {
+    "name": "KORE: Related Entities Dataset",
+    "authors": "J Hoffart, S Seufert, DB Nguyen, M Theobald, G Weikum",
+    "urls": [
+      "https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/ambiverse-nlu/aida/downloads"
+    ],
+    "papers": [
+      {
+        "title": "KORE: Keyphrase Overlap Relatedness for Entity Disambiguation",
+        "url": "https://dl.acm.org/doi/pdf/10.1145/2396761.2396832"
+      }
+    ],
+    "date": "2012",
+    "languages": [
+      "en"
+    ],
+    "description": "We selected 20 seed entities from 4 domains (IT companies, Hollywood celebrities, video games, television series). For each of these entities, we selected 20 entities linked from their Wikipedia article, ranked by human annotators on mechanical turk.",
+    "downloadUrls": [
+      "https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/ambiverse-nlu/aida/downloads"
+    ],
+    "domain": "general",
+    "tags": [
+      "entities"
+    ],
+    "relationTypes": [
+      "relatedness"
+    ]
+  },
+  "partitions": [
+    {
+      "id": "main",
+      "relationType": "relatedness",
+      "scale": {
+        "value": {
+          "max": 1,
+          "min": 0
+        }
+      },
+      "metrics": {
+        "annotators": {
+          "total": 5,
+          "minEachPair": 5
+        },
+        "interAnnoAgreement": []
+      }
+    }
+  ],
+  "originalInstructions": ""
+}
