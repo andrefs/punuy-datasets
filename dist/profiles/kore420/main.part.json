@@ -2,2101 +2,2101 @@
     {
         "term1": "Apple Inc.",
         "term2": "Steve Jobs",
-        "value": "1.00"
+        "value": 1
     },
     {
         "term1": "Apple Inc.",
         "term2": "Steve Wozniak",
-        "value": "0.95"
+        "value": 0.95
     },
     {
         "term1": "Apple Inc.",
         "term2": "Jonathan Ive",
-        "value": "0.90"
+        "value": 0.9
     },
     {
         "term1": "Apple Inc.",
         "term2": "Mac Pro",
-        "value": "0.85"
+        "value": 0.85
     },
     {
         "term1": "Apple Inc.",
         "term2": "Mike Markkula",
-        "value": "0.80"
+        "value": 0.8
     },
     {
         "term1": "Apple Inc.",
         "term2": "Infinite Loop (street)",
-        "value": "0.75"
+        "value": 0.75
     },
     {
         "term1": "Apple Inc.",
         "term2": "Silicon Valley",
-        "value": "0.70"
+        "value": 0.7
     },
     {
         "term1": "Apple Inc.",
         "term2": "NeXT",
-        "value": "0.65"
+        "value": 0.65
     },
     {
         "term1": "Apple Inc.",
         "term2": "Safari (web browser)",
-        "value": "0.60"
+        "value": 0.6
     },
     {
         "term1": "Apple Inc.",
         "term2": "FileMaker Inc.",
-        "value": "0.55"
+        "value": 0.55
     },
     {
         "term1": "Apple Inc.",
         "term2": "Guy Kawasaki",
-        "value": "0.50"
+        "value": 0.5
     },
     {
         "term1": "Apple Inc.",
         "term2": "Microsoft",
-        "value": "0.45"
+        "value": 0.45
     },
     {
         "term1": "Apple Inc.",
         "term2": "Ridley Scott",
-        "value": "0.40"
+        "value": 0.4
     },
     {
         "term1": "Apple Inc.",
         "term2": "Isaac Newton",
-        "value": "0.35"
+        "value": 0.35
     },
     {
         "term1": "Apple Inc.",
         "term2": "Alan Turing",
-        "value": "0.30"
+        "value": 0.3
     },
     {
         "term1": "Apple Inc.",
         "term2": "United States Environmental Protection Agency",
-        "value": "0.25"
+        "value": 0.25
     },
     {
         "term1": "Apple Inc.",
         "term2": "Greenpeace",
-        "value": "0.20"
+        "value": 0.2
     },
     {
         "term1": "Apple Inc.",
         "term2": "Ginza",
-        "value": "0.15"
+        "value": 0.15
     },
     {
         "term1": "Apple Inc.",
         "term2": "Sears",
-        "value": "0.10"
+        "value": 0.1
     },
     {
         "term1": "Apple Inc.",
         "term2": "Ford Motor Company",
-        "value": "0.05"
+        "value": 0.05
     },
     {
         "term1": "Google",
         "term2": "Larry Page",
-        "value": "1.00"
+        "value": 1
     },
     {
         "term1": "Google",
         "term2": "Sergey Brin",
-        "value": "0.95"
+        "value": 0.95
     },
     {
         "term1": "Google",
         "term2": "Google Maps",
-        "value": "0.90"
+        "value": 0.9
     },
     {
         "term1": "Google",
         "term2": "Android (operating system)",
-        "value": "0.85"
+        "value": 0.85
     },
     {
         "term1": "Google",
         "term2": "Andy Bechtolsheim",
-        "value": "0.80"
+        "value": 0.8
     },
     {
         "term1": "Google",
         "term2": "Mountain View, California",
-        "value": "0.75"
+        "value": 0.75
     },
     {
         "term1": "Google",
         "term2": "Bing (search engine)",
-        "value": "0.70"
+        "value": 0.7
     },
     {
         "term1": "Google",
         "term2": "Stanford University",
-        "value": "0.65"
+        "value": 0.65
     },
     {
         "term1": "Google",
         "term2": "Yahoo!",
-        "value": "0.60"
+        "value": 0.6
     },
     {
         "term1": "Google",
         "term2": "Vint Cerf",
-        "value": "0.55"
+        "value": 0.55
     },
     {
         "term1": "Google",
         "term2": "Linux",
-        "value": "0.50"
+        "value": 0.5
     },
     {
         "term1": "Google",
         "term2": "Apple Inc.",
-        "value": "0.45"
+        "value": 0.45
     },
     {
         "term1": "Google",
         "term2": "Ericsson",
-        "value": "0.40"
+        "value": 0.4
     },
     {
         "term1": "Google",
         "term2": "Klingon language",
-        "value": "0.35"
+        "value": 0.35
     },
     {
         "term1": "Google",
         "term2": "Merriam-Webster",
-        "value": "0.30"
+        "value": 0.3
     },
     {
         "term1": "Google",
         "term2": "Forbes",
-        "value": "0.25"
+        "value": 0.25
     },
     {
         "term1": "Google",
         "term2": "Bill de Blasio",
-        "value": "0.20"
+        "value": 0.2
     },
     {
         "term1": "Google",
         "term2": "National Security Agency",
-        "value": "0.15"
+        "value": 0.15
     },
     {
         "term1": "Google",
         "term2": "New York City",
-        "value": "0.10"
+        "value": 0.1
     },
     {
         "term1": "Google",
         "term2": "Central Intelligence Agency",
-        "value": "0.05"
+        "value": 0.05
     },
     {
         "term1": "Facebook",
         "term2": "Mark Zuckerberg",
-        "value": "1.00"
+        "value": 1
     },
     {
         "term1": "Facebook",
         "term2": "Dustin Moskovitz",
-        "value": "0.95"
+        "value": 0.95
     },
     {
         "term1": "Facebook",
         "term2": "Sean Parker",
-        "value": "0.90"
+        "value": 0.9
     },
     {
         "term1": "Facebook",
         "term2": "The Social Network",
-        "value": "0.85"
+        "value": 0.85
     },
     {
         "term1": "Facebook",
         "term2": "Peter Thiel",
-        "value": "0.80"
+        "value": 0.8
     },
     {
         "term1": "Facebook",
         "term2": "MySpace",
-        "value": "0.75"
+        "value": 0.75
     },
     {
         "term1": "Facebook",
         "term2": "Silicon Valley",
-        "value": "0.70"
+        "value": 0.7
     },
     {
         "term1": "Facebook",
         "term2": "Harvard University",
-        "value": "0.65"
+        "value": 0.65
     },
     {
         "term1": "Facebook",
         "term2": "LiveJournal",
-        "value": "0.60"
+        "value": 0.6
     },
     {
         "term1": "Facebook",
         "term2": "Craigslist",
-        "value": "0.55"
+        "value": 0.55
     },
     {
         "term1": "Facebook",
         "term2": "Cameron Winklevoss",
-        "value": "0.50"
+        "value": 0.5
     },
     {
         "term1": "Facebook",
         "term2": "Crunchie",
-        "value": "0.45"
+        "value": 0.45
     },
     {
         "term1": "Facebook",
         "term2": "Justin Timberlake",
-        "value": "0.40"
+        "value": 0.4
     },
     {
         "term1": "Facebook",
         "term2": "The IT Crowd",
-        "value": "0.35"
+        "value": 0.35
     },
     {
         "term1": "Facebook",
         "term2": "HTML",
-        "value": "0.30"
+        "value": 0.3
     },
     {
         "term1": "Facebook",
         "term2": "American Broadcasting Company",
-        "value": "0.25"
+        "value": 0.25
     },
     {
         "term1": "Facebook",
         "term2": "Sophos",
-        "value": "0.20"
+        "value": 0.2
     },
     {
         "term1": "Facebook",
         "term2": "Bradford",
-        "value": "0.15"
+        "value": 0.15
     },
     {
         "term1": "Facebook",
         "term2": "South Park",
-        "value": "0.10"
+        "value": 0.1
     },
     {
         "term1": "Facebook",
         "term2": "Revolutionary Armed Forces of Colombia",
-        "value": "0.05"
+        "value": 0.05
     },
     {
         "term1": "Microsoft",
         "term2": "Bill Gates",
-        "value": "1.00"
+        "value": 1
     },
     {
         "term1": "Microsoft",
         "term2": "Paul Allen",
-        "value": "0.95"
+        "value": 0.95
     },
     {
         "term1": "Microsoft",
         "term2": "Steve Ballmer",
-        "value": "0.90"
+        "value": 0.9
     },
     {
         "term1": "Microsoft",
         "term2": "Microsoft Windows",
-        "value": "0.85"
+        "value": 0.85
     },
     {
         "term1": "Microsoft",
         "term2": "Internet Explorer",
-        "value": "0.80"
+        "value": 0.8
     },
     {
         "term1": "Microsoft",
         "term2": "Encarta",
-        "value": "0.75"
+        "value": 0.75
     },
     {
         "term1": "Microsoft",
         "term2": "Redmond, Washington",
-        "value": "0.70"
+        "value": 0.7
     },
     {
         "term1": "Microsoft",
         "term2": "Helmut Panke",
-        "value": "0.65"
+        "value": 0.65
     },
     {
         "term1": "Microsoft",
         "term2": "Maria Klawe",
-        "value": "0.60"
+        "value": 0.6
     },
     {
         "term1": "Microsoft",
         "term2": "IBM Personal Computer",
-        "value": "0.55"
+        "value": 0.55
     },
     {
         "term1": "Microsoft",
         "term2": "Linux",
-        "value": "0.50"
+        "value": 0.5
     },
     {
         "term1": "Microsoft",
         "term2": "Apple Inc.",
-        "value": "0.45"
+        "value": 0.45
     },
     {
         "term1": "Microsoft",
         "term2": "NBC Universal",
-        "value": "0.40"
+        "value": 0.4
     },
     {
         "term1": "Microsoft",
         "term2": "Pac-Man",
-        "value": "0.35"
+        "value": 0.35
     },
     {
         "term1": "Microsoft",
         "term2": "Scottsdale, Arizona",
-        "value": "0.30"
+        "value": 0.3
     },
     {
         "term1": "Microsoft",
         "term2": "CompuServe",
-        "value": "0.25"
+        "value": 0.25
     },
     {
         "term1": "Microsoft",
         "term2": "Usenet",
-        "value": "0.20"
+        "value": 0.2
     },
     {
         "term1": "Microsoft",
         "term2": "Federal Trade Commission",
-        "value": "0.15"
+        "value": 0.15
     },
     {
         "term1": "Microsoft",
         "term2": "United States Department of Justice",
-        "value": "0.10"
+        "value": 0.1
     },
     {
         "term1": "Microsoft",
         "term2": "European Commission",
-        "value": "0.05"
+        "value": 0.05
     },
     {
         "term1": "IBM",
         "term2": "Herman Hollerith",
-        "value": "1.00"
+        "value": 1
     },
     {
         "term1": "IBM",
         "term2": "Samuel J. Palmisano",
-        "value": "0.95"
+        "value": 0.95
     },
     {
         "term1": "IBM",
         "term2": "Thomas Watson, Jr.",
-        "value": "0.90"
+        "value": 0.9
     },
     {
         "term1": "IBM",
         "term2": "IBM DB2",
-        "value": "0.85"
+        "value": 0.85
     },
     {
         "term1": "IBM",
         "term2": "Rational Software",
-        "value": "0.80"
+        "value": 0.8
     },
     {
         "term1": "IBM",
         "term2": "Armonk, New York",
-        "value": "0.75"
+        "value": 0.75
     },
     {
         "term1": "IBM",
         "term2": "Cell (microprocessor)",
-        "value": "0.70"
+        "value": 0.7
     },
     {
         "term1": "IBM",
         "term2": "Xbox 360",
-        "value": "0.65"
+        "value": 0.65
     },
     {
         "term1": "IBM",
         "term2": "Smarter Planet",
-        "value": "0.60"
+        "value": 0.6
     },
     {
         "term1": "IBM",
         "term2": "Nintendo",
-        "value": "0.55"
+        "value": 0.55
     },
     {
         "term1": "IBM",
         "term2": "Linux",
-        "value": "0.50"
+        "value": 0.5
     },
     {
         "term1": "IBM",
         "term2": "Hewlett-Packard",
-        "value": "0.45"
+        "value": 0.45
     },
     {
         "term1": "IBM",
         "term2": "Dehomag",
-        "value": "0.40"
+        "value": 0.4
     },
     {
         "term1": "IBM",
         "term2": "Service-oriented architecture",
-        "value": "0.35"
+        "value": 0.35
     },
     {
         "term1": "IBM",
         "term2": "Edwin Black",
-        "value": "0.30"
+        "value": 0.3
     },
     {
         "term1": "IBM",
         "term2": "Six Sigma",
-        "value": "0.25"
+        "value": 0.25
     },
     {
         "term1": "IBM",
         "term2": "National Medal of Science",
-        "value": "0.20"
+        "value": 0.2
     },
     {
         "term1": "IBM",
         "term2": "Human Rights Campaign",
-        "value": "0.15"
+        "value": 0.15
     },
     {
         "term1": "IBM",
         "term2": "New York Stock Exchange",
-        "value": "0.10"
+        "value": 0.1
     },
     {
         "term1": "IBM",
         "term2": "Nobel Prize",
-        "value": "0.05"
+        "value": 0.05
     },
     {
         "term1": "Angelina Jolie",
         "term2": "Jon Voight",
-        "value": "1.00"
+        "value": 1
     },
     {
         "term1": "Angelina Jolie",
         "term2": "Brad Pitt",
-        "value": "0.95"
+        "value": 0.95
     },
     {
         "term1": "Angelina Jolie",
         "term2": "Billy Bob Thornton",
-        "value": "0.90"
+        "value": 0.9
     },
     {
         "term1": "Angelina Jolie",
         "term2": "Lara Croft",
-        "value": "0.85"
+        "value": 0.85
     },
     {
         "term1": "Angelina Jolie",
         "term2": "Mr. & Mrs. Smith (2005 film)",
-        "value": "0.80"
+        "value": 0.8
     },
     {
         "term1": "Angelina Jolie",
         "term2": "Jenny Shimizu",
-        "value": "0.75"
+        "value": 0.75
     },
     {
         "term1": "Angelina Jolie",
         "term2": "Hackers (film)",
-        "value": "0.70"
+        "value": 0.7
     },
     {
         "term1": "Angelina Jolie",
         "term2": "Chip Taylor",
-        "value": "0.65"
+        "value": 0.65
     },
     {
         "term1": "Angelina Jolie",
         "term2": "Academy Award",
-        "value": "0.60"
+        "value": 0.6
     },
     {
         "term1": "Angelina Jolie",
         "term2": "Cornelia Wallace",
-        "value": "0.55"
+        "value": 0.55
     },
     {
         "term1": "Angelina Jolie",
         "term2": "Swakopmund",
-        "value": "0.50"
+        "value": 0.5
     },
     {
         "term1": "Angelina Jolie",
         "term2": "Palisades, New York",
-        "value": "0.45"
+        "value": 0.45
     },
     {
         "term1": "Angelina Jolie",
         "term2": "Battambang",
-        "value": "0.40"
+        "value": 0.4
     },
     {
         "term1": "Angelina Jolie",
         "term2": "World Economic Forum",
-        "value": "0.35"
+        "value": 0.35
     },
     {
         "term1": "Angelina Jolie",
         "term2": "Lenny Kravitz",
-        "value": "0.30"
+        "value": 0.3
     },
     {
         "term1": "Angelina Jolie",
         "term2": "David Duchovny",
-        "value": "0.25"
+        "value": 0.25
     },
     {
         "term1": "Angelina Jolie",
         "term2": "Korn",
-        "value": "0.20"
+        "value": 0.2
     },
     {
         "term1": "Angelina Jolie",
         "term2": "Lee Strasberg",
-        "value": "0.15"
+        "value": 0.15
     },
     {
         "term1": "Angelina Jolie",
         "term2": "Jordan",
-        "value": "0.10"
+        "value": 0.1
     },
     {
         "term1": "Angelina Jolie",
         "term2": "2005 Kashmir earthquake",
-        "value": "0.05"
+        "value": 0.05
     },
     {
         "term1": "Brad Pitt",
         "term2": "Angelina Jolie",
-        "value": "1.00"
+        "value": 1
     },
     {
         "term1": "Brad Pitt",
         "term2": "Jennifer Aniston",
-        "value": "0.95"
+        "value": 0.95
     },
     {
         "term1": "Brad Pitt",
         "term2": "Fight Club (film)",
-        "value": "0.90"
+        "value": 0.9
     },
     {
         "term1": "Brad Pitt",
         "term2": "Rusty Ryan",
-        "value": "0.85"
+        "value": 0.85
     },
     {
         "term1": "Brad Pitt",
         "term2": "Seven (film)",
-        "value": "0.80"
+        "value": 0.8
     },
     {
         "term1": "Brad Pitt",
         "term2": "Achilles",
-        "value": "0.75"
+        "value": 0.75
     },
     {
         "term1": "Brad Pitt",
         "term2": "Plan B Entertainment",
-        "value": "0.70"
+        "value": 0.7
     },
     {
         "term1": "Brad Pitt",
         "term2": "Shawnee, Oklahoma",
-        "value": "0.65"
+        "value": 0.65
     },
     {
         "term1": "Brad Pitt",
         "term2": "Golden Globe Award",
-        "value": "0.60"
+        "value": 0.6
     },
     {
         "term1": "Brad Pitt",
         "term2": "University of Missouri",
-        "value": "0.55"
+        "value": 0.55
     },
     {
         "term1": "Brad Pitt",
         "term2": "David Fincher",
-        "value": "0.50"
+        "value": 0.5
     },
     {
         "term1": "Brad Pitt",
         "term2": "Tom Cruise",
-        "value": "0.45"
+        "value": 0.45
     },
     {
         "term1": "Brad Pitt",
         "term2": "Guy Ritchie",
-        "value": "0.40"
+        "value": 0.4
     },
     {
         "term1": "Brad Pitt",
         "term2": "Robert Redford",
-        "value": "0.35"
+        "value": 0.35
     },
     {
         "term1": "Brad Pitt",
         "term2": "ONE Campaign",
-        "value": "0.30"
+        "value": 0.3
     },
     {
         "term1": "Brad Pitt",
         "term2": "People (magazine)",
-        "value": "0.25"
+        "value": 0.25
     },
     {
         "term1": "Brad Pitt",
         "term2": "Nice",
-        "value": "0.20"
+        "value": 0.2
     },
     {
         "term1": "Brad Pitt",
         "term2": "Sudan",
-        "value": "0.15"
+        "value": 0.15
     },
     {
         "term1": "Brad Pitt",
         "term2": "CNN",
-        "value": "0.10"
+        "value": 0.1
     },
     {
         "term1": "Brad Pitt",
         "term2": "Pakistan",
-        "value": "0.05"
+        "value": 0.05
     },
     {
         "term1": "Johnny Depp",
         "term2": "Pirates of the Caribbean (film series)",
-        "value": "1.00"
+        "value": 1
     },
     {
         "term1": "Johnny Depp",
         "term2": "Jack Sparrow",
-        "value": "0.95"
+        "value": 0.95
     },
     {
         "term1": "Johnny Depp",
         "term2": "Edward Scissorhands",
-        "value": "0.90"
+        "value": 0.9
     },
     {
         "term1": "Johnny Depp",
         "term2": "Donnie Brasco (film)",
-        "value": "0.85"
+        "value": 0.85
     },
     {
         "term1": "Johnny Depp",
         "term2": "Kate Moss",
-        "value": "0.80"
+        "value": 0.8
     },
     {
         "term1": "Johnny Depp",
         "term2": "Academy Award for Best Actor",
-        "value": "0.75"
+        "value": 0.75
     },
     {
         "term1": "Johnny Depp",
         "term2": "Owensboro, Kentucky",
-        "value": "0.70"
+        "value": 0.7
     },
     {
         "term1": "Johnny Depp",
         "term2": "John Malkovich",
-        "value": "0.65"
+        "value": 0.65
     },
     {
         "term1": "Johnny Depp",
         "term2": "Meudon",
-        "value": "0.60"
+        "value": 0.6
     },
     {
         "term1": "Johnny Depp",
         "term2": "Anne Hathaway (actress)",
-        "value": "0.55"
+        "value": 0.55
     },
     {
         "term1": "Johnny Depp",
         "term2": "Into the Great Wide Open (song)",
-        "value": "0.50"
+        "value": 0.5
     },
     {
         "term1": "Johnny Depp",
         "term2": "The Bahamas",
-        "value": "0.45"
+        "value": 0.45
     },
     {
         "term1": "Johnny Depp",
         "term2": "Oasis (band)",
-        "value": "0.40"
+        "value": 0.4
     },
     {
         "term1": "Johnny Depp",
         "term2": "Flea (musician)",
-        "value": "0.35"
+        "value": 0.35
     },
     {
         "term1": "Johnny Depp",
         "term2": "Geffen Records",
-        "value": "0.30"
+        "value": 0.3
     },
     {
         "term1": "Johnny Depp",
         "term2": "Tom Petty",
-        "value": "0.25"
+        "value": 0.25
     },
     {
         "term1": "Johnny Depp",
         "term2": "Saint-Tropez",
-        "value": "0.20"
+        "value": 0.2
     },
     {
         "term1": "Johnny Depp",
         "term2": "New York City",
-        "value": "0.15"
+        "value": 0.15
     },
     {
         "term1": "Johnny Depp",
         "term2": "Newsweek",
-        "value": "0.10"
+        "value": 0.1
     },
     {
         "term1": "Johnny Depp",
         "term2": "Mad Love (1935 film)",
-        "value": "0.05"
+        "value": 0.05
     },
     {
         "term1": "Jennifer Aniston",
         "term2": "John Aniston",
-        "value": "1.00"
+        "value": 1
     },
     {
         "term1": "Jennifer Aniston",
         "term2": "Rachel Green",
-        "value": "0.95"
+        "value": 0.95
     },
     {
         "term1": "Jennifer Aniston",
         "term2": "Brad Pitt",
-        "value": "0.90"
+        "value": 0.9
     },
     {
         "term1": "Jennifer Aniston",
         "term2": "Friends",
-        "value": "0.85"
+        "value": 0.85
     },
     {
         "term1": "Jennifer Aniston",
         "term2": "Courteney Cox",
-        "value": "0.80"
+        "value": 0.8
     },
     {
         "term1": "Jennifer Aniston",
         "term2": "Bruce Almighty",
-        "value": "0.75"
+        "value": 0.75
     },
     {
         "term1": "Jennifer Aniston",
         "term2": "Office Space",
-        "value": "0.70"
+        "value": 0.7
     },
     {
         "term1": "Jennifer Aniston",
         "term2": "Tate Donovan",
-        "value": "0.65"
+        "value": 0.65
     },
     {
         "term1": "Jennifer Aniston",
         "term2": "Plan B Entertainment",
-        "value": "0.60"
+        "value": 0.6
     },
     {
         "term1": "Jennifer Aniston",
         "term2": "Telly Savalas",
-        "value": "0.55"
+        "value": 0.55
     },
     {
         "term1": "Jennifer Aniston",
         "term2": "Emmy Award",
-        "value": "0.50"
+        "value": 0.5
     },
     {
         "term1": "Jennifer Aniston",
         "term2": "NBC",
-        "value": "0.45"
+        "value": 0.45
     },
     {
         "term1": "Jennifer Aniston",
         "term2": "Ferris Bueller's Day Off",
-        "value": "0.40"
+        "value": 0.4
     },
     {
         "term1": "Jennifer Aniston",
         "term2": "AmeriCares",
-        "value": "0.35"
+        "value": 0.35
     },
     {
         "term1": "Jennifer Aniston",
         "term2": "Malibu, California",
-        "value": "0.30"
+        "value": 0.3
     },
     {
         "term1": "Jennifer Aniston",
         "term2": "Melissa Etheridge",
-        "value": "0.25"
+        "value": 0.25
     },
     {
         "term1": "Jennifer Aniston",
         "term2": "David Wain",
-        "value": "0.20"
+        "value": 0.2
     },
     {
         "term1": "Jennifer Aniston",
         "term2": "Burma",
-        "value": "0.15"
+        "value": 0.15
     },
     {
         "term1": "Jennifer Aniston",
         "term2": "Microsoft",
-        "value": "0.10"
+        "value": 0.1
     },
     {
         "term1": "Jennifer Aniston",
         "term2": "The Hollywood Reporter",
-        "value": "0.05"
+        "value": 0.05
     },
     {
         "term1": "Leonardo DiCaprio",
         "term2": "Inception (film)",
-        "value": "1.00"
+        "value": 1
     },
     {
         "term1": "Leonardo DiCaprio",
         "term2": "Titanic (1997 film)",
-        "value": "0.95"
+        "value": 0.95
     },
     {
         "term1": "Leonardo DiCaprio",
         "term2": "Frank Abagnale",
-        "value": "0.90"
+        "value": 0.9
     },
     {
         "term1": "Leonardo DiCaprio",
         "term2": "Kate Winslet",
-        "value": "0.85"
+        "value": 0.85
     },
     {
         "term1": "Leonardo DiCaprio",
         "term2": "Bar Refaeli",
-        "value": "0.80"
+        "value": 0.8
     },
     {
         "term1": "Leonardo DiCaprio",
         "term2": "Golden Globe Award for Best Actor – Motion Picture Drama",
-        "value": "0.75"
+        "value": 0.75
     },
     {
         "term1": "Leonardo DiCaprio",
         "term2": "Tobey Maguire",
-        "value": "0.70"
+        "value": 0.7
     },
     {
         "term1": "Leonardo DiCaprio",
         "term2": "Los Angeles",
-        "value": "0.65"
+        "value": 0.65
     },
     {
         "term1": "Leonardo DiCaprio",
         "term2": "Steven Spielberg",
-        "value": "0.60"
+        "value": 0.6
     },
     {
         "term1": "Leonardo DiCaprio",
         "term2": "Lower Manhattan",
-        "value": "0.55"
+        "value": 0.55
     },
     {
         "term1": "Leonardo DiCaprio",
         "term2": "Ben Kingsley",
-        "value": "0.50"
+        "value": 0.5
     },
     {
         "term1": "Leonardo DiCaprio",
         "term2": "Body of Lies (novel)",
-        "value": "0.45"
+        "value": 0.45
     },
     {
         "term1": "Leonardo DiCaprio",
         "term2": "Live Earth",
-        "value": "0.40"
+        "value": 0.4
     },
     {
         "term1": "Leonardo DiCaprio",
         "term2": "Entertainment Weekly",
-        "value": "0.35"
+        "value": 0.35
     },
     {
         "term1": "Leonardo DiCaprio",
         "term2": "Barack Obama",
-        "value": "0.30"
+        "value": 0.3
     },
     {
         "term1": "Leonardo DiCaprio",
         "term2": "Mozambique",
-        "value": "0.25"
+        "value": 0.25
     },
     {
         "term1": "Leonardo DiCaprio",
         "term2": "Germany",
-        "value": "0.20"
+        "value": 0.2
     },
     {
         "term1": "Leonardo DiCaprio",
         "term2": "Richard Yates (novelist)",
-        "value": "0.15"
+        "value": 0.15
     },
     {
         "term1": "Leonardo DiCaprio",
         "term2": "Roger Ebert",
-        "value": "0.10"
+        "value": 0.1
     },
     {
         "term1": "Leonardo DiCaprio",
         "term2": "Hod HaSharon",
-        "value": "0.05"
+        "value": 0.05
     },
     {
         "term1": "Grand Theft Auto IV",
         "term2": "Niko Bellic",
-        "value": "1.00"
+        "value": 1
     },
     {
         "term1": "Grand Theft Auto IV",
         "term2": "Liberty City (Grand Theft Auto)",
-        "value": "0.95"
+        "value": 0.95
     },
     {
         "term1": "Grand Theft Auto IV",
         "term2": "Grand Theft Auto III",
-        "value": "0.90"
+        "value": 0.9
     },
     {
         "term1": "Grand Theft Auto IV",
         "term2": "Rockstar Games",
-        "value": "0.85"
+        "value": 0.85
     },
     {
         "term1": "Grand Theft Auto IV",
         "term2": "Take-Two Interactive",
-        "value": "0.80"
+        "value": 0.8
     },
     {
         "term1": "Grand Theft Auto IV",
         "term2": "Rockstar Games Social Club",
-        "value": "0.75"
+        "value": 0.75
     },
     {
         "term1": "Grand Theft Auto IV",
         "term2": "PlayStation 3",
-        "value": "0.70"
+        "value": 0.7
     },
     {
         "term1": "Grand Theft Auto IV",
         "term2": "DJ Premier",
-        "value": "0.65"
+        "value": 0.65
     },
     {
         "term1": "Grand Theft Auto IV",
         "term2": "Karl Lagerfeld",
-        "value": "0.60"
+        "value": 0.6
     },
     {
         "term1": "Grand Theft Auto IV",
         "term2": "Peter Moore (business)",
-        "value": "0.55"
+        "value": 0.55
     },
     {
         "term1": "Grand Theft Auto IV",
         "term2": "New York City",
-        "value": "0.50"
+        "value": 0.5
     },
     {
         "term1": "Grand Theft Auto IV",
         "term2": "Bosnian War",
-        "value": "0.45"
+        "value": 0.45
     },
     {
         "term1": "Grand Theft Auto IV",
         "term2": "Eastern Europe",
-        "value": "0.40"
+        "value": 0.4
     },
     {
         "term1": "Grand Theft Auto IV",
         "term2": "Brooklyn Bridge",
-        "value": "0.35"
+        "value": 0.35
     },
     {
         "term1": "Grand Theft Auto IV",
         "term2": "Metacritic",
-        "value": "0.30"
+        "value": 0.3
     },
     {
         "term1": "Grand Theft Auto IV",
         "term2": "Edinburgh",
-        "value": "0.25"
+        "value": 0.25
     },
     {
         "term1": "Grand Theft Auto IV",
         "term2": "Guinness World Records",
-        "value": "0.20"
+        "value": 0.2
     },
     {
         "term1": "Grand Theft Auto IV",
         "term2": "Federal Bureau of Investigation",
-        "value": "0.15"
+        "value": 0.15
     },
     {
         "term1": "Grand Theft Auto IV",
         "term2": "NPD Group",
-        "value": "0.10"
+        "value": 0.1
     },
     {
         "term1": "Grand Theft Auto IV",
         "term2": "Mothers Against Drunk Driving",
-        "value": "0.05"
+        "value": 0.05
     },
     {
         "term1": "Quake (video game)",
         "term2": "Quake engine",
-        "value": "1.00"
+        "value": 1
     },
     {
         "term1": "Quake (video game)",
         "term2": "John D. Carmack",
-        "value": "0.95"
+        "value": 0.95
     },
     {
         "term1": "Quake (video game)",
         "term2": "Kevin Cloud",
-        "value": "0.90"
+        "value": 0.9
     },
     {
         "term1": "Quake (video game)",
         "term2": "Quake II",
-        "value": "0.85"
+        "value": 0.85
     },
     {
         "term1": "Quake (video game)",
         "term2": "John Romero",
-        "value": "0.80"
+        "value": 0.8
     },
     {
         "term1": "Quake (video game)",
         "term2": "QuakeC",
-        "value": "0.75"
+        "value": 0.75
     },
     {
         "term1": "Quake (video game)",
         "term2": "Team Fortress",
-        "value": "0.70"
+        "value": 0.7
     },
     {
         "term1": "Quake (video game)",
         "term2": "Shub-Niggurath",
-        "value": "0.65"
+        "value": 0.65
     },
     {
         "term1": "Quake (video game)",
         "term2": "Trent Reznor",
-        "value": "0.60"
+        "value": 0.6
     },
     {
         "term1": "Quake (video game)",
         "term2": "Midway Games",
-        "value": "0.55"
+        "value": 0.55
     },
     {
         "term1": "Quake (video game)",
         "term2": "Red Annihilation",
-        "value": "0.50"
+        "value": 0.5
     },
     {
         "term1": "Quake (video game)",
         "term2": "Blahbalicious",
-        "value": "0.45"
+        "value": 0.45
     },
     {
         "term1": "Quake (video game)",
         "term2": "Doom (video game)",
-        "value": "0.40"
+        "value": 0.4
     },
     {
         "term1": "Quake (video game)",
         "term2": "OpenGL",
-        "value": "0.35"
+        "value": 0.35
     },
     {
         "term1": "Quake (video game)",
         "term2": "Technology & Engineering Emmy Award",
-        "value": "0.30"
+        "value": 0.3
     },
     {
         "term1": "Quake (video game)",
         "term2": "SPARC",
-        "value": "0.25"
+        "value": 0.25
     },
     {
         "term1": "Quake (video game)",
         "term2": "Sega Saturn",
-        "value": "0.20"
+        "value": 0.2
     },
     {
         "term1": "Quake (video game)",
         "term2": "Microsoft Windows",
-        "value": "0.15"
+        "value": 0.15
     },
     {
         "term1": "Quake (video game)",
         "term2": "DirectDraw",
-        "value": "0.10"
+        "value": 0.1
     },
     {
         "term1": "Quake (video game)",
         "term2": "H. P. Lovecraft",
-        "value": "0.05"
+        "value": 0.05
     },
     {
         "term1": "Deus Ex (video game)",
         "term2": "JC Denton",
-        "value": "1.00"
+        "value": 1
     },
     {
         "term1": "Deus Ex (video game)",
         "term2": "Ion Storm Inc.",
-        "value": "0.95"
+        "value": 0.95
     },
     {
         "term1": "Deus Ex (video game)",
         "term2": "Warren Spector",
-        "value": "0.90"
+        "value": 0.9
     },
     {
         "term1": "Deus Ex (video game)",
         "term2": "Eidos Interactive",
-        "value": "0.85"
+        "value": 0.85
     },
     {
         "term1": "Deus Ex (video game)",
         "term2": "Alexander Brandon",
-        "value": "0.80"
+        "value": 0.8
     },
     {
         "term1": "Deus Ex (video game)",
         "term2": "John Romero",
-        "value": "0.75"
+        "value": 0.75
     },
     {
         "term1": "Deus Ex (video game)",
         "term2": "System Shock",
-        "value": "0.70"
+        "value": 0.7
     },
     {
         "term1": "Deus Ex (video game)",
         "term2": "Game of the Year",
-        "value": "0.65"
+        "value": 0.65
     },
     {
         "term1": "Deus Ex (video game)",
         "term2": "Illuminati",
-        "value": "0.60"
+        "value": 0.6
     },
     {
         "term1": "Deus Ex (video game)",
         "term2": "Area 51",
-        "value": "0.55"
+        "value": 0.55
     },
     {
         "term1": "Deus Ex (video game)",
         "term2": "Steam (content delivery)",
-        "value": "0.50"
+        "value": 0.5
     },
     {
         "term1": "Deus Ex (video game)",
         "term2": "William Gibson",
-        "value": "0.45"
+        "value": 0.45
     },
     {
         "term1": "Deus Ex (video game)",
         "term2": "Statue of Liberty",
-        "value": "0.40"
+        "value": 0.4
     },
     {
         "term1": "Deus Ex (video game)",
         "term2": "Microsoft Windows",
-        "value": "0.35"
+        "value": 0.35
     },
     {
         "term1": "Deus Ex (video game)",
         "term2": "Gravity's Rainbow",
-        "value": "0.30"
+        "value": 0.3
     },
     {
         "term1": "Deus Ex (video game)",
         "term2": "Columbia Pictures",
-        "value": "0.25"
+        "value": 0.25
     },
     {
         "term1": "Deus Ex (video game)",
         "term2": "The Diamond Age",
-        "value": "0.20"
+        "value": 0.2
     },
     {
         "term1": "Deus Ex (video game)",
         "term2": "United Nations",
-        "value": "0.15"
+        "value": 0.15
     },
     {
         "term1": "Deus Ex (video game)",
         "term2": "Hong Kong",
-        "value": "0.10"
+        "value": 0.1
     },
     {
         "term1": "Deus Ex (video game)",
         "term2": "USA Today",
-        "value": "0.05"
+        "value": 0.05
     },
     {
         "term1": "Guitar Hero (video game)",
         "term2": "Harmonix Music Systems",
-        "value": "1.00"
+        "value": 1
     },
     {
         "term1": "Guitar Hero (video game)",
         "term2": "RedOctane",
-        "value": "0.95"
+        "value": 0.95
     },
     {
         "term1": "Guitar Hero (video game)",
         "term2": "WaveGroup Sound",
-        "value": "0.90"
+        "value": 0.9
     },
     {
         "term1": "Guitar Hero (video game)",
         "term2": "Marcus Henderson",
-        "value": "0.85"
+        "value": 0.85
     },
     {
         "term1": "Guitar Hero (video game)",
         "term2": "Gibson SG",
-        "value": "0.80"
+        "value": 0.8
     },
     {
         "term1": "Guitar Hero (video game)",
         "term2": "Rock Band (video game)",
-        "value": "0.75"
+        "value": 0.75
     },
     {
         "term1": "Guitar Hero (video game)",
         "term2": "PlayStation 2",
-        "value": "0.70"
+        "value": 0.7
     },
     {
         "term1": "Guitar Hero (video game)",
         "term2": "Zakk Wylde",
-        "value": "0.65"
+        "value": 0.65
     },
     {
         "term1": "Guitar Hero (video game)",
         "term2": "Smoke on the Water",
-        "value": "0.60"
+        "value": 0.6
     },
     {
         "term1": "Guitar Hero (video game)",
         "term2": "Frequency (video game)",
-        "value": "0.55"
+        "value": 0.55
     },
     {
         "term1": "Guitar Hero (video game)",
         "term2": "Konami",
-        "value": "0.50"
+        "value": 0.5
     },
     {
         "term1": "Guitar Hero (video game)",
         "term2": "Franz Ferdinand (band)",
-        "value": "0.45"
+        "value": 0.45
     },
     {
         "term1": "Guitar Hero (video game)",
         "term2": "Game Developers Choice Awards",
-        "value": "0.40"
+        "value": 0.4
     },
     {
         "term1": "Guitar Hero (video game)",
         "term2": "Ed Fries",
-        "value": "0.35"
+        "value": 0.35
     },
     {
         "term1": "Guitar Hero (video game)",
         "term2": "Nyko",
-        "value": "0.30"
+        "value": 0.3
     },
     {
         "term1": "Guitar Hero (video game)",
         "term2": "Greg Fischbach",
-        "value": "0.25"
+        "value": 0.25
     },
     {
         "term1": "Guitar Hero (video game)",
         "term2": "MTV",
-        "value": "0.20"
+        "value": 0.2
     },
     {
         "term1": "Guitar Hero (video game)",
         "term2": "Japan",
-        "value": "0.15"
+        "value": 0.15
     },
     {
         "term1": "Guitar Hero (video game)",
         "term2": "Wired (magazine)",
-        "value": "0.10"
+        "value": 0.1
     },
     {
         "term1": "Guitar Hero (video game)",
         "term2": "NPD Group",
-        "value": "0.05"
+        "value": 0.05
     },
     {
         "term1": "Max Payne",
         "term2": "3D Realms",
-        "value": "1.00"
+        "value": 1
     },
     {
         "term1": "Max Payne",
         "term2": "Remedy Entertainment",
-        "value": "0.95"
+        "value": 0.95
     },
     {
         "term1": "Max Payne",
         "term2": "James McCaffrey",
-        "value": "0.90"
+        "value": 0.9
     },
     {
         "term1": "Max Payne",
         "term2": "Sam Lake",
-        "value": "0.85"
+        "value": 0.85
     },
     {
         "term1": "Max Payne",
         "term2": "Kärtsy Hatakka",
-        "value": "0.80"
+        "value": 0.8
     },
     {
         "term1": "Max Payne",
         "term2": "Max Payne (film)",
-        "value": "0.75"
+        "value": 0.75
     },
     {
         "term1": "Max Payne",
         "term2": "Timothy Gibbs",
-        "value": "0.70"
+        "value": 0.7
     },
     {
         "term1": "Max Payne",
         "term2": "Ragnarök",
-        "value": "0.65"
+        "value": 0.65
     },
     {
         "term1": "Max Payne",
         "term2": "Xbox",
-        "value": "0.60"
+        "value": 0.6
     },
     {
         "term1": "Max Payne",
         "term2": "Mickey Spillane",
-        "value": "0.55"
+        "value": 0.55
     },
     {
         "term1": "Max Payne",
         "term2": "Golden Joystick Award",
-        "value": "0.50"
+        "value": 0.5
     },
     {
         "term1": "Max Payne",
         "term2": "Beretta 92",
-        "value": "0.45"
+        "value": 0.45
     },
     {
         "term1": "Max Payne",
         "term2": "John Woo",
-        "value": "0.40"
+        "value": 0.4
     },
     {
         "term1": "Max Payne",
         "term2": "Microsoft Windows",
-        "value": "0.35"
+        "value": 0.35
     },
     {
         "term1": "Max Payne",
         "term2": "Tomb Raider (video game)",
-        "value": "0.30"
+        "value": 0.3
     },
     {
         "term1": "Max Payne",
         "term2": "New York City Subway",
-        "value": "0.25"
+        "value": 0.25
     },
     {
         "term1": "Max Payne",
         "term2": "Electronic Entertainment Expo",
-        "value": "0.20"
+        "value": 0.2
     },
     {
         "term1": "Max Payne",
         "term2": "Finland",
-        "value": "0.15"
+        "value": 0.15
     },
     {
         "term1": "Max Payne",
         "term2": "Gulf War",
-        "value": "0.10"
+        "value": 0.1
     },
     {
         "term1": "Max Payne",
         "term2": "BBC",
-        "value": "0.05"
+        "value": 0.05
     },
     {
         "term1": "Chuck Norris",
         "term2": "Chuck Norris facts",
-        "value": "1.00"
+        "value": 1
     },
     {
         "term1": "Chuck Norris",
         "term2": "Aaron Norris",
-        "value": "0.95"
+        "value": 0.95
     },
     {
         "term1": "Chuck Norris",
         "term2": "Walker, Texas Ranger",
-        "value": "0.90"
+        "value": 0.9
     },
     {
         "term1": "Chuck Norris",
         "term2": "Bruce Lee",
-        "value": "0.85"
+        "value": 0.85
     },
     {
         "term1": "Chuck Norris",
         "term2": "Chun Kuk Do",
-        "value": "0.80"
+        "value": 0.8
     },
     {
         "term1": "Chuck Norris",
         "term2": "Missing in Action (film)",
-        "value": "0.75"
+        "value": 0.75
     },
     {
         "term1": "Chuck Norris",
         "term2": "Ryan, Oklahoma",
-        "value": "0.70"
+        "value": 0.7
     },
     {
         "term1": "Chuck Norris",
         "term2": "The Cannon Group",
-        "value": "0.65"
+        "value": 0.65
     },
     {
         "term1": "Chuck Norris",
         "term2": "CBS",
-        "value": "0.60"
+        "value": 0.6
     },
     {
         "term1": "Chuck Norris",
         "term2": "United States Air Force",
-        "value": "0.55"
+        "value": 0.55
     },
     {
         "term1": "Chuck Norris",
         "term2": "Northrop Corporation",
-        "value": "0.50"
+        "value": 0.5
     },
     {
         "term1": "Chuck Norris",
         "term2": "Mike Huckabee",
-        "value": "0.45"
+        "value": 0.45
     },
     {
         "term1": "Chuck Norris",
         "term2": "Osan Air Base",
-        "value": "0.40"
+        "value": 0.4
     },
     {
         "term1": "Chuck Norris",
         "term2": "Brazilian Jiu-Jitsu",
-        "value": "0.35"
+        "value": 0.35
     },
     {
         "term1": "Chuck Norris",
         "term2": "Skipper Mullins",
-        "value": "0.30"
+        "value": 0.3
     },
     {
         "term1": "Chuck Norris",
         "term2": "Dean Martin",
-        "value": "0.25"
+        "value": 0.25
     },
     {
         "term1": "Chuck Norris",
         "term2": "Long Beach, California",
-        "value": "0.20"
+        "value": 0.2
     },
     {
         "term1": "Chuck Norris",
         "term2": "Liberty University",
-        "value": "0.15"
+        "value": 0.15
     },
     {
         "term1": "Chuck Norris",
         "term2": "Jesus",
-        "value": "0.10"
+        "value": 0.1
     },
     {
         "term1": "Chuck Norris",
         "term2": "Priscilla Presley",
-        "value": "0.05"
+        "value": 0.05
     },
     {
         "term1": "The Sopranos",
         "term2": "Tony Soprano",
-        "value": "1.00"
+        "value": 1
     },
     {
         "term1": "The Sopranos",
         "term2": "David Chase",
-        "value": "0.95"
+        "value": 0.95
     },
     {
         "term1": "The Sopranos",
         "term2": "Michael Imperioli",
-        "value": "0.90"
+        "value": 0.9
     },
     {
         "term1": "The Sopranos",
         "term2": "Big Pussy Bonpensiero",
-        "value": "0.85"
+        "value": 0.85
     },
     {
         "term1": "The Sopranos",
         "term2": "Furio Giunta",
-        "value": "0.80"
+        "value": 0.8
     },
     {
         "term1": "The Sopranos",
         "term2": "Jerry Adler",
-        "value": "0.75"
+        "value": 0.75
     },
     {
         "term1": "The Sopranos",
         "term2": "Steve Buscemi",
-        "value": "0.70"
+        "value": 0.7
     },
     {
         "term1": "The Sopranos",
         "term2": "Woke Up This Morning",
-        "value": "0.65"
+        "value": 0.65
     },
     {
         "term1": "The Sopranos",
         "term2": "Satriale's Pork Store",
-        "value": "0.60"
+        "value": 0.6
     },
     {
         "term1": "The Sopranos",
         "term2": "Pie-O-My",
-        "value": "0.55"
+        "value": 0.55
     },
     {
         "term1": "The Sopranos",
         "term2": "Golden Globe Award",
-        "value": "0.50"
+        "value": 0.5
     },
     {
         "term1": "The Sopranos",
         "term2": "The Kinks",
-        "value": "0.45"
+        "value": 0.45
     },
     {
         "term1": "The Sopranos",
         "term2": "Ben Kingsley",
-        "value": "0.40"
+        "value": 0.4
     },
     {
         "term1": "The Sopranos",
         "term2": "Francis Ford Coppola",
-        "value": "0.35"
+        "value": 0.35
     },
     {
         "term1": "The Sopranos",
         "term2": "Nielsen ratings",
-        "value": "0.30"
+        "value": 0.3
     },
     {
         "term1": "The Sopranos",
         "term2": "Al Pacino",
-        "value": "0.25"
+        "value": 0.25
     },
     {
         "term1": "The Sopranos",
         "term2": "Mad Men",
-        "value": "0.20"
+        "value": 0.2
     },
     {
         "term1": "The Sopranos",
         "term2": "Bruce Springsteen",
-        "value": "0.15"
+        "value": 0.15
     },
     {
         "term1": "The Sopranos",
         "term2": "The New Yorker",
-        "value": "0.10"
+        "value": 0.1
     },
     {
         "term1": "The Sopranos",
         "term2": "Big Love",
-        "value": "0.05"
+        "value": 0.05
     },
     {
         "term1": "The A-Team",
         "term2": "Mr. T",
-        "value": "1.00"
+        "value": 1
     },
     {
         "term1": "The A-Team",
         "term2": "H. M. Murdock",
-        "value": "0.95"
+        "value": 0.95
     },
     {
         "term1": "The A-Team",
         "term2": "Dirk Benedict",
-        "value": "0.90"
+        "value": 0.9
     },
     {
         "term1": "The A-Team",
-        "term2": "Templeton \"Faceman\" Peck",
-        "value": "0.85"
+        "term2": "Templeton 'Faceman' Peck",
+        "value": 0.85
     },
     {
         "term1": "The A-Team",
         "term2": "Frank Lupo",
-        "value": "0.80"
+        "value": 0.8
     },
     {
         "term1": "The A-Team",
         "term2": "Lance LeGault",
-        "value": "0.75"
+        "value": 0.75
     },
     {
         "term1": "The A-Team",
         "term2": "NBC",
-        "value": "0.70"
+        "value": 0.7
     },
     {
         "term1": "The A-Team",
         "term2": "20th Century Fox",
-        "value": "0.65"
+        "value": 0.65
     },
     {
         "term1": "The A-Team",
         "term2": "Hulk Hogan",
-        "value": "0.60"
+        "value": 0.6
     },
     {
         "term1": "The A-Team",
         "term2": "Hanoi",
-        "value": "0.55"
+        "value": 0.55
     },
     {
         "term1": "The A-Team",
         "term2": "Lieutenant Starbuck",
-        "value": "0.50"
+        "value": 0.5
     },
     {
         "term1": "The A-Team",
         "term2": "James Coburn",
-        "value": "0.45"
+        "value": 0.45
     },
     {
         "term1": "The A-Team",
         "term2": "The Magnificent Seven",
-        "value": "0.40"
+        "value": 0.4
     },
     {
         "term1": "The A-Team",
         "term2": "Super Bowl XVII",
-        "value": "0.35"
+        "value": 0.35
     },
     {
         "term1": "The A-Team",
         "term2": "Mad Max",
-        "value": "0.30"
+        "value": 0.3
     },
     {
         "term1": "The A-Team",
         "term2": "Dr Pepper",
-        "value": "0.25"
+        "value": 0.25
     },
     {
         "term1": "The A-Team",
         "term2": "Keswick, Cumbria",
-        "value": "0.20"
+        "value": 0.2
     },
     {
         "term1": "The A-Team",
         "term2": "Magnum, P.I.",
-        "value": "0.15"
+        "value": 0.15
     },
     {
         "term1": "The A-Team",
         "term2": "Jensen!",
-        "value": "0.10"
+        "value": 0.1
     },
     {
         "term1": "The A-Team",
         "term2": "Family Guy",
-        "value": "0.05"
+        "value": 0.05
     },
     {
         "term1": "Futurama",
         "term2": "Philip J. Fry",
-        "value": "1.00"
+        "value": 1
     },
     {
         "term1": "Futurama",
         "term2": "Matt Groening",
-        "value": "0.95"
+        "value": 0.95
     },
     {
         "term1": "Futurama",
         "term2": "David X. Cohen",
-        "value": "0.90"
+        "value": 0.9
     },
     {
         "term1": "Futurama",
         "term2": "Kristin Gore",
-        "value": "0.85"
+        "value": 0.85
     },
     {
         "term1": "Futurama",
         "term2": "The Problem with Popplers",
-        "value": "0.80"
+        "value": 0.8
     },
     {
         "term1": "Futurama",
         "term2": "Billy West",
-        "value": "0.75"
+        "value": 0.75
     },
     {
         "term1": "Futurama",
         "term2": "Rough Draft Studios",
-        "value": "0.70"
+        "value": 0.7
     },
     {
         "term1": "Futurama",
         "term2": "Christopher Tyng",
-        "value": "0.65"
+        "value": 0.65
     },
     {
         "term1": "Futurama",
         "term2": "Fox Broadcasting Company",
-        "value": "0.60"
+        "value": 0.6
     },
     {
         "term1": "Futurama",
         "term2": "Futurama (New York World's Fair)",
-        "value": "0.55"
+        "value": 0.55
     },
     {
         "term1": "Futurama",
         "term2": "Seth MacFarlane",
-        "value": "0.50"
+        "value": 0.5
     },
     {
         "term1": "Futurama",
         "term2": "Ron Popeil",
-        "value": "0.45"
+        "value": 0.45
     },
     {
         "term1": "Futurama",
         "term2": "New York City",
-        "value": "0.40"
+        "value": 0.4
     },
     {
         "term1": "Futurama",
         "term2": "Sierra Entertainment",
-        "value": "0.35"
+        "value": 0.35
     },
     {
         "term1": "Futurama",
         "term2": "Googie architecture",
-        "value": "0.30"
+        "value": 0.3
     },
     {
         "term1": "Futurama",
         "term2": "The Mirage",
-        "value": "0.25"
+        "value": 0.25
     },
     {
         "term1": "Futurama",
         "term2": "Shea Stadium",
-        "value": "0.20"
+        "value": 0.2
     },
     {
         "term1": "Futurama",
         "term2": "Toronto Star",
-        "value": "0.15"
+        "value": 0.15
     },
     {
         "term1": "Futurama",
         "term2": "Latin",
-        "value": "0.10"
+        "value": 0.1
     },
     {
         "term1": "Futurama",
         "term2": "Frank Lovece",
-        "value": "0.05"
+        "value": 0.05
     },
     {
         "term1": "The Wire",
         "term2": "Omar Little",
-        "value": "1.00"
+        "value": 1
     },
     {
         "term1": "The Wire",
         "term2": "Jimmy McNulty",
-        "value": "0.95"
+        "value": 0.95
     },
     {
         "term1": "The Wire",
         "term2": "David Simon",
-        "value": "0.90"
+        "value": 0.9
     },
     {
         "term1": "The Wire",
         "term2": "Robert F. Colesberry",
-        "value": "0.85"
+        "value": 0.85
     },
     {
         "term1": "The Wire",
         "term2": "Clay Davis",
-        "value": "0.80"
+        "value": 0.8
     },
     {
         "term1": "The Wire",
         "term2": "Idris Elba",
-        "value": "0.75"
+        "value": 0.75
     },
     {
         "term1": "The Wire",
         "term2": "HBO",
-        "value": "0.70"
+        "value": 0.7
     },
     {
         "term1": "The Wire",
         "term2": "Reg E. Cathey",
-        "value": "0.65"
+        "value": 0.65
     },
     {
         "term1": "The Wire",
         "term2": "Dennis Lehane",
-        "value": "0.60"
+        "value": 0.6
     },
     {
         "term1": "The Wire",
         "term2": "Blake Leyh",
-        "value": "0.55"
+        "value": 0.55
     },
     {
         "term1": "The Wire",
         "term2": "Kurt Schmoke",
-        "value": "0.50"
+        "value": 0.5
     },
     {
         "term1": "The Wire",
         "term2": "The Corner",
-        "value": "0.45"
+        "value": 0.45
     },
     {
         "term1": "The Wire",
         "term2": "Robert Ehrlich",
-        "value": "0.40"
+        "value": 0.4
     },
     {
         "term1": "The Wire",
         "term2": "Steve Earle",
-        "value": "0.35"
+        "value": 0.35
     },
     {
         "term1": "The Wire",
         "term2": "Hamsterdam",
-        "value": "0.30"
+        "value": 0.3
     },
     {
         "term1": "The Wire",
         "term2": "Franks Wild Years",
-        "value": "0.25"
+        "value": 0.25
     },
     {
         "term1": "The Wire",
         "term2": "Six Feet Under (TV series)",
-        "value": "0.20"
+        "value": 0.2
     },
     {
         "term1": "The Wire",
         "term2": "Chicago Sun-Times",
-        "value": "0.15"
+        "value": 0.15
     },
     {
         "term1": "The Wire",
         "term2": "Soul Food (TV series)",
-        "value": "0.10"
+        "value": 0.1
     },
     {
         "term1": "The Wire",
         "term2": "Salon.com",
-        "value": "0.05"
+        "value": 0.05
     },
     {
         "term1": "Mad Men",
         "term2": "Matthew Weiner",
-        "value": "1.00"
+        "value": 1
     },
     {
         "term1": "Mad Men",
         "term2": "Jon Hamm",
-        "value": "0.95"
+        "value": 0.95
     },
     {
         "term1": "Mad Men",
         "term2": "Alan Taylor (director)",
-        "value": "0.90"
+        "value": 0.9
     },
     {
         "term1": "Mad Men",
         "term2": "Todd London",
-        "value": "0.85"
+        "value": 0.85
     },
     {
         "term1": "Mad Men",
         "term2": "David Carbonara",
-        "value": "0.80"
+        "value": 0.8
     },
     {
         "term1": "Mad Men",
         "term2": "Lionsgate Television",
-        "value": "0.75"
+        "value": 0.75
     },
     {
         "term1": "Mad Men",
         "term2": "RJD2",
-        "value": "0.70"
+        "value": 0.7
     },
     {
         "term1": "Mad Men",
         "term2": "New York City",
-        "value": "0.65"
+        "value": 0.65
     },
     {
         "term1": "Mad Men",
         "term2": "Golden Globe Award",
-        "value": "0.60"
+        "value": 0.6
     },
     {
         "term1": "Mad Men",
         "term2": "Saul Bass",
-        "value": "0.55"
+        "value": 0.55
     },
     {
         "term1": "Mad Men",
         "term2": "American Film Institute",
-        "value": "0.50"
+        "value": 0.5
     },
     {
         "term1": "Mad Men",
         "term2": "Frank O'Hara",
-        "value": "0.45"
+        "value": 0.45
     },
     {
         "term1": "Mad Men",
         "term2": "Nielsen Media Research",
-        "value": "0.40"
+        "value": 0.4
     },
     {
         "term1": "Mad Men",
         "term2": "Banana Republic (clothing retailer)",
-        "value": "0.35"
+        "value": 0.35
     },
     {
         "term1": "Mad Men",
         "term2": "The Sopranos",
-        "value": "0.30"
+        "value": 0.3
     },
     {
         "term1": "Mad Men",
         "term2": "A Guide for the Married Man",
-        "value": "0.25"
+        "value": 0.25
     },
     {
         "term1": "Mad Men",
         "term2": "Times Square",
-        "value": "0.20"
+        "value": 0.2
     },
     {
         "term1": "Mad Men",
         "term2": "The New York Times",
-        "value": "0.15"
+        "value": 0.15
     },
     {
         "term1": "Mad Men",
         "term2": "Volkswagen Beetle",
-        "value": "0.10"
+        "value": 0.1
     },
     {
         "term1": "Mad Men",
         "term2": "Sesame Street",
-        "value": "0.05"
+        "value": 0.05
     }
 ]
